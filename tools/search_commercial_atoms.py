@@ -23,7 +23,13 @@ def default_atoms() -> Path:
         return Path(env_path).expanduser().resolve()
     here = Path(__file__).resolve()
     for parent in here.parents:
+        candidate = parent / "知识库" / "商业案例库" / "atoms.jsonl"
+        if candidate.exists():
+            return candidate
         candidate = parent / "_atoms" / "commercial_atoms.jsonl"
+        if candidate.exists():
+            return candidate
+        candidate = parent / "知识库" / "商业案例库" / "commercial_atoms.jsonl"
         if candidate.exists():
             return candidate
     return Path.cwd() / "_atoms" / "commercial_atoms.jsonl"
@@ -49,6 +55,8 @@ def atom_text(atom: dict) -> str:
     parts = [
         atom.get("title", ""),
         atom.get("heading", ""),
+        atom.get("knowledge", ""),
+        atom.get("original", ""),
         atom.get("summary", ""),
         atom.get("evidence", ""),
         " ".join(atom.get("commercial_stages") or []),
@@ -105,7 +113,7 @@ def main() -> None:
     for i, atom in enumerate(results, 1):
         src = atom.get("source") or {}
         print(f"{i}. [{atom.get('_search_score')}] {atom.get('title')}")
-        print(f"   id: {atom.get('atom_id')}")
+        print(f"   id: {atom.get('id') or atom.get('atom_id')}")
         print(f"   stages: {', '.join(atom.get('commercial_stages') or [])}")
         print(f"   platforms: {', '.join(atom.get('platforms') or [])}")
         print(f"   projects: {', '.join(atom.get('project_types') or [])}")
@@ -113,7 +121,7 @@ def main() -> None:
         if metrics:
             print(f"   metrics: {', '.join(metrics)}")
         print(f"   file: {src.get('file')}")
-        print(f"   evidence: {atom.get('evidence')}")
+        print(f"   evidence: {atom.get('original') or atom.get('evidence')}")
         print()
 
 

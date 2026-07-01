@@ -1,140 +1,117 @@
-# opeskill 本地知识库包
+# opeskill 超级个体工具箱
 
-这是一个面向 Codex/ChatGPT Skills 的 7 人专家知识库包。它采用“IMA 优先，本地原子库兜底”的方式：
+opeskill 是一个面向超级个体的 Codex/ChatGPT Skills 工具箱，用 7 位专家模型和中文商业案例库，帮助个人创作者、咨询顾问、自由职业者和小团队把能力转成可销售的产品、内容、获客系统和长期资产。
 
-1. 如果用户已安装并配置 `ima-skill`，且你已授权 TA 访问对应 IMA 知识库，skill 会优先读取 IMA。
-2. 如果 IMA 未安装、无权限、限额、找不到知识库或没有有效命中，skill 会自动使用 zip 包内的本地原子库。
-3. `opes-local.zip` 已内置中文商业案例原子库，涉及商业化、变现、offer、定价、获客、成交、验证时，会自动作为“商业案例支撑”使用。
+它适合用来处理这些问题：
 
-## 包清单
+- 设计 offer、定价、成交路径和商业化模型。
+- 搭建一人公司、个人品牌、内容系统和数字产品。
+- 用中文商业案例验证项目、平台打法、私域转化和交付模式。
+- 处理招聘、管理、SOP、团队执行和增长运营。
+- 做长期方向判断、杠杆选择、精力管理、行动启动和交易风控。
 
-所有 zip 包在 GitHub Releases 中下载：
+opeskill 采用“IMA 优先，本地原子库兜底”的方式：
+
+1. 如果用户已安装并配置 `ima-skill`，且授权访问对应 IMA 知识库，skill 会优先读取 IMA。
+2. 如果 IMA 未安装、无权限、限额、找不到知识库或没有有效命中，skill 会自动使用 zip 包内的本地知识库。
+3. 本地包内置 7 位专家原子库、7 位专家 Skill 知识包，以及中文商业案例原子库。
+
+## 知识库二维码
+
+扫码可查看或导入配套知识库：
+
+![知识库二维码](docs/knowledge-base-qrcode.png)
+
+## 如何安装
+
+通用安装方式（适用于 Codex / Claude Code）：
+
+```bash
+npx -y skills add FocusLiz-Lab/opeskill -g --all
+```
+
+也可以从 GitHub Releases 下载 `opes-local.zip`，解压后将其中的 skill 上传到支持 Skills 的客户端。
 
 ```text
 https://github.com/FocusLiz-Lab/opeskill/releases
 ```
 
+## 工具箱
+
+| Skill | 做什么 |
+|---|---|
+| `$opes` | 主入口，按问题自动路由 7 位专家和商业案例库 |
+| `$ahs` | Alex Hormozi：offer、定价、获客、销售、商业化 |
+| `$lhs` | Leila Hormozi：招聘、管理、运营、SOP、团队执行 |
+| `$dks` | Dan Koe：一人公司、个人品牌、内容系统、数字产品 |
+| `$nrs` | Naval Ravikant：财富判断、杠杆、长期主义 |
+| `$hbs` | Huberman Lab：睡眠、专注、压力、精力、习惯 |
+| `$mrs` | Mel Robbins：行动力、拖延、自信、习惯启动 |
+| `$rts` | Rayner Teo：交易系统、趋势、价格行为、风控 |
+
 ## 仓库结构
 
 ```text
-skills/                 8 个 skill 源文件
-tools/                  本地原子库搜索与构建工具
-知识库/
-  原子库/               7 位专家的本地 atoms.jsonl
-  Skill知识包/          Dan Koe 方法知识包
-  商业案例库/           中文商业案例原子库
-docs/                   中文使用说明
-scripts/                构建说明
-dist/                   不放入代码区，zip 包见 Releases
+opes/
+├── SKILL.md
+├── agents/
+├── references/
+├── tools/
+│   ├── local_search.py
+│   └── search_commercial_atoms.py
+├── docs/
+│   └── knowledge-base-qrcode.png
+└── 知识库/
+    ├── 原子库/
+    │   ├── ahs/
+    │   ├── lhs/
+    │   ├── dks/
+    │   ├── nrs/
+    │   ├── hbs/
+    │   ├── mrs/
+    │   └── rts/
+    ├── Skill知识包/
+    │   ├── ahs/
+    │   ├── lhs/
+    │   ├── dks/
+    │   ├── nrs/
+    │   ├── hbs/
+    │   ├── mrs/
+    │   └── rts/
+    └── 商业案例库/
+        ├── atoms.jsonl
+        ├── atoms_YYYYQn.jsonl
+        ├── commercial_atoms_samples.md
+        └── commercial_atoms_stats.json
 ```
 
-本仓库结构对齐 `dbskill` 的源码型发布方式：代码区可以直接查看 skill、工具和知识库结构；下载使用则优先从 Releases 获取 zip 包。
+## 原子库格式
 
-| 文件 | 用途 |
-| --- | --- |
-| `opes-local.zip` | 7 人总路由 skill，内置商业案例原子库 |
-| `ahs-local.zip` | Alex Hormozi 商业化、offer、定价、获客、销售 |
-| `dks-local.zip` | Dan Koe 一人公司、个人品牌、内容系统、数字产品 |
-| `hbs-local.zip` | Huberman Lab 睡眠、专注、压力、健康表现 |
-| `lhs-local.zip` | Leila Hormozi 组织执行、招聘、管理、SOP |
-| `mrs-local.zip` | Mel Robbins 行动力、自信、拖延、自我改变 |
-| `nrs-local.zip` | Naval Ravikant 财富、杠杆、判断力、长期主义 |
-| `rts-local.zip` | Rayner Teo 交易系统、趋势、价格行为、风控 |
+所有 `atoms*.jsonl` 文件都是一行一条 JSON 记录，核心字段如下：
 
-## 安装方式
-
-到 Releases 下载需要的 zip，解压到你的 Codex skills 目录。
-
-Windows 示例：
-
-```text
-C:\Users\你的用户名\.codex\skills\opes
-C:\Users\你的用户名\.codex\skills\ahs
-C:\Users\你的用户名\.codex\skills\dks
+```json
+{"id":"2024Q4_001","knowledge":"提炼后的知识点","original":"来源片段","url":"https://...","date":"2024-10-01","topics":["offer","pricing"],"skills":["opes"],"type":"case","confidence":"high"}
 ```
 
-建议至少安装：
+专家原子库按专家分目录存放，例如 `知识库/原子库/ahs/atoms_2024Q4.jsonl`。商业案例库使用同样格式，放在 `知识库/商业案例库/atoms.jsonl` 和季度拆分文件中。
 
-```text
-opes-local.zip
-ahs-local.zip
-dks-local.zip
-```
+## 怎么用
 
-如果想使用完整 7 人模式，则安装全部 8 个 zip。
+### 作为 RAG 知识库
 
-## 默认 IMA 知识库名
+把 `知识库/原子库/{专家代码}/atoms.jsonl` 和 `知识库/商业案例库/atoms.jsonl` 导入向量数据库。按 `topics`、`skills`、`type` 过滤即可。
 
-| skill | 默认 IMA 知识库 |
-| --- | --- |
-| `ahs` | `AlexHormozi 知识库 \| 百万美元报价` |
-| `dks` | `Dankoe 终极版 | 深度觉醒（持续更新）` |
-| `hbs` | `Huberman知识库｜科学改善生活（持续更新）` |
-| `lhs` | `LeilaHormozi 知识库 \| 商业实战` |
-| `mrs` | `MelRobbins 知识库 \| 自我改变` |
-| `nrs` | `纳瓦尔知识库 \| 复利思维` |
-| `rts` | `RaynerTeo交易知识库 \| 顺势而为` |
+### 只读方法论
 
-如果用户在提问中明确指定了其他 IMA 知识库名，则优先使用用户指定的名称。
+直接阅读 `知识库/Skill知识包/` 下对应专家目录。每个目录都可独立作为 system prompt 或工作流参考。
 
-## 使用示例
-
-```text
-用 opes 帮我设计一个小红书高客单知识付费项目
-```
-
-```text
-用 ahs 分析我的 offer 和定价
-```
-
-```text
-用 dks 帮我搭建一人公司内容系统
-```
-
-```text
-用 opes 七人模式，帮我做一个个人 IP 商业化路线图
-```
-
-## 商业案例支撑
-
-`opes-local.zip` 内置：
-
-```text
-知识库/商业案例库/commercial_atoms.jsonl
-tools/search_commercial_atoms.py
-```
-
-当问题涉及商业化、变现、offer、定价、获客、成交、验证、中文市场案例时，会检索本地商业案例原子库。
-
-示例检索命令：
+### 检索本地知识
 
 ```powershell
-python tools/search_commercial_atoms.py "小红书 高客单 成交" --atoms "知识库/商业案例库/commercial_atoms.jsonl" --limit 8
+python tools/local_search.py "高客单 offer 成交"
+python tools/search_commercial_atoms.py "小红书 高客单 成交" --limit 10
 ```
 
-商业案例只作为“商业案例支撑”，不等同于专家方法论。收入、GMV、ROI 等数据默认视为案例自述，不能当作收益保证。
+## 许可证
 
-## 公开包边界
-
-本仓库上传的是 lite 包：
-
-- 包含本地原子库
-- 包含必要搜索工具
-- 包含 skill 说明
-- 不包含原始 IMA 凭证
-- 不包含完整原文库
-- 不包含年份文章目录
-
-这意味着别人可以直接本地使用；如果 TA 有 IMA 授权，就优先读取 IMA；如果没有，也能用本地原子库继续工作。
-
-## 更新包
-
-本仓库 Releases 中的 zip 是生成后的发布包。如果你维护源数据，需要在本地重新构建原子库和 zip 后再上传。
-
-核心原则：
-
-```text
-使用时：IMA 优先，本地原子库兜底
-发布时：只发 lite 包，不发原文库和凭证
-```
-
+本项目知识库仅用于学习、研究和非商业用途。引用或二次发布时请注明来源；商业用途请联系作者授权。

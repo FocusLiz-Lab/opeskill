@@ -11,6 +11,7 @@ import os
 import re
 import sys
 from collections import Counter
+from datetime import datetime
 from pathlib import Path
 from typing import Any
 
@@ -427,24 +428,26 @@ def build_atom(
     projects = find_labels(text, PROJECT_KEYWORDS)
     nums = metrics(text)
     return {
-        "atom_id": atom_id,
-        "atom_type": "commercial_case_atom" if nums else "commercial_method_atom",
+        "id": atom_id,
+        "knowledge": distilled_summary(text),
+        "original": summarize_atom(text, 360),
+        "url": meta.get("source_url"),
+        "date": normalize_date(meta.get("date")),
+        "topics": commercial_topics(stages, platforms, projects),
+        "skills": ["opes", "commercial-cases"],
+        "type": "case" if nums else "method",
+        "confidence": "high" if nums and score >= 10 else "medium",
         "commercial_stages": stages,
         "platforms": platforms,
         "project_types": projects,
         "score": score,
         "title": title,
         "heading": heading,
-        "summary": distilled_summary(text),
         "metrics": nums,
         "commercial_use": commercial_use(stages, platforms, projects),
-        "evidence": summarize_atom(text, 360),
         "source": {
             "file": rel,
-            "path": str(path),
-            "source_url": meta.get("source_url"),
             "author": meta.get("author"),
-            "date": meta.get("date"),
             "entity_id": meta.get("entity_id"),
             "likes": parse_int(meta.get("likes")),
             "coins": parse_int(meta.get("coins")),
@@ -452,6 +455,38 @@ def build_atom(
             "reads": parse_int(meta.get("reads")),
         },
     }
+
+
+def normalize_date(value: Any) -> str:
+    if not value:
+        return ""
+    text = str(value)
+    for fmt in ("%Y-%m-%dT%H:%M:%S%z", "%Y-%m-%d %H:%M:%S", "%Y-%m-%d"):
+        try:
+            return datetime.strptime(text, fmt).strftime("%Y-%m-%d")
+        except ValueError:
+            continue
+    match = re.search(r"(20\d{2})[-/](\d{1,2})[-/](\d{1,2})", text)
+    if match:
+        year, month, day = match.groups()
+        return f"{year}-{int(month):02d}-{int(day):02d}"
+    return ""
+
+
+def quarter_for(date: str) -> str:
+    if not date:
+        return "undated"
+    year, month, _ = date.split("-")
+    quarter = (int(month) - 1) // 3 + 1
+    return f"{year}Q{quarter}"
+
+
+def commercial_topics(stages: list[str], platforms: list[str], projects: list[str]) -> list[str]:
+    topics = []
+    topics.extend(stages[:4])
+    topics.extend(platforms[:2])
+    topics.extend(projects[:2])
+    return topics or ["commercial-case"]
 
 
 def commercial_use(stages: list[str], platforms: list[str], projects: list[str]) -> str:
@@ -480,25 +515,41 @@ def iter_articles(root: Path, years: set[int] | None, limit: int | None):
 
 
 def write_schema(out_dir: Path) -> None:
-    schema = """# Commercial Atom Schema
+    schema = """# 商业案例原子库
 
-Each line in `commercial_atoms.jsonl` is one reusable commercial evidence atom.
+每个 `atoms*.jsonl` 文件都是一行一条 JSON 记录，采用 dbskill 风格 `{id, knowledge, original, ...}` 结构。
 
-- `atom_id`: stable short hash.
-- `atom_type`: `commercial_case_atom` when concrete metrics are present; otherwise `commercial_method_atom`.
+- `id`: stable short hash.
+- `knowledge`: distilled commercial takeaway.
+- `original`: source evidence fragment.
+- `url`: original article URL when available.
+- `date`: source publish date.
+- `topics`: commercial stage, platform, and project tags.
+- `skills`: related skill entry names.
+- `type`: `case` when concrete metrics are present; otherwise `method`.
+- `confidence`: high / medium.
 - `commercial_stages`: offer, pricing, acquisition, conversion, delivery, retention, scale, risk, validation, case_result.
 - `platforms`: detected traffic or sales platform.
 - `project_types`: detected business model or project category.
 - `score`: heuristic relevance score.
-- `title` / `heading` / `summary`: article context and atom summary.
+- `title` / `heading`: article context.
 - `metrics`: detected result numbers, revenue claims, audience numbers, or conversion-related numbers.
 - `commercial_use`: how this atom can support commercialization reasoning.
-- `evidence`: short source fragment.
-- `source`: file path, URL, author, date, and engagement metadata.
+- `source`: file path, author, entity id, and engagement metadata.
 
-Use this library to support `ahs` commercialization answers with local Chinese cases.
+`atoms.jsonl` is the full library. `atoms_YYYYQn.jsonl` files are quarterly splits for lighter browsing and import.
 """
     (out_dir / "README.md").write_text(schema, encoding="utf-8")
+
+
+def write_quarter_files(out_dir: Path, atoms: list[dict[str, Any]]) -> None:
+    buckets: dict[str, list[dict[str, Any]]] = {}
+    for atom in atoms:
+        buckets.setdefault(quarter_for(atom.get("date", "")), []).append(atom)
+    for quarter, rows in sorted(buckets.items()):
+        with (out_dir / f"atoms_{quarter}.jsonl").open("w", encoding="utf-8", newline="\n") as f:
+            for atom in rows:
+                f.write(json.dumps(atom, ensure_ascii=False, separators=(",", ":")) + "\n")
 
 
 def main() -> None:
@@ -517,7 +568,7 @@ def main() -> None:
     out_dir.mkdir(parents=True, exist_ok=True)
     years = parse_years(args.years)
 
-    jsonl_path = out_dir / "commercial_atoms.jsonl"
+    jsonl_path = out_dir / "atoms.jsonl"
     csv_path = out_dir / "commercial_atoms_index.csv"
     stats_path = out_dir / "commercial_atoms_stats.json"
     sample_path = out_dir / "commercial_atoms_samples.md"
@@ -531,6 +582,7 @@ def main() -> None:
         "years": Counter(),
     }
     top_atoms: list[dict[str, Any]] = []
+    all_atoms: list[dict[str, Any]] = []
 
     with jsonl_path.open("w", encoding="utf-8", newline="\n") as jf, csv_path.open("w", encoding="utf-8-sig", newline="") as cf:
         writer = csv.DictWriter(
@@ -593,9 +645,9 @@ def main() -> None:
                 jf.write(json.dumps(atom, ensure_ascii=False) + "\n")
                 writer.writerow(
                     {
-                        "atom_id": atom["atom_id"],
+                        "atom_id": atom["id"],
                         "score": atom["score"],
-                        "atom_type": atom["atom_type"],
+                        "atom_type": "commercial_case_atom" if atom["type"] == "case" else "commercial_method_atom",
                         "title": atom["title"],
                         "commercial_stages": "|".join(atom["commercial_stages"]),
                         "platforms": "|".join(atom["platforms"]),
@@ -605,6 +657,7 @@ def main() -> None:
                         "source_url": atom["source"]["source_url"],
                     }
                 )
+                all_atoms.append(atom)
                 total_atoms += 1
                 for key in ("commercial_stages", "platforms", "project_types"):
                     counter_name = "stages" if key == "commercial_stages" else key
@@ -639,12 +692,13 @@ def main() -> None:
     }
     stats_path.write_text(json.dumps(stats, ensure_ascii=False, indent=2), encoding="utf-8")
     write_schema(out_dir)
+    write_quarter_files(out_dir, all_atoms)
 
     lines = ["# Commercial Atom Samples", ""]
     for atom in top_atoms[:30]:
         lines.append(f"## {atom['score']} | {atom['title']}")
         lines.append("")
-        lines.append(f"- id: `{atom['atom_id']}`")
+        lines.append(f"- id: `{atom['id']}`")
         lines.append(f"- stages: {', '.join(atom['commercial_stages'])}")
         lines.append(f"- platforms: {', '.join(atom['platforms'])}")
         lines.append(f"- projects: {', '.join(atom['project_types'])}")
@@ -652,7 +706,7 @@ def main() -> None:
             lines.append(f"- metrics: {', '.join(atom['metrics'])}")
         lines.append(f"- source: `{atom['source']['file']}`")
         lines.append("")
-        lines.append(atom["evidence"])
+        lines.append(atom["original"])
         lines.append("")
     sample_path.write_text("\n".join(lines), encoding="utf-8")
 
