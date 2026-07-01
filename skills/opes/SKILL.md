@@ -1,9 +1,9 @@
 ---
-name: creator-brain
-description: Master router and synthesis skill for seven expert skills. Prefer authorized IMA retrieval when available, with packaged local atom-library fallback. Use when the user asks about commercialization, offers, pricing, acquisition, sales, one-person business, creator business, personal brand, content, leadership, operations, hiring, wealth, leverage, judgment, health, sleep, focus, procrastination, behavior change, confidence, trading, market structure, or risk management and wants the best answer synthesized from ahs, lhs, dks, nrs, hbs, mrs, and rts.
+name: opes
+description: Opes master router and synthesis skill for seven expert skills. Prefer authorized IMA retrieval when available, with packaged local atom-library fallback. Use when the user asks about commercialization, offers, pricing, acquisition, sales, one-person business, creator business, personal brand, content, leadership, operations, hiring, wealth, leverage, judgment, health, sleep, focus, procrastination, behavior change, confidence, trading, market structure, or risk management and wants the best answer synthesized from ahs, lhs, dks, nrs, hbs, mrs, and rts.
 ---
 
-# Creator Brain
+# Opes
 
 Use this skill as the master router, orchestrator, and synthesis layer for seven expert modules.
 
@@ -74,7 +74,7 @@ Default to the narrowest useful routing.
 
 ## Retrieval Rule
 
-When `$creator-brain` is invoked:
+When `$opes` is invoked:
 
 1. Use each selected child skill's own IMA-first, local-fallback retrieval instructions.
 2. Do not search all seven modules by default.

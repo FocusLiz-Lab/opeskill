@@ -1,4 +1,0 @@
-interface:
-  display_name: "Creator Brain"
-  short_description: "Route and synthesize seven packaged local expert skills."
-  default_prompt: "Use Creator Brain to answer with the best expert knowledge modules."

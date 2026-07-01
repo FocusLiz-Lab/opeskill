@@ -16,4 +16,5 @@ Each line in `commercial_atoms.jsonl` is one reusable commercial evidence atom.
 
 Use this library to support `ahs` commercialization answers with local Chinese cases.
 
-> 完整 commercial_atoms.jsonl 已内置在 Releases 的 creator-brain-local.zip 中；代码区保留 samples 方便查看结构，避免接近 100MB 的单文件影响仓库浏览。
+> 完整 commercial_atoms.jsonl 已内置在 Releases 的 opes-local.zip 中；代码区保留 samples 方便查看结构，避免接近 100MB 的单文件影响仓库浏览。
+

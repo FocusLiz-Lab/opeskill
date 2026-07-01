@@ -1,0 +1,4 @@
+interface:
+  display_name: "Opes"
+  short_description: "Route and synthesize seven packaged local expert skills."
+  default_prompt: "Use Opes to answer with the best expert knowledge modules."
