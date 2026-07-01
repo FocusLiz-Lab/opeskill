@@ -14,6 +14,22 @@
 https://github.com/FocusLiz-Lab/creator-brain-skills/releases
 ```
 
+## 仓库结构
+
+```text
+skills/                 8 个 skill 源文件
+tools/                  本地原子库搜索与构建工具
+知识库/
+  原子库/               7 位专家的本地 atoms.jsonl
+  Skill知识包/          Dan Koe 方法知识包
+  商业案例库/           中文商业案例原子库
+docs/                   中文使用说明
+scripts/                构建说明
+dist/                   不放入代码区，zip 包见 Releases
+```
+
+本仓库结构对齐 `dbskill` 的源码型发布方式：代码区可以直接查看 skill、工具和知识库结构；下载使用则优先从 Releases 获取 zip 包。
+
 | 文件 | 用途 |
 | --- | --- |
 | `creator-brain-local.zip` | 7 人总路由 skill，内置商业案例原子库 |

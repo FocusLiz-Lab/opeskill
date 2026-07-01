@@ -1,0 +1,4 @@
+interface:
+  display_name: "RTS Trading System"
+  short_description: "Trading system expert powered by packaged Rayner Teo local knowledge."
+  default_prompt: "Use rts to answer trading, price action, trend, risk management, and trading psychology questions."

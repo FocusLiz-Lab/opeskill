@@ -1,0 +1,4 @@
+interface:
+  display_name: "HBS Mind-Body Performance"
+  short_description: "Performance expert powered by Huberman Lab."
+  default_prompt: "Use hbs to answer sleep, focus, stress, health, habit, and performance questions."

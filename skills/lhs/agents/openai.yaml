@@ -1,0 +1,4 @@
+interface:
+  display_name: "LHS Organization Execution"
+  short_description: "Execution expert powered by Leila Hormozi."
+  default_prompt: "Use lhs to answer leadership, hiring, operations, management, SOP, and execution questions."

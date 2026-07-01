@@ -1,0 +1,180 @@
+experts:
+  ahs:
+    public_role: 商业化专家
+    source_expert: Alex Hormozi
+    child_skill: ahs
+    default_ima_kb: AlexHormozi 知识库 | 百万美元报价
+    local_package: ahs-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - AlexHormozi
+    primary_domains:
+      - 商业化
+      - offer
+      - 定价
+      - 获客
+      - 销售
+      - 成交
+      - 转化
+      - 增长
+      - 变现
+    best_for:
+      - 设计高价值 offer
+      - 提升成交和转化
+      - 设计获客系统
+      - 优化价格和商业模型
+      - 把知识、服务或产品包装成可卖方案
+    default_angle: 把问题转成可衡量的商业方程。
+
+  lhs:
+    public_role: 组织执行专家
+    source_expert: Leila Hormozi
+    child_skill: lhs
+    default_ima_kb: LeilaHormozi 知识库 | 商业实战
+    local_package: lhs-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - LeilaHormozi
+    primary_domains:
+      - 运营
+      - 招聘
+      - 管理
+      - 领导力
+      - SOP
+      - 团队执行
+      - 绩效
+      - 授权
+    best_for:
+      - 搭建团队执行节奏
+      - 建立 SOP 和问责机制
+      - 招聘、培养和管理团队
+      - 把增长策略落到运营系统
+    default_angle: 把战略变成人、流程、节奏和责任。
+
+  dks:
+    public_role: 一人公司专家
+    source_expert: Dan Koe
+    child_skill: dks
+    default_ima_kb: Dankoe 终极版 | 深度觉醒（持续更新）
+    local_package: dks-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    skill_package: 知识库/Skill知识包
+    search_aliases:
+      - Dankoe
+      - Dan koe
+    primary_domains:
+      - 一人公司
+      - 个人品牌
+      - 内容系统
+      - 创作者生意
+      - 数字产品
+      - 知识付费
+      - 受众增长
+    best_for:
+      - 从 0 到 1 搭建一人公司
+      - 把知识转成内容和产品
+      - 建立个人品牌和内容飞轮
+      - 设计创作者产品阶梯
+    default_angle: 用技能、内容、受众和数字资产建立个人杠杆。
+
+  nrs:
+    public_role: 财富判断专家
+    source_expert: Naval Ravikant
+    child_skill: nrs
+    default_ima_kb: 纳瓦尔知识库 | 复利思维
+    local_package: nrs-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - 纳瓦尔
+      - Naval
+    primary_domains:
+      - 财富
+      - 杠杆
+      - 判断力
+      - 长期主义
+      - 方向选择
+      - 机会成本
+      - specific knowledge
+    best_for:
+      - 判断长期方向
+      - 评估机会成本
+      - 选择高杠杆路径
+      - 区分短期现金流和长期复利
+    default_angle: 优化判断力、杠杆和长期复利。
+
+  hbs:
+    public_role: 身心表现专家
+    source_expert: Huberman Lab
+    child_skill: hbs
+    default_ima_kb: Huberman知识库｜科学改善生活（持续更新）
+    local_package: hbs-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - Huberman
+    primary_domains:
+      - 睡眠
+      - 专注
+      - 压力
+      - 精力
+      - 健康
+      - 习惯
+      - 神经科学
+      - 表现
+    best_for:
+      - 改善睡眠和昼夜节律
+      - 提升专注和精力
+      - 管理压力和恢复
+      - 把行为改变放到生理机制里
+    default_angle: 先优化支撑行为的生理系统。
+
+  mrs:
+    public_role: 行动改变专家
+    source_expert: Mel Robbins
+    child_skill: mrs
+    default_ima_kb: MelRobbins 知识库 | 自我改变
+    local_package: mrs-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - MelRobbins
+      - Mel Robbins
+    primary_domains:
+      - 拖延
+      - 行动力
+      - 自信
+      - 情绪
+      - 恐惧
+      - 自我改变
+      - 启动
+      - 习惯执行
+    best_for:
+      - 从卡住到开始行动
+      - 处理恐惧、自我怀疑和拖延
+      - 设计低阻力行动触发器
+      - 建立日常行为改变节奏
+    default_angle: 降低行动摩擦，创造立即启动。
+
+  rts:
+    public_role: 交易系统专家
+    source_expert: Rayner Teo
+    child_skill: rts
+    default_ima_kb: RaynerTeo交易知识库 | 顺势而为
+    local_package: rts-local.zip
+    local_atom_library: 知识库/原子库/atoms.jsonl
+    search_aliases:
+      - RaynerTeo
+      - Rayner Teo
+    primary_domains:
+      - 交易
+      - 趋势
+      - 价格行为
+      - 风控
+      - 技术分析
+      - 交易心理
+      - 回测
+      - 市场结构
+    best_for:
+      - 搭建交易计划
+      - 定义入场、出场和止损
+      - 管理仓位和风险
+      - 复盘交易系统
+    default_angle: 用可重复流程控制下行风险。
