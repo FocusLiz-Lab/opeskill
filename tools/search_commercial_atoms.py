@@ -26,13 +26,13 @@ def default_atoms() -> Path:
         candidate = parent / "知识库" / "商业案例库" / "atoms.jsonl"
         if candidate.exists():
             return candidate
-        candidate = parent / "_atoms" / "commercial_atoms.jsonl"
+        candidate = parent / "_atoms" / "atoms.jsonl"
         if candidate.exists():
             return candidate
-        candidate = parent / "知识库" / "商业案例库" / "commercial_atoms.jsonl"
+        candidate = parent / "知识库" / "商业案例库" / "atoms.jsonl"
         if candidate.exists():
             return candidate
-    return Path.cwd() / "_atoms" / "commercial_atoms.jsonl"
+    return Path.cwd() / "_atoms" / "atoms.jsonl"
 
 
 def terms(query: str) -> list[str]:
@@ -76,7 +76,7 @@ def match_filter(values: list[str], wanted: str | None) -> bool:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("query", help="keyword query")
-    parser.add_argument("--atoms", default=str(default_atoms()), help="commercial_atoms.jsonl path")
+    parser.add_argument("--atoms", default=str(default_atoms()), help="commercial case atoms.jsonl path")
     parser.add_argument("--stage", default=None, help="comma-separated stage filter, e.g. offer,acquisition")
     parser.add_argument("--platform", default=None, help="comma-separated platform filter, e.g. 小红书,抖音")
     parser.add_argument("--project", default=None, help="comma-separated project type filter")

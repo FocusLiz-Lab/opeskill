@@ -31,7 +31,7 @@ When conflict appears, explain:
 - Retrieval is required before presenting an answer as source-grounded.
 - Try the selected module's default IMA knowledge base first when `ima-skill` and access are available.
 - If IMA fails, is not found, is rate-limited, or has weak/no hits, use the selected module's packaged `知识库/原子库/atoms.jsonl`.
-- For commercialization, monetization, offer, pricing, acquisition, conversion, validation, or Chinese-market example requests, also retrieve local commercial case atoms from `知识库/商业案例库/commercial_atoms.jsonl` when bundled.
+- For commercialization, monetization, offer, pricing, acquisition, conversion, validation, or Chinese-market example requests, also retrieve local commercial case atoms from `知识库/商业案例库/atoms.jsonl` when bundled.
 - A search result title match is not enough evidence. Use actual retrieved snippets, atom contents, or read the relevant local files when available.
 - Do not answer from model memory or web search when selected expert sources are unavailable; label any fallback as general inference.
 - If a child package is missing and IMA retrieval is also unavailable, clearly say which module is missing or weak and continue only where the remaining modules are useful.
