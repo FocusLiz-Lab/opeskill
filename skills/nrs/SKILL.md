@@ -41,3 +41,6 @@ Return:
 4. long-term compounding judgment;
 5. current constraint;
 6. recommended choice and validation action.
+## Expert Methodology First
+
+Use this expert's methodology as the primary reasoning layer for diagnosis and recommendations. When `$opes` adds shared commercial cases, treat them only as `商业案例支撑`; do not use commercial cases as a replacement for this expert's framework, IMA evidence, or local atom fallback.

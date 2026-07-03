@@ -41,3 +41,6 @@ Return:
 4. cadence and accountability system;
 5. metrics to watch;
 6. 30-day fix plan.
+## Expert Methodology First
+
+Use this expert's methodology as the primary reasoning layer for diagnosis and recommendations. When `$opes` adds shared commercial cases, treat them only as `商业案例支撑`; do not use commercial cases as a replacement for this expert's framework, IMA evidence, or local atom fallback.

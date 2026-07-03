@@ -1,6 +1,6 @@
 # opeskill 超级个体工具箱
 
-opeskill 是一个面向超级个体的 Codex/ChatGPT Skills 工具箱，用 7 位专家模型和中文商业案例库，帮助个人创作者、咨询顾问、自由职业者和小团队把能力转成可销售的产品、内容、获客系统和长期资产。
+opeskill 是一个面向超级个体的 Codex/ChatGPT Skills 工具箱，用 7 位专家模型和共享中文商业案例库，帮助个人创作者、咨询顾问、自由职业者和小团队把能力转成可销售的产品、内容、获客系统和长期资产。
 
 它适合用来处理这些问题：
 
@@ -14,7 +14,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 
 1. 如果用户已安装并配置 `ima-skill`，且授权访问对应 IMA 知识库，skill 会优先读取 IMA。
 2. 如果 IMA 未安装、无权限、限额、找不到知识库或没有有效命中，skill 会使用本地原子库兜底。
-3. SkillHub 上传包是轻量包，内置下载工具；全量原子库可由 `$opes-download-atoms` 自动从 GitHub 下载、解压并安装。
+3. SkillHub 上传包是轻量包，内置下载工具；全量专家原子库可由 `$opes-download-atoms` 自动从 GitHub 下载、解压并安装。商业案例库由共享 `$commercial-case-library` 下载一次后复用。
 
 ## 知识库二维码
 
@@ -50,21 +50,28 @@ $opes-download-atoms
 python tools/download_full_atoms.py
 ```
 
-它会自动从 GitHub Release 下载 `opes-local.zip`，并解压安装：
+它会自动从 GitHub Release 下载 `opes-local.zip`，并解压安装专家原子库：
 
 ```text
 知识库/原子库/{ahs,dks,hbs,lhs,mrs,nrs,rts}/atoms.jsonl
-知识库/商业案例库/atoms.jsonl
 ```
 
-如果不使用 SkillHub，也可以直接下载 `opes-local.zip`，它已经包含全量 7 人原子库和商业案例库。
+商业案例库已抽离为共享依赖，统一使用：
+
+```text
+$commercial-case-library
+```
+
+当用户问题需要案例支撑或补充说明时，skill 会自动检查/安装共享商业案例库，不询问用户是否下载。共享库下载一次后可供 `dkskill`、`lhskill`、`ahskill`、`opeskill` 等多个 skill 复用，避免重复下载。
+
+如果不使用 SkillHub，也可以直接下载 `opes-local.zip`，它包含全量 7 人专家原子库。
 
 ## 工具箱
 
 | Skill | 做什么 |
 |---|---|
 | `$opes` | 主入口，按问题自动路由 7 位专家和商业案例库 |
-| `$opes-download-atoms` | 下载、解压并安装全量 7 人原子库和商业案例库 |
+| `$opes-download-atoms` | 下载、解压并安装全量 7 人专家原子库 |
 | `$ahs` | Alex Hormozi：offer、定价、获客、销售、商业化 |
 | `$lhs` | Leila Hormozi：招聘、管理、运营、SOP、团队执行 |
 | `$dks` | Dan Koe：一人公司、个人品牌、内容系统、数字产品 |
@@ -103,11 +110,6 @@ opes/
     │   ├── hbs/
     │   ├── mrs/
     │   └── rts/
-    └── 商业案例库/
-        ├── atoms.jsonl
-        ├── atoms_YYYYQn.jsonl
-        ├── commercial_atoms_samples.md
-        └── commercial_atoms_stats.json
 ```
 
 ## 原子库格式
@@ -118,13 +120,13 @@ opes/
 {"id":"2024Q4_001","knowledge":"提炼后的知识点","original":"来源片段","url":"https://...","date":"2024-10-01","topics":["offer","pricing"],"skills":["opes"],"type":"case","confidence":"high"}
 ```
 
-专家原子库按专家分目录存放，例如 `知识库/原子库/ahs/atoms_2024Q4.jsonl`。商业案例库使用同样格式，放在 `知识库/商业案例库/atoms.jsonl` 和季度拆分文件中。
+专家原子库按专家分目录存放，例如 `知识库/原子库/ahs/atoms_2024Q4.jsonl`。商业案例库使用同样格式，但放在共享 `$commercial-case-library` 的 `~/.agents/shared/commercial-case-library/知识库/商业案例库/` 中。
 
 ## 怎么用
 
 ### 作为 RAG 知识库
 
-把 `知识库/原子库/{专家代码}/atoms.jsonl` 和 `知识库/商业案例库/atoms.jsonl` 导入向量数据库。按 `topics`、`skills`、`type` 过滤即可。
+把 `知识库/原子库/{专家代码}/atoms.jsonl` 和共享商业案例库的 `atoms.jsonl` 导入向量数据库。按 `topics`、`skills`、`type` 过滤即可。
 
 ### 只读方法论
 

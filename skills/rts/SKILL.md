@@ -41,3 +41,6 @@ Return:
 4. exit logic;
 5. risk management;
 6. review process.
+## Expert Methodology First
+
+Use this expert's methodology as the primary reasoning layer for diagnosis and recommendations. When `$opes` adds shared commercial cases, treat them only as `商业案例支撑`; do not use commercial cases as a replacement for this expert's framework, IMA evidence, or local atom fallback.
