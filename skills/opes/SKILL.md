@@ -28,7 +28,7 @@ python tools/download_full_atoms.py
 
 除非用户明确指定其他 IMA 知识库，否则默认使用这些名称：
 
-| skill | default IMA knowledge base |
+| skill | 默认 IMA 知识库 |
 | --- | --- |
 | `ahs` | `AlexHormozi 知识库 | 百万美元报价` |
 | `dks` | `Dankoe 终极版 | 深度觉醒（持续更新）` |
@@ -40,108 +40,108 @@ python tools/download_full_atoms.py
 
 如果默认 IMA 知识库没有找到，不要停止任务。说明 IMA 未命中，然后继续使用对应本地 `知识库/原子库/atoms.jsonl`。
 
-## Core Workflow
+## 核心工作流
 
-1. Identify the user's outcome, constraint, and domain.
-2. Select one primary child skill and up to two supporting child skills.
-3. Read `references/experts.yaml` for the expert map.
-4. Read `references/routing-rules.md` when routing is uncertain or the request spans domains.
-5. Use the selected child skills when available.
-6. Each selected child skill must use its own retrieval rule:
-   - try its default IMA knowledge base first when IMA is available;
-   - fall back to packaged `知识库/原子库/atoms.jsonl` if IMA fails or has no useful hits;
-   - use `知识库/Skill知识包/` first when that child package provides method notes.
-7. If a required child skill is not installed, say which local package is missing and continue only with installed modules if that still gives a useful answer.
-8. Synthesize retrieved evidence using `references/synthesis-rules.md`.
-9. Format the final answer using `references/output-formats.md`.
+1. 识别用户的目标、限制和问题领域。
+2. 选择一个主专家 skill，最多再选两个辅助专家 skill。
+3. 读取 `references/experts.yaml` 了解专家映射。
+4. 当路由不确定或请求跨领域时，读取 `references/routing-rules.md`。
+5. 使用已选中的子 skill。
+6. 每个已选子 skill 必须遵守自己的检索规则：
+   - IMA 可用时先尝试默认 IMA 知识库；
+   - IMA 失败或没有有效命中时，回退到打包的 `知识库/原子库/atoms.jsonl`；
+   - 如果子包提供 `知识库/Skill知识包/` 方法说明，优先使用。
+7. 如果必需的子 skill 未安装，说明缺失的本地包；如果剩余模块仍能给出有用答案，则继续。
+8. 使用 `references/synthesis-rules.md` 综合检索证据。
+9. 按 `references/output-formats.md` 输出最终答案。
 
-## Child Skill Map
+## 子 Skill 地图
 
-- `opes-download-atoms`: download, extract, and install the full local expert atom libraries from GitHub Releases.
-- `ahs`: commercialization expert powered by packaged Alex Hormozi local knowledge. Use for offers, pricing, monetization, acquisition, sales, conversion, lead generation, and business growth.
-- `lhs`: organization execution expert powered by packaged Leila Hormozi local knowledge. Use for hiring, management, leadership, SOPs, operations, delegation, accountability, and team execution.
-- `dks`: one-person company expert powered by packaged Dan Koe local knowledge. Use for personal brand, creator business, content systems, digital products, knowledge products, and solo entrepreneurship.
-- `nrs`: wealth judgment expert powered by packaged Naval Ravikant local knowledge. Use for leverage, wealth, long-term games, direction choice, judgment, opportunity cost, and specific knowledge.
-- `hbs`: mind-body performance expert powered by packaged Huberman Lab local knowledge. Use for sleep, focus, stress, energy, routines, habits, and neuroscience-informed performance.
-- `mrs`: action change expert powered by packaged Mel Robbins local knowledge. Use for procrastination, confidence, fear, emotional reset, self-change, and immediate action.
-- `rts`: trading system expert powered by packaged Rayner Teo local knowledge. Use for trading, price action, trends, market structure, risk management, backtesting, and trading psychology.
+- `opes-download-atoms`：从 GitHub Releases 下载、解压并安装全量本地专家原子库。
+- `ahs`：Alex Hormozi 商业化专家。用于 offer、定价、变现、获客、销售、转化、线索获取和业务增长。
+- `lhs`：Leila Hormozi 组织执行专家。用于招聘、管理、领导力、SOP、运营、授权、问责和团队执行。
+- `dks`：Dan Koe 一人公司专家。用于个人品牌、创作者商业、内容系统、数字产品、知识产品和单人创业。
+- `nrs`：Naval Ravikant 财富判断专家。用于杠杆、财富、长期游戏、方向选择、判断力、机会成本和特定知识。
+- `hbs`：Huberman Lab 身心表现专家。用于睡眠、专注、压力、精力、日常习惯和神经科学表现优化。
+- `mrs`：Mel Robbins 行动改变专家。用于拖延、自信、恐惧、情绪重置、自我改变和立即行动。
+- `rts`：Rayner Teo 交易系统专家。用于交易、价格行为、趋势、市场结构、风险管理、回测和交易心理。
 
-## Routing Modes
+## 路由模式
 
-Default to the narrowest useful routing.
+默认选择最窄但足够有用的路由。
 
-- Quick mode: select one child skill when the request is clearly inside one domain.
-- Synthesis mode: select two or three child skills when the request has a primary domain plus an execution, strategy, health, or monetization dependency.
-- Seven-expert mode: select all seven child skills only when the user explicitly asks for "all seven", "seven-expert mode", "所有知识库", "七人模式", "完整系统", or a full life/business roadmap.
+- 快速模式：问题明显属于单一领域时，只选一个子 skill。
+- 综合模式：问题有主领域，同时涉及执行、策略、健康或变现依赖时，选择两到三个子 skill。
+- 七专家模式：只有用户明确要求“all seven”“seven-expert mode”“所有知识库”“七人模式”“完整系统”或完整人生/商业路线图时，才选择全部七个子 skill。
 
-## Retrieval Rule
+## 检索规则
 
-When `$opes` is invoked:
+调用 `$opes` 时：
 
-1. Use each selected child skill's own IMA-first, local-fallback retrieval instructions.
-2. Do not search all seven modules by default.
-3. Use at least one relevant source from the primary module before presenting the answer as source-grounded. Prefer IMA evidence; if IMA is unavailable, use local atom fallback evidence.
-4. For synthesis mode, retrieve at least one relevant source from each selected module when available.
-5. Cite the expert module used in the answer, such as "商业化专家 ahs" or "一人公司专家 dks".
-6. If a selected expert atom library is missing, also check `~/.agents/skills/opes-download-atoms/知识库/原子库/{module}/atoms.jsonl`. If both are missing, treat it as a light/partial install and bootstrap it with `$opes-download-atoms` before answering.
-7. If a child package is still missing after bootstrap, say the exact package name to install, such as `dks-local.zip`.
-8. If IMA and local sources are both insufficient, label that part as inference rather than source-grounded.
+1. 使用每个已选子 skill 自己的“IMA 优先、本地兜底”检索规则。
+2. 默认不要检索全部七个模块。
+3. 在把答案标为“有资料依据”之前，至少使用主模块的一条相关来源。优先使用 IMA 证据；如果 IMA 不可用，则使用本地原子库兜底证据。
+4. 综合模式下，尽量从每个已选模块各检索至少一条相关来源。
+5. 在答案中标明使用的专家模块，例如“商业化专家 ahs”或“一人公司专家 dks”。
+6. 如果已选专家原子库缺失，也检查 `~/.agents/skills/opes-download-atoms/知识库/原子库/{module}/atoms.jsonl`。如果两处都缺失，把它视为轻量/不完整安装，并在回答前用 `$opes-download-atoms` 自动补全。
+7. 如果自动补全后子包仍缺失，说明需要安装的准确包名，例如 `dks-local.zip`。
+8. 如果 IMA 和本地来源都不足，把对应部分标注为推断，而不是资料依据。
 
-## Expert Methodology First
+## 专家方法论优先
 
-Every answer must use the selected expert methodology as the primary reasoning layer:
+每个回答都必须以已选专家方法论作为主要推理层：
 
-1. Pick the primary expert module from the user's problem type.
-2. Use IMA evidence or local expert atoms from that module to form the diagnosis and recommendation.
-3. Add supporting modules only when they resolve a real dependency or tradeoff.
-4. Use commercial cases only after the expert method is established.
-5. In final answers, keep the distinction clear: `专家方法论` for the core principle and `商业案例支撑` for examples.
+1. 根据用户问题类型选择主专家模块。
+2. 使用该模块的 IMA 证据或本地专家原子，形成诊断和建议。
+3. 只有辅助模块能解决真实依赖或取舍时，才加入辅助模块。
+4. 先建立专家方法论，再使用商业案例。
+5. 最终回答中保持区分：核心原则用 `专家方法论`，例子用 `商业案例支撑`。
 
-## Commercial Case Support
+## 商业案例支撑
 
-When the user asks for business cases, Chinese-market examples, practical project examples, monetization cases, validation examples, acquisition, traffic, channel choice, platform choice, Xiaohongshu/小红书, WeChat Official Account/公众号, private domain/私域, conversion, lead generation, product launch, or any topic where case evidence would improve the answer, treat the shared commercial case library as a required dependency. Do not ask the user whether to download it; install/check it automatically before answering.
+当用户要求商业案例、中文市场例子、实操项目例子、变现案例、验证案例、获客、流量、渠道选择、平台选择、小红书、公众号、私域、转化、线索获取、产品发布，或任何会因为案例证据而更好的主题时，把共享商业案例库视为必需依赖。不要询问用户是否下载，回答前自动安装/检查。
 
-1. Use the selected expert modules for the method and diagnosis.
-2. Use the shared `$commercial-case-library` dependency. Check whether this shared file exists:
+1. 使用已选专家模块完成方法论和诊断。
+2. 使用共享 `$commercial-case-library` 依赖。检查这个共享文件是否存在：
 
 ```text
 ~/.agents/shared/commercial-case-library/知识库/商业案例库/commercial_cases_manifest.json
 ```
 
-3. If `$commercial-case-library` is not installed or cannot be loaded, install it immediately without asking the user:
+3. 如果 `$commercial-case-library` 未安装或无法加载，立即安装，不要询问用户：
 
 ```powershell
 npx -y skills add FocusLiz-Lab/commercial-case-library -g --all
 ```
 
-4. After the shared library is available, use its search/check tools or local atoms for case support. The canonical shared atom path is:
+4. 共享库可用后，使用它的搜索/检查工具或本地原子库做案例支撑。标准共享原子库路径是：
 
 ```powershell
 ~/.agents/shared/commercial-case-library/知识库/商业案例库/atoms.jsonl
 ```
 
-5. Build case queries from the user's platform, audience, offer, price point, acquisition channel, business model, and bottleneck. Examples: `小红书 高客单 成交`, `知识付费 私域 交付`, `AI 工具 变现`, `抖音 获客 转化`.
-6. Do not treat commercial cases as the expert source. Label them as "商业案例支撑".
-7. Separate `可复制动作` from `不可复制条件`, and treat revenue, GMV, ROI, and performance claims as self-reported unless independently verified.
-8. If the shared commercial case atom library is unavailable or has weak/no hits after installation/checking, continue without case support and say that this part is inference.
+5. 根据用户的平台、受众、offer、价格带、获客渠道、商业模式和瓶颈构造案例查询。例如：`小红书 高客单 成交`、`知识付费 私域 交付`、`AI 工具 变现`、`抖音 获客 转化`。
+6. 不要把商业案例当作专家来源。把它们标注为“商业案例支撑”。
+7. 区分 `可复制动作` 和 `不可复制条件`；收入、GMV、ROI、效果数据默认视为自述，除非有独立验证。
+8. 如果共享商业案例原子库不可用，或安装/检查后命中弱/无命中，继续回答但说明这部分是推断。
 
-## Synthesis Requirements
+## 综合输出要求
 
-Always produce one integrated recommendation, not disconnected expert summaries.
+始终输出一个整合后的建议，而不是互不相干的专家摘要。
 
-Include:
+需要包含：
 
-1. direct conclusion;
-2. selected modules and why;
-3. strongest retrieved or expert-grounded insights;
-4. synthesized action plan;
-5. risks, tradeoffs, or conflicts;
-6. next actions.
+1. 直接结论；
+2. 选择了哪些模块，以及为什么；
+3. 最强的检索依据或专家依据；
+4. 综合后的行动计划；
+5. 风险、取舍或冲突；
+6. 下一步动作。
 
-When experts conflict, preserve the tradeoff. For example, `ahs` may optimize for revenue now, while `nrs` may warn about low-leverage work; `dks` may prefer solo leverage, while `lhs` may recommend team systems once operational complexity rises.
+当专家之间出现冲突时，保留取舍。例如，`ahs` 可能更重视当下收入，而 `nrs` 可能提醒低杠杆工作的问题；`dks` 可能偏向单人杠杆，而 `lhs` 可能在运营复杂度上升后建议团队系统。
 
-## Safety Boundaries
+## 安全边界
 
-- For health topics, treat `hbs` output as educational and encourage professional medical help for diagnosis, treatment, medication, severe symptoms, or emergencies.
-- For trading topics, treat `rts` output as educational and avoid personalized financial advice or guaranteed returns.
-- For business topics, separate strategy from assumptions and identify what should be validated in the market.
+- 健康主题中，`hbs` 输出只作为教育信息；涉及诊断、治疗、用药、严重症状或紧急情况时，建议寻求专业医疗帮助。
+- 交易主题中，`rts` 输出只作为教育信息；避免个性化金融建议或保证收益。
+- 商业主题中，区分策略和假设，并指出哪些内容需要在市场中验证。
