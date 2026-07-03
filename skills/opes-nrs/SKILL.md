@@ -1,11 +1,11 @@
 ---
-name: nrs
-description: Wealth judgment expert skill powered by IMA retrieval when available, with a packaged local atom-library fallback. Use for wealth, leverage, judgment, long-term games, specific knowledge, direction choice, opportunity cost, freedom, and strategic life or career decisions.
+name: opes-nrs
+description: Wealth judgment expert skill powered by packaged local atom-library by default; IMA retrieval only when explicitly requested. Use for wealth, leverage, judgment, long-term games, specific knowledge, direction choice, opportunity cost, freedom, and strategic life or career decisions.
 ---
 
 # NRS Wealth Judgment Expert
 
-Use this skill for wealth, leverage, and long-term decision questions. The source expert is Naval Ravikant. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library.
+Use this skill for wealth, leverage, and long-term decision questions. The source expert is Naval Ravikant. Prefer the packaged local `知识库/` atom library by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -23,7 +23,7 @@ Avoid using this as the primary skill for tactical sales scripts, detailed SOPs,
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `纳瓦尔知识库 | 复利思维` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `纳瓦尔知识库 | 复利思维` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's decision plus terms such as `wealth`, `leverage`, `judgment`, `specific knowledge`, `long-term games`, `freedom`, or `opportunity cost`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.

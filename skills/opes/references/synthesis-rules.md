@@ -29,7 +29,7 @@ When conflict appears, explain:
 ## Evidence Discipline
 
 - Retrieval is required before presenting an answer as source-grounded.
-- Try the selected module's default IMA knowledge base first when `ima-skill` and access are available.
+- Use the selected module local atom library and method notes first. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 - If IMA fails, is not found, is rate-limited, or has weak/no hits, use the selected module's packaged `知识库/原子库/atoms.jsonl`; also check `~/.agents/skills/opes-download-atoms/知识库/原子库/{module}/atoms.jsonl` for SkillHub light installs. If the expert atom library is missing from both places, bootstrap it with `$opes-download-atoms` before answering instead of asking the user whether to download.
 - The selected expert methodology is always the primary reasoning layer. Commercial cases can support examples, benchmarks, and feasibility checks, but they must not replace the expert module's diagnosis or framework.
 - For commercialization, monetization, offer, pricing, acquisition, conversion, validation, platform choice, private-domain conversion, product launch, or any request where case evidence would improve the answer, use the shared `$commercial-case-library` dependency before answering. Do not ask the user whether to download it; install/check it automatically, then retrieve commercial case atoms from `~/.agents/shared/commercial-case-library/知识库/商业案例库/atoms.jsonl` when available.

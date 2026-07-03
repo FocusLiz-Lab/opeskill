@@ -1,4 +1,0 @@
-interface:
-  display_name: "MRS Action Change"
-  short_description: "Action change expert powered by packaged Mel Robbins local knowledge."
-  default_prompt: "Use mrs to answer procrastination, confidence, emotional reset, and behavior change questions."

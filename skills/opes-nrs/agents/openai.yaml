@@ -1,0 +1,4 @@
+interface:
+  display_name: "NRS Wealth Judgment"
+  short_description: "Wealth judgment expert powered by packaged Naval Ravikant local knowledge."
+  default_prompt: "Use nrs to answer wealth, leverage, judgment, and long-term decision questions."

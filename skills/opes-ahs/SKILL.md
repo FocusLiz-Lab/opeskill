@@ -1,11 +1,11 @@
 ---
-name: ahs
-description: Commercialization expert skill powered by IMA retrieval when available, with a packaged local atom-library fallback. Use for offers, pricing, monetization, customer acquisition, lead generation, sales, conversion, business growth, high-ticket services, funnels, and knowledge-product commercialization.
+name: opes-ahs
+description: Commercialization expert skill powered by packaged local atom-library by default; IMA retrieval only when explicitly requested. Use for offers, pricing, monetization, customer acquisition, lead generation, sales, conversion, business growth, high-ticket services, funnels, and knowledge-product commercialization.
 ---
 
 # AHS Commercialization Expert
 
-Use this skill for commercialization questions. The source expert is Alex Hormozi. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library.
+Use this skill for commercialization questions. The source expert is Alex Hormozi. Prefer the packaged local `知识库/` atom library by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -23,7 +23,7 @@ Avoid using this as the primary skill for health, trading, emotional healing, or
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `AlexHormozi 知识库 | 百万美元报价` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `AlexHormozi 知识库 | 百万美元报价` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's exact offer, market, price point, acquisition channel, or sales bottleneck plus terms such as `offer`, `value equation`, `lead generation`, `sales`, `pricing`, `guarantee`, or `conversion`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.

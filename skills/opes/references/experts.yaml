@@ -2,7 +2,7 @@ experts:
   ahs:
     public_role: 商业化专家
     source_expert: Alex Hormozi
-    child_skill: ahs
+    child_skill: opes-ahs
     default_ima_kb: AlexHormozi 知识库 | 百万美元报价
     local_package: ahs-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -29,7 +29,7 @@ experts:
   lhs:
     public_role: 组织执行专家
     source_expert: Leila Hormozi
-    child_skill: lhs
+    child_skill: opes-lhs
     default_ima_kb: LeilaHormozi 知识库 | 商业实战
     local_package: lhs-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -54,7 +54,7 @@ experts:
   dks:
     public_role: 一人公司专家
     source_expert: Dan Koe
-    child_skill: dks
+    child_skill: opes-dks
     default_ima_kb: Dankoe 终极版 | 深度觉醒（持续更新）
     local_package: dks-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -80,7 +80,7 @@ experts:
   nrs:
     public_role: 财富判断专家
     source_expert: Naval Ravikant
-    child_skill: nrs
+    child_skill: opes-nrs
     default_ima_kb: 纳瓦尔知识库 | 复利思维
     local_package: nrs-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -105,7 +105,7 @@ experts:
   hbs:
     public_role: 身心表现专家
     source_expert: Huberman Lab
-    child_skill: hbs
+    child_skill: opes-hbs
     default_ima_kb: Huberman知识库｜科学改善生活（持续更新）
     local_package: hbs-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -130,7 +130,7 @@ experts:
   mrs:
     public_role: 行动改变专家
     source_expert: Mel Robbins
-    child_skill: mrs
+    child_skill: opes-mrs
     default_ima_kb: MelRobbins 知识库 | 自我改变
     local_package: mrs-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl
@@ -156,7 +156,7 @@ experts:
   rts:
     public_role: 交易系统专家
     source_expert: Rayner Teo
-    child_skill: rts
+    child_skill: opes-rts
     default_ima_kb: RaynerTeo交易知识库 | 顺势而为
     local_package: rts-local.zip
     local_atom_library: 知识库/原子库/atoms.jsonl

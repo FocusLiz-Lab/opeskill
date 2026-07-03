@@ -1,11 +1,11 @@
 ---
-name: dks
-description: One-person company expert skill powered by IMA retrieval when available, with a packaged Dan Koe local atom-library and Skill知识包 fallback. Use for personal brand, creator business, content systems, audience growth, digital products, knowledge products, newsletters, writing, positioning, and solo entrepreneurship.
+name: opes-dks
+description: One-person company expert skill powered by packaged Dan Koe local atom-library and Skill知识包 by default; IMA retrieval only when explicitly requested. Use for personal brand, creator business, content systems, audience growth, digital products, knowledge products, newsletters, writing, positioning, and solo entrepreneurship.
 ---
 
 # DKS One-Person Company Expert
 
-Use this skill for one-person company and creator-business questions. The source expert is Dan Koe. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library and `Skill知识包`.
+Use this skill for one-person company and creator-business questions. The source expert is Dan Koe. Prefer the packaged local `知识库/` atom library and `Skill知识包` by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -36,7 +36,7 @@ Treat these files as workflow manuals. Use IMA for source evidence when availabl
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `Dankoe 终极版 | 深度觉醒（持续更新）` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `Dankoe 终极版 | 深度觉醒（持续更新）` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's niche, product, content constraint, or audience problem plus terms such as `one-person business`, `personal brand`, `content`, `digital product`, `writing`, `audience`, or `creator`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.

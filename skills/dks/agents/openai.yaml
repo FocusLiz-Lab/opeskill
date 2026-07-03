@@ -1,4 +1,0 @@
-interface:
-  display_name: "DKS One-Person Company"
-  short_description: "One-person company expert powered by packaged Dan Koe local knowledge."
-  default_prompt: "Use dks to answer one-person business, personal brand, content, and creator monetization questions."

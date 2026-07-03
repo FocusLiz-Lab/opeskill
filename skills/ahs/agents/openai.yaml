@@ -1,4 +1,0 @@
-interface:
-  display_name: "AHS Commercialization"
-  short_description: "Commercialization expert powered by packaged Alex Hormozi local knowledge."
-  default_prompt: "Use ahs to answer commercialization, offer, pricing, acquisition, sales, and growth questions."

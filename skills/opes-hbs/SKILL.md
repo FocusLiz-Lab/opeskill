@@ -1,11 +1,11 @@
 ---
-name: hbs
-description: Mind-body performance expert skill powered by IMA retrieval when available, with a packaged local atom-library fallback. Use for sleep, focus, stress, energy, habits, routines, recovery, neuroscience, behavior biology, learning, productivity, and performance protocols.
+name: opes-hbs
+description: Mind-body performance expert skill powered by packaged local atom-library by default; IMA retrieval only when explicitly requested. Use for sleep, focus, stress, energy, habits, routines, recovery, neuroscience, behavior biology, learning, productivity, and performance protocols.
 ---
 
 # HBS Mind-Body Performance Expert
 
-Use this skill for health, focus, sleep, stress, and performance questions. The source expert is Huberman Lab. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library.
+Use this skill for health, focus, sleep, stress, and performance questions. The source expert is Huberman Lab. Prefer the packaged local `知识库/` atom library by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -23,7 +23,7 @@ Do not provide diagnosis, treatment, medication instructions, or emergency medic
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `Huberman知识库｜科学改善生活（持续更新）` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `Huberman知识库｜科学改善生活（持续更新）` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's symptom, goal, or routine plus Chinese and English terms such as `睡眠`, `失眠`, `光照`, `昼夜节律`, `压力`, `sleep`, `focus`, `stress`, `dopamine`, `light`, `exercise`, `breathing`, `habit`, or `protocol`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.

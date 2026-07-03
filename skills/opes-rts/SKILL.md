@@ -1,11 +1,11 @@
 ---
-name: rts
-description: Trading system expert skill powered by IMA retrieval when available, with a packaged local atom-library fallback. Use for trading, trend following, price action, technical analysis, market structure, entries, exits, stop loss, position sizing, risk management, backtesting, and trading psychology.
+name: opes-rts
+description: Trading system expert skill powered by packaged local atom-library by default; IMA retrieval only when explicitly requested. Use for trading, trend following, price action, technical analysis, market structure, entries, exits, stop loss, position sizing, risk management, backtesting, and trading psychology.
 ---
 
 # RTS Trading System Expert
 
-Use this skill for trading-system questions. The source expert is Rayner Teo. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library.
+Use this skill for trading-system questions. The source expert is Rayner Teo. Prefer the packaged local `知识库/` atom library by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -23,7 +23,7 @@ Do not provide personalized financial advice, guaranteed returns, or instruction
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `RaynerTeo交易知识库 | 顺势而为` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `RaynerTeo交易知识库 | 顺势而为` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's market, timeframe, setup, or risk question plus terms such as `trend following`, `price action`, `support resistance`, `stop loss`, `position sizing`, `risk management`, `backtesting`, or `trading psychology`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.

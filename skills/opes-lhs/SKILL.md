@@ -1,11 +1,11 @@
 ---
-name: lhs
-description: Organization execution expert skill powered by IMA retrieval when available, with a packaged local atom-library fallback. Use for hiring, leadership, management, delegation, operations, SOPs, accountability, team execution, culture, performance, and scaling delivery systems.
+name: opes-lhs
+description: Organization execution expert skill powered by packaged local atom-library by default; IMA retrieval only when explicitly requested. Use for hiring, leadership, management, delegation, operations, SOPs, accountability, team execution, culture, performance, and scaling delivery systems.
 ---
 
 # LHS Organization Execution Expert
 
-Use this skill for organization, operations, and team execution questions. The source expert is Leila Hormozi. Prefer authorized IMA retrieval when available, then fall back to the packaged local `知识库/` atom library.
+Use this skill for organization, operations, and team execution questions. The source expert is Leila Hormozi. Prefer the packaged local `知识库/` atom library by default. Use IMA only when the user explicitly asks to search/read/cite/troubleshoot IMA.
 
 ## Scope
 
@@ -23,7 +23,7 @@ Avoid using this as the primary skill for solo creator strategy, health, trading
 
 When the user asks for grounded knowledge or the current task requires source retrieval:
 
-1. First try IMA if `ima-skill` is installed and credentials/access are configured. Use the default IMA knowledge base `LeilaHormozi 知识库 | 商业实战` unless the user names another IMA knowledge base.
+1. Use the local atom library and packaged method notes first. Use the IMA knowledge base `LeilaHormozi 知识库 | 商业实战` only when the user explicitly asks to search/read/cite/troubleshoot IMA or names an IMA knowledge base.
 2. Follow `ima-skill` rules for all IMA operations. Do not invent IMA APIs, expose internal IMA IDs, or ask users to paste API keys into public files.
 3. Build IMA and local queries from the user's team bottleneck plus terms such as `hiring`, `management`, `leadership`, `SOP`, `accountability`, `operations`, `delegation`, or `performance`.
 4. If IMA retrieval succeeds, base source-grounded claims on the retrieved IMA evidence and label it as `IMA evidence`.
