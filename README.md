@@ -18,7 +18,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 
 ## 知识库二维码
 
-扫码可查看或导入配套知识库：
+扫码获取知识库：
 
 ![知识库二维码](docs/knowledge-base-qrcode.png)
 
