@@ -20,7 +20,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 
 扫码获取知识库：
 
-![知识库二维码](docs/knowledge-base-qrcode.png)
+![知识库二维码](docs/knowledge-base-qrcode.png?v=20260705)
 
 ## 如何安装
 
