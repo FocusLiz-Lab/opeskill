@@ -1,6 +1,6 @@
 # opeskill 超级个体工具箱
 
-opeskill 是一个面向超级个体的 Codex/ChatGPT Skills 工具箱，用 7 位专家模型和共享中文商业案例库，帮助个人创作者、咨询顾问、自由职业者和小团队把能力转成可销售的产品、内容、获客系统和长期资产。
+opeskill 是一个面向超级个体的 Codex Claude Code等智能体 Skills 工具箱，用 7 位专家模型和共享中文商业案例库，帮助个人创作者、咨询顾问、自由职业者和小团队把能力转成可销售的产品、内容、获客系统和长期资产。
 
 它适合用来处理这些问题：
 
@@ -17,7 +17,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 3. SkillHub 上传包是轻量包，内置下载工具；全量专家原子库可由 `$opes-download-atoms` 自动从 GitHub 下载、解压并安装。商业案例库由共享 `$commercial-case-library` 下载一次后复用。
 <img width="2752" height="1536" alt="AI_专家决策系统架构" src="https://github.com/user-attachments/assets/a1f2a5e4-d8a6-4484-8040-71d5d2f1daa0" />
 
-## 知识库二维码
+## 超级个体知识库合集
 
 扫码获取知识库：
 
@@ -25,7 +25,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 
 ## 如何安装
 
-通用安装方式（适用于 Codex / Claude Code）：
+通用安装方式（适用于 Codex / Claude Code / OpenClaw / Hermes等智能体）：
 
 ```bash
 npx -y skills add FocusLiz-Lab/opeskill -g --all
@@ -36,36 +36,6 @@ npx -y skills add FocusLiz-Lab/opeskill -g --all
 ```text
 https://github.com/FocusLiz-Lab/opeskill/releases
 ```
-
-### SkillHub 轻量包与全量原子库
-
-SkillHub 单个上传包限制小于 10MB，因此 `opeskill-skillhub.zip` 不直接内置全量大原子库。安装 SkillHub 包后，如果需要离线兜底检索，调用：
-
-```text
-$opes-download-atoms
-```
-
-或在 opeskill 安装目录中运行：
-
-```powershell
-python tools/download_full_atoms.py
-```
-
-它会自动从 GitHub Release 下载 `opes-local.zip`，并解压安装专家原子库：
-
-```text
-知识库/原子库/{ahs,dks,hbs,lhs,mrs,nrs,rts}/atoms.jsonl
-```
-
-商业案例库已抽离为共享依赖，统一使用：
-
-```text
-$commercial-case-library
-```
-
-当用户问题需要案例支撑或补充说明时，skill 会自动检查/安装共享商业案例库，不询问用户是否下载。共享库下载一次后可供 `dkskill`、`lhskill`、`ahskill`、`opeskill` 等多个 skill 复用，避免重复下载。
-
-如果不使用 SkillHub，也可以直接下载 `opes-local.zip`，它包含全量 7 人专家原子库。
 
 ## 工具箱
 
