@@ -15,6 +15,7 @@ opeskill 采用“IMA 优先，本地原子库兜底”的方式：
 1. 普通问题默认读取本地专家原子库和 Skill 知识包；只有用户主动要求 IMA 检索、引用或排错时，才读取对应 IMA 知识库。
 2. 如果 IMA 未安装、无权限、限额、找不到知识库或没有有效命中，skill 会使用本地原子库兜底。
 3. SkillHub 上传包是轻量包，内置下载工具；全量专家原子库可由 `$opes-download-atoms` 自动从 GitHub 下载、解压并安装。商业案例库由共享 `$commercial-case-library` 下载一次后复用。
+<img width="2752" height="1536" alt="AI_专家决策系统架构" src="https://github.com/user-attachments/assets/a1f2a5e4-d8a6-4484-8040-71d5d2f1daa0" />
 
 ## 知识库二维码
 
