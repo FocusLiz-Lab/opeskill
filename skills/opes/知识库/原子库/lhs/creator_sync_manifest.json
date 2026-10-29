@@ -1,0 +1,2221 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 4764,
+  "after": 4940,
+  "added": 176,
+  "local_source_groups": 295,
+  "added_source_groups": 19,
+  "no_qualifying_units": 1,
+  "latest_atom_date": "2026-10-21",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": null,
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 6587588,
+      "sha256": "d1f325838b7d01a8444ad0950097340ec9e124e155997341f8d6a22df0eb5d76"
+    },
+    {
+      "file": "atoms_2021Q2.jsonl",
+      "bytes": 14714,
+      "sha256": "e4d0712ea0e98faaa9b071275b08d1fb672f3b7e9e3c790ec491ef0bd8f7f3da"
+    },
+    {
+      "file": "atoms_2021Q3.jsonl",
+      "bytes": 265881,
+      "sha256": "56bf97638249373f11ce1f7aea5660233373eab5bc826563ea1f4816e219f45d"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 314579,
+      "sha256": "cdf04a3e1985ea52ad5011ace06134216a66c2ac173832d44439405dcc1145ab"
+    },
+    {
+      "file": "atoms_2022Q1.jsonl",
+      "bytes": 377716,
+      "sha256": "6c3a5cdf9ad78dc1c5acdbf9fc0c79d5529b3013d3a3de89d18fd4f8026f29f4"
+    },
+    {
+      "file": "atoms_2022Q2.jsonl",
+      "bytes": 311938,
+      "sha256": "fc5d40b7530f97a0d2dce4b0ff627077751db27cc6524512ae66a6ff7db9e580"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 114700,
+      "sha256": "5bd8e2d83d899baabc9907763ad1838dc496ee58ddef21d73d1d312b758dc790"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 187333,
+      "sha256": "7c82e41f9861bba019dd8cba757cb4def8bafa492afd470c122ad439b64c4be0"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 117771,
+      "sha256": "65a93bd706428f47b5cb08a84db1bcd2a7af3aa0a03b6f9f46d4e7a41abef5c6"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 139182,
+      "sha256": "cbe70cab01b2aa289da4b4840a0566eb8287d0a56301bbc26cfa91ca7f91cd6f"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 361072,
+      "sha256": "8769f5a184cf89c1b96b345fe006d59541ad7f4a5350af27a052188234e51b89"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 271121,
+      "sha256": "09e8d3b81aeb10ac4dc94af236afe465ff6984e55734367b9aac85a4df7b5092"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 215488,
+      "sha256": "10c37d5bd6c21b6d5f34ac09cf65bebe7e756375b350313925d5e498b8ef96ba"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 628882,
+      "sha256": "67c8dddf18793b603e4923e3777ad0bd1ae81d37be25d717df1a0789a0ccc91b"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 524191,
+      "sha256": "0c2033c910396f4d9de72daff088ba93b5ca9dc3c42344d692dc00be35af7abf"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 583663,
+      "sha256": "dd8712550cbb77596e1ff927fcf39c0211be44beeb7d5829b9ff1de6bd074e7d"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 448473,
+      "sha256": "668b6a09f282b6d06fca755b37fc3c2d37b1f4c7055491fb78b96b08e652e582"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 237331,
+      "sha256": "cba9656d2b8268e9102b0846b6815dfa8e2a6e3b9bbd62c42fc16c1f30457263"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 164248,
+      "sha256": "54368c08f156d1a94ca94d42b2c65936e3e3fc1baf024457e67034fea3fa4774"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 226550,
+      "sha256": "c8f952370a55e4e21fcc078988e8d02e92a9b6c6602a2e6e303f7a396a1b1a72"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 535522,
+      "sha256": "3e82d2937f30222bf869843f10f0e1824b113fa7bbd370ce63c4ba41ad657fc7"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 332544,
+      "sha256": "239eab8c31a8d43cdd6fb03e3df5aa7678d2581f848ff56867299108a38098df"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 161091,
+      "sha256": "abdfc8bf3107ac8dd52075f4a5401f4c9cb4637df002ef51c99e0118fcac9f33"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 53598,
+      "sha256": "cbad73a46c4c86acc18fa78dbaba3df882c70b7344578523f52dba848ba3a569"
+    }
+  ],
+  "sources": [
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/210818 我如何领导一家估值1亿美元的公司…功劳归别人，责任自己扛.md",
+      "url": "https://www.youtube.com/watch?v=5vDZ3B5JSSU",
+      "sha256": "7ff0a5d2ecc254c9366718d2533f33fc1b2692bf685fa0681d4e591795346275",
+      "date": "2021-08-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/211006 团队会议更高效的6个技巧——该问哪些问题.md",
+      "url": "https://www.youtube.com/watch?v=gumrYK5BLWY",
+      "sha256": "d9472ce84516d711c9f7b34da61c0a22c83ee9d8038d8bc2132ccd04bb980938",
+      "date": "2021-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/220216 百万富翁如何沟通……【实战训练】.md",
+      "url": "https://www.youtube.com/watch?v=ErKqopYErdk",
+      "sha256": "b7172867a1d3eca7d02bfea155508ac72d767d2db177b73ae1c635cc7f8c57ec",
+      "date": "2022-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/220420 如何获得升职 [4个聪明技巧].md",
+      "url": "https://www.youtube.com/watch?v=QajLAtEMx7s",
+      "sha256": "dd07e4e70ddf0836e135c4148eb7194ac48f1572088bec6d0f3cd471e8760caa",
+      "date": "2022-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/220526 22分钟掌握高效开会的全部要点.md",
+      "url": "https://www.youtube.com/watch?v=yGAK44smykA",
+      "sha256": "e899bf9fb6e8206f311c095f802705ac7f58c4e99e86f9fc17ff65ba655a0c98",
+      "date": "2022-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/220614 在高增长企业获得晋升的5个惊人步骤.md",
+      "url": "https://www.youtube.com/watch?v=RpFdEjKX5MY",
+      "sha256": "23de7a7863671b3c32aed2b7a39810cba92a632b810f1ee2687633c440a343cb",
+      "date": "2022-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/220922 我如何管理一个1亿美元团队（3步公式）.md",
+      "url": "https://www.youtube.com/watch?v=Dn6bkqsxZBE",
+      "sha256": "6b05f53896a585427ee563ae465b075698658b1bd952de62745569a72140b828",
+      "date": "2022-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/221013 给出批评性反馈的5个A.md",
+      "url": "https://www.youtube.com/watch?v=DAY3WQsHXlY",
+      "sha256": "c8ba0906a9613f2a31751df8642216f26bdd3256b77b813056aa892468431786",
+      "date": "2022-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/221103 如何在90天内获得晋升.md",
+      "url": "https://www.youtube.com/watch?v=rgz82AIMQQw",
+      "sha256": "dbae626cd5376cd824edc37e66333c6f19bce6b80a6865931d9884628b642a8f",
+      "date": "2022-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/230309 如何让任何人按你的意愿行动.md",
+      "url": "https://www.youtube.com/watch?v=X2y2AAhTK9I",
+      "sha256": "7d5ca1e483e6ecaf4783045b6b66105be4198b9f49aea332bec4a14c4848145d",
+      "date": "2023-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/230518 我如何处理冲突（生活+事业）.md",
+      "url": "https://www.youtube.com/watch?v=kqm483yjPsE",
+      "sha256": "4e7115e61c981d78ab22c165a6272120d09a87c019b9f2ef419020df920bbae0",
+      "date": "2023-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/230608 如何成为受人尊敬的领导者.md",
+      "url": "https://www.youtube.com/watch?v=7q6rYu6wVqU",
+      "sha256": "df6d81210e838724e4e09593a07dadf9d1772b338bd69dba2223591a3e786465",
+      "date": "2023-06-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240516 打造十亿美元增长梦之队 [第018期].md",
+      "url": "https://www.acquisition.com/roadmap",
+      "sha256": "6ab6a5b2b3cbc5531ac6f394d03f53b714ac75bc090997eb72d2eb7349b04732",
+      "date": "2024-05-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/230810 给7位企业主真诚的领导力建议.md",
+      "url": "https://www.youtube.com/watch?v=Q_FtUWEf1Eo",
+      "sha256": "20e01684495816d1b3f009e5ee53293e17692f77ff9c8e513c07b8de8a0959c6",
+      "date": "2023-08-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/230914 教年轻创业者如何成为更好的领导者.md",
+      "url": "https://www.youtube.com/watch?v=pREeerHYn1o",
+      "sha256": "527482d7982f818355c29d9692bd2279041a857efc821f20474358519832ea46",
+      "date": "2023-09-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/240525 回答你对管理的各种假设.md",
+      "url": "https://www.youtube.com/watch?v=7HhwoEqO5O0",
+      "sha256": "a67da2bd08d8f4b22355b862555edb8e5aa6d4c092baeead5e5cc641fb3f4f90",
+      "date": "2024-05-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/240713 新手领导者应避免的5个错误.md",
+      "url": "https://www.youtube.com/watch?v=RJTcI4nwM3Q",
+      "sha256": "bdf1f45b0fa2ae06a970e4cec9be94be683d80d693735770fac0d0fea8c12d6c",
+      "date": "2024-07-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/240803 回答关于领导力的问题 [直播问答].md",
+      "url": "https://www.youtube.com/watch?v=PZX4XEWoF3U",
+      "sha256": "46378bc33c00ed91e15543bb62d0f41deb7a40a0edfbab959c0ddeeff5e353a3",
+      "date": "2024-08-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/240815 成为更好领导者所需的转变.md",
+      "url": "https://www.youtube.com/watch?v=B7Le7DEmezI",
+      "sha256": "0595af386145db5bc465c0e5a4e8d33c9e6b0df2494960de911e08d7b7cd7af9",
+      "date": "2024-08-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/241003 如何快速升职，快到像作弊一样.md",
+      "url": "https://www.youtube.com/watch?v=kuTXkRHWcLM",
+      "sha256": "05246cc40172f7573c10218a77cec49bcf73d6a2995fe9efd57ee4bb9b106ee9",
+      "date": "2024-10-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/250130 善良领导成功，老好人老板失败.md",
+      "url": "https://www.youtube.com/watch?v=6lyTl8BTXhY",
+      "sha256": "ae585c2b7ff226556a518eaaa945568c90ce586c048ee9419bcb32b1f2f98f47",
+      "date": "2025-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/250731 如何让人瞬间尊重你.md",
+      "url": "https://www.youtube.com/watch?v=JQX705pnjkw",
+      "sha256": "0290db7edb6137eb6f15fab6d12b4891d90fd6cc7274cd20bcd4a62f6f1170c9",
+      "date": "2025-07-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/260130 让你成为领导者的无形行动.md",
+      "url": "https://www.youtube.com/watch?v=hT4ilfJVZeQ",
+      "sha256": "8fdf6183fdec83b6bd36b7390433c55b22573e8ef397c0ed1162d2e7ca666863",
+      "date": "2026-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/260417 做到这一点，别人立刻就会尊重你.md",
+      "url": "https://www.youtube.com/watch?v=j64UB9hU6BM",
+      "sha256": "c3db137f27a9588c94e1e699f755aea38bf362e54a46adba6b4a8c5856758d92",
+      "date": "2026-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/260826 为什么有野心的人容易倦怠（以及如何解决）.md",
+      "url": "https://www.youtube.com/watch?v=9SUB33ph1pw",
+      "sha256": "58bf0b6fd568c4220792914828a4d8fa3febd6f784f9c26f34b0ba90c442c316",
+      "date": "2026-08-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 领导力与管理/260916 3条危险但极其有效的决策法则.md",
+      "url": "https://www.youtube.com/watch?v=KscKn4fS-rI",
+      "sha256": "9e5bbd19d3631328c80cfb58d52d041853116a4e179eb407101bfeac0d67e69e",
+      "date": "2026-09-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/210707 世界级领导者如何让员工担责.md",
+      "url": "https://www.youtube.com/watch?v=ob8NUa_LjpE",
+      "sha256": "db1c798e263d6fc472aa33b8124a0e83cf3ebc72e4d7177c4cb050be61cc2083",
+      "date": "2021-07-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/210719 如何与员工进行艰难对话？我的六步公式.md",
+      "url": "https://www.youtube.com/watch?v=P0WEnjv2JiE",
+      "sha256": "572538955e1271ab20548e17d787851cafb9016f3fb86da4866f755286baaf22",
+      "date": "2021-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/210721 招聘远程员工时需警惕的六个危险信号.md",
+      "url": "https://www.youtube.com/watch?v=EhpnWcVHwB4",
+      "sha256": "3394232114a704233ad8d6e9cc51eb81e77b0e3c58152032ab80b86888df7930",
+      "date": "2021-07-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/210830 百万富翁CEO：你给员工发太多钱了吗？.md",
+      "url": "https://www.youtube.com/watch?v=IN7gbkPtArs",
+      "sha256": "3d045cbc85a7d671fa6053a6cb028429564d4f4b0a71a327bce6073940ba4e33",
+      "date": "2021-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/210908 关于解雇员工，我学到的一些事.md",
+      "url": "https://www.youtube.com/watch?v=1OYvwiMAye8",
+      "sha256": "0efef7ca7b88ef2e58f78eb1476ef7377017436164f3bf3d3707c358acd82666",
+      "date": "2021-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211004 2021年聘请行政助理的5条原则.md",
+      "url": "https://www.youtube.com/watch?v=QyUdcGSYZ4w",
+      "sha256": "0aaf934a3b8ca2c5370b103ac7406b9481726ea7044fbe8c9477ff3b96f61a65",
+      "date": "2021-10-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211101 招聘HR时要注意的5个特质（附警示信号）.md",
+      "url": "https://www.youtube.com/watch?v=JPVLN7rDFfA",
+      "sha256": "2017d90f32cd920f6ce5410d32ae66c6436d613e2772bdd75d4922f84fd6c7e2",
+      "date": "2021-11-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211108 I Fired an Executive Because of THIS.md",
+      "url": "https://www.youtube.com/watch?v=5-6hR2K80HU",
+      "sha256": "43c04352576fbe83aba5e1f1262f0ad590d483e6f2d169c71810c47c6d5b29e5",
+      "date": "2021-11-08",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211115 我们收到了900万美元的意外税单……（关于雇员的教训）.md",
+      "url": "https://www.youtube.com/watch?v=FJJIrECRb-s",
+      "sha256": "7d22569998287ac21c1b64b3c18bcc5ac9a11c2f9bcb7b98e9b50f2be474715a",
+      "date": "2021-11-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211201 好员工为何离职... 5个要避免的错误.md",
+      "url": "https://www.youtube.com/watch?v=Z_-IwXFBOEY",
+      "sha256": "1daa4bf568bb8db0ee823b343f7ca3c3d0d402ebb7275cdb6867cce42be062c8",
+      "date": "2021-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211215 招聘顶尖人才的最佳面试框架——确保你以后不用再解雇他们.md",
+      "url": "https://www.youtube.com/watch?v=9tiInaJ_klA",
+      "sha256": "05af889d50759939152f5216b6f1feb324a911510e51a01b872c7280cd5d2ea6",
+      "date": "2021-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/211222 如何赢得员工的尊重...你的业务停滞不前的真正原因.md",
+      "url": "https://www.youtube.com/watch?v=WPoq48Lw0H8",
+      "sha256": "6504244ddfdcd1b1641428199cefa429772733d6b3ebfce78b4e3db6ad6d05c0",
+      "date": "2021-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220202 我们裁了一半团队……原因如下.md",
+      "url": "https://www.youtube.com/watch?v=5pDhvfdYQk0",
+      "sha256": "caf9fb30b951feab32f1c8f33d9c17d05550bb53bc22a042ca308a8db558a720",
+      "date": "2022-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220302 22分钟训练，让员工更拼命干活、永远不离开你.md",
+      "url": "https://www.youtube.com/watch?v=PNP_emcQoVA",
+      "sha256": "e6afc27dd94829bcc3a6d9d465960b92f958847464c9f1d11080ec6380d6849a",
+      "date": "2022-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220309 看完这个之前，别急着招人.md",
+      "url": "https://www.youtube.com/watch?v=eotlpqEki3Y",
+      "sha256": "7b5abc3c66faa7d47bec3895a2c974e084017e75add0610411353f72e4153f93",
+      "date": "2022-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220413 招聘员工前必须知道的5件事【面试前必看】.md",
+      "url": "https://www.youtube.com/watch?v=LeuDS5yIvrY",
+      "sha256": "aabf19842503a3ce6494ea2d93fd8a957fa37f71ddfa6a6ace2ad06f402f3770",
+      "date": "2022-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220621 5个扼杀增长的招聘错误.md",
+      "url": "https://www.youtube.com/watch?v=z1aeztMsPBM",
+      "sha256": "e959f59eb7409033b594f4ed866229d4799b7951518f5af6a631978eeefd84cb",
+      "date": "2022-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220908 我的1亿美元招聘策略.md",
+      "url": "https://www.youtube.com/watch?v=Gm161frNZ-0",
+      "sha256": "184e55cd5b2630b55ab0b8c168610f7fa0567cb24a9ef11be2314ca4066a5da3",
+      "date": "2022-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/220929 为什么我最优秀的员工从不离职.md",
+      "url": "https://www.youtube.com/watch?v=7CximPzoj1E",
+      "sha256": "602f4e2ce7b3fb4008f3f7b85da1a53c82f7adee1cb99320d8528c0c8d01064f",
+      "date": "2022-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/221222 面试常见10大问题的满分回答.md",
+      "url": "https://www.youtube.com/watch?v=grorhKeNklw",
+      "sha256": "f60aec401bb51555b56a1c50ac4e5d01391fce36e49b0731cab8a132141f7086",
+      "date": "2022-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/230112 面试前必看.md",
+      "url": "https://www.youtube.com/watch?v=DzbFBgGUGdU",
+      "sha256": "6d2971993fb0073f8f783906d79ba54c8986989bd4f0af489f421432ef21d394",
+      "date": "2023-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/230316 如何招到全球最顶尖的人才.md",
+      "url": "https://www.youtube.com/watch?v=TAc4Khnc13s",
+      "sha256": "4d4041dc2c49bb913ea154af50a4eec1043f93272841f5521b3aa96303ab761d",
+      "date": "2023-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/230720 你最差的员工，是你自己的问题.md",
+      "url": "https://www.youtube.com/watch?v=tvdt4S6IsPY",
+      "sha256": "ba3fe8d9ef9b08ce775bf97d1415afb2bf6e2b4ea811f570a958d5295b5d409a",
+      "date": "2023-07-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/240502 24岁管理120名员工（还没疯掉）.md",
+      "url": "https://www.youtube.com/watch?v=0gRQX9G45xo",
+      "sha256": "c09d022dc582e02aa6bc9fddca2634af779db71f14d4cf6d5074ab13056080ef",
+      "date": "2024-05-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/240912 招聘很无聊，但能让业务翻三倍.md",
+      "url": "https://www.youtube.com/watch?v=e10uOKjXjoc",
+      "sha256": "fdb42c90b65b76963df6706591c6e8510916973a71dfda8b17fb1153d6529b4b",
+      "date": "2024-09-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/240922 每位创业者都该知道的招聘建议.md",
+      "url": "https://www.youtube.com/watch?v=oVKaXNY2cYU",
+      "sha256": "50be5e0a4dcf304980f499f2e7a895487f0ff0dc839238c8237337fafc01bdf2",
+      "date": "2024-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/241017 你的成长 = 业务的成长.md",
+      "url": "https://www.youtube.com/watch?v=QFmlmVjmMg0",
+      "sha256": "50e1ae26d5984defbbd97527b79cf30661dcee9b29dc07b1ce6a3d0f76e1c28e",
+      "date": "2024-10-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/250214 5个招聘策略，更快吸引顶尖人才.md",
+      "url": "https://www.youtube.com/watch?v=mDtlGNDGyuI",
+      "sha256": "f8ffb185176b0471fd582c29f5895ddcdbddfb0f0a17ed247c21f21fc331cca4",
+      "date": "2025-02-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/250224 如果你的团队表现不佳，请看这个.md",
+      "url": "https://www.youtube.com/watch?v=kl-fgK3S9wk",
+      "sha256": "c26fe547c1fda1b4e91130735a065fbc6dc7b9d0ac60c24dc9c584c2af97cb1c",
+      "date": "2025-02-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 招聘团队与人才/261021 52分钟的商业建议，不容忽视.md",
+      "url": "https://www.youtube.com/watch?v=20S9a1EyzD0",
+      "sha256": "24b9d6e752564c44fb9f6088049b0ffbedf9c8dc16eed72648d604e6a7da9e9e",
+      "date": "2026-10-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/210712 如何做出不损害业务的决策——我的方法.md",
+      "url": "https://www.youtube.com/watch?v=uxbQ_DZvinA",
+      "sha256": "750420b5c4344d84e77b13fb85e513c79dae3c1e1d301a5c9f60d492dbed030f",
+      "date": "2021-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/210726 我们拼了两年，牺牲一切，把生意做到一亿美元……结果是这样的。.md",
+      "url": "https://www.youtube.com/watch?v=mBpLJCNB50c",
+      "sha256": "f6a46133153ed6644195f448feaf8f0d64bc1c2a45079acc84e08cfa56227bc3",
+      "date": "2021-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/210825 创业者的挣扎、混乱与逆袭！.md",
+      "url": "https://www.youtube.com/watch?v=0jeN_WHJcgU",
+      "sha256": "8007d03806df938ce58bfe9d173e96b25d41dfdc9eb2fded368a9e09ad363f1d",
+      "date": "2021-08-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/210929 3条最糟糕的创业建议，可能毁了你的生意.md",
+      "url": "https://www.youtube.com/watch?v=xkgQvnUqY4Q",
+      "sha256": "8b5442d59670cb5f2773649ec13c1cc3071870668c5f5bdc9227de921b465c94",
+      "date": "2021-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/211011 创业者从100万到1000万的6件简单事.md",
+      "url": "https://www.youtube.com/watch?v=k-Quepw7-BQ",
+      "sha256": "8f46502a61b4da371a8bffff00c62455425a2fea42e0f20c1d5a4fc29f11a6ed",
+      "date": "2021-10-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/211013 我们如何一起经营一亿美元的业务……还能保持婚姻幸福.md",
+      "url": "https://www.youtube.com/watch?v=fMLXc5qvzAo",
+      "sha256": "789e74e7276d8d6cd2cb64a4f19acff4f90ddaf5232a964855b665ebc0cd40c0",
+      "date": "2021-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/211122 老板常犯的5个致命错误，直接导致破产.md",
+      "url": "https://www.youtube.com/watch?v=c2DjnWu7h6U",
+      "sha256": "4f92de7c285b733588dfaae9b64182ba1e805323d75a24e77428e03a2783c795",
+      "date": "2021-11-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/211220 我们卡在1000万美元，直到做了这件事…….md",
+      "url": "https://www.youtube.com/watch?v=gCr1GW5Fj98",
+      "sha256": "1aadf369b016c8c4245f932f66a30add5b338845201255993eadc0b2cb4070ec",
+      "date": "2021-12-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220120 想在2022年把业务放大10倍？看完这57分钟.md",
+      "url": "https://www.youtube.com/watch?v=veKQuWYeaBU",
+      "sha256": "fe5a2d878a3e226958694bf47434bcc7e9a9e89b6b924a0630c82094ca75d86d",
+      "date": "2022-01-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220126 想扩大规模？先看这个.md",
+      "url": "https://www.youtube.com/watch?v=BDKx2xCiIVE",
+      "sha256": "e86634b1d2e4363cd51bb9b7e42e158d9dfda09067784358d40051a2a50b554e",
+      "date": "2022-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220311 打造九位数业务时我犯的最大错误…….md",
+      "url": "https://www.youtube.com/watch?v=ExNrmu6ysNQ",
+      "sha256": "7e1b1ebef7b2fd669c62241dc6ef508c6198b15723d3e01b8e7ec63feaf2b674",
+      "date": "2022-03-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220316 警告-- 最低工资上涨的潜在后果…….md",
+      "url": "https://www.youtube.com/watch?v=Pch2SoxSrsI",
+      "sha256": "3ea68fb26cbeeb415756b18a18387460588e3453c40a06cad31389b42d3571f9",
+      "date": "2022-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220323 扩大业务的秘诀…….md",
+      "url": "https://www.youtube.com/watch?v=JiV347H7vNQ",
+      "sha256": "0461a61b4cf23efb64e5a93a98ef4389675643777b6bd606ceb8c71ffaced4f7",
+      "date": "2022-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220504 如果你想扩大规模，就别再这么做了…….md",
+      "url": "https://www.youtube.com/watch?v=krF-WJfRydc",
+      "sha256": "6bdf0530120955d3d82a515fbe3bd6b609c407b4e4c7d150ee67dd2b3417a308",
+      "date": "2022-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220628 在新市场建立权威的最佳方式.md",
+      "url": "https://www.youtube.com/watch?v=avxa2MzXreI",
+      "sha256": "6daf8c5d96d1748193eff47f87ce5e8fff9012d0cbce78aee19cb6d9c612cc5c",
+      "date": "2022-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220728 让你破产的5个错误.md",
+      "url": "https://www.youtube.com/watch?v=A-qyq6elbwE",
+      "sha256": "ce3529f15a282f2b60c1656f2421d5f08dd408416c2d92292f7a64fd92370798",
+      "date": "2022-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/220818 扩大百万业务，你只需要这一个人.md",
+      "url": "https://www.youtube.com/watch?v=NItvHABe-Ko",
+      "sha256": "0b29d2d6a4714860b2bedb59173fd49535de28c494d5670540c532449f3851e5",
+      "date": "2022-08-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/221006 这一件事会毁掉你的生意.md",
+      "url": "https://www.youtube.com/watch?v=1LW7o9djr0E",
+      "sha256": "c4218b45d6dd2b167e9409f1c5dc1784594a650af73025543743dbf7d55ccf69",
+      "date": "2022-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/221027 2022经济衰退：如何挺过去.md",
+      "url": "https://www.youtube.com/watch?v=dSTVfquyq5E",
+      "sha256": "ac38c73a98d3a762c16d1bad1653b5c193fdac7184ad73b2bc012389836ac268",
+      "date": "2022-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/221201 2023年该做什么生意.md",
+      "url": "https://www.youtube.com/watch?v=H-kQ1daShPw",
+      "sha256": "027edd406467fb6ad6c4716de5c83848afc5c1792a2a6b22e5615748e641f0f3",
+      "date": "2022-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/221215 2023年经济衰退：不做这个就会失业.md",
+      "url": "https://www.youtube.com/watch?v=n-3Dy3WtgXE",
+      "sha256": "62d8b820e205c6c28f66fbf9d4267cb30e8a9b8d944eaf1b094c9ae5860c6776",
+      "date": "2022-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230302 2023年最佳创业项目（分级排名）.md",
+      "url": "https://www.youtube.com/watch?v=b_xdG0MQuE0",
+      "sha256": "2e54f47d0d7b4bf8f53297cc2208b35da1ad6f95c5202f302d1fa87ee2fc9346",
+      "date": "2023-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230420 如何在工作或业务中实现自我替代.md",
+      "url": "https://www.youtube.com/watch?v=Bw8NUHvtVV4",
+      "sha256": "e6ec2e5fdf34e2bfda95e533bc4dff72f1600f199031fb673e6dd76b0d5bf3bb",
+      "date": "2023-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230511 如何将个人品牌变现.md",
+      "url": "https://www.youtube.com/watch?v=gL4KwjM0uno",
+      "sha256": "6137b30e8ce3fb525afae3e44b4dfb727a71786dec975a461e85fddb4a7d1ee0",
+      "date": "2023-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230601 给9位创业者真诚建议 - Leila现场答疑.md",
+      "url": "https://www.youtube.com/watch?v=cIAnRWcLHlo",
+      "sha256": "2051c72aa591740a6522a47403391d8a3479624539780ec27b8a8978e67dff3e",
+      "date": "2023-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230622 想学如何打造千万美元公司，花15分钟看这个.md",
+      "url": "https://www.youtube.com/watch?v=MAfaoJPBJjc",
+      "sha256": "eb731598e2fe4eea10658b8bc5e155237572fee9c85bf9f5e16f2f95f1b7e329",
+      "date": "2023-06-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230803 商业技能完整分级排行.md",
+      "url": "https://www.youtube.com/watch?v=iR0QEbdWRN8",
+      "sha256": "18bf792eea41a982a557deccb9374dd66d1d1992de795a683a2feaddbd3588e5",
+      "date": "2023-08-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230824 43分钟讲透业务增长的真正路径.md",
+      "url": "https://www.youtube.com/watch?v=UL1PLgAn0SU",
+      "sha256": "94cd40e5367861e9e6b904690e18fef1d04358eebb34d965702534dd6556ebb4",
+      "date": "2023-08-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230831 如果我在2024年创办一家公司，我会这样做【从0到1亿美元的完整指南】.md",
+      "url": "https://www.youtube.com/watch?v=C-rp7JLqqD8",
+      "sha256": "0711a51358d2c6ea1f86c30ec6f24a45a5734c6c1a87ea0371dfa743c19b6543",
+      "date": "2023-08-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240104 如果你害怕开始第一次创业，看看这个.md",
+      "url": "https://www.youtube.com/watch?v=UhaStxP6CZY",
+      "sha256": "0133bf337e5dbe3449507445b92041053f010714e9f5c025bb3db3c95b5e2c40",
+      "date": "2024-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240215 如何在2024年超越99%的企业.md",
+      "url": "https://www.youtube.com/watch?v=kImzZfCCxTs",
+      "sha256": "5cbe9835f4d9ddad885a13c89b8a76ff43394972ff3e0e5d3852d79b912be625",
+      "date": "2024-02-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240314 今年如何真正打造一家百万美元公司.md",
+      "url": "https://www.youtube.com/watch?v=GaeLP_m00O0",
+      "sha256": "e9b725b0359c3bb5914b224a8ab193e4616b0ea8e28bcf002b8b37050fac99c9",
+      "date": "2024-03-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240404 今年如何让业务翻三倍.md",
+      "url": "https://www.youtube.com/watch?v=JUjSw8AyodY",
+      "sha256": "25e066b5fa95c5671e5ab132d2c4e288243569bc42656e53986aea89966d0f0f",
+      "date": "2024-04-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240411 如果你的生意做不下去，原因就在这里.md",
+      "url": "https://www.youtube.com/watch?v=hJIF2w4QHNs",
+      "sha256": "44f1cd56723c540b70c2cbe28396c4d64bf8cbe0ad6e2d09d9379d9aa0e9a51f",
+      "date": "2024-04-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240425 商业中的谦逊是作弊码.md",
+      "url": "https://www.youtube.com/watch?v=CJwlvthiM0w",
+      "sha256": "e02d7f93c704dc008c5ac30b2636f7cf8cd26a1e5bfc3701a24c275c864df5f7",
+      "date": "2024-04-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240509 阻碍你业务停滞的4个谎言.md",
+      "url": "https://www.youtube.com/watch?v=T9Rn-vhGBPY",
+      "sha256": "da3e67770c68217fc6dbc58db5f04a97dc82d12334eea754212a5531a0778551",
+      "date": "2024-05-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240523 每个生意人都该看看.md",
+      "url": "https://www.youtube.com/watch?v=oRrGxcOv2PA",
+      "sha256": "2117cf72493161976c614e130dfc88578a44a1903b81e4c2c42ca3a187b5897d",
+      "date": "2024-05-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240606 10年商业建议浓缩成52分钟（女性必看）.md",
+      "url": "https://www.youtube.com/watch?v=Dr4oVH9t84o",
+      "sha256": "dbc4d5fe0b5c825c4359a7b649b1af46d3c49cfd71a4189b95805a8819b0a7c2",
+      "date": "2024-06-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240608 如何超越97%的生意.md",
+      "url": "https://www.youtube.com/watch?v=SiyAANZhrJ4",
+      "sha256": "62315f7add161a86043cd446e5c52483d29681d18912f8aba850399cf6c5f3d8",
+      "date": "2024-06-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240620 从健身比赛中学到的意外商业技能.md",
+      "url": "https://www.youtube.com/watch?v=xLuzt9yiNhQ",
+      "sha256": "3740053953f36100d4897632db46e05cf865b2010f67449a1c3b3439db50345c",
+      "date": "2024-06-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240627 如何把愤怒的客户变成铁杆粉丝.md",
+      "url": "https://www.youtube.com/watch?v=7zAMYtzs5CY",
+      "sha256": "0813fbf4b5daf439e96c2cc196d7fb3b71312bbffa89d3f4ef1484633cc4dc4b",
+      "date": "2024-06-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240711 这一项技能如何放大你的业务.md",
+      "url": "https://www.youtube.com/watch?v=cB-5ZSdmWIw",
+      "sha256": "12090e1247d88332fa67c2e7f9704f61154fd40e6ad1cf568b774527f9e4f37c",
+      "date": "2024-07-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240725 10年残酷商业真话，30分钟浓缩版.md",
+      "url": "https://www.youtube.com/watch?v=xCFaBCDot9Q",
+      "sha256": "eae9db3e2f3c42e7dc3e32bb8d9158b35bded02442da8867ddeef391beedd83f",
+      "date": "2024-07-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240801 大企业品牌建议.md",
+      "url": "https://www.youtube.com/watch?v=tQYZgJQr1qU",
+      "sha256": "498ab8cc5ccc1c1c62e17a52aba97c24eda2ed9a848ae025e7ecdabfd7bd0f67",
+      "date": "2024-08-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/240926 26分钟浓缩10年商业经验.md",
+      "url": "https://www.youtube.com/watch?v=RX5nh9uJoSU",
+      "sha256": "da528b09871dce7494c1aa3a8f0a6cd2131965b52de0ea0d84321b4f413a63e4",
+      "date": "2024-09-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/241107 每个创业者都需要听的残酷真相.md",
+      "url": "https://www.youtube.com/watch?v=Qq3Ur50MPns",
+      "sha256": "826e8eb2da4e9cadce370872b2379d7e1d14cac9398b297416427fdcdd412b32",
+      "date": "2024-11-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/241212 如何打造一个能卖得掉的生意.md",
+      "url": "https://www.youtube.com/watch?v=3UFbC2vvHLI",
+      "sha256": "3a4d27f16cbfcecfe03f644e469501de5b4c8c9c40c55ddff20029e717695612",
+      "date": "2024-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/241226 2025年如何大获全胜（我今年的顶级商业心得）.md",
+      "url": "https://www.youtube.com/watch?v=TVaEQ7ZVZjY",
+      "sha256": "a068d9d67a5a1c96e516cc6fb5057556ce45ae07da01cf3a839f0e1bf3e017c7",
+      "date": "2024-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/250313 27分钟回答你最常问的商业问题.md",
+      "url": "https://www.youtube.com/watch?v=UdpBVextp3I",
+      "sha256": "4a7bebe57e27d051f1f1b4ba9b9e40f9e0286d84acc6b128b88420a70084ffdf",
+      "date": "2025-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/250426 打造十亿美元生意的阴暗面.md",
+      "url": "https://www.youtube.com/watch?v=BcFgKNJDJgU",
+      "sha256": "9e14d92f6cc22fcbbacb2842dedda6fb15218dec2b6b142c9f6a239ae5502182",
+      "date": "2025-04-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/250508 在你“重塑品牌”之前，先看完这个……（认真的）.md",
+      "url": "https://www.youtube.com/watch?v=IcA7xvkAcpk",
+      "sha256": "4556a62295c989b1f612e93f7fe8926399d090aac59b9698abc4298b4510d265",
+      "date": "2025-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/250612 经营一家超高速增长公司的真实感受.md",
+      "url": "https://www.youtube.com/watch?v=DGlyFYkhPmE",
+      "sha256": "ddf2ad1ca7ec3cfbdfc120427dd66b7ebf127058e396d72a509abb26a6fb03aa",
+      "date": "2025-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/250712 acquisition.com 的新时代.md",
+      "url": "https://www.youtube.com/watch?v=qQXLA_jLQWc",
+      "sha256": "350e24f27bf52e91659a50a7c730f57929a4b4624a078ecb2891f98a49b59340",
+      "date": "2025-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/260220 2026年如何精通商业的每个层级.md",
+      "url": "https://www.youtube.com/watch?v=oJsLMjaspG0",
+      "sha256": "cca1e3d9bba05c175a779470143aab4b1f575bb90b27ec0a5f5098b21edafd6e",
+      "date": "2026-02-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/260320 打造2.5亿美元业务的真正代价.md",
+      "url": "https://www.youtube.com/watch?v=a0l48z18fJU",
+      "sha256": "059a43537e221ccf34c65cfd4f5093178504d113caff136077ca055097ad21bf",
+      "date": "2026-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/260519 AI正在让你的思维退化（以及如何修复）.md",
+      "url": "https://www.youtube.com/watch?v=DVtuTp3ykcA",
+      "sha256": "c567263024a2a87b482afaf70a8c9fefe419b2898957a0c7cbc0d1cda66f5adf",
+      "date": "2026-05-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 商业增长与规模化/260902 对的人，错的座位 - BUILD.md",
+      "url": "https://www.youtube.com/watch?v=I0WoAw2Wn4o",
+      "sha256": "501dc6522bcf85eafbfb516daf16618a00be2ad1fa9156b0608b2fd43448ed78",
+      "date": "2026-09-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/210804 七位数和八位数CEO的真正区别.md",
+      "url": "https://www.youtube.com/watch?v=2VjgmFNxAf0",
+      "sha256": "5ec7b0763a593bc5ad5aa9d236da8343a2fcf615c0cbdee9a1974342673de978",
+      "date": "2021-08-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/210816 我做1亿美元决策的流程.md",
+      "url": "https://www.youtube.com/watch?v=3WNgvg4qFd8",
+      "sha256": "0efafdb4089698f9c9a66c2c70f23cd94f57ae23b173641cbf00dd93b9a8e155",
+      "date": "2021-08-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/210901 如何有效委派（又不失去掌控）.md",
+      "url": "https://www.youtube.com/watch?v=zffb-u5UYbo",
+      "sha256": "f6905403b21b1387e9422125c62d8f00cf5bf9c2efe9c04a3877f6bea487156c",
+      "date": "2021-09-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/211229 如何少做蠢决定.md",
+      "url": "https://www.youtube.com/watch?v=BcKHkIdnxbs",
+      "sha256": "ba811da1a345154f6c4008df59216f6a366e2136c808c4614f37f42e4fc13bec",
+      "date": "2021-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/220511 全球收入最高CEO的秘密....md",
+      "url": "https://www.youtube.com/watch?v=jdh8F2Y78lU",
+      "sha256": "7543f558a228eb25d7e105f26cf3cc7ff181ab2e93b46b4de9612050576d34a0",
+      "date": "2022-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/220616 一个运营到底在干嘛……【我的吐槽】.md",
+      "url": "https://www.youtube.com/watch?v=DME2llZ69eo",
+      "sha256": "28d41d78f83bbe61ecbd7cb78faf87d987c93cf3fc64fe1b6e90a7443240c539",
+      "date": "2022-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/220706 成功的CEO都有这3个特质.md",
+      "url": "https://www.youtube.com/watch?v=0_xDSbMXHbk",
+      "sha256": "4fa891f67b6069ee2914297fb24fe7b9a71b646a1e7172a03aa2c1df721ec42e",
+      "date": "2022-07-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/220825 5本书让我在20多岁成为亿万CEO.md",
+      "url": "https://www.youtube.com/watch?v=i0bzfLQ4X94",
+      "sha256": "76ff95729f41e79fc7d77a77edf30efb6d5ed00755d48b4233a45e8c1cbcde1f",
+      "date": "2022-08-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/230323 决策力…我是如何成功的.md",
+      "url": "https://www.youtube.com/watch?v=2P4uS9cem28",
+      "sha256": "4602ca84b20e8f2c00337e486bba08a821caafbc37065f847c67b8201e81eb15",
+      "date": "2023-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 CEO创业者决策与运营/240905 身价上亿CEO的真心话.md",
+      "url": "https://www.youtube.com/watch?v=MkGXdWTl01o",
+      "sha256": "6abc5adf405306c8d7b1cec03aa1e74cacee4c1fa94a2f7c215e58cd9cd74888",
+      "date": "2024-09-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210628 机会成本：我是如何从年入20万做到年入3000万的.md",
+      "url": "https://www.youtube.com/watch?v=6y7aAiJInKw",
+      "sha256": "020761a8bd50b099e0374dfaadedb5206a1a3f1de97d618141ba4bdcd9ee9f3c",
+      "date": "2021-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210714 投资股市或加密货币前，先看这个.md",
+      "url": "https://www.youtube.com/watch?v=v3lULYcb_9Y",
+      "sha256": "2c733d9eea8958b387795d30a2a5f32c04bcf0ad464725bf2edf5fad41233bc0",
+      "date": "2021-07-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210728 百万富翁如何应对挫折....md",
+      "url": "https://www.youtube.com/watch?v=tDFEWolscdw",
+      "sha256": "783eea830a6f716676875fcf6bac22252499c895e0c5f909c10294f2c1f4732e",
+      "date": "2021-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210913 20多岁养成的7个简单习惯，让我财富增长到1亿美元.md",
+      "url": "https://www.youtube.com/watch?v=U5prVVeRqiA",
+      "sha256": "94aa2992125ce28feee164e2aec5aa9173e5365dd95ef1bf62b4683e0e66f3f0",
+      "date": "2021-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210922 想变富的人常对自己说的3个有害谎言.md",
+      "url": "https://www.youtube.com/watch?v=kqffSGMBcdA",
+      "sha256": "9ad4976c7c494f15d904d8986297b93fe2fe454db7e158669f513220966b517c",
+      "date": "2021-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/210927 5个轻松提升收入的隐藏技巧.md",
+      "url": "https://www.youtube.com/watch?v=2vvht9pe12Q",
+      "sha256": "ad58f3d5066dc88c918e1e466f48eb969a074c112e76e11ef789755fdc4943ce",
+      "date": "2021-09-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/211027 5个CEO常犯的错误，正在拖垮你的增长和利润……千万别这么做.md",
+      "url": "https://www.youtube.com/watch?v=VzLG9p83gKg",
+      "sha256": "c287310068fcff051cd7e87d8d6272cb0e85ea78fe85c77ef01e428a93ab6286",
+      "date": "2021-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/211129 我如何重塑自己，在爱情、财富和幸福中取得成功.md",
+      "url": "https://www.youtube.com/watch?v=aWQS8yA9RjE",
+      "sha256": "f1b518f6648719c7718c7f8754d802cfd4550f8d9699f05d536bd402aaa535b4",
+      "date": "2021-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/220112 我在29岁前卖掉了3家公司，总价超5000万美元……[7个卖公司赚百万的技巧].md",
+      "url": "https://www.youtube.com/watch?v=8QnGMml2OvE",
+      "sha256": "a6de0aa45cc977ddc57f0057f0134c9f0ffb340d47b39923d4ad48bc90f9317d",
+      "date": "2022-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/220209 29岁卖掉公司赚5000万美元，我学到的12个教训.md",
+      "url": "https://www.youtube.com/watch?v=fojKrbA41cE",
+      "sha256": "06e680b172530605cea4f9be5e09bdc0d164d74c5fb3cf34c44b234b0ff34cf4",
+      "date": "2022-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/220518 从0到百万富翁的33分钟训练.md",
+      "url": "https://www.youtube.com/watch?v=aVfCrCpS0wY",
+      "sha256": "3d0acb7b7a04b23d6da25759b37454ec3d6c5a18afd941c6b8de2b48d4f0ddca",
+      "date": "2022-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/220630 百万富翁 vs. 百万富翁CEO - 区别在哪？.md",
+      "url": "https://www.youtube.com/watch?v=akxkTT-Q8dk",
+      "sha256": "1663cb1a8f719e258a9d7fd425c3bac68fd133bae199268fea20b767f290b271",
+      "date": "2022-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/220915 为什么大多数创业者赚不到钱.md",
+      "url": "https://www.youtube.com/watch?v=Nd9rdmDtZ3A",
+      "sha256": "cbbd19678962893e930dcaaefe84f888706504ed0cb40755454b8ab3ba625f88",
+      "date": "2022-09-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/221117 4个简单生意，2023年让你变富.md",
+      "url": "https://www.youtube.com/watch?v=b6j4EGvcXBw",
+      "sha256": "4c37a3c755f8d081b3930b231bbab4d3fabbd6ecf0008f3fabec7bdba1b15803",
+      "date": "2022-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/221125 为什么副业让你越来越穷.md",
+      "url": "https://www.youtube.com/watch?v=1qw-2eNvgyk",
+      "sha256": "5f88c8240de93272bb533f89759e5e78aa33e77c3e3adeee6106c1b19d78f3ec",
+      "date": "2022-11-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/221208 这7个金钱习惯让你一直穷.md",
+      "url": "https://www.youtube.com/watch?v=Q0vI7ilGEOs",
+      "sha256": "05801c62e31a59d158d8c02a803c80956180562e7fac0165d8e0ef300ebfa226",
+      "date": "2022-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/221229 7个让我赚到1亿美元的App.md",
+      "url": "https://www.youtube.com/watch?v=qp3HJAv1NHg",
+      "sha256": "3cd12373c70a21bddbb4a438b2c17370428d17bcc7c854c87d139ab1e9d1a03a",
+      "date": "2022-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230105 20多岁成为百万富翁的5个习惯.md",
+      "url": "https://www.youtube.com/watch?v=uGes3xhkSGw",
+      "sha256": "76a3ded48eb3a61b6696d0b01bcd24b5324258fdaf42869f4ea7fc98f9bd93b3",
+      "date": "2023-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230209 让你变穷的5个金钱观念.md",
+      "url": "https://www.youtube.com/watch?v=Nf76tXr4bFs",
+      "sha256": "12780afbfb2a6ece62206b2b01e1795f5aa2a22787b208d44c38e89d1e5eb7bb",
+      "date": "2023-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230413 5个让我29岁成为百万富翁的简单习惯.md",
+      "url": "https://www.youtube.com/watch?v=F8_gz1cTdbk",
+      "sha256": "294a32cde8ab8e03eea2d5673a180f5454c912ead2cad7b4b765ce53c34a138e",
+      "date": "2023-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230504 如何从零赚到百万.md",
+      "url": "https://www.youtube.com/watch?v=uLFTLbVeOqM",
+      "sha256": "54545cfb1eb9dc388ffaed6e18019c56d7802b3a2f0e6480f9793100aeaf64f0",
+      "date": "2023-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230615 你的心态不会让你变富.md",
+      "url": "https://www.youtube.com/watch?v=p7z9p9uaE1Q",
+      "sha256": "cd480fb6fd8056bbc9a6ad6126f6748b20841ba40ecbce2cf71bc9d6ed0d2863",
+      "date": "2023-06-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230713 那些无聊但能让你变富的事.md",
+      "url": "https://www.youtube.com/watch?v=QDs1fI9zsRA",
+      "sha256": "b23391174d007a32a8cf7cbb5406063964c63efdd2d7e10657b08c737bce1066",
+      "date": "2023-07-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/230928 如何少干活多赚钱 - Leila 直播答疑.md",
+      "url": "https://www.youtube.com/watch?v=vis3IwlgsgI",
+      "sha256": "438d56eb20474a19fa2ca48a512deed44bdb1d7b070ea7b0a6574510d072eb35",
+      "date": "2023-09-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/231214 回答关于金钱与感情的尴尬问题.md",
+      "url": "https://www.youtube.com/watch?v=tZbPCDmdK-c",
+      "sha256": "daea8d5750a7cdbb51b0ce6394a3faec28be945b02a44652bdd3b4d03ff06b79",
+      "date": "2023-12-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/240613 我是如何给自己洗脑变富的.md",
+      "url": "https://www.youtube.com/watch?v=_sJw0Jgs2dM",
+      "sha256": "40feac38432304f6a4c6eca4036ba65d4dbc02f87c2cb2c1aa3366f8b05fe72f",
+      "date": "2024-06-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/241024 赚钱的原则.md",
+      "url": "https://www.youtube.com/watch?v=LuJxo_I1iNc",
+      "sha256": "d134a9ac20d21c849ce857fefc136b683084d6eb7578198ff0dd9f849856793c",
+      "date": "2024-10-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/241101 你的感情关系如何让你变穷.md",
+      "url": "https://www.youtube.com/watch?v=vK-NFXitqIM",
+      "sha256": "3ea51993aea8dbcd11fca01f9be12eeb75c688633aa34df589e45592106c1f54",
+      "date": "2024-11-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/241205 学会这5项技能，否则永远穷下去.md",
+      "url": "https://www.youtube.com/watch?v=_k7IuTh71k8",
+      "sha256": "1b9c593f19220104f150089135169fb7b36890cf6be19f29eddbc87339266177",
+      "date": "2024-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/250605 6个安静富人的微习惯.md",
+      "url": "https://www.youtube.com/watch?v=Rc8eUU_rNOg",
+      "sha256": "18a75264a07d80651475e6e901b0c04c9e0255b1b1d1d637cc5a552bb7e45afc",
+      "date": "2025-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/251205 赚钱心理学.md",
+      "url": "https://www.youtube.com/watch?v=cgsWQd5EM1k",
+      "sha256": "0f1f4a4c93127f0e0873943da75401695a90ee90acd14165bd74bc52c9218fc7",
+      "date": "2025-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/251212 5个“无聊”习惯，让我从穷光蛋变成百万富翁.md",
+      "url": "https://www.youtube.com/watch?v=RJNDXnboXd8",
+      "sha256": "fe485e381d791126457f44170d837a89323b9bc540727c2916ddeaab0e48bf61",
+      "date": "2025-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/251218 财务自由其实很简单，只要你做到这一点.md",
+      "url": "https://www.youtube.com/watch?v=Msk6CwtDrYQ",
+      "sha256": "3377cbfa24a63354e1b144583057c98b46cebceb88f153dcc0bf87163cbda362",
+      "date": "2025-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/260407 赚钱的心理机制.md",
+      "url": "https://www.youtube.com/watch?v=e1awpbZxVnw",
+      "sha256": "c49047b251976a593c612c2b35da8e9afaf424428dc870ea152a8794bf0757d0",
+      "date": "2026-04-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 财富金钱与投资/260630 如何瞬间显得自信10倍.md",
+      "url": "https://www.youtube.com/watch?v=r-5ic5Tglqk",
+      "sha256": "a42c47fce82f4889bb29124ab545a9784ad668b771ef318e9f2f453505a17f77",
+      "date": "2026-06-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/210630 我是怎么治好拖延症的.md",
+      "url": "https://www.youtube.com/watch?v=EeushgH5jZY",
+      "sha256": "2c9ced971a9b4741ca109defa6df7ccb71a6b7e18e1cb951dd33daeddbba6063",
+      "date": "2021-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/210802 如何在经营业务时不失去理智.md",
+      "url": "https://www.youtube.com/watch?v=b1yzZq2gb40",
+      "sha256": "e110f80a780c6eb9483bc883ab85e793134575b138af3d9cb4ec5117b54c043f",
+      "date": "2021-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/210906 我是怎么治好职业倦怠的.md",
+      "url": "https://www.youtube.com/watch?v=mbGpJInH2N8",
+      "sha256": "51153cf8a72075652539bd8ad9023aada5990f4f6dc96dfe35ec0c17516b108e",
+      "date": "2021-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/210915 身价上亿的CEO如何应对焦虑.md",
+      "url": "https://www.youtube.com/watch?v=lHN8QdwJJk8",
+      "sha256": "2d147dead7bc286f446ae4cb1d17903cb5a199de2ebc9eae98ae31fcc8cc75f7",
+      "date": "2021-09-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/210920 3个心理技巧，让创业者不再自我否定.md",
+      "url": "https://www.youtube.com/watch?v=3VtZMIgrO0g",
+      "sha256": "0bc1ba0dbefdc421837d159c7314753c06d23b183237baf86e8986d07a9cebd2",
+      "date": "2021-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/211103 3个简单步骤克服恐惧和焦虑.md",
+      "url": "https://www.youtube.com/watch?v=ehQqHlJWTcc",
+      "sha256": "e4a46dc05ecc2fdfe5b224464066eb68ccb20fba34f153dece416d48777e236a",
+      "date": "2021-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/211110 3个导致创业失败的原因...以及如何重塑你的思维.md",
+      "url": "https://www.youtube.com/watch?v=hYNCtwbBt2U",
+      "sha256": "8347e60e3d8d01f6b49d2a19080c266f6d3ebd7a19c3f5fef7eaa52e958e2125",
+      "date": "2021-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/211117 我是如何克服创业焦虑，把生意做到一亿美元的.md",
+      "url": "https://www.youtube.com/watch?v=e1yylbyDaOA",
+      "sha256": "8045f6723474759ada04b42bcab420260f586253c32e7d8f552161c1020e9efe",
+      "date": "2021-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/211124 3个危险信念，让老板们一直失败……“方案跳槽”的代价.md",
+      "url": "https://www.youtube.com/watch?v=DFgcXH1ykLY",
+      "sha256": "bd10ee17e139c8f0e0f9df9843e18a8d6a9ed835b1f8efccd4d5874bcfc8339c",
+      "date": "2021-11-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/211206 自我破坏让我损失了3000万美元 [如何治愈自我破坏].md",
+      "url": "https://www.youtube.com/watch?v=XcFNlagNhog",
+      "sha256": "02f548dc4fa7912935a45c0dfe08d9d1f085e4ffa5c34370e2317bee7d90021e",
+      "date": "2021-12-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/220105 我们收到了死亡威胁……如何应对黑粉.md",
+      "url": "https://www.youtube.com/watch?v=wFB2Q1cFRZ0",
+      "sha256": "9716022150814f39b990f514cf3845e52d66daed2d066285d33e00bca01d343e",
+      "date": "2022-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/220427 被压垮到动弹不得？如何克服…….md",
+      "url": "https://www.youtube.com/watch?v=uIvjb2E_efM",
+      "sha256": "eef970d5b8721fac81778da36581cc1ca4aa07862fbf4e242ba0cb8d04f0e2ab",
+      "date": "2022-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/220811 我每天工作14小时（却不觉得累）.md",
+      "url": "https://www.youtube.com/watch?v=Cq_PAEnD9eg",
+      "sha256": "bc58f5464d1cd873ce70c4aef4788cb3b67a79c177da31157ff2c9a2de0f7537",
+      "date": "2022-08-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/230817 我是如何骗大脑爱上努力工作的.md",
+      "url": "https://www.youtube.com/watch?v=dizvdtsKjC8",
+      "sha256": "e30961f9f9ad4a3a700e5ce585bfd737d6467139c08485c37e63531eb3825e65",
+      "date": "2023-08-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/231019 这个视频能帮你停止反复内耗.md",
+      "url": "https://www.youtube.com/watch?v=JN9p7e2_VJ4",
+      "sha256": "7303186730e2252dc5de4f6af19eae792741355806efd0a4c68f3e448f071049",
+      "date": "2023-10-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/231116 这个视频会把你的焦虑变成成功.md",
+      "url": "https://www.youtube.com/watch?v=ZrLGONX_2sI",
+      "sha256": "bc36c27027618f377190f9714ac8796e57adbd9404d4b13c25b01bf8604d4a62",
+      "date": "2023-11-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/231221 如何骗过大脑，不再拖延.md",
+      "url": "https://www.youtube.com/watch?v=NAUDK7G5570",
+      "sha256": "95c1e8b518c96c1aabc8e7f0449cf4cc913caaa39da67a2734e1a7edb7dd61bd",
+      "date": "2023-12-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/240111 看这个，别再内耗了.md",
+      "url": "https://www.youtube.com/watch?v=9bO7fq87smg",
+      "sha256": "fa199eaea7c7d49b8542587468e372fbd7d41476f90d4358222702b524cef3bc",
+      "date": "2024-01-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/240125 生活把你击垮时该怎么办.md",
+      "url": "https://www.youtube.com/watch?v=L4KFLFjJTpE",
+      "sha256": "e7281d4d4fecd328b2b3522e1f73c86a10d0db25825df5453f64173b585dc58b",
+      "date": "2024-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/240704 停止让情绪左右你的行为.md",
+      "url": "https://www.youtube.com/watch?v=xaV8rg-uBYc",
+      "sha256": "2ee5af5b46b8b2f16858fda9c48ca25c54e9fbd7a712320907f3e4fe771a7444",
+      "date": "2024-07-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/240829 如何真正提高效率（即使缺乏自律）.md",
+      "url": "https://www.youtube.com/watch?v=IbVUxbSQtGk",
+      "sha256": "a5f7f3fd66279273455d9404a052ae8fd8e136937c9a6f8ec70273a829ea4356",
+      "date": "2024-08-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/241114 你不是懒：我的三步系统，让你真的把事做完（无论什么情况）.md",
+      "url": "https://www.youtube.com/watch?v=X2szta-M4LQ",
+      "sha256": "64a8190aa05f69321800c163438edd1d5d4f3300eff8c3a66787094e5e5f6ba0",
+      "date": "2024-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250123 如果你正被问题淹没，请看这个.md",
+      "url": "https://www.youtube.com/watch?v=PrkLlDju0Xc",
+      "sha256": "3f87ddedc95daf3d3550c3cfbee8009aa973f7ac8f57bb87137f63e7a1ad9648",
+      "date": "2025-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250206 如果你觉得一切都在崩塌，就看看这个.md",
+      "url": "https://www.youtube.com/watch?v=LFxmbG70yk0",
+      "sha256": "4457bd6cfcd2c327b48e0766e80d4e9fb9527aef44d8a4bc695b5523d2aa667d",
+      "date": "2025-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250619 用这6个策略，让你对自律上瘾.md",
+      "url": "https://www.youtube.com/watch?v=5XhfNHswGsU",
+      "sha256": "6dd53e0bb3baf201eedef0d2c4867fd7d36fd7da326d878df0367b484e72a69a",
+      "date": "2025-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250703 这个视频会让你领先99%的人.md",
+      "url": "https://www.youtube.com/watch?v=6djE0-PyXQo",
+      "sha256": "aae149fe67015db7448449ac3ea0f34f64273910f36130fe1d98e8d9fe34674b",
+      "date": "2025-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250717 成功不难，直到你建立这样的系统.md",
+      "url": "https://www.youtube.com/watch?v=skG54l4Vp_4",
+      "sha256": "c85e8bb4df9acf04ed514afb481d9bbb26ac21d8b3568f4c835291103c8b70e0",
+      "date": "2025-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250828 如何情绪抽离、专注自我、让人生升级.md",
+      "url": "https://www.youtube.com/watch?v=tmd_-27EOIY",
+      "sha256": "46656be03e0335f127f3cdae5bf8f0476100ad3d1af7175ca5bc80cf6c0df23f",
+      "date": "2025-08-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250911 今天只看这一个视频就够了.md",
+      "url": "https://www.youtube.com/watch?v=8qIwbaIdLvE",
+      "sha256": "cb185b57e97b2d6735a80e88ebf0f0af065b3e79e2eca56056bad00eb10db245",
+      "date": "2025-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/250925 59秒，删除你对失败的恐惧.md",
+      "url": "https://www.youtube.com/watch?v=1UGnEnVSCho",
+      "sha256": "e3d822a723dcc964415d74f2966d432cbbc7f71220ec96f9043e3902ee5cd801",
+      "date": "2025-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/251009 如何停止过度思考.md",
+      "url": "https://www.youtube.com/watch?v=Q9KaMecVLvc",
+      "sha256": "2e557cdabfe818e6930acbece159244d560d4d7bdd74a538f05edb94f4825d39",
+      "date": "2025-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/251016 如何彻底战胜消极念头.md",
+      "url": "https://www.youtube.com/watch?v=PRFzRtzhZrw",
+      "sha256": "e3be75a61892d9e78fc2ee1a40ac14f8d81f5faea3056861e9447496d4937f80",
+      "date": "2025-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/251030 如何摆脱倦怠，像1%精英一样进阶.md",
+      "url": "https://www.youtube.com/watch?v=DmenYQ_MEEA",
+      "sha256": "fd0f24e0b35a068a44c6563f69249d1c5919846576b5f09d8d71bbfb2ff40dbc",
+      "date": "2025-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/251114 如何从任何挫折中变得更强大（1%顶尖人士的秘密）.md",
+      "url": "https://www.youtube.com/watch?v=VR2RLVBiMe8",
+      "sha256": "a24e8db1e2dfa19e6609005b87d025749709c281c10903919afe1eabfb72cede",
+      "date": "2025-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/251226 给我8分钟，让2026成为你最好的一年.md",
+      "url": "https://www.youtube.com/watch?v=CqtFlzNivuI",
+      "sha256": "d51f36d888128014da8043dd75005bfe1279b292747c70ab95e76e27e5b5e201",
+      "date": "2025-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260109 保持极度冷静，让人不寒而栗.md",
+      "url": "https://www.youtube.com/watch?v=4vxWJUx32Rw",
+      "sha256": "47794aee208d787af0027ccce74303f9634d5e06ac6bd9526d7b9d4b24f03378",
+      "date": "2026-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260123 锁定目标：让2026成为你人生最好的一年.md",
+      "url": "https://www.youtube.com/watch?v=FQOlC-3SUF4",
+      "sha256": "45a48e820beac367ae482f3084fb8e2da73ae0c468f84ff08c183c8116485cdb",
+      "date": "2026-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260206 你80%的时间都在拖延（我是怎么改掉的）.md",
+      "url": "https://www.youtube.com/watch?v=LpNODHhn-60",
+      "sha256": "b52e1bd263da5d8e8b9dd6b061be81e51cc95bb3e84f39c46089a4678276fa24",
+      "date": "2026-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260217 你不是懒：如何逆袭并升级你的人生.md",
+      "url": "https://www.youtube.com/watch?v=xO4lpL0FNLg",
+      "sha256": "d55ce5d1684d677f83ac7ee15b5ace7982195aff8fc24a5347e2e0ae986d908d",
+      "date": "2026-02-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260306 给我17分钟，让你变得危险地自律.md",
+      "url": "https://www.youtube.com/watch?v=cXytK82N93Y",
+      "sha256": "61ff8ed8ffa071ef83728ae1610044a7ecfc1783dac6a8e276358c2b28d9c8bb",
+      "date": "2026-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260313 如何说话清晰到让人以为你天赋异禀.md",
+      "url": "https://www.youtube.com/watch?v=7FiKGWYA65g",
+      "sha256": "4f34d0bc5a73fa87bfb983476340c9532b795784c33ff087b91590b001709aed",
+      "date": "2026-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260327 如何像顶尖1%那样思考.md",
+      "url": "https://www.youtube.com/watch?v=6by3XnwdsMQ",
+      "sha256": "2a784fad1839ffd9396600712d3d212b665e27511bcad9cf2e1da9d15f153a59",
+      "date": "2026-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260601 如果你有野心却卡住了，看看这个.md",
+      "url": "https://www.youtube.com/watch?v=RWQHNc1u-cE",
+      "sha256": "8b977c0f19bf036964d3df28d2e3bd115884b5f28aeb70ff43ab8a657f376c59",
+      "date": "2026-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 心态情绪与自我管理/260612 5种方式应对不尊重你的人.md",
+      "url": "https://www.youtube.com/watch?v=GRT-HGGYQeQ",
+      "sha256": "2cb20cec93ea1b06833d63d169362bec14b4638f7c51836c8fd61da1978a4f46",
+      "date": "2026-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/211208 我为什么辞掉了工作…….md",
+      "url": "https://www.youtube.com/watch?v=rcjW24_El-0",
+      "sha256": "f454480d3727302f142f97f417ab4ffe6a7927bd2c440d10e8d5ab3dd6372d45",
+      "date": "2021-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/211213 为什么工作生活平衡是个谎言.md",
+      "url": "https://www.youtube.com/watch?v=kcjpiaJJGao",
+      "sha256": "d075d07122cff57d1ec683bd269c9f09ddd4f05047659be3707a90c39f22eed0",
+      "date": "2021-12-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/220804 20多岁学到的6个教训，帮我赚了上千万.md",
+      "url": "https://www.youtube.com/watch?v=r5UETPv70r4",
+      "sha256": "e57ccb1381daa0a56ad37057ffd546eb2d165835f65a6a73a31d9ef9c29d68bf",
+      "date": "2022-08-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/221020 完美主义如何拖你后腿.md",
+      "url": "https://www.youtube.com/watch?v=763vHYlFLGM",
+      "sha256": "9730f6f3f450344f0c904ccf23bb48644853f247be36a546c56dc37ffe0de8ab",
+      "date": "2022-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/221110 5步学会打造六位数简历（年薪10万美金+）.md",
+      "url": "https://www.youtube.com/watch?v=KhJH7wCaFlQ",
+      "sha256": "4b39d7b149c260de53536e33dde992aa53babf8240bb33086ed4241faaa5ab33",
+      "date": "2022-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230119 我的人生卡住了……该怎么办？.md",
+      "url": "https://www.youtube.com/watch?v=YhPR7aU9nQ4",
+      "sha256": "3df6c67789b7807b9d1c6be4a987d3fa9b2bbe58a62ff793c57e4fa31a76d775",
+      "date": "2023-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230126 2023年最高效的7个习惯.md",
+      "url": "https://www.youtube.com/watch?v=54CHt8MKGtM",
+      "sha256": "39bd2a4b7e10717d9da0a3b7e66e084e72e00f0d1003dd541e5cb2a21bfb3fbe",
+      "date": "2023-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230202 我是如何给自己洗脑走向成功的.md",
+      "url": "https://www.youtube.com/watch?v=lsqkqIqU8rc",
+      "sha256": "5da82c73a0e143a306d6e9064bafdb50a97c396ea3d9ef18c4937f14c6b485d3",
+      "date": "2023-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230218 改变我人生的10句话.md",
+      "url": "https://www.youtube.com/watch?v=BDydrQVKHcY",
+      "sha256": "7c8e2b7e4fc90110184ae7a29d216da285d68ec494a467d2e689e6e36357b3c5",
+      "date": "2023-02-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230225 我是如何扭转人生的（感人）.md",
+      "url": "https://www.youtube.com/watch?v=Gve__uJAVMA",
+      "sha256": "de463e42635ee63db22e4e36522314df21074ad34b5635c579656f9f1b784a63",
+      "date": "2023-02-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230330 我如何用5分钟打造梦想生活.md",
+      "url": "https://www.youtube.com/watch?v=qE6f9mvLwk4",
+      "sha256": "fe013ec0acc8341e9e6aa493877beca01e1c447c80d015a90bbd023a58b21908",
+      "date": "2023-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230406 如何克服三分钟热度.md",
+      "url": "https://www.youtube.com/watch?v=B-ePLxHNvFc",
+      "sha256": "f45e829b66a19a370cd6d48137298e38cb99aa60d4cf18f7ad5077f2ffee74bb",
+      "date": "2023-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230427 平衡工作、生活与关系（我的首次问答）.md",
+      "url": "https://www.youtube.com/watch?v=A0qonZmo7nE",
+      "sha256": "8f05189f5998ebd83e8f4b056a83ddb0ce79dc48a5606f2ad628ee9fb22769cc",
+      "date": "2023-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/230629 今年我做过最难的事…….md",
+      "url": "https://www.youtube.com/watch?v=4tYs1PDu3sA",
+      "sha256": "79d69283c9ff9c1173e832c88c2c195a52eba18a2dae6a7aa4154aeab720a73c",
+      "date": "2023-06-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231007 坦诚聊聊我最艰难的时刻.md",
+      "url": "https://www.youtube.com/watch?v=1yFDQSA7cOA",
+      "sha256": "a51979378d06cb0a2e62e347430ea732bfd8b0d1d86ec8b0d457b90d7a8120ba",
+      "date": "2023-10-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231026 我如何在二十多岁逆转人生.md",
+      "url": "https://www.youtube.com/watch?v=rC33wL7Ywg0",
+      "sha256": "bd5ad410489b60370be30f293b5e56078c037dcb30782a052b0b139851f517a9",
+      "date": "2023-10-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231102 这些性格特质预测了90%的成功人士.md",
+      "url": "https://www.youtube.com/watch?v=mUpF__VeHSY",
+      "sha256": "f9f922d6afea5b173b257f81ab31b3e2affcb7abc1630a2ca041149088eeb8e0",
+      "date": "2023-11-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231125 别再玩困难模式了（我最爱的6个开挂技巧）.md",
+      "url": "https://www.youtube.com/watch?v=bpUL3rUZrqE",
+      "sha256": "c7bffcfc238e082b2ac90e468cd24148a03c64722216648ff685b4d5a9146822",
+      "date": "2023-11-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231207 700万美元的教训，早知道就好了.md",
+      "url": "https://www.youtube.com/watch?v=WlwZnI2PE8s",
+      "sha256": "b44401b6dbdc72fa5c6b452b1a2e7a95bd554b558c9e8a5f2966b3c4eb552c90",
+      "date": "2023-12-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/231228 坏女人综合征.md",
+      "url": "https://www.youtube.com/watch?v=XSJutKCNQRg",
+      "sha256": "4e347cda669c0bf43b67d06f7bb2343763348c0aa0b3d5eeef3c53812e6b5901",
+      "date": "2023-12-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240222 分手前，先看看这个.md",
+      "url": "https://www.youtube.com/watch?v=FaPCcRiyyFU",
+      "sha256": "6e4f3306e5c155c0c82865bd71793506182390054680c83ac113f4377aafacb1",
+      "date": "2024-02-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240307 为什么你该戒掉“对不起”.md",
+      "url": "https://www.youtube.com/watch?v=x-VvtSQt6t4",
+      "sha256": "4384c0786ed3f442bb3098cb38e5997eb5edba9e3e7f2949c6634e1626fbbdb9",
+      "date": "2024-03-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240321 如何让2024年过得比99%的人更好.md",
+      "url": "https://www.youtube.com/watch?v=526suH766u0",
+      "sha256": "e5e3a6bcd56c733c5b238457b57865619a860ca7e3fffed8a77b40d7f1bb8512",
+      "date": "2024-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240328 没人愿意工作的真正原因.md",
+      "url": "https://www.youtube.com/watch?v=NJVdjtPO5S4",
+      "sha256": "07ebea31fd5c519502c1b6177fedc20bcc73e98862f327855c6248fcb8e137e6",
+      "date": "2024-03-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240518 99%的时间都花在了这一个技能上.md",
+      "url": "https://www.youtube.com/watch?v=owu6UGAP3Xs",
+      "sha256": "2c4eb91ffb5d4821ba5d1a02f31448d952130e31d935902fde30f7c7c3ba39ff",
+      "date": "2024-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240530 阻碍你成功的唯一一件事.md",
+      "url": "https://www.youtube.com/watch?v=MpTjNR1XnmI",
+      "sha256": "8354092c89315a3d753245c8be388fdebe909599beb55f7c43fe24b712c65294",
+      "date": "2024-05-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240629 99%的成功取决于这个人.md",
+      "url": "https://www.youtube.com/watch?v=rMRZ38kVtAk",
+      "sha256": "652150800f8888db4e4ef1b451338dc115c75b323c65c02c5cac39e9a4c9b3fa",
+      "date": "2024-06-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240718 别再等导师了.md",
+      "url": "https://www.youtube.com/watch?v=SZDvYjkRNcw",
+      "sha256": "72be1fdd589e3eab1e0433ff801d5b4c1ca45812feaa54ba3be50fcfa0fcbc25",
+      "date": "2024-07-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240808 如何真正实现目标 [5个步骤].md",
+      "url": "https://www.youtube.com/watch?v=n8Wvznbt3Po",
+      "sha256": "da930efccf43436da7bc46c68eb8c696acea5f68db447e5115520e6496854d11",
+      "date": "2024-08-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240810 【直播答疑】现场解答你的问题.md",
+      "url": "https://www.youtube.com/watch?v=_2J1QXvJ6-c",
+      "sha256": "6413fac151f49e9a51fa296ed87ff00c6640d27a6194876395bec33ae6966012",
+      "date": "2024-08-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240817 【直播答疑】现场问答.md",
+      "url": "https://www.youtube.com/watch?v=jPLmQyWkbGY",
+      "sha256": "0eaa8a73c5fe4c58a7037505e9357896cc5b376b14f4c97d28861d91f0158a81",
+      "date": "2024-08-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240822 我如何重塑思维走向成功.md",
+      "url": "https://www.youtube.com/watch?v=GCk_jk_AsIk",
+      "sha256": "ac38623428e7ad4b0e73483172e703781afe3a2e3b85e4f9309b78fd766cabc9",
+      "date": "2024-08-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/240919 每个女人都需要听的残酷真相.md",
+      "url": "https://www.youtube.com/watch?v=1ZzhPaVz21M",
+      "sha256": "d951ded3cb791f638f35b6a957a58a4879b9cbb0c2c89ce6902e2fb6562410a3",
+      "date": "2024-09-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/241010 如何在4周内完成别人4年才能做到的事.md",
+      "url": "https://www.youtube.com/watch?v=XwdLVccSTwA",
+      "sha256": "1b52291183ece1ac98bece84ed6233ec4c875ff3d607a21d9efb2bfd159261aa",
+      "date": "2024-10-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/241121 给感到人生落后的人（尤其是有野心的人）.md",
+      "url": "https://www.youtube.com/watch?v=JbTFqWe-Bbs",
+      "sha256": "02cc6dcba7700ed5d8c0c2c53555f78de66044f535160d1c31c84edfe647a3a5",
+      "date": "2024-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250102 如何轻松重塑自我.md",
+      "url": "https://www.youtube.com/watch?v=MWor9N8bX9U",
+      "sha256": "6da391036c8562f4866b1eed4fb3c3f0abb7ddd72ff71461744d4cc30006b0bf",
+      "date": "2025-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250109 如何实现任何目标.md",
+      "url": "https://www.youtube.com/watch?v=l5WjRPQjbVo",
+      "sha256": "9fb6c6f2f97ce138ec41321f689a049afeae1b1ef65b8e5c5077bd706c6325f9",
+      "date": "2025-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250116 这是我讨厌工作的原因，以及我是如何解决的.md",
+      "url": "https://www.youtube.com/watch?v=1EyFgm0fXso",
+      "sha256": "3e19059a4afc52ab0afa045e9e53a12090dcc89b7e11163d690d9299a29980de",
+      "date": "2025-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250228 这就是顶尖1%与普通人的分水岭.md",
+      "url": "https://www.youtube.com/watch?v=p6bzOlsieKU",
+      "sha256": "72d8af03650187cb71e402b781f91aed18fa1e51be43462f53f2a2aa8353c1fe",
+      "date": "2025-02-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250522 给我15分钟，让你自信到危险.md",
+      "url": "https://www.youtube.com/watch?v=7e6RSGdvHD8",
+      "sha256": "d8770acb5768e3f36389f84670701e848e167256574671e2ebee6ba4b7806d32",
+      "date": "2025-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/250814 如何比99%的人更清晰地表达想法.md",
+      "url": "https://www.youtube.com/watch?v=QZXE2-sFWxQ",
+      "sha256": "fb7facdbd57c96b97e941161ad1b4667e996d283f98804fb285f46590c20487a",
+      "date": "2025-08-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/251023 如何快速升级到别人认不出你.md",
+      "url": "https://www.youtube.com/watch?v=R23CiC80t7c",
+      "sha256": "416e728cdd7a0be7143f489d2b7523dc492df4d6059d70c62c27f5d551b54ebd",
+      "date": "2025-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/251121 我33岁。如果你在20或30多岁，一定要看。.md",
+      "url": "https://www.youtube.com/watch?v=Kg2Ux47hwg4",
+      "sha256": "cdaf3d83fd7cae57278c0c06df4f94a556d831245d99ea7c654001e88c604233",
+      "date": "2025-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/251127 这个视频找到你...是时候在2026前锁定目标了.md",
+      "url": "https://www.youtube.com/watch?v=aMxcZY6aIFU",
+      "sha256": "e2e81c6ee744b12ba3fc01b66f6ce3d3bdb56a2bf816ac0ba8bf8a87ca567da3",
+      "date": "2025-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260116 如何在2026年脱胎换骨.md",
+      "url": "https://www.youtube.com/watch?v=ZC0RgDJ3J7Q",
+      "sha256": "f00539c1146ee23a07759248a903e8bcc7f3d8e518fcf1cfe4efd1bd2b227052",
+      "date": "2026-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260410 如何在有毒的职场里反败为胜.md",
+      "url": "https://www.youtube.com/watch?v=NqtWADqiMCo",
+      "sha256": "ac0ad16acbe91afa70ae902c9fc42555848273f131b7a600e29424809da7ef8f",
+      "date": "2026-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260430 想辞职？先看这个。.md",
+      "url": "https://www.youtube.com/watch?v=LCc-wecNPKg",
+      "sha256": "4ded1da38fc24d730214dc4f902c50476de7e9eef1a78135790ec43c3dc70aaf",
+      "date": "2026-04-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260729 平衡正在让你失去一切——亲爱的莱拉.md",
+      "url": "https://www.youtube.com/watch?v=X6S2D1OEaQo",
+      "sha256": "9e06daa2d4808112e3cbdceb4213570469451de06b9cac52e004baa9788a6cd1",
+      "date": "2026-07-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260805 如何赢在当下这个阶段 - BUILD with Leila Hormozi.md",
+      "url": "https://www.youtube.com/watch?v=35_FP1043KA",
+      "sha256": "ea5a3808af00efe43888d5eca3e2574f6e603266322d87c05552322939c975a4",
+      "date": "2026-08-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260819 你需要习惯让人失望——建立个人品牌.md",
+      "url": "https://www.youtube.com/watch?v=5ccMbDYjwKw",
+      "sha256": "676ab913a6b0db803edc2bb69170be4024038ee38a5b275e942b89e449483ed9",
+      "date": "2026-08-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260909 失败越多，自信越强 - Dear Leila.md",
+      "url": "https://www.youtube.com/watch?v=HvrJmXOEd6o",
+      "sha256": "bfeda2926272504448c76963b8b313a8b00f9a6c21c3e31401f29d4c4abe53a6",
+      "date": "2026-09-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260924 42分钟彻底粉碎自我怀疑.md",
+      "url": "https://www.youtube.com/watch?v=U4qrZYiYdc8",
+      "sha256": "580f78f48d41793c2826fbcfa22c7d71d8e77f5f04493d977ae81a9627a23bd4",
+      "date": "2026-09-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 个人成长人生策略与身份重塑/260930 我恳求你，让别人误解你吧.md",
+      "url": "https://www.youtube.com/watch?v=w_yU1xEqXwk",
+      "sha256": "c96acc2245326f3403ac4786103593192bba3d626ec8c059fdac3380ea775f95",
+      "date": "2026-09-30",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/210809 作为女性CEO，我学到的事.md",
+      "url": "https://www.youtube.com/watch?v=gHnAalfYwtM",
+      "sha256": "de8d878dbd603a26df88cc05a44130b3ef72babf2006f9ee53c3f349dc1bd019",
+      "date": "2021-08-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/210823 我们为了生意结婚……结果是这样的。.md",
+      "url": "https://www.youtube.com/watch?v=0p7FL4FmKZQ",
+      "sha256": "a75c14d85c9af26f1862899a1253b84c640138001116526b7babfd4a1da6f1a4",
+      "date": "2021-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220223 为什么我拒绝给自己贴上“女”CEO的标签….md",
+      "url": "https://www.youtube.com/watch?v=rLTKBtCQCog",
+      "sha256": "8e62729ea8077031a3febf999f5b64babe2919469a809a861eeebe4000f7e34a",
+      "date": "2022-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220330 我们为了事业结婚……接下来发生的真相.md",
+      "url": "https://www.youtube.com/watch?v=WQJdon7c6GM",
+      "sha256": "eaf3ca5e3658cb8a4b1c9a374ca6b95cbebbb208abe91ed0bc76b18c187187bd",
+      "date": "2022-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220601 从睡汽车旅馆到28岁赚1亿美元.md",
+      "url": "https://www.youtube.com/watch?v=2XpVyjhV3uo",
+      "sha256": "20fd9c11dc5834274388a4b2e267de322f8c8d887aa6d4694a70d0be19df11c2",
+      "date": "2022-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220623 从Bumble到1亿美元生意.md",
+      "url": "https://www.youtube.com/watch?v=4WfGol0p5NI",
+      "sha256": "45c4b3fb85ea5bf6c0f27fbd582a0db7bfea4f5bcf3404a70ab3f1dac2c455d1",
+      "date": "2022-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220714 我在荒野独处120天（改变了我的人生）.md",
+      "url": "https://www.youtube.com/watch?v=iHgDk1m2kEw",
+      "sha256": "6ba675281c033b5e94e5efa1ee98ed2e7241f4cd6aa3e2e6b687909d7fd35f67",
+      "date": "2022-07-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220721 从六次被捕到掌管一亿美元资产组合的CEO.md",
+      "url": "https://www.youtube.com/watch?v=D5c2p-V3s2k",
+      "sha256": "59aa445b924437507b835286b2febaa73a59199cbf8320c7b3f6f0fbc55f2eb4",
+      "date": "2022-07-21",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/220901 20多岁学到的7个习惯，帮我赚了上百万【与Pace Morby对谈】.md",
+      "url": "https://www.youtube.com/watch?v=bj4t-AoqkM8",
+      "sha256": "4f89e207e4e9cbf5439c603186cea9211c80d528a0db952d1b43623b136b9e05",
+      "date": "2022-09-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230418 生活更新…….md",
+      "url": "https://www.youtube.com/watch?v=x_ks1HuMrxw",
+      "sha256": "d8592ac75dba3389488d1c45654720b846e563da0f5471898654ed3038b7949f",
+      "date": "2023-04-18",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230525 莱拉·霍尔莫齐的一天 [第001集].md",
+      "url": "https://www.youtube.com/watch?v=ThzlMt4om6I",
+      "sha256": "6d148a0c631e147b2b8e415ace97118c84ee5846b8df1c8a2dd7e57ec7393bc6",
+      "date": "2023-05-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230708 所以，这事儿就发生了…… [第004期].md",
+      "url": "https://www.youtube.com/watch?v=a6-NlSumNP4",
+      "sha256": "f606cce941c12291f2006cff2f50afff7c391edd55b294a8f0bab2342b79dd4e",
+      "date": "2023-07-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230727 从最低工资到29岁身价1亿美元（我的故事）.md",
+      "url": "https://www.youtube.com/watch?v=EmaL_7j0uWk",
+      "sha256": "806e37526f8aa1d11ab9baf6554324846391b8401b04e05d5baf5847395702ea",
+      "date": "2023-07-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230907 我过得很糟 [Ep 007].md",
+      "url": "https://www.youtube.com/watch?v=2AiYGiPgy3I",
+      "sha256": "cf01812a367da1c71e19444552e6f359b7bad7f2a3a83eda0a5a91c546c536bb",
+      "date": "2023-09-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/230921 我遇到了一个问题……[第008集].md",
+      "url": "https://www.youtube.com/watch?v=WEi593NUAkA",
+      "sha256": "7ba077a805fc53d4e13024ac140da0ed0fd64f1abf0b5d7b8e8b14ce99dce34b",
+      "date": "2023-09-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/231013 探访Alex和Leila Hormozi幕后团队（全纪录）[第10集].md",
+      "url": "https://www.youtube.com/watch?v=kfFdJIL1epE",
+      "sha256": "38ca9471159f88e841041a8b8aff617cc8796ce14fc7a839a7148767f9952225",
+      "date": "2023-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/231109 我经营公司的幕后故事.md",
+      "url": "https://www.youtube.com/watch?v=rO9IIUkGbkQ",
+      "sha256": "322466f584ba63a720498986438e7819f1e68c47b991db216ffd1df5e29bb0c1",
+      "date": "2023-11-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/231130 “意料之外” [第011集].md",
+      "url": "https://www.youtube.com/watch?v=j3Rt0oK4pUc",
+      "sha256": "1897418ea4b936f75aa26af06e594a294f4495c75efd2b46d6999706b00c6191",
+      "date": "2023-11-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240118 把压力变成兴奋 [第013期].md",
+      "url": "https://www.youtube.com/watch?v=eRQNkIBfmUY",
+      "sha256": "f5da70b0566922df2a0d0a7f2c73da746a260a3754cdce08db6ac0d3fd0c035d",
+      "date": "2024-01-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240201 机不可失- [第015期].md",
+      "url": "https://www.youtube.com/watch?v=nVEHwpZV_V0",
+      "sha256": "2e302c0b58c3eaab04ff6c111554906a8b4ef08d992d50c70946dd8a6e8d6589",
+      "date": "2024-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240208 我被捕了6次（但我不是失败者）.md",
+      "url": "https://www.youtube.com/watch?v=niMfR9S_kA8",
+      "sha256": "e88563551dbe47e2dbea06a5ae2e1fa245d22c90cefd150dbbafe6d8ae139f97",
+      "date": "2024-02-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240229 我们一天教会100个人如何增长业务（在我们的新总部）[第016期].md",
+      "url": "https://www.youtube.com/watch?v=RPGGKKZxRZw",
+      "sha256": "3a4287e2e571bc572093d7bf098e268600cf70eaf3995206d2b1f6d147c7af32",
+      "date": "2024-02-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240418 我们的新办公室（幕后花絮）.md",
+      "url": "https://www.youtube.com/watch?v=RiHxVJQftVE",
+      "sha256": "6830ebf5e9934d72626f3808d5017ecbd32c5747fd7c5488e40bac439890c250",
+      "date": "2024-04-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240516 打造十亿级增长的梦幻团队 [Ep 018].md",
+      "url": "https://www.youtube.com/watch?v=_suhCIu_4QI",
+      "sha256": "e0dab056164dd5e4b63780d567987b0250bfe682eaf61950dec346c5ce381b91",
+      "date": "2024-05-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/240831 我们需要成为怎样的人 - Leila Hormozi [第019集].md",
+      "url": "https://www.youtube.com/watch?v=tK3AXxmf3js",
+      "sha256": "2f50dac6c42ff07e840ebc18622803b3ce51bf27d362b8f1b49274d403e3633a",
+      "date": "2024-08-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/241019 CEO的一周日常｜Leila Hormozi.md",
+      "url": "https://www.youtube.com/watch?v=2WtCA2L03Ag",
+      "sha256": "763b2c95a8ebc572c7c66580054852fa01bb7177dd8e91d58e86b2bad54ee864",
+      "date": "2024-10-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/241129 亿万富翁的成功蓝图 - Sharran Srivatsaa.md",
+      "url": "https://www.youtube.com/watch?v=kZC0J3NVtb4",
+      "sha256": "850b661da1868b37a7a41ab349fa95a0866d08e257448676402501965fb5f306",
+      "date": "2024-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/250309 他亏了3000万，却建起5.5亿的企业 - Mike Salguero.md",
+      "url": "https://www.youtube.com/watch?v=1hJQXLx1VM8",
+      "sha256": "596df0b434270165b90f17c240d3aadfc74426e832c545ea0fc00d6214f384ab",
+      "date": "2025-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/250321 英伟达打破所有规则，打造1.7万亿美元公司.md",
+      "url": "https://www.youtube.com/watch?v=sjklpM_DiFk",
+      "sha256": "4d25976eafc527810b11e1991c69b732bb7a9f3a3ffb663ad624b5f2623531d4",
+      "date": "2025-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/250331 她如何在客厅里打造出1亿美元的业务 - Heidi Somers.md",
+      "url": "https://www.youtube.com/watch?v=TYTQ6G7m7hc",
+      "sha256": "767866a405ea170a7864a4a3e817a221e55508f8259a10858676d21aa966043f",
+      "date": "2025-03-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/250404 马斯克超越99%企业的6条法则.md",
+      "url": "https://www.youtube.com/watch?v=YXuTNGP_ZcM",
+      "sha256": "ce1a413b606634f79a87288ae90fc9944ebcc235dcc3ad21ed3bf86166697567",
+      "date": "2025-04-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/250411 从领救济粮到健身帝国：名人教练的逆袭之路（Senada Greca）.md",
+      "url": "https://www.youtube.com/watch?v=mfReTICeQww",
+      "sha256": "3deee39ad5d5c084daed4ee6eb2e4a4b5249ae8b6dc509de959a9e054ee1789f",
+      "date": "2025-04-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/251107 关于感情的残酷真心话.md",
+      "url": "https://www.youtube.com/watch?v=0iDZ8UDvlWU",
+      "sha256": "afffb82e6a6c7db3d503c5bcc52639f8eee37e436201ca480ef5f25bc1f2a7a0",
+      "date": "2025-11-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/260227 成功不难，直到你建立这样的系统.md",
+      "url": "https://www.youtube.com/watch?v=9OkBN4uor5M",
+      "sha256": "b146bda2907984bdc2735950ed828fe2429415644df68f8541f013fc93236818",
+      "date": "2026-02-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/260316 我们做了一个重大决定.md",
+      "url": "https://www.youtube.com/watch?v=g3QTLRlmevc",
+      "sha256": "501cc89d003dc9a9fcba89154c477703c1d3cd119f60bdb8fc65808adba500d3",
+      "date": "2026-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/260727 《Dear Leila》官方预告片 - Leila Hormozi 的全新节目.md",
+      "url": "https://www.youtube.com/watch?v=VRfaA3pEfkI",
+      "sha256": "e9aaa57804c58b3134e61af940194bbe882ff3ba1b8ad73e5d3e2b0504dad4a0",
+      "date": "2026-07-27",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/260812 孕期问答 - 亲爱的Leila.md",
+      "url": "https://www.youtube.com/watch?v=ElhneG6eVcE",
+      "sha256": "fcbc10bfc68aa3c59011d03a1a1386f6616c039d5f6478b28c82af4c1de5c797",
+      "date": "2026-08-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/261007 你看过最坦诚的生意类视频.md",
+      "url": "https://www.youtube.com/watch?v=XzgnD71hYrg",
+      "sha256": "69c36522d1d1b38eea1d31dc4419a022fb4bae63093341c2feb298368883665c",
+      "date": "2026-10-07",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/261014 Stop Solving Problems. Delete Them..md",
+      "url": "https://www.youtube.com/watch?v=ZcerO48qbkI",
+      "sha256": "d460503e6ddfd9eaf2094893563d27553063e38a3f88b83a4b7f458a5f31287b",
+      "date": "2026-10-14",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/261014 别再解决问题，直接删除它们。.md",
+      "url": "https://www.acquisition.com/fivescalingframeworks?el=yt-leila-main-prevideo-20261012-463309fa-five-scaling-frameworks-lead&htrafficsource=youtube&utm_source=youtube&utm_medium=leila-main&utm_campaign=leila-main-pre-video-20261012-463309fa&utm_content=five-scali",
+      "sha256": "e64b78e2360ca00c77d4ca0a61df5eb5e155d3fd77446a2a73a81e3198b2d35d",
+      "date": "2026-10-14",
+      "status": "added",
+      "atoms": 12
+    }
+  ]
+}

@@ -1,0 +1,3471 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 16861,
+  "after": 17449,
+  "added": 588,
+  "local_source_groups": 464,
+  "added_source_groups": 50,
+  "no_qualifying_units": 2,
+  "latest_atom_date": "2026-10-22",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": null,
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 21550865,
+      "sha256": "b5067bce9ff24a336cec010c6d6303ef6da89bb16531d4ac4b75b74caae71c39"
+    },
+    {
+      "file": "atoms_2016Q2.jsonl",
+      "bytes": 1025,
+      "sha256": "979ee0968ebd38db46f46ea0ab0ae0e2fae1c602d0ddbaab74c02ed15a21ec68"
+    },
+    {
+      "file": "atoms_2017Q1.jsonl",
+      "bytes": 42841,
+      "sha256": "712bec5a7972931ad4bbafacb1189771aeacf173b39a32ca37c9f06e6a70fe82"
+    },
+    {
+      "file": "atoms_2017Q3.jsonl",
+      "bytes": 6445,
+      "sha256": "807fad3570ae0a5e17cd829c2fb8bf94a6d2ccc4b8e2d90fbe1ddd05a7baec49"
+    },
+    {
+      "file": "atoms_2017Q4.jsonl",
+      "bytes": 8092,
+      "sha256": "24b6a8fce76db59193c571f42c967b71a52607342a6ad32ef9ef123c95ab5300"
+    },
+    {
+      "file": "atoms_2018Q1.jsonl",
+      "bytes": 3843,
+      "sha256": "cd1c164d7380b99e71306ee492036ab3c090cdf7324f3af28dddefc08c5f751e"
+    },
+    {
+      "file": "atoms_2018Q3.jsonl",
+      "bytes": 10003,
+      "sha256": "6f0f32623ba7d6c8593ba4abc669b076f1a1e2f308ea24039aee17e2b268e5a7"
+    },
+    {
+      "file": "atoms_2018Q4.jsonl",
+      "bytes": 4989,
+      "sha256": "f681888adc00a00b3ae17129d0f3e13e72bb78c8ca0649a894c2dbc855b957e9"
+    },
+    {
+      "file": "atoms_2021Q2.jsonl",
+      "bytes": 5673,
+      "sha256": "9cebb98103994427ce9be07d2a8c0798c070feb373f7e3af6d48a5c513a9c560"
+    },
+    {
+      "file": "atoms_2021Q3.jsonl",
+      "bytes": 27537,
+      "sha256": "a327e031f560a5880d385c75143d21c40e08248a9bf1c81f8bca8ef804b11d25"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 19342,
+      "sha256": "003220f08affd773d08776ca8b0a6f7c8dd54193315052823e1f9db2a3618854"
+    },
+    {
+      "file": "atoms_2022Q1.jsonl",
+      "bytes": 61488,
+      "sha256": "b3bee234d8cbfa0afd81e29b6d78705df1f4d15934063d00e61977b09816865b"
+    },
+    {
+      "file": "atoms_2022Q2.jsonl",
+      "bytes": 14104,
+      "sha256": "69f2f28a2ae6f95b5fb11bb07e3cb260489a54924bc93c7a8c199273f1aedf95"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 31235,
+      "sha256": "e51be92ee5f298c78d6830a205880bfb874b68700c523d8d759e0769754c04ea"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 1094559,
+      "sha256": "1d1a9331eb20172c7cdabc4316e9779b338cf98ddb842111f673f546e8f6d543"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 1228929,
+      "sha256": "25688ab2abf64d2b496e6926840b950bf4384ff1018efbb2934aab1759818205"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 1022880,
+      "sha256": "eec6d38cd1119f626c92fd55231bb4d2243e99766ce1d0c8f0ad1b42fa1eb139"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 1111553,
+      "sha256": "6e5f190fc593393de57674c4e35441855097460691dfd6c13dc484e4bdb46cd5"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 1069422,
+      "sha256": "ff66f71181a304e9bd06b9a974ad693160ba98c23ad52d0d9580ec7ad44ae1ad"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 1231537,
+      "sha256": "ad57bc59d56805dcee45972a6aefca8e71fdfb294ff7aea0c070f77a5a877762"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 1272344,
+      "sha256": "97034baf5ecdac225c2d509b9a7776532debf3b7b148a3eaa122acf34664c0bb"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 1152498,
+      "sha256": "e6c607270850c866434a4dbd3d710c8300c755c97a090c202136f1a7a80b90d5"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 1063018,
+      "sha256": "4d09dbf66c7333e56d7094b979d863ce20ecc28be7a02d65aeaed1d5ed0b82b3"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 1128732,
+      "sha256": "12ee106fe9d4195462bb9f9e69b9bd3dbe77377d6baf10b534ba2053a6667c9d"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 1957590,
+      "sha256": "9cd7fce7cd71fb3747cdfd3ed47ebac1c6c3092bf07460569e1a44a685c9093c"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 1747296,
+      "sha256": "69e661ccfa4f3dd3d45c99558531be2dbc724b01ad59bb1237c148833ec2eaeb"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 1944301,
+      "sha256": "c9f34420c0b083fc9de3b88fb1a4c8941736f24340ff6cc18f852e8ad5e23753"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 1922598,
+      "sha256": "078f4b4f0eb441fc276e0b2f54410b5d109db06b80c5106cdf2537b511f48bd4"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 1748151,
+      "sha256": "5d9ce84f3c1a729d5c2643e62d48ecd62a5ba4318e6081aa628501e784ad2a94"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 484001,
+      "sha256": "90237a7e99b8a4ad724c217dfd49e95bc3d460f305f003e70ace243ab21717de"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 134839,
+      "sha256": "928cd9cbf22315e7e64a3d678385a8b296e98cceab83e649159794e01c0e6a4e"
+    }
+  ],
+  "sources": [
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/160606 不知道自己要什么？先回答这个问题 #MelRobbinsLive.md",
+      "url": "https://www.youtube.com/watch?v=NIhvmkBsBgU",
+      "sha256": "184b5c558af14bf0ef892c00f34615101b2e71042c7bf473acbf737e7aa435bd",
+      "date": "2016-06-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/170126 5秒法则：少做反而更高效｜Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=u8YynfkkGnE",
+      "sha256": "eb4d27cb866c000924af2c9dba808cfca96645e9a03f1a34bc28b2b40554e285",
+      "date": "2017-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/170206 这个科学验证的大脑技巧将改变你的人生 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=MrZAGVq25zw",
+      "sha256": "b45a57c4e26b149367753778e6d79adda2eadbb8886f63d9319f82b80a5f64ee",
+      "date": "2017-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/171019 厌倦拖延？试试这个 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=h8dbkKs1hf4",
+      "sha256": "b9105529cc58f0ddb0e525ca6405e0a91e4a21de3460172404ced8b18207fdc9",
+      "date": "2017-10-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/180201 你拖延的真正原因（跟你想的不一样）｜Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=CFu_58AnT0g",
+      "sha256": "ce278801bcefc6d1ecc9d911cd2ccd384a43cf456e735b7b669cde57a5b34707",
+      "date": "2018-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/180705 戒掉拖延的唯一方法 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=4x7MkLDGnu8",
+      "sha256": "343f1e9203daa93788d03867363189e4812e28bbaeef523d61908fbaa4e9ee90",
+      "date": "2018-07-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/180727 实现梦想的残酷真相 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=JoQEY2sIMTg",
+      "sha256": "e5869f4744d38324b5e6c01f8a1ee593a706494d015577a2a48f999226f3d96f",
+      "date": "2018-07-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/181003 别再找你的热情了，试试这个 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=5iZltDLFOfo",
+      "sha256": "07d8dc64a0d0a27e61f36f17cfbee0701879815c577a5025948e4a9e5cb07e2a",
+      "date": "2018-10-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/211109 在你浪费又一年生命之前，先看看这个 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=V7AUzIfbwNo",
+      "sha256": "11d72575c9bf4d0706e1a16ea4f0e322adeee46be35b603398cff95a26a10fa1",
+      "date": "2021-11-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/220105 显化是什么？新手入门指南 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=mq5kBXQsBSI",
+      "sha256": "ff37e2864719e08a4a0161ecd089247e39335ef1e59d9585144911c23059afb3",
+      "date": "2022-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/220922 这是真正了不起的事的开始——欢迎收听梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=n5xYSosNyW4",
+      "sha256": "aee3b35561879910080d05798b82da4c38b6802b8653d9a22a3a6065ef56c291",
+      "date": "2022-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221007 感到不安时夺回主动权的两种方法 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=6HSXaSAiLNI",
+      "sha256": "1b7e24770ba450312bb563b9e5fc0fca41862bbbd8d0986cc92d7e33a096457f",
+      "date": "2022-10-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221010 你在动力上犯的最大错误 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=SVA3MPaq6ns",
+      "sha256": "63e079ec6d75e9cdc3408fc2259f51fccc6089d00de3f3ab2d7005bba6d28f2e",
+      "date": "2022-10-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221017 如何放下不再有益于你的事物 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=59agbwvJS8Y",
+      "sha256": "2e4461552de81b8f7422c73b53f60aa46c3b5c3b301fb3cf7eea93a0c108059e",
+      "date": "2022-10-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221107 暂停的力量：如何慢下来并放手 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=6cztpo-oIVA",
+      "sha256": "22718c0ba97d6a1bb8bd061361498fd11d73e28c69daf5da15394d28f7b917a4",
+      "date": "2022-11-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221110 你的梦想不是玩笑：是时候再次大胆做梦了，以及3个开始行动的方法 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=G_XhrNkJmEg",
+      "sha256": "b28dc29418cfe0c3b3239d3f9bb8d4c85a7e06da95a1f93f3bf66514c7142221",
+      "date": "2022-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221114 初学者显化指南：4个简单步骤，显化你想要的一切 - 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=8uzxTdlHMQM",
+      "sha256": "474490a7d2457f5a19da57a92b6d51dd3153739ebe7e0bb7fa80231666cf1f79",
+      "date": "2022-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221201 提升影响力、收入和影响力的心理技巧！- Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=FVmTeH0uK5k",
+      "sha256": "6028353155d25a73b17fce8d277fc1a85567158e9ff07640fffd9e03bb1c7ad3",
+      "date": "2022-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221205 你不快乐的秘密 & 你能做的一件事 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=PMMdW3tGWRY",
+      "sha256": "88820b27276d272030cffdb0e03de524d8bd06563377febe7488316d5dfc9ccf",
+      "date": "2022-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221208 训练你的思维：理解共时性将改变你的人生 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=exfSl-tWwMM",
+      "sha256": "ba722f80f170951a0505ecb4e9b905467d4354b337415fec5a3b1a4367bc5d53",
+      "date": "2022-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221212 关于他人你必须接受的3件事｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=24aTvL9p5wM",
+      "sha256": "81531b3bc9b26686819a83f7a90b298f0246d95fcc2cc6b70adb37dae2d15898",
+      "date": "2022-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221215 Dr. Amen推荐的5个健脑工具和3个夏令时小窍门 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=bzN77yhhLzw",
+      "sha256": "37fe8e9cd86d49b66da515319b7ad65f0e6aaf5ddbbee339b11cdad3ce846b62",
+      "date": "2022-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221219 这是本周你该做的唯一一件事 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=Pyug7UHnmkU",
+      "sha256": "cb49f65084a446dc4dc43a17505634204d50ba0dc1af289ae8f139d0e91b0a1a",
+      "date": "2022-12-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221222 家庭工具箱：让彼此更亲近的实用智慧 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=RXjHfBcI-XE",
+      "sha256": "7a90a5ab93fd90ea491e9f0ece3e1a51ce2e9ac474d539c7c21b5f2e7f0437d6",
+      "date": "2022-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221226 我人生中最艰难的一年教会我的三件事｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=tTVW9ckd89g",
+      "sha256": "eef3e8c6bd58a73c741c3279dcf4ca6ea9d2aa3b5d45443b07a8f7e96086c38a",
+      "date": "2022-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/221229 8个简单、有科学依据的改变，能彻底改变你的人生｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=iVBqNSzRLys",
+      "sha256": "553ae661c9ba8a71d67ff1c4c384ea0ea1064c546624ca2f388cb64f9b4ddb20",
+      "date": "2022-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230102 今年你需要的唯一科学习惯 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=sIFnYopQdtc",
+      "sha256": "f76ead73e68110c27572ceff1855adbfa26221120955f59f4aa4aacc8fbcdc65",
+      "date": "2023-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230105 目标设定工具箱：如何找到适合你的目标并实现它｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=sDmzLZnghcg",
+      "sha256": "df0f2c30612c7422724fa7355e9c3290f57d2f23ac39d0f284028c656e4984d8",
+      "date": "2023-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230109 想放弃了？我也是。在放弃之前，听听这个。｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=oYfkwF9gvPg",
+      "sha256": "5fc0bfc0e8af298c4ef510f16a7d421fea0fbc1a91f13fcf9a541fc9f4c95ecc",
+      "date": "2023-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230116 养成新习惯的终极指南 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=LN5-RKWPeeI",
+      "sha256": "bda860813da4162bf6ea7365c8c90c9173099311bd4c67f22cce42cf7c71e8e6",
+      "date": "2023-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230119 心态重置：掌控你的思维习惯 - 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=ufQEqi4LUZ4",
+      "sha256": "5faeb5632435d29d69855294f61dba852cab49dd78a79c29e012d4822834beef",
+      "date": "2023-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230206 明天提高效率的第一秘诀 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=eCsXE4Dlulg",
+      "sha256": "e92c7c2788ea62fe139ffbfebc393f74a04769a3a3b0f14e37be90ec4520ff54",
+      "date": "2023-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230213 百万美元晨间习惯：打造稳固晨间作息的6个步骤｜梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=sHjI-ktwiyc",
+      "sha256": "6621ae8d8d326a52a81ada7eab6a76ef1e3cec90a58905fdcb048181793961d2",
+      "date": "2023-02-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230220 你拖延的原因，跟你想的不一样 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=G8r_F-xR3Ig",
+      "sha256": "da9571610ebeed70f1157fc89e614f331e6d614157e685ad6e09a4999cf9a01e",
+      "date": "2023-02-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230223 讨厌上班？被裁员了？重新规划未来，走好下一步 - 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=ZZ1GWfsz8Ic",
+      "sha256": "c341d8db69f142facbb6566ea5e11f0a4e78c071f7844c9d04333053a82720dd",
+      "date": "2023-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230227 先把自己放在第一位：拒绝别人不内疚、不尴尬的方法 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=UVPhdG_w3u0",
+      "sha256": "7547a31aaab8a628c6c1aad1a4b56cf62c86fffd5f6f8d00be10db1d86cf3b10",
+      "date": "2023-02-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230302 与Lewis Howes一起摆脱自我怀疑 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=OAyVovOO3-c",
+      "sha256": "62bb5dda43927af37a64d94441865a30578315d628a0d4c69b30b94401853b0f",
+      "date": "2023-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230306 自信工具箱：如何建立坚不可摧的自信 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=kMtNkJcJn3M",
+      "sha256": "e4092ecfa282de0f00b78d476c62119c244ce330358cd6f59fd2a073a579961e",
+      "date": "2023-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230309 如何从今天开始重塑人生 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=IoOCnMEYSEg",
+      "sha256": "d753b06eb2243d5fc86508f4c6b5cd7b5f78111e2c38db83f9dbec8ac70b73c9",
+      "date": "2023-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230313 这就是你不快乐的原因，以及如何改变 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Nqs6I2kMW8M",
+      "sha256": "52b326b6ba9413650d7ea989a0e0e95a87c7aaef39d8d66164b58a964e8dde0a",
+      "date": "2023-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230327 艰难对话：为什么你需要它，以及何时进行 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=BTs4nJu_QgU",
+      "sha256": "8e599eb40d20946ed565f12de66d3862d8d829df2d88726383b2a030323873e4",
+      "date": "2023-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230406 感到被利用？5个方法重拾你的力量 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=cZ0wXDFtk3w",
+      "sha256": "59f6064f51559a560827f79b470f33460896408017306d7a13dcdcd804973c55",
+      "date": "2023-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230420 如何不再自我设限 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=pAcjVWJc2x8",
+      "sha256": "68aa87d827188b636d406c800b24b414bd129e9341b603a3abe469ec90a4aff4",
+      "date": "2023-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230504 如果你心碎了，一定要听听这个｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Qq3k1_jzxwo",
+      "sha256": "857e0e682e164187eaf3e8056ec49630eb49e818d125ffe4a3f28b7e50e3a047",
+      "date": "2023-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230517 USC毕业典礼上Kendall Robbins演唱国歌，堪称史上最佳.md",
+      "url": "https://www.youtube.com/watch?v=wo_VTU4pxrU",
+      "sha256": "238857b4caf9b0ec9afcf321cbfdbe3304b7a362aac9b8da520f3bee2a00e46d",
+      "date": "2023-05-17",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230518 耶鲁心理学家揭秘青少年情绪崩溃的真正原因 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=0QI2BQmnsH8",
+      "sha256": "d3a05079251704a3cd14704d6e5d7bde738f55fa2cd3acbf55b176d59dbf46fa",
+      "date": "2023-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230522 4个简单方法，不再在意别人怎么看你｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=MkpQDBfPv7k",
+      "sha256": "8eda65d8514eea2f08c694f2d4ee02b3813e649b29447ddfe32d946726ca93ec",
+      "date": "2023-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230525 6个迹象表明你与自身力量脱节，以及如何找回它｜梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=sBJrZjZ_TJk",
+      "sha256": "093ad3124bc253c78359de271c05fe5855416757c962a27f6a4130aed9dbcf6a",
+      "date": "2023-05-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230605 实现梦想的三个真相 - Mel Robbins 播客 [精选回放].md",
+      "url": "https://www.youtube.com/watch?v=Fe_8vQPUlIo",
+      "sha256": "c5fcc66432d67ce338484a2f4c8c6ee2763fc1b27a88fdcca141f67489db7cb6",
+      "date": "2023-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230605 实现梦想的3个真相 - Mel Robbins播客【重播】.md",
+      "url": "",
+      "sha256": "3976b8072010ad44bfba83159f4a8d6a13f13040acbb46153c7e9e159ebfbb7f",
+      "date": "2023-06-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230608 你的挫折正在为你铺路｜Mel Robbins播客【精选重播】.md",
+      "url": "https://www.youtube.com/watch?v=K-qcadoZ5VI",
+      "sha256": "79d28b0e96243e368c76fa4ca1ee780e03282b9871709ef4f2b3d72fdfe2c177",
+      "date": "2023-06-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230612 感恩的科学：你常犯的6个错误 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=CWuRB0XuIgA",
+      "sha256": "e08135ec8ba76be717cba1d353fce8bbe85ae23405bb2d221d9e439a236b8f5e",
+      "date": "2023-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230615 哈佛教授：成功的秘诀是这个（跟你想的不一样）- Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=5_iGYo44_C8",
+      "sha256": "eb735152811a224b7f6232aad98ab9219298d0c5b4eaf2d71ff40c99ac86eb23",
+      "date": "2023-06-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230626 别把生活看得太严肃：如何活得更开心｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=V6pOQBBHYXc",
+      "sha256": "568e753071c3044abcab7de30d2426bd85d85ed022337b228ed26f83c04bf5db",
+      "date": "2023-06-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230629 成功与幸福的真正公式 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=8N9_OYj1qv0",
+      "sha256": "d8794232688c0bcbdbfb6981c0049c39b9d71a1dce69bd87e99dfea261f43cac",
+      "date": "2023-06-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230703 用这个简单的晨间习惯开始爱自己 - 梅尔·罗宾斯播客 [精选回放].md",
+      "url": "https://www.youtube.com/watch?v=j8DyaeaHrWU",
+      "sha256": "0482270e970f9064f8e6e9397ad65d6c1e66cac2d36ff4eb64e797201058d9a5",
+      "date": "2023-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230720 应对变化的必修课：三步法 - 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=lUvC-E3YSxE",
+      "sha256": "6844fdb783a221c83181be5bab18963568a932698e3b83dc7245429628b867c4",
+      "date": "2023-07-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230724 认识自己：活出真实人生的第一要务 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=1klDVUw31ro",
+      "sha256": "c9f154e5e4dd9034da386d094ea901578ded409b59f7894529e30d9e25ad3c61",
+      "date": "2023-07-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230731 神经科学家揭秘：简单散步背后的惊人科学和益处｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=MltZxgejfKI",
+      "sha256": "cd9d6db2a2d2153c06ac9f3c6284cf9173e7d6606806c3a087c4a75e078b5718",
+      "date": "2023-07-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230810 自信的力量：用肢体语言提升影响力与收入 - Mel Robbins播客【重播】.md",
+      "url": "",
+      "sha256": "26c388a73e1c257121b30f761b669b2e38d7f5f6012e459cd353e1c08171fd77",
+      "date": "2023-08-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230814 前几天发生了一件可怕的事，想跟你聊聊 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=wUjQauuNoHk",
+      "sha256": "f253a97ca74a8ecef8a870851ae1474725f380017238eb608a85247b6285a0af",
+      "date": "2023-08-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230817 这四个字能让你不再自我怀疑：一场改变人生的对话 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=GjKu3JMY9pM",
+      "sha256": "c507ae0a4e60178cb68e787292b5410965e3cf7ae987804c1b73bc8f3fda1ba9",
+      "date": "2023-08-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230831 每个人隐藏秘密背后的惊人心理 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=RDJg3IpYC1Q",
+      "sha256": "0a2bbc7c6f2f5314d9d9ac699697e993f1c4d8d6e79e46e6671f8b61c33b58c1",
+      "date": "2023-08-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230904 你听过的最重要的警钟.md",
+      "url": "https://www.youtube.com/watch?v=ytdBRV37YjQ",
+      "sha256": "97ef9541562e2df8b9e62e071f4e6772e388877fa9e0570de0f1f464dbc1c0cc",
+      "date": "2023-09-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230907 家里乱成一团，什么都干不了怎么办？｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=EWm1Usbv0pA",
+      "sha256": "edc69d74eca139704c473c4eb25673f90946915dddabc6f489668f4bf881c2a9",
+      "date": "2023-09-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/230911 10个让家保持整洁的聪明妙招（哪怕你连床都起不来）｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=hLGT9ZmkRb4",
+      "sha256": "3d9047f96b324f82b6ed64ac547017d9b387944fd0f5aecb3bdd7403e3e57161",
+      "date": "2023-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231002 你可以改变世界：一个让你想做大事的非凡故事 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=797GbDqRrYQ",
+      "sha256": "44d02a1426f9af793074aa00346747274c32cc5e7c7f1614a19d9814c39398fc",
+      "date": "2023-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231016 我找到希望和力量的五种方法 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Z_8OVjNJF0U",
+      "sha256": "0c0c460f74c5aa58827f12dc8ed4bd653324abf54ef12139d3a4b4dc58a0ef77",
+      "date": "2023-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231023 “我忍不住在网上视奸前任，怎么才能停下来？” 如何彻底放下 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=sQTCphkl3oA",
+      "sha256": "68f6843193f4e74fe08754aaa626be26a82c237c26c6ada9d2eefa8678d485ea",
+      "date": "2023-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231214 超级大脑：改善记忆、加速学习的10个饮食、思维与行动秘诀.md",
+      "url": "https://www.youtube.com/watch?v=25P_j48IYaA",
+      "sha256": "11d3697dcf9f7346740728e2482140e240faae1aa2f7f63d7e654d80cd100c42",
+      "date": "2023-12-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231221 如何让2024成为最好的一年：问自己6个问题.md",
+      "url": "https://www.youtube.com/watch?v=gn48zmBb1Ek",
+      "sha256": "65e6cdce713baa448f289f6e46ca599e1d0c5d73438e4e067d2d35d06b3359fc",
+      "date": "2023-12-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231225 如果你这周只听一期播客，就听这集.md",
+      "url": "https://www.youtube.com/watch?v=Dedi-bZJJOE",
+      "sha256": "34e0e3dc7a9c8a2336dffd504ef3b80bbd1aed6ac7ce06706d3fee05f5fc4461",
+      "date": "2023-12-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/231228 我吃过的4个重要人生教训（希望你别再踩坑）.md",
+      "url": "https://www.youtube.com/watch?v=7u7qdU3sv4w",
+      "sha256": "9c48cc078c258c0b7e9d38b85110f3e13d98138498a876de8eebc8b344c2a0af",
+      "date": "2023-12-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240101 8个改变人生的小习惯：今年我在用的最佳专家建议.md",
+      "url": "https://www.youtube.com/watch?v=k9Le6xJ_iQM",
+      "sha256": "e7b5d3115075c9d6508ad9c58e2fbee8ae00a3bdb081b8659346bbb4ce12ba14",
+      "date": "2024-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240104 如何设定并达成目标：两个你必须遵循的惊人科学步骤.md",
+      "url": "https://www.youtube.com/watch?v=e86ie1xLlnE",
+      "sha256": "90d8d6520d1b85bcf4b162cf10c4f58164305fbd757c3121f6875966b4db2fda",
+      "date": "2024-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240108 每天早晨这样做：让你精力充沛、专注又从容.md",
+      "url": "https://www.youtube.com/watch?v=KQftmpRW3Mc",
+      "sha256": "9bbd5bb118a7a867c91900e37aaaa7db0a01d88cb1dc96682b9ebbde5ba1adfe",
+      "date": "2024-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240111 如何激励自己：善用多巴胺，克服借口.md",
+      "url": "https://www.youtube.com/watch?v=91G7M_Wgj0M",
+      "sha256": "11fb983a55c1669913f6b7380a814e164d8cd5ff2ee5aae8094c54ed9d48ea0f",
+      "date": "2024-01-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240118 别放弃：当你没动力时，最该听的一句提醒.md",
+      "url": "https://www.youtube.com/watch?v=oUKpLEN3E1Q",
+      "sha256": "7ddae1841d0b4b8fd5df4b38290b991fbd1c5fe23683ad319589944cace5c7e7",
+      "date": "2024-01-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240129 两种相信自己、做成酷事的方法.md",
+      "url": "https://www.youtube.com/watch?v=JBtK4Hw9Tvk",
+      "sha256": "ffcc3916cc10616d6cf777fad80ae699e11a67bb1d1e9313a3ab89a2cfd57460",
+      "date": "2024-01-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240201 想立刻更快乐？别犯这个错（最新科学发现）.md",
+      "url": "https://www.youtube.com/watch?v=mdb3anMJRX8",
+      "sha256": "4d3288f94b075c1e351e7a2e07f2fb38b501af25b5cdda164e78d214929d6fec",
+      "date": "2024-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240205 这项研究会彻底改变你的人生观.md",
+      "url": "https://www.youtube.com/watch?v=ih3nIPvCjVI",
+      "sha256": "22ec604a2eecbea5ead851bacd23ae5d4bd078f61760158fb7296b128520965b",
+      "date": "2024-02-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240208 51%法则（以及另外3个像百万富翁一样思考的策略）——Steven Bartlett.md",
+      "url": "https://www.youtube.com/watch?v=2tvDzicthMA",
+      "sha256": "9ef828330a8f67711cc25276b61cbc74459a6ca18131bb249818604141269c3d",
+      "date": "2024-02-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240219 4个简单的晚间习惯，让你精力充沛、睡得更香.md",
+      "url": "https://www.youtube.com/watch?v=K-VuxetScRE",
+      "sha256": "e6f38bfd17a9ce94919186e287b959c055a8187b25978befe641f592222deec2",
+      "date": "2024-02-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240222 做这件事让你更自信：杰米·科恩·利马的5个真相.md",
+      "url": "https://www.youtube.com/watch?v=nGjKNh80Lfw",
+      "sha256": "da276d186f910bd0f4baa9408ef9fa17cd897d62dba721cc91b7f55271c86a52",
+      "date": "2024-02-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240226 如何实现你最远大的目标.md",
+      "url": "https://www.youtube.com/watch?v=0_GO-hVw-LI",
+      "sha256": "432a4810aa1f1ff599834aa61f17263f7c2c07b228b3df5982d2949878beee79",
+      "date": "2024-02-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240229 5件只有假朋友会做的事 & 如何放下不再滋养你的一切｜Trent Shelton.md",
+      "url": "https://www.youtube.com/watch?v=ajBK8Grwp0M",
+      "sha256": "fd89c6223517f0c4dc3c5011f26699a696d405fedcecc56e0962d992bc42ee5c",
+      "date": "2024-02-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240304 让你成为理想自我的头号日记练习.md",
+      "url": "https://www.youtube.com/watch?v=RmsXYFjDqw0",
+      "sha256": "b3f039e6c5bb4282e1e66c4d521fe3dd2b285724f8fb23b5a14c230f275dc688",
+      "date": "2024-03-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240311 20多岁时我希望知道的13件事.md",
+      "url": "https://www.youtube.com/watch?v=5ntYJV50biM",
+      "sha256": "6951e4389f60930fb55f74779f50c195399ffdccb1d4886f6b53f52dffa963c5",
+      "date": "2024-03-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240325 3个让你感觉超棒的小决定：每天起床后这样做.md",
+      "url": "https://www.youtube.com/watch?v=tbBvEO0FI8Q",
+      "sha256": "4db8b47e55421bd4f02174a7b3941658d7d322d0ef3205003dd722a3ceecfa28",
+      "date": "2024-03-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240328 如何说话让人愿意听：获得支持的黄金法则.md",
+      "url": "https://www.youtube.com/watch?v=oMwmcVmsqrg",
+      "sha256": "0cd3643d93a560521fac0eb02c0bf0679b91090028c8748e7e82009945be9de3",
+      "date": "2024-03-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240408 6个月改变人生：这个秘诀就能做到.md",
+      "url": "https://www.youtube.com/watch?v=YYwewgQMK-o",
+      "sha256": "c65e4a4cba523b3b2def5a2c9d7ed77943a444f21214e73940802f366ad58adb",
+      "date": "2024-04-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240409 解锁潜能的秘密，活出你应得的人生.md",
+      "url": "https://www.youtube.com/watch?v=9bVUSWKdatc",
+      "sha256": "9ff156bebbdf3390e56c6b85dbb11ec866299487093e1829303c552304d9a9c6",
+      "date": "2024-04-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240411 #1 神经科学家：听完这个，你的大脑将不再一样.md",
+      "url": "https://www.youtube.com/watch?v=Uzt-Woc3CVk",
+      "sha256": "2788fd8e3e6c689e80464662cef02bf3da0cb5d3d4d8cbd60b283d50acdc11bb",
+      "date": "2024-04-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240415 为什么你总在意这5件事（以及如何放下）.md",
+      "url": "https://www.youtube.com/watch?v=kLb5lRmAA4A",
+      "sha256": "5e0171c3e08a71b9c3ca3546d85526aeb955fb57a96c6fcd82ed344766d80b1c",
+      "date": "2024-04-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240418 如何打造理想人生：通往幸福与意义的永恒智慧.md",
+      "url": "https://www.youtube.com/watch?v=NGE8BgxEOd4",
+      "sha256": "18970165e8052c4c644f0566cdfd0124202d99fa4b92eab0afde79e220f33101",
+      "date": "2024-04-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240422 理解这个观念，改变你看待人生的方式.md",
+      "url": "https://www.youtube.com/watch?v=JLdcQsJaeyA",
+      "sha256": "7133d1830c237444bce2dd8a9715aec5ae4f7bb6e2b4dfc537bef18de05d0a1e",
+      "date": "2024-04-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240425 读懂身体语言，轻松得到你想要的：6个简单心理技巧让你更自信.md",
+      "url": "https://www.youtube.com/watch?v=73SHFFpm4J4",
+      "sha256": "003fa54e2d4e9b81bf9f1393b82c6517d37a3c7915fc32789f298fcc2ebf3a7b",
+      "date": "2024-04-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240429 5个简单习惯，彻底改变你的人生.md",
+      "url": "https://www.youtube.com/watch?v=F71eQ9BGYcw",
+      "sha256": "896c690193b64556e8bc0871804afa613193d5183280bafec6991b7f4bb9b754",
+      "date": "2024-04-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240513 6个科学验证的简单技巧，让生活更美好.md",
+      "url": "https://www.youtube.com/watch?v=ZTacS2ZJfIw",
+      "sha256": "10c8bbc0e30f1b9b440cdb765441783b112aefdd42703bffdab8f04bf2fde89e",
+      "date": "2024-05-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240516 如何建立真正的自信：解锁真实自我的7个真相.md",
+      "url": "https://www.youtube.com/watch?v=YZn2Q4IU53k",
+      "sha256": "e925861afffa86eba2dec66a7b659beee2ddf2797c39baed8486fb9065f58be9",
+      "date": "2024-05-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240530 #1 神经科学家：如何激励自己（和他人）改变任何行为.md",
+      "url": "https://www.youtube.com/watch?v=slD8f_qtEYY",
+      "sha256": "42aa004be09e475256d5a2375543ae0cb083833d3deeffb7ff307e641fb04d06",
+      "date": "2024-05-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240605 在浪费时间之前，先听听Dr. K怎么说.md",
+      "url": "https://www.youtube.com/watch?v=9AG88lmHXP0",
+      "sha256": "8c1e28c476739861ccbcc4bab690974e5a04196912402f550f4afa4d71b2d846",
+      "date": "2024-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240610 如何不再一觉醒来就累：哈佛研究员的7个建议.md",
+      "url": "https://www.youtube.com/watch?v=Wsslt3ynA-E",
+      "sha256": "cca17bf8ac43b3f099f4c7a445a4754e40d19d474ba00576295a4056948312cd",
+      "date": "2024-06-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240617 这个秘诀能解锁你的快乐人生.md",
+      "url": "https://www.youtube.com/watch?v=Fz7xalJJBDs",
+      "sha256": "dd3b8c7b9a7bc656aba336f0eea929f0cab00dc6962b0c429f9ac56941399b47",
+      "date": "2024-06-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240620 你学得太晚了：这一个想法可能改变你的一生.md",
+      "url": "https://www.youtube.com/watch?v=dZccHfhhtXY",
+      "sha256": "ed5c60b94f9cdb131e91c4dd8be17e8d932263759a58b3556b593bc75b8c044f",
+      "date": "2024-06-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240627 大脑黑客：6个秘诀让你学得更快，解锁大脑全部潜能.md",
+      "url": "https://www.youtube.com/watch?v=t6JBor1xyQQ",
+      "sha256": "405dddb78136ef0dfca2da0d5602d28e8c0809bb567f45491e596c49b0514cd5",
+      "date": "2024-06-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240701 5个有趣点子，打破生活惯性、走出低谷.md",
+      "url": "https://www.youtube.com/watch?v=CyN31HaG0P4",
+      "sha256": "30ef2d1cd5ef50038f4917a1202e8d0cfdc6e7f62e94b6835f3405bc7e3c207a",
+      "date": "2024-07-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240704 特勤局特工教你识人术：看穿谎言的心理技巧.md",
+      "url": "https://www.youtube.com/watch?v=ekPDLDgz7pQ",
+      "sha256": "2f3c040006ab99f4542928bfcc554ac342092615d4406633d7c5a300737a1974",
+      "date": "2024-07-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240715 3步消除自我怀疑，活出你想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=pHkJa2tL-mw",
+      "sha256": "1bbf96bd9f5eea7af410f7b0dea3b9620a74c8d7b254e0e251819d0796152e54",
+      "date": "2024-07-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240718 如何让生活重新变得精彩｜Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=awLRiNhrNis",
+      "sha256": "e323de68d27b8c75826e460b883c9f964770e971577176b6909845096ccb2397",
+      "date": "2024-07-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240722 一段好关系的三个要求 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=vDvknycBI1w",
+      "sha256": "2ea59b5084247ff02a01f9f2eeee2463667d362e41588946ddc18e5ddf90cfd1",
+      "date": "2024-07-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240725 如何重塑自我：与Sarah Jakes Roberts一起放下过去的错误与遗憾.md",
+      "url": "https://www.youtube.com/watch?v=M98E87vhM_c",
+      "sha256": "c6c1c52bcd1b9193a8d3595e9efb8f37c65b72d036c7f06ef8fb3f3a7caa7e0e",
+      "date": "2024-07-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240729 4个改变我生活的习惯：能量、效率与幸福感（科学验证）.md",
+      "url": "https://www.youtube.com/watch?v=Xo8mD5NIfM4",
+      "sha256": "0b9346edf623c8351546381cbbc584fce3a1188ac29299c03be7b1e4e3af5cc7",
+      "date": "2024-07-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240805 这样做，重新训练大脑更积极思考.md",
+      "url": "https://www.youtube.com/watch?v=Of8ddNuRAtE",
+      "sha256": "9c294e309bc039f62e7ff9c3a085d89df1e4d556130088de64396ad6a79c7767",
+      "date": "2024-08-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240812 「铜牌心态」与奥运选手的4个惊人习惯.md",
+      "url": "https://www.youtube.com/watch?v=vPn4gdmx-R8",
+      "sha256": "278da2453751b49af4d34b4efa458a2be98caf1ac8968dd52b595e1e0afa9df4",
+      "date": "2024-08-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240815 如何找到你真正想要的：用这个改变人生的方法.md",
+      "url": "https://www.youtube.com/watch?v=1S1LEoZ_KOg",
+      "sha256": "4df870113361d4e31ee187ab9beea74e2554fe4024f2c8884675738705678f79",
+      "date": "2024-08-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240817 8个现实可行的健康习惯，效果惊人.md",
+      "url": "",
+      "sha256": "31c4794f615d9a211a4ab80ec30f220945f43c7c6175c0a3b1dd1f9735c019a7",
+      "date": "2024-08-17",
+      "status": "added",
+      "atoms": 11
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240819 振作起来：专家给你的最佳建议，让你感觉好极了.md",
+      "url": "https://www.youtube.com/watch?v=JlmccJomcek",
+      "sha256": "ef93af816859a7ce2e156391768bd10c1b6bebf8e04fe0801e8a1192b86a29b3",
+      "date": "2024-08-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240826 7个终身受益的人生道理.md",
+      "url": "https://www.youtube.com/watch?v=U2RwmuW5IJw",
+      "sha256": "aec5d2fcd5a0b707096d3dd8baaedf471272bea254e0bd7ab75283a13e9734ed",
+      "date": "2024-08-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240905 如何在4个月内超越99%的人.md",
+      "url": "https://www.youtube.com/watch?v=n2js5sm7sis",
+      "sha256": "9d41ee79d06829a793e596fbd1782d7ec6b731cd4b776e4da9c08da757baf7a7",
+      "date": "2024-09-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240923 9件小事，效果惊人.md",
+      "url": "https://www.youtube.com/watch?v=rOopSj40Zro",
+      "sha256": "7e7354903de66c44a18f136d9ed719c5ee8fb242d95ee716a7151bf86fc1ea52",
+      "date": "2024-09-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/240930 改变未来的简单生活技巧：从亿万富翁那里偷来的习惯.md",
+      "url": "https://www.youtube.com/watch?v=yxOKIB1s9-g",
+      "sha256": "4e63c850fa6c811a3a18d07bc1e134485b107bd2835071f081d22619fbfa1429",
+      "date": "2024-09-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241017 专注自己：3个迹象表明你付出太多，以及现在该怎么办.md",
+      "url": "https://www.youtube.com/watch?v=qXQCn4_u4ZA",
+      "sha256": "6097be09abbdc623d887a16f0e17021dd4a27457ab9ac66e6b30ca27b8679015",
+      "date": "2024-10-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241021 早起这样做，战胜焦虑，整天精力充沛.md",
+      "url": "https://www.youtube.com/watch?v=71RHa9ml4bM",
+      "sha256": "36d00eca2f18265687d2bec2846da8cd2331b143a3de9d3ea3062c1a829bec0c",
+      "date": "2024-10-21",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241022 有个激动的事要跟你说.md",
+      "url": "https://www.youtube.com/watch?v=WTvpI4hTcDM",
+      "sha256": "379beee9e0298574146db2f0a1bafb4d87c95b2d14587406d09c6dab46260ad3",
+      "date": "2024-10-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241024 #1 神经外科医生：如何显化你想要的一切，解锁大脑无限潜能.md",
+      "url": "https://www.youtube.com/watch?v=s-wONyk3RV0",
+      "sha256": "f6049972d36bcb44a5e9e4ec4d88159ed42889e5b3215060905e5545b073761e",
+      "date": "2024-10-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241031 别等太晚才明白：直面终点，活出真实的自己.md",
+      "url": "https://www.youtube.com/watch?v=BDjgt8xRs48",
+      "sha256": "2d82fb29f7ab403e3c713ceab2040badc2ce804a7e6ca0710f33b4b41014adce",
+      "date": "2024-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241104 放下无法控制的事，把精力用在正道上.md",
+      "url": "https://www.youtube.com/watch?v=zF27t4hYM0Y",
+      "sha256": "21e39e8784aea0476b3a4325b487b3e26157479533f3f60bbf039a971daf01df",
+      "date": "2024-11-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241111 3个你必须听的真相：解锁潜能的顶级专家建议.md",
+      "url": "https://www.youtube.com/watch?v=vic1wX8_h34",
+      "sha256": "96c63ac128dc591a196d9f5e6bbd7adbf2263a3bbad231d7b51911cefc732113",
+      "date": "2024-11-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241118 你累的真正原因：如何掌控时间与人生.md",
+      "url": "https://www.youtube.com/watch?v=gStPBZVRVLc",
+      "sha256": "82f926c1e8ba35bee191642f5b1b911467571bb9eb8cbd987da7653ff0cf8cc1",
+      "date": "2024-11-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241212 幸福科学：500万人都在用的快乐秘诀.md",
+      "url": "https://www.youtube.com/watch?v=14-DJFPm1_4",
+      "sha256": "6e058d20c3bd4a1da32f93499a5ddf06e5324cb44cb9356bc8c41e329a744b88",
+      "date": "2024-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241219 年度专家建议精选：Mel Robbins播客精华集锦.md",
+      "url": "https://www.youtube.com/watch?v=G84Zf1ZeHjY",
+      "sha256": "e72f40cbcb26f1ee44b831f8e2c0eb401c000f35fab9300cf300ec153aee6b43",
+      "date": "2024-12-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241226 如何让明年成为最好的一年：问自己这7个问题.md",
+      "url": "https://www.youtube.com/watch?v=Cm6oJwpuOYc",
+      "sha256": "f656f510bcc6032e531dc4472e175d0d062a9aa55f4f44ac29bd82de6db9f02f",
+      "date": "2024-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/241230 8个改变人生的习惯：今年必听的专家建议.md",
+      "url": "https://www.youtube.com/watch?v=_5mrZVCEmSE",
+      "sha256": "45211012d418ee829873b33325a4bda76a207574fd3b9d296b4b45bb9bfbf279",
+      "date": "2024-12-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250101 7分钟开启正确的一年.md",
+      "url": "https://www.youtube.com/watch?v=-4cKtpc9K6I",
+      "sha256": "20a5dce13f61143ebaeaace5c0adfce5f4c2d394695a52babcf5071783ec750e",
+      "date": "2025-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250106 如何用6个简单步骤实现任何目标.md",
+      "url": "https://www.youtube.com/watch?v=fxJjAuG3qkQ",
+      "sha256": "a1c3c8c027d1d0f3b4616e8db112425ac14b6a3361ff4793ac3aba88cd4d9d8a",
+      "date": "2025-01-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250109 如何不再在意别人的看法.md",
+      "url": "https://www.youtube.com/watch?v=BR-1OeY8BOA",
+      "sha256": "6f4cb30b0c7fe910c491f6b13e07526cd6104e97a6d6b97e56a6cd7e6ed8d00f",
+      "date": "2025-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250113 试一天：每天早上做这件事，提升动力和专注力.md",
+      "url": "https://www.youtube.com/watch?v=5juT-Oh4zWI",
+      "sha256": "0c97aed36591143dff9282df9bec738df4c953b5a740522471b966beb78bf9f3",
+      "date": "2025-01-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250116 5个让习惯真正坚持下来的方法（有科学依据）.md",
+      "url": "https://www.youtube.com/watch?v=DPRnrZH6weU",
+      "sha256": "5ca38875b790e53cb14253c1a1ef7f86e150e3af7e807c65b34bf578fc347a7f",
+      "date": "2025-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250123 如何找到人生目标，设计你想要的生活.md",
+      "url": "https://www.youtube.com/watch?v=yZt4ZOy6Z8c",
+      "sha256": "61a572db03d0465724d40d62fe92f98380ef9af81165ec2c98d219281e75665c",
+      "date": "2025-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250125 决定你真实面目的三个问题.md",
+      "url": "https://www.youtube.com/watch?v=GsAK7h73cdo",
+      "sha256": "9a3baeb768ffa03dfd97ae4b5d2d77028e37a969c642b97429899095cd96c5dd",
+      "date": "2025-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250130 当一切都不顺时，你该怎么做.md",
+      "url": "https://www.youtube.com/watch?v=ADrkJSpG3V8",
+      "sha256": "73ec0fa268da45f2275676130676d8cc0338f3fd52348f998c228d830de432a9",
+      "date": "2025-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250206 如何创造你想要的生活：来自幸福研究第一人的启示.md",
+      "url": "https://www.youtube.com/watch?v=R8UpO9mMu5M",
+      "sha256": "78813e3f02605b47824e7e65199b26d9b61cb9340cd10da3e145f59d3ccb9ae8",
+      "date": "2025-02-06",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250217 如何掌控思维，将能量转向自我蜕变.md",
+      "url": "https://www.youtube.com/watch?v=Cp6Kd-JAMRo",
+      "sha256": "eabc7b6f02220faeafc151ebb7e63888d68d6531843f74a00f67329482e66efe",
+      "date": "2025-02-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250224 7天重置法：更多时间、精力与幸福感（科学验证）.md",
+      "url": "https://www.youtube.com/watch?v=mSaI8Rluel8",
+      "sha256": "f58ab75bcd8f256d869d4ffb996dd66e48ea0b326cb9e3b2aa374af637895811",
+      "date": "2025-02-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250303 如何停止自我内耗 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=SO9FHaF4EJw",
+      "sha256": "b942e115f891bf59d1b9654984364b686e83a4e5ba5bc27430a47f6a296671cb",
+      "date": "2025-03-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250306 看起来、感觉起来、永远年轻：骨科名医的独家秘方 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=gO_x3gnXBzg",
+      "sha256": "d559c46a26514c3ec7ae389866fed82171054b69bb34b15492a0ac81cf56384e",
+      "date": "2025-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250310 重回正轨：5个晚间习惯，让你醒来专注、精力充沛、掌控全局.md",
+      "url": "https://www.youtube.com/watch?v=85vnQT6TI_4",
+      "sha256": "0798ca1a82e702631555749e74b11d329909e285e9821cbcf26af1980a3fd3c8",
+      "date": "2025-03-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250317 6种别人暗中不尊重你的表现及应对方法.md",
+      "url": "https://www.youtube.com/watch?v=FrXsUHP-v9s",
+      "sha256": "632f1fd093c97a11dcc6f5ae531a77639fb5645a60d00a68c19cb5bc74860664",
+      "date": "2025-03-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250331 4本改变人生的书.md",
+      "url": "https://www.youtube.com/watch?v=4jE5UpWJy9Q",
+      "sha256": "31beced91480e64883476ea762fa82536f2b357222729e481d62509bf55e8bd8",
+      "date": "2025-03-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250403 哈佛商学院顶级教授：你听过最重要的职业建议.md",
+      "url": "https://www.youtube.com/watch?v=KmRPqrM9SWM",
+      "sha256": "da75630d1a02c634582392d6075c81a0c5000f1b0f64ea495b5c48e960273577",
+      "date": "2025-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250512 如果你对钱感到焦虑和迷茫，看看这个.md",
+      "url": "https://www.youtube.com/watch?v=Vq904k_-blE",
+      "sha256": "5e984b45d67e0b60efc29a3ac6c2148037539ce619b982654c64d6ad798427ba",
+      "date": "2025-05-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250519 理解这一点，将彻底改变你的人生体验.md",
+      "url": "https://www.youtube.com/watch?v=H3Yir26FDok",
+      "sha256": "0b98f3867ac547d1f9bcc17fd173c99aa3e5d1f447fa026b6da82e3556f83db9",
+      "date": "2025-05-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250522 如何每次都能得到你想要的：三步搞定任何谈判.md",
+      "url": "https://www.youtube.com/watch?v=MV8xSekK-KE",
+      "sha256": "0a0456b102f5574422c2ad020c5faea7a8a09fca0cade8f9058b166f209da58a",
+      "date": "2025-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250602 强大心态让你势不可挡：如何训练思维、释放全部潜能.md",
+      "url": "https://www.youtube.com/watch?v=UlOEJC9rqK4",
+      "sha256": "9d77ee74cb10d00b853044498d4a3f6326db3509eba7f5961544725f233b4298",
+      "date": "2025-06-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250605 你今天最需要听到的那句话.md",
+      "url": "https://www.youtube.com/watch?v=z4RNQk77Qro",
+      "sha256": "68a705ba9e5a971fbaeb424964d139145f3320ad38e4f01b844641571bad856d",
+      "date": "2025-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250614 疲惫生活的7个小修复：让日子变好的习惯.md",
+      "url": "https://www.youtube.com/watch?v=IatBMvg9AcI",
+      "sha256": "ef5bb9bf7fcf394deb3992f4651855938b7e2ee2d8596165749e1f34ff5c770a",
+      "date": "2025-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250616 6个改变人生的强大心态转变.md",
+      "url": "https://www.youtube.com/watch?v=bysKZ2IU9Ts",
+      "sha256": "eddb726e95a74340dfec51150d9e1a6be64cc8995c832095288edaf1350b9a1e",
+      "date": "2025-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250623 学会这个，你的人生将彻底改变（88岁弗兰克·卡普里奥的人生智慧）.md",
+      "url": "https://www.youtube.com/watch?v=qAbfWI5gz6Q",
+      "sha256": "80bcf993119343dce34ffc84c465143149902429ed8253ec4392a4d7186ff6e8",
+      "date": "2025-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250707 别等太晚才明白：顶级心外科医生警告，想长寿这5件事千万别碰.md",
+      "url": "https://www.youtube.com/watch?v=sMmYWoKv_PM",
+      "sha256": "5add90aa61601e76d416f59f7f3ec2af1783945dfd399dc9c3647a7f50e858e4",
+      "date": "2025-07-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250717 如何停止自我怀疑，活出想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=e_9UHSj0qE4",
+      "sha256": "513534322e13ac025a14a6f6faec3223e2b2bb9c1d1623b0d57233cd2a0cf58e",
+      "date": "2025-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250724 如何放下过去、告别错误，重塑自我.md",
+      "url": "https://www.youtube.com/watch?v=7a-FiD6QPLo",
+      "sha256": "11b453e9aaee2ae6c4d67301cb03c94c083865c00e3182a992dbce1515e1dfc4",
+      "date": "2025-07-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250804 如何成为你想成为的那个人.md",
+      "url": "https://www.youtube.com/watch?v=FcEehRZvoiw",
+      "sha256": "900a72d3645aa6ffdbe3c80141e0626718ce9d87bbf1b2128dea381b4ec68950",
+      "date": "2025-08-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250811 二十多岁最希望有人告诉我的建议.md",
+      "url": "https://www.youtube.com/watch?v=2wSrcr91JYA",
+      "sha256": "572131561f00b1f2fd9829ae4bd39a60636ec2b18fa0d5fc5a478d3eafdeefe0",
+      "date": "2025-08-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250814 现在问自己的5个有力问题.md",
+      "url": "https://www.youtube.com/watch?v=KTvI4yUnJjY",
+      "sha256": "53daa72608aab4828c4be95a22db42c582d7ebb270b76c9628a62354509a6214",
+      "date": "2025-08-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250818 男孩和男人悄然放弃的真正原因，以及他们需要听到的话.md",
+      "url": "https://www.youtube.com/watch?v=0LM4-TqhiaA",
+      "sha256": "b7edcd771e89be27c9656821ef0c910023f5d30e425d47697cf616c472f54086",
+      "date": "2025-08-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250901 今天只看这一个视频就够了.md",
+      "url": "https://www.youtube.com/watch?v=jImgnkT-YNM",
+      "sha256": "2d4607b9cc43af17a0e4d8c168a396d93b0dfb5c5b5eac68a435fb29901085e1",
+      "date": "2025-09-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250904 如何高效完成任务、保持专注、提升生产力.md",
+      "url": "https://www.youtube.com/watch?v=x3OA9Q6u9EU",
+      "sha256": "bb58828fba66d19413d79aa2c018aff5556fea43e3315231b0bf78a19fe3c8ca",
+      "date": "2025-09-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250908 如何设计你的人生（完整步骤指南）.md",
+      "url": "https://www.youtube.com/watch?v=yKkjU63iAVY",
+      "sha256": "4208cb7217811cf972cfd64c4ac714e1bd674c94f34e885aed67903050d44ed5",
+      "date": "2025-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250911 每天早晨对自己说的8句话.md",
+      "url": "https://www.youtube.com/watch?v=RLnqVG7Ashc",
+      "sha256": "8d7d5f7b3269ebe8156c9189ff3efc5ce9d20939f9af18cf750f7a2e8f45ad4a",
+      "date": "2025-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250925 如何在身心俱疲、前路迷茫时，活出你想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=EUJ85tlfybw",
+      "sha256": "946ac4e3dc236e89f49903e463ad8ea3dfab4330ef7a8890b7d2321301ef3f26",
+      "date": "2025-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/250929 关于他人的惊人真相，将改变你的人生.md",
+      "url": "https://www.youtube.com/watch?v=asojiVtJ7F0",
+      "sha256": "f0439480f3a804e88a808142435b43fb3297902d8647148568d240152e05d78c",
+      "date": "2025-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251006 试试一周：6个小方法找回快乐、能量和乐趣.md",
+      "url": "https://www.youtube.com/watch?v=9A5kNKzfpVs",
+      "sha256": "1619bfa692383b61e1faa9a309be61f1e5293ecc44d46defbdacc0bbd77fe0c0",
+      "date": "2025-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251013 如何培养成功心态：热情与毅力的科学.md",
+      "url": "https://www.youtube.com/watch?v=rmW3Afu9npY",
+      "sha256": "35d08f594b9f3df3c8a020b4daa2d52208acd1703f972be61133eb12c74b3778",
+      "date": "2025-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251027 12分钟提升脑力：神经科学家揭秘提升清晰度与专注力的头号习惯.md",
+      "url": "https://www.youtube.com/watch?v=f0kgtH0pJ2A",
+      "sha256": "975a4f9566f1ddd034e5ea2a9140bed1659b48ab905107fb631e44d7ccbe4a6d",
+      "date": "2025-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251103 问自己三个问题，找到真正想要什么.md",
+      "url": "https://www.youtube.com/watch?v=APw7h-z2mxk",
+      "sha256": "7709d14df020467ad4848a96f9de14a540505bfd7c33c67c6e8a480512af4989",
+      "date": "2025-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251110 按莎拉·佩林的方法做一周，就能显化你想要的未来.md",
+      "url": "https://www.youtube.com/watch?v=J98NpA5sYf0",
+      "sha256": "744eb26cdd30f3ff10df405deed3d1904f2f46b6d6cbd5b9b40733ff02470128",
+      "date": "2025-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251120 这项研究将彻底改变你的人生观：康奈尔遗产计划.md",
+      "url": "https://www.youtube.com/watch?v=IF0QIfwYQnw",
+      "sha256": "137849149802f49e913172e21b7b0d6c02238cdbdedd11e7e5a31aee07e3cc3f",
+      "date": "2025-11-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251127 如何活得更幸福：今天就做这个感恩练习.md",
+      "url": "https://www.youtube.com/watch?v=fEIIPN_89Yg",
+      "sha256": "31bc8f307b21c01e7f569a2f5a542258a657ddce9fbdb0ea89017ad73a282b3e",
+      "date": "2025-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251201 7天习惯重置：今天开始，下周就能感受到变化.md",
+      "url": "https://www.youtube.com/watch?v=QoEdYHWuqv0",
+      "sha256": "2a0cc09315e5a844ff71e505c9a9fe7c4ab0d4bae3ae52afe1006e52c7001ec0",
+      "date": "2025-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251204 如果这一集都激励不了你，那就没什么能了｜Mel Robbins 和 Wallo.md",
+      "url": "https://www.youtube.com/watch?v=0pYim783TCo",
+      "sha256": "be810e7a5a53f517d3b319c2ed7d8672e4c4c85e31f3f4876a8f8e4c20dd2479",
+      "date": "2025-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251208 如何从今天开始重塑你的人生.md",
+      "url": "https://www.youtube.com/watch?v=oAJnNf4RW_A",
+      "sha256": "5a33013625349e2fb8c4f09376eb5d825615f2acfbd19f05b67010200114c758",
+      "date": "2025-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251211 5条立刻改变人生的法则.md",
+      "url": "https://www.youtube.com/watch?v=RRHU-fvsNo0",
+      "sha256": "0b3f3ba34302b7d4f099fd91f8a36879c6aa16f41c93d7cecdc07602229ffbf4",
+      "date": "2025-12-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251215 如何让2026成为最好的一年：问自己6个问题.md",
+      "url": "https://www.youtube.com/watch?v=GeD8tpOCyIY",
+      "sha256": "0b6e0328dedae09f8092b5f1df7f5b79a8f7b6422bd21d91fb93d8e742e0064e",
+      "date": "2025-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251220 #1 心态专家：简单的心态转变，重塑身体、能量与人生.md",
+      "url": "https://www.youtube.com/watch?v=oJAV0rtSrFc",
+      "sha256": "cf2ea8e29b5739d4d3dbdf8a408683a4640f1fe7d7bf493ad127a354bf2bed59",
+      "date": "2025-12-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251225 今年让你感觉更好、恢复更好、活得更好的9个习惯.md",
+      "url": "https://www.youtube.com/watch?v=Cqg-ppDvYnE",
+      "sha256": "cfacfab85e991dd67c4751c8029329fbd8bdea737821c39180480d49724eb992",
+      "date": "2025-12-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/251229 今年改变人生：如何从现状走到你想要的未来.md",
+      "url": "https://www.youtube.com/watch?v=iHpFwHYDnKE",
+      "sha256": "98db7c038407e1ca6d0f35507b659d3e98905443eafaa88a143d343584141692",
+      "date": "2025-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260105 你现在需要听的7件事（效果出奇地好）.md",
+      "url": "https://www.youtube.com/watch?v=-UYbtU-wRvU",
+      "sha256": "c5185979a0a3ac15fd26439a5ac6540e218f78b18f5dc505b3a78976562aa471",
+      "date": "2026-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260105 你现在需要听的7句话（效果出奇地好）.md",
+      "url": "",
+      "sha256": "18dd058104cdf0b4c3899e36623c794a7030837c4b7433b9a738dc8728f47f1e",
+      "date": "2026-01-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260108 养成与打破习惯的科学：如何在一个月内改变人生.md",
+      "url": "https://www.youtube.com/watch?v=8dHEG7WxR4c",
+      "sha256": "1329d4e2ed323abce829628260d3f62aaf7065d500b4eb07b180fcd8b6195bd2",
+      "date": "2026-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260119 5条改变人生的金钱法则，实现财务自由.md",
+      "url": "https://www.youtube.com/watch?v=uysZfSEmeRE",
+      "sha256": "31fde94230c4a12cca9b3e48c57354988dd791c8e1d132b0e29f63475c893213",
+      "date": "2026-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260122 自控力的科学：找到动力、提升专注、掌控多巴胺.md",
+      "url": "https://www.youtube.com/watch?v=E4rTyhYfZhE",
+      "sha256": "b8660997374730317148bc186cf95aa0dc64869e18107d827c41c8483e68bc45",
+      "date": "2026-01-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260126 这场对话将彻底改变你对自己整个人生的看法.md",
+      "url": "https://www.youtube.com/watch?v=M6MzKYP9XeI",
+      "sha256": "5c1ae4cfaa821bfbbf0a82ef816621bd70c424b3417ab28961b3d8602c1c2bda",
+      "date": "2026-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260202 别再浪费时间了：科学方法帮你戒掉拖延，掌控每一天.md",
+      "url": "https://www.youtube.com/watch?v=ccY2DaPEB9s",
+      "sha256": "477c12808acabc2c558757f43ef730792835fb99a5f58d806fe168e5f2a5af29",
+      "date": "2026-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260209 24小时转变：今天开始，明天就感觉不一样.md",
+      "url": "https://www.youtube.com/watch?v=jfLwabNA9IQ",
+      "sha256": "e73efc7d0d48d08639bedb26ebd68efe5b199e81a8bdb1813e6453e7d24ec3d1",
+      "date": "2026-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260219 这场对话可能帮你省下几千块.md",
+      "url": "https://www.youtube.com/watch?v=Jk6sD1TEJ4A",
+      "sha256": "387712524e3613c426a2b94456a4d85a7e03161ac0f7d3e5d6e4527ac196f2bc",
+      "date": "2026-02-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260223 如何在一小时内设计你的人生.md",
+      "url": "https://www.youtube.com/watch?v=Y29PQz239J8",
+      "sha256": "2d9aa0ec187d564279f371468ab7694b22ddf2ddca2ffc6f2c97aed9d1413b72",
+      "date": "2026-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260302 改变身体、精力和人生的4个小决定.md",
+      "url": "https://www.youtube.com/watch?v=UftzI17LB2A",
+      "sha256": "e1b304cd01ed98584e15ad9063bbda6c131549b8dc74c7d9587b41d9cc73da40",
+      "date": "2026-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260305 关于婚姻与爱情最震撼的对话（来自顶级离婚律师）.md",
+      "url": "https://www.youtube.com/watch?v=gaKQa9TuSmQ",
+      "sha256": "23efd40e5b593d2c14c91e74045469d9e9ced7664b5af500e52535f11ab206bb",
+      "date": "2026-03-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260312 如何打造有意义的人生，从今天起得到你想要的.md",
+      "url": "https://www.youtube.com/watch?v=cWZI2RyI9wM",
+      "sha256": "65d2989be3a5f4fedfbca9fd6939de8b1d298d903247c8ef9ebea6edd10164dc",
+      "date": "2026-03-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260316 你不是懒——你只是需要一天来整理生活（方法在此）.md",
+      "url": "https://www.youtube.com/watch?v=yFEqqZXzkHU",
+      "sha256": "770f5db2600460e5fc0ec2c51dd800ffcfa1248ba16be7c71a08931c752fff8a",
+      "date": "2026-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260321 3个简单习惯，让你更快乐、更强、更自信.md",
+      "url": "https://www.youtube.com/watch?v=F8VdbSDIgIY",
+      "sha256": "13e9d1ee18c1a2fc89156d23ec6716be278625188e1b0c9a7daf65a3b7d90f07",
+      "date": "2026-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260326 这个简单的思维转变，会彻底改变你看待人生的方式.md",
+      "url": "https://www.youtube.com/watch?v=q6POJ8FWyNw",
+      "sha256": "8e160b7796e2ef37b4018b4139e0530bdd73c740c3434b56745664cf37f04df7",
+      "date": "2026-03-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260402 #1 明星造型师：每天早晨做这件事，让你更自信、专注、有型.md",
+      "url": "https://www.youtube.com/watch?v=CymU8nGrrjA",
+      "sha256": "f4bc68ad6ff40ba8964f251d859f021493b2121ed87098dcaa3d9227231b289f",
+      "date": "2026-04-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260406 白手起家的财富秘诀（跟你想的不一样）- Barbara Corcoran.md",
+      "url": "https://www.youtube.com/watch?v=c62PQp9KukM",
+      "sha256": "57687d45292beadea0395a67c63e01205d1d9b8148791876f4fc384dc640600b",
+      "date": "2026-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260420 斯坦福运气研究员：如何显化你想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=EvEsWpiT8WQ",
+      "sha256": "ba06e5ae4b5e8ee050da9cb526f72cbd11b712ef6538a97fa5a49d6fd250f23c",
+      "date": "2026-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260423 实现目标的科学：5个简单步骤改变人生.md",
+      "url": "https://www.youtube.com/watch?v=MdwDd9NUITg",
+      "sha256": "b9422621e4818b6589ae39229c6394e75e0903d0246892c577c4c7552cd0e187",
+      "date": "2026-04-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260504 如何变得更自信、更有影响力、沟通更顺畅——哈佛商学院第一教授教你.md",
+      "url": "https://www.youtube.com/watch?v=5R7EOZ5AbHg",
+      "sha256": "1cdb400b9a28f680bc50a38db38f248aefcf5c33e129b25fc8d30637e1222c7f",
+      "date": "2026-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260511 如何彻底消除自我怀疑，建立坚不可摧的自信.md",
+      "url": "https://www.youtube.com/watch?v=Jd80_EKVb1A",
+      "sha256": "7675c52dd729e8d32f792e5e3cd4d65b6a68ab3ae612d390d74202eb87a8f70c",
+      "date": "2026-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260514 如果你感到迷茫，看这个视频来显化你的理想生活.md",
+      "url": "https://www.youtube.com/watch?v=NiI8i20mKl8",
+      "sha256": "9daa2f57c80b8d86f2de4eeac5b91f88e70e2515330bfa96a9a6fa138bdb7850",
+      "date": "2026-05-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260518 每周只需2天，增肌、抗老、永葆强壮.md",
+      "url": "https://www.youtube.com/watch?v=qQO-lL6gJSQ",
+      "sha256": "3199c1165dcf17a1e8dd94379ec4a32c894ca789eb89213afe853200c8b3285b",
+      "date": "2026-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260604 今天做这件事，重置你的人生、能量和快乐.md",
+      "url": "https://www.youtube.com/watch?v=Snuhd59cNP0",
+      "sha256": "15b24986b811f094910bca38ec91cdb6269228c1e21eb6ac791d0275bfb2fc75",
+      "date": "2026-06-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260615 每晚对自己说这7句话，让你更快乐更积极.md",
+      "url": "https://www.youtube.com/watch?v=_NwN9qXxfW0",
+      "sha256": "ed0ffb98ac3ab234f231d6e3cd7cac2d4684ba8a55fadda5557469876d491b31",
+      "date": "2026-06-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260622 试试一周：用小方法让生活重新变得有趣又精彩.md",
+      "url": "https://www.youtube.com/watch?v=IDqKUXp2ENk",
+      "sha256": "b9d49be79a01057e5c5f73095dd7adf0cc39edc86e5d4f41e923ed8427d4bf8f",
+      "date": "2026-06-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260702 创造更快乐的自己：把能量转向积极思维.md",
+      "url": "https://www.youtube.com/watch?v=bNEgsvoPQjQ",
+      "sha256": "544594c064b97a2b606dcb76793b578fad0f8797d3392f678a1649ac7ac11694",
+      "date": "2026-07-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260711 如何打造更好的未来：两个简单问题，立刻提升你的人生.md",
+      "url": "https://www.youtube.com/watch?v=IJq-SLEjdsk",
+      "sha256": "9bb09f749e6122cd97e7190b2eb6ecf8308e7bc7c780f06d130c0791e5549373",
+      "date": "2026-07-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260803 如果你这周只看一个视频，那就看这个.md",
+      "url": "https://www.youtube.com/watch?v=ylswUDZVgWM",
+      "sha256": "7c005c4f7fed5fb3929ea7288c851a5fb0e79e15b20badbd2ab81a646261f8a5",
+      "date": "2026-08-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260806 整理生活与居家：用简单系统赢回更多时间、精力与掌控感.md",
+      "url": "https://www.youtube.com/watch?v=BfW9ENoucyE",
+      "sha256": "1613f27b1934ca87492cfaf987119009eb6cbf43efc9fd115384e3fae414177f",
+      "date": "2026-08-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260810 世界顶级心理学家：如何心想事成，创造你想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=2WhnTeC0Ql0",
+      "sha256": "e2bb7b7af230d957c1f93d6ca596da06669ca6892df4f03a784743e15b7ba807",
+      "date": "2026-08-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260817 Former CIA Spy- How To Build Unshakable Confidence, Eliminate Self-Doubt, and Reinvent Yourself.md",
+      "url": "https://www.youtube.com/watch?v=duWUa9Md_tU",
+      "sha256": "fedc6d3c8fbdd3ef07c7340a65018a4a5eee4cf5cb473d6e76a9fc14cfc5c5f4",
+      "date": "2026-08-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260817 前中情局间谍教你：如何建立坚不可摧的自信、消除自我怀疑、重塑自我.md",
+      "url": "",
+      "sha256": "a36fe326e91260918c1f9071bef10e96fc24eacaf49c6002b7b7f3519df55336",
+      "date": "2026-08-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260827 别再浪费你的精力——如何应对不愿改变的人，以及更好的做法.md",
+      "url": "https://www.youtube.com/watch?v=N5OjMuyqdJQ",
+      "sha256": "4df5778edf32f2d1a7470f5efb4286796ca941de8e3f65153da1a7ed14178e13",
+      "date": "2026-08-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260903 给我60分钟，我将彻底消除你的自我怀疑 - 本尼·布兰科与梅尔·罗宾斯.md",
+      "url": "https://www.youtube.com/watch?v=wzUxCN-ZFfU",
+      "sha256": "2dddefa219dae46efadd9fed62d5438028d2219cd9ecd930156fdb7882c8dddb",
+      "date": "2026-09-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260907 这一期节目将激励你彻底改变人生 - Gary Vee.md",
+      "url": "https://www.youtube.com/watch?v=g_wMpEGgc1Q",
+      "sha256": "5b01b6d861f506324c6abaeafd018672875b4a0b77dfd9b7432fdaaf8f6b2c43",
+      "date": "2026-09-07",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260914 纽约大学教授：坚持两周，找回专注力、动力与生活.md",
+      "url": "https://www.youtube.com/watch?v=DFcndrm7ql4",
+      "sha256": "cd270583c6c84a726866dd5d9396563fdef1fc9e3cd51e5f6975323fad0bea2b",
+      "date": "2026-09-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260917 奥普拉·温弗瑞：如何找到你独特的使命、真实的力量和人生召唤.md",
+      "url": "https://www.youtube.com/watch?v=adQyLViK_ZU",
+      "sha256": "2faf4300d59056fae8fd9fa5d3c0346f263fdf4cf9e94add16dc2333ae2d72ff",
+      "date": "2026-09-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/260928 如何摆脱月光生活，实现财务突破.md",
+      "url": "https://www.youtube.com/watch?v=78BsFkDrAr8",
+      "sha256": "2475cadf399e31b7f6760f219e65c6829db29961610c615953ee0e664878f68f",
+      "date": "2026-09-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261001 感觉陷入瓶颈？这条简单法则或许能改变你的人生.md",
+      "url": "https://www.youtube.com/watch?v=jez2pA6iFLA",
+      "sha256": "c796de7bf73d024eda6c84775917685e8ae7cea9061d85e9e58125168c3f0d28",
+      "date": "2026-10-01",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261010 如何不再被忽视，开始得到你想要的——跟顶级商学院教授学.md",
+      "url": "https://www.youtube.com/watch?v=3SdOXtuPLiU",
+      "sha256": "b9c6e770e8896f3769a2840d53a6e8adbbc22ca7c4323e672972ccb8e38704f4",
+      "date": "2026-10-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/01 行动力与自我改变/261012 神经科学家：看完这个，你的脑子就不一样了.md",
+      "url": "https://www.youtube.com/watch?v=OojWAavwEyg",
+      "sha256": "98d5b063394b029ee39e484fb62c4b8c2d251441edf61c1f905c55a55f857321",
+      "date": "2026-10-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/170824 如果你正被焦虑困扰，这个心理技巧将改变你的人生｜梅尔·罗宾斯.md",
+      "url": "https://www.youtube.com/watch?v=4QHGYTP5HsE",
+      "sha256": "261040b94bf1d2f31505f445fb3a63be7805d2ebdcb857491f4f5523273ab283",
+      "date": "2017-08-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/220917 如果你正在经历心碎，一定要看这个｜Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=E1ddfWDjIos",
+      "sha256": "bda6f4046ef507af140aeac522b73d76e3b695400301bfc61842d30128fcc46a",
+      "date": "2022-09-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/221013 焦虑的真相与疗愈之道｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=RdM596wLz00",
+      "sha256": "20d45be48ea1f471dc0b955fb108fcc5840ed4edc1c0e160e236a14369a8b637",
+      "date": "2022-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/221024 状态不好、不像自己时该怎么办？｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=5z0xjtb4_e4",
+      "sha256": "88215100eaa3ba9776e946e1fc7285dab7361927c30251250582734b35168687",
+      "date": "2022-10-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/221121 这个简单的心理技巧能帮你克服任何恐惧.md",
+      "url": "https://www.youtube.com/watch?v=QI_1qWJnvsk",
+      "sha256": "7cc73ac913a96f9983d903bcfc56954f60e0810f383b4a3edf9c6dcf3d26a8d7",
+      "date": "2022-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230123 3个有效方法：疗愈创伤，重塑神经系统.md",
+      "url": "https://www.youtube.com/watch?v=etmtcooHY_g",
+      "sha256": "029deb881a2c5f16ef1c21e1f5aa9d49834a07d406d67876accfdcb1044d3ab7",
+      "date": "2023-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230216 如果你正与焦虑作斗争，这期节目一定要听 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=br1gy1sShHE",
+      "sha256": "da7d7c5f05b218f6460dd2b0ca4ba339a6405f041af8dea1a120db0ca83b58c8",
+      "date": "2023-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230316 如何应对背叛并重拾自己的力量 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=y0xShs1P950",
+      "sha256": "12c504b5e98831c33e477ba34989280af3637e21ae936debfaba3abaaedc5fc9",
+      "date": "2023-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230320 感到不堪重负？如何找回内在力量，重获平静 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=7PFUbb56Xfg",
+      "sha256": "053f478c17e7b4e0e077ba03b94d26e671624229bfdf75479686f4afc9953b01",
+      "date": "2023-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230413 焦虑的惊人信号与疗愈方法｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=yuy9VVY2Snc",
+      "sha256": "3b63f9f05c02648204583e3586b8428e0da99cec634b4549267b02dd434c9c8c",
+      "date": "2023-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230417 从混乱到平静：5个简单步骤整理生活与家居.md",
+      "url": "https://www.youtube.com/watch?v=HdPeIk8R26o",
+      "sha256": "348ccdf518319cda0ed9f44b37117d4a918bb88243b9d4266d6f06adc7cd7df0",
+      "date": "2023-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230501 每个焦虑的人都该听听这段话 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=XWyXecMJNBs",
+      "sha256": "729a5487b4807d389e5809ec4c86c574a33cc7015942d00a04d2e4709234a574",
+      "date": "2023-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230515 现在感到迷茫？别找错方向了 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=zb9yteXYOzc",
+      "sha256": "801b0b9ede3a230b70b478530161f579838e35bd63855fa1592db0a258fb5bcc",
+      "date": "2023-05-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230529 掌握「随他们去」法则，活出平静与满足的人生.md",
+      "url": "https://www.youtube.com/watch?v=d4z5C8G32AY",
+      "sha256": "389e8e9ab621ef8205fdb719d188dd8a8685b7fc11d192ae5f20d8aef309d85e",
+      "date": "2023-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230619 ADHD成年人的真相 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=0R0xhDNPfwU",
+      "sha256": "ead411915667e19892d735550bb5ac9b09cbfefa4e4f804e598075d259446b71",
+      "date": "2023-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230925 回答关于友谊、心理治疗、界限等问题 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=rRB93MwkfVk",
+      "sha256": "329a824eec0b069a3b6acf9e62efd317ca4395b593cab7a031299f42f7d23420",
+      "date": "2023-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/230928 6个神奇词语，瞬间缓解焦虑与压力｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=63P5Cv9MSFE",
+      "sha256": "42bfaa8c81b04cf79c7a453a717d6ac01c80a1bcd50a05036270bccf20700919",
+      "date": "2023-09-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231009 艰难时期防止倦怠、提升韧性的工具箱 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=9vsA0XqYc0A",
+      "sha256": "39c833477c6f7352453da0d975c275d5d5d8041978df9522da5af942b9d95849",
+      "date": "2023-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231010 世界让你喘不过气时，记住这一点｜梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=2CluLkJMmsE",
+      "sha256": "fc402b1b4540c16ee093c78dc1cb5afd333b1fd94cae514f14cac876c4793279",
+      "date": "2023-10-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231012 战胜焦虑，找回内心平静的终极指南【重播】——梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=Smw75yVM_m4",
+      "sha256": "aa1eb315feadfe379709a25017929f9e89081d883a75cbf40378a9c4f786c988",
+      "date": "2023-10-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231013 如何度过眼下这个极度恐惧的时刻｜Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=ixo-dgpx66k",
+      "sha256": "0877614501df25851cb35b9d78eb6613a6c8d534100e228d596acdff08f7d2ea",
+      "date": "2023-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231019 如何拥有人生中最棒的性爱：即使你累了、单身……或没心情.md",
+      "url": "https://www.youtube.com/watch?v=GqPgnUvgJB0",
+      "sha256": "e69c6478ca57f3b23389ae0b1cfab8988bf7f6d25c89244f2ef7f714ed5dd655",
+      "date": "2023-10-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231026 心理学家指出：6个迹象表明你对压力上瘾 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=punx8WL5_-s",
+      "sha256": "93cc564c218845774bf5d357c2b6cd1afc51450dcb923fd2c717b0f472ff29e6",
+      "date": "2023-10-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231106 这个少年破解了焦虑的密码，并教你如何做到 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=7nP7GUVydPE",
+      "sha256": "b83d4e71ed938bc53ca28ca0dc323c0dc1ab269466c4d1eff1589896f3b5e7ac",
+      "date": "2023-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231109 全职妈妈“零经验”打造2.55亿美元帝国：爆款、离婚与混乱真相.md",
+      "url": "https://www.youtube.com/watch?v=7Fet5XVpDbk",
+      "sha256": "0ba10032163878154762c334941bdfb94b5bce19dc28411d1da12f01c624700e",
+      "date": "2023-11-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231113 6个方法用我的“随他们去”理论改善任何关系 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=fJIEzxxpHpw",
+      "sha256": "e4dcba3ad2111f038e7660ead73d161da35e08c7e4ecf6d2f2f1fb1c0b1fa016",
+      "date": "2023-11-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231116 讨好他人与健康的惊人关联：医生教你如何说“不”.md",
+      "url": "https://www.youtube.com/watch?v=FbmwWvZEdZw",
+      "sha256": "524c34fe1b6e21f232bcfe3b75b40890c90e81c42d12011076203f34ac4f2444",
+      "date": "2023-11-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231204 改善潜意识的5个方法，让你更快乐：Paul Conti博士的惊人洞见.md",
+      "url": "https://www.youtube.com/watch?v=IIGaYbPSChA",
+      "sha256": "412650d33d06600e5412c69263bb060838b3a9c11aaa9d80baad2241a583da78",
+      "date": "2023-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231207 2024年提升成功：关于商业、时间管理和重塑自我的最佳建议.md",
+      "url": "https://www.youtube.com/watch?v=hRMFeMuzUKo",
+      "sha256": "a987b2f779155f7105e94ebb09492a9cb6c7a389049b02bf308430eb6986f866",
+      "date": "2023-12-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231218 每日冥想：连续21天重塑潜意识.md",
+      "url": "https://www.youtube.com/watch?v=vb5AaMIxiEg",
+      "sha256": "a19817c173fdc6dd9de3b8835c5bcbf168b039bd5c82d13e9a3e8464c583af75",
+      "date": "2023-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/231218 为什么我爱的方式是这样：四种依恋类型解析.md",
+      "url": "https://www.youtube.com/watch?v=GIkspM20BeY",
+      "sha256": "2620442a705bca3e566210e6fe69e098d66724c44014f03bd412162814b102cf",
+      "date": "2023-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240122 重置你的心理健康：哈佛名医的饮食与营养方案.md",
+      "url": "https://www.youtube.com/watch?v=-xg5-HF4ehU",
+      "sha256": "3df6e5473decdab09b9d9454d6186e2c32913a3a8e109a637bf44d9c5da2854d",
+      "date": "2024-01-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240125 ADHD成人的真相：哈佛Chris Palmer博士解读研究.md",
+      "url": "https://www.youtube.com/watch?v=XM5qZXqTQ3s",
+      "sha256": "6f0d961cd683f21e26b6d9dad68fe1afce9818bcadecd2d1cd17dbe24bbcad32",
+      "date": "2024-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240318 4个方法在压力下保持冷静：这条人生建议会改变你的未来.md",
+      "url": "https://www.youtube.com/watch?v=af7uTFizB44",
+      "sha256": "55c6fd226174ed216840f378fc00095318bdc163191933e435261505a3d26df4",
+      "date": "2024-03-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240401 3种方法，洗脑自己走向成功与更有意义的人生.md",
+      "url": "https://www.youtube.com/watch?v=0oGOUIcTbxs",
+      "sha256": "85dfef8bbebc44847c0cf8237cd7a16c16dd9958f65b9bc2e0d02ef5cb60e747",
+      "date": "2024-04-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240404 什么造就美好人生？最长幸福研究的启示.md",
+      "url": "https://www.youtube.com/watch?v=5jnEizYzQl0",
+      "sha256": "e415d5571ae52f401d979280f71ca8524978aa07a36aca68862790e84254a0a2",
+      "date": "2024-04-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240502 #1 研究员：高功能抑郁症的7个迹象.md",
+      "url": "https://www.youtube.com/watch?v=yQu-Ct9-6dg",
+      "sha256": "00124b1ec75fb36505190e762eb10348d4226cb8ad5f89a7ae64c7ca7f62423c",
+      "date": "2024-05-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240518 别跟自恋者争辩或对抗……这样做才对（#1 自恋专家）.md",
+      "url": "https://www.youtube.com/watch?v=IewDusCWdCM",
+      "sha256": "79b6f1050c535fb4046e107a7a1112de6ca4e0ab641cb5270c265aa3b07ae8cc",
+      "date": "2024-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240523 #1 压力专家：5个保护大脑、即刻平静的方法.md",
+      "url": "https://www.youtube.com/watch?v=Rl5Y9Eem3tc",
+      "sha256": "cc18dc57a330a95fcddd9e8c8a5ba1aca2cdeb147f7f34989518ef84d461a15d",
+      "date": "2024-05-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240527 关于人际关系你必须听的残酷真相.md",
+      "url": "https://www.youtube.com/watch?v=cf4ANNIRjdk",
+      "sha256": "75bae72cbb2335c1a1fc041c2ad08bf0e5c1c82807ec8f6da789a4d0626ad7f7",
+      "date": "2024-05-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240603 任何时刻都能改变人生：幸福背后的惊人科学.md",
+      "url": "https://www.youtube.com/watch?v=FXD7NZRJgI8",
+      "sha256": "01c56c323f4cafb6c2a217109338ac5694f90c03bf1a55f284834c46b285765d",
+      "date": "2024-06-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240708 世界顶级心理学家：如何掌控情绪、应对负能量的人.md",
+      "url": "https://www.youtube.com/watch?v=KsNqnurfP5A",
+      "sha256": "a445a459cd5b0beeae0a2ad876bc7d6eb95e50ea38edfb0b476017af4e96dd61",
+      "date": "2024-07-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240801 濒死体验：关于灵魂使命、意识与合一的终极真相.md",
+      "url": "https://www.youtube.com/watch?v=xSDQWuTqDFQ",
+      "sha256": "5a362fbb371a91c26d1ec129bbb3c78b47cb9cc96ebc7bdad27712a0937d7f96",
+      "date": "2024-08-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240829 大学里没人告诉你的8个真相.md",
+      "url": "https://www.youtube.com/watch?v=7FOgolNYuX0",
+      "sha256": "2906a974ea86676a5bd53dd8a9bbea0828fda88766ecc691dcaf734b16f2dba3",
+      "date": "2024-08-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240909 孩子离家后，下一章人生的终极建议.md",
+      "url": "https://www.youtube.com/watch?v=tLfs31mURpA",
+      "sha256": "099392da36558c9bf4844d9285c559105f7f1d7a1dd84d7e61404009196eebfe",
+      "date": "2024-09-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240912 如何做出一个日后不会后悔的决定.md",
+      "url": "https://www.youtube.com/watch?v=isLA-Ge9aS0",
+      "sha256": "b95986203176dacb14277fb17fae465bb030cb84ea5e0f0f35c7ccdbd9e31451",
+      "date": "2024-09-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/240916 活出意义：让生活更有价值的永恒智慧.md",
+      "url": "https://www.youtube.com/watch?v=D1AtCrdD5MY",
+      "sha256": "7b896f35b85de5f29cc0ad3b4bdbb3b7d1339ff9a31123c483e10bcc3da21ca1",
+      "date": "2024-09-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241003 改变大脑：顶尖神经科学家推荐的巅峰能量与专注力训练方案.md",
+      "url": "https://www.youtube.com/watch?v=izWRm4-52l4",
+      "sha256": "d188b9f3e678c9af55c47da2a99d4214e27c57371da0bad088f2eafd715ea7f0",
+      "date": "2024-10-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241007 如何从错误中学习：放下遗憾，继续前行（我的隆胸噩梦）.md",
+      "url": "https://www.youtube.com/watch?v=GiD4CJVFqUo",
+      "sha256": "57d1d434956f4a27337f664abbc1ed10956d9154d4c13b294e9347d68c742aa0",
+      "date": "2024-10-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241010 对付自恋者的最佳方式：不争吵｜梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=C57vhohpnPA",
+      "sha256": "e67a763960211f170f3829ca1baa57a2b1f53e2218df2619ae8a471d3dd1000a",
+      "date": "2024-10-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241014 如何重置心态，找回平静与掌控感.md",
+      "url": "https://www.youtube.com/watch?v=KXjX0b9B-j4",
+      "sha256": "58e6bffc5a40f6e03b357da29366f5cbf19604327ef685a2170fa0766ed1258e",
+      "date": "2024-10-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241028 如何建立更好的关系：30年婚姻的6个意外心得.md",
+      "url": "https://www.youtube.com/watch?v=HfNw_w62uBo",
+      "sha256": "aa4d2799a7487c31e0946bd805a62178dce9e669070fcae214ce34aaf83438cb",
+      "date": "2024-10-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241107 灵性体验的科学：如何重塑大脑，获得更多幸福与目标感.md",
+      "url": "https://www.youtube.com/watch?v=zVXOyp0q9pA",
+      "sha256": "814f1c205bbf7b114bc481d9acd34676d7caf57028acfe0a485634a72ba5743c",
+      "date": "2024-11-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241121 加博尔·马泰博士：ADHD、成瘾、自身免疫疾病与创伤之间惊人的联系.md",
+      "url": "https://www.youtube.com/watch?v=PLvCXIvgrGQ",
+      "sha256": "bb8a8b21fb7679fa3e6ecf7f5b3a506d2f6b4e78be415039b78589cb5e192f28",
+      "date": "2024-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241125 改变家庭关系的简单工具.md",
+      "url": "https://www.youtube.com/watch?v=Pw1ohFfCPsg",
+      "sha256": "b4f6604ebe6eca96d2c1c225ff829f0b26ec6b381bd0553978e43c9cf854439d",
+      "date": "2024-11-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241202 5个迹象说明你们不合适 & 3个信号说明你找对了人.md",
+      "url": "https://www.youtube.com/watch?v=qtQg09GLXVc",
+      "sha256": "2adc5edb83ffad9449a4304f3642569247ef856c2bb841f9a350eaa7c0dfc0d0",
+      "date": "2024-12-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241205 给正在经历分手的人：如何治愈破碎的心并继续前行.md",
+      "url": "https://www.youtube.com/watch?v=GcJVygChaxA",
+      "sha256": "71b7c38617830ec788c787bcd188b320d901d281633796fa285d0f6c529213c9",
+      "date": "2024-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241209 你唯一需要的恋爱建议.md",
+      "url": "https://www.youtube.com/watch?v=166lDfHQtZA",
+      "sha256": "29f90c391949a5258d4504994d05a7f056e80375ea6377a69a68d5efbf93f5a2",
+      "date": "2024-12-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241216 哈佛心理学家分享6个字，改变你的家庭.md",
+      "url": "https://www.youtube.com/watch?v=j6sSGT30WEg",
+      "sha256": "975d87520979d59dc89e2d9f7f6d935be3f2ba041a07e09a8e20ef2502c69522",
+      "date": "2024-12-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/241223 改变人际关系的唯一工具：随他们去理论.md",
+      "url": "https://www.youtube.com/watch?v=U4h9-LIkvzA",
+      "sha256": "4b10c10f890f6b1173fb5f6d45945455450e55a96b6ac5f9287c07548d0850aa",
+      "date": "2024-12-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250120 如果你正被压力和焦虑困扰，这个视频会改变你的人生.md",
+      "url": "https://www.youtube.com/watch?v=6TiJuzF0iD0",
+      "sha256": "8192b2d647cbebab484cc9313e1f32bfb698569b70d845a86d12e435fcd9525a",
+      "date": "2025-01-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250203 为什么80%的自身免疫疾病发生在女性身上？一位知名医生的解决方案.md",
+      "url": "https://www.youtube.com/watch?v=a7PqRTeaxOk",
+      "sha256": "0de2c66f3624b8d4dc1d6f4504e8d0b417badfcb36b01e8da11e1a144197bbea",
+      "date": "2025-02-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250210 成年人交朋友为什么这么难？该怎么办.md",
+      "url": "https://www.youtube.com/watch?v=f26GCEUCNXk",
+      "sha256": "cc3f5f793bedbc1e422209258f6c71f518d94b7582459dba7614f728e27f08b3",
+      "date": "2025-02-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250213 没人告诉过你的最佳感情建议.md",
+      "url": "https://www.youtube.com/watch?v=6Kycn43KNOE",
+      "sha256": "4ed4ef940484981f1a4f07c795a7970bf5aaf28fa69c1dd63ef5c00bf9c8a71f",
+      "date": "2025-02-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250220 1个月改变身体与人生：4个真正有效的小习惯.md",
+      "url": "https://www.youtube.com/watch?v=mMHNvy9pFj0",
+      "sha256": "b9bc915d023f0621626db4e65d06daa43d2b6dade1da81e13056cf81da18f7ae",
+      "date": "2025-02-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250227 如何应对难缠的人，重获内心的平静与力量.md",
+      "url": "https://www.youtube.com/watch?v=XhBp6GZzH6k",
+      "sha256": "d43f2da94edc4b1067d0fc7c744d4a931ac4f7483774e7ae2c08da5f7d31abee",
+      "date": "2025-02-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250313 如果你感到迷茫和焦虑，这段内容一定要听 - 朱莉医生在梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=bjvPbfxE3CI",
+      "sha256": "3485e4bfe9de97166272e6a9f3eae7f36d2157815e8ed338894fcc11e24d356d",
+      "date": "2025-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250320 世界顶级性治疗师教你如何拥有更好的性爱、亲密关系与爱情.md",
+      "url": "https://www.youtube.com/watch?v=LoPJEzhtypc",
+      "sha256": "d3d9c5a4f74cb0cb87dcfffbfe2dbe8119fec3a9f25fe5c15368f5c32d3cf35a",
+      "date": "2025-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250324 为什么你感到人生迷茫：加博尔·马泰博士谈创伤与疗愈之道.md",
+      "url": "https://www.youtube.com/watch?v=tool-R8VJ2Y",
+      "sha256": "98333d406f8e7691db9924511ec322f1ff74989e17be268220a40ca4b66e1c8a",
+      "date": "2025-03-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250407 重塑自我：放下过去，与Charlamagne tha God一起打造全新版本的你.md",
+      "url": "https://www.youtube.com/watch?v=0CMKkM84vOk",
+      "sha256": "9500630180851b6b4dbc73fdf193521a66befdc5cffb0cb80eb84c5e78e15a8f",
+      "date": "2025-04-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250410 焦虑与ADHD的真相：知名精神科医生Dr. Tracey Marks分享改变人生的实用工具.md",
+      "url": "https://www.youtube.com/watch?v=LOkEvGV-L4U",
+      "sha256": "631d79c1b53f6c555b714684e73521852262012ac38cd94af3909ef358ab2755",
+      "date": "2025-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250414 如果你觉得人生落后了，看看这个.md",
+      "url": "https://www.youtube.com/watch?v=tyzOH2tr9_M",
+      "sha256": "97d5857b909ce07fe062a1fd5add668c42508800b37d329b71c27237daec7f7f",
+      "date": "2025-04-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250424 不是你的错：成年人交友为何这么难 & 3个让关系变轻松的方法.md",
+      "url": "https://www.youtube.com/watch?v=kIiGtwPLSvI",
+      "sha256": "f33d3fd0eb5e246b2c21034608f078c54eea4dcda6203e2119c5f2533cb213b5",
+      "date": "2025-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250428 相信直觉：如何做出艰难决定.md",
+      "url": "https://www.youtube.com/watch?v=aGPYyo_Mplg",
+      "sha256": "e078c28f84e59db156f31047140d24f808c33bbfb566b71109433707ba9227d0",
+      "date": "2025-04-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250501 来自顶级长寿医生的建议：3个简单习惯，多活10年.md",
+      "url": "https://www.youtube.com/watch?v=SQ54wma-JQA",
+      "sha256": "ff75924cc33144351cff3606d6fb8e3ae6b4a880cfcee29d70ffb2557e56428f",
+      "date": "2025-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250505 今天每位妈妈都需要听到的话.md",
+      "url": "https://www.youtube.com/watch?v=2U3wQ82ZIdE",
+      "sha256": "98b19f768ef62a087e9756a17da49d4f08d55eba2708271acd2c494fd6e7aac9",
+      "date": "2025-05-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250508 如何停止负面思维，重置心态，拥抱积极思考.md",
+      "url": "https://www.youtube.com/watch?v=jqArVJXZXaE",
+      "sha256": "3b3e0109999fc54878dd31e8c4ae9b158d0d3fe14c02b2a969a777ad703c16eb",
+      "date": "2025-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250529 女性荷尔蒙终极指南：用科学重置身体、平衡情绪、焕发活力.md",
+      "url": "https://www.youtube.com/watch?v=pawDZoLP6ic",
+      "sha256": "9ecff3f32aee8f3e79326bb61b0830e977a3d17e938ab708b0154d54ec879da6",
+      "date": "2025-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250609 终于和身体和解：4个专家步骤，今天就能更自信.md",
+      "url": "https://www.youtube.com/watch?v=krnRy54f2rk",
+      "sha256": "38b764f869b09f86c5e31ab5db733bb4fac0b4eaf5bed28b8c27059e10b48220",
+      "date": "2025-06-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250612 每位父亲都该知道的事：文学大师詹姆斯·帕特森的忠告.md",
+      "url": "https://www.youtube.com/watch?v=Mbad2F4fvCc",
+      "sha256": "bf1a216ef2e3dc88b04ef21d1fd55d46ae6c4e797b49fdb99cdafbbf819d977d",
+      "date": "2025-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250619 这场改变人生的对话，帮你与真实的自己和解.md",
+      "url": "https://www.youtube.com/watch?v=rN83hi9QxUM",
+      "sha256": "604d24838f77fad06f5d04a98ce9f25c6267caff286bb6b0fc9d36165bf25555",
+      "date": "2025-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250626 女性大脑终极指南：神经科学家揭秘如何提升情绪、精力与专注力.md",
+      "url": "https://www.youtube.com/watch?v=-M6T9k3Mb8o",
+      "sha256": "1c9639c8eb4abbaa027fd8ab977d04f4cf11a1eb10bbacdccd25237a1ea9ebea",
+      "date": "2025-06-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250630 二十多岁感到迷茫？这些话你得听听.md",
+      "url": "https://www.youtube.com/watch?v=3ZLWq1uDCZ0",
+      "sha256": "1944a4cebdc1c25bde4548f65b94c57f218b59cd265d9ca6f2e2c90048b8970a",
+      "date": "2025-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250710 你可以改变大脑：神经科学家教你重塑思维、停止消极想法.md",
+      "url": "https://www.youtube.com/watch?v=CESqNpTK1S8",
+      "sha256": "50133db4900d8622ec3f3f3919c8ee88d6d135bcdb103ae9c339b359d84c00bd",
+      "date": "2025-07-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250714 超负荷、疲惫不堪、准备重启：3位医生给出最佳建议.md",
+      "url": "https://www.youtube.com/watch?v=892M1vCEuUg",
+      "sha256": "075bd5efba1b0e50d9a06526b48012a2776f327dc7a63774f1099cf55f41b866",
+      "date": "2025-07-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250807 重置你的心灵：生活压力大时如何找到平静.md",
+      "url": "https://www.youtube.com/watch?v=c3v9VK3T-WE",
+      "sha256": "279bd2343dc6deff0bf918dd976d84a7e848404dd10e581a86252f44a6a8cf2c",
+      "date": "2025-08-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250828 4个步骤释放创造力，每天灵感满满.md",
+      "url": "https://www.youtube.com/watch?v=HpreATdUSZA",
+      "sha256": "4a002bfb24b3e6e626f3810032edf609ba284eb78c073d30c3f1c05dd0f1a645",
+      "date": "2025-08-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250918 放手理论：如何重拾内心的平静与力量.md",
+      "url": "https://www.youtube.com/watch?v=c1orPqt6Wr0",
+      "sha256": "bc6f59fd4f04719007cbb0a44c95c7bbf68e06652bde4cc27dc2970315506fda",
+      "date": "2025-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/250922 你听过最好的理财建议.md",
+      "url": "https://www.youtube.com/watch?v=Ai4iNmW2A1c",
+      "sha256": "3b86a30460d869c692b0697f9c60b6a1f42cc9503fa5f4d1de7cca446db69c4f",
+      "date": "2025-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251002 如何用你的大脑治愈身体——哈佛顶级心理学家亲授.md",
+      "url": "https://www.youtube.com/watch?v=DZYFrWZz6lM",
+      "sha256": "e0f39f43617bcfe344c25fddf68ae5d2bff55ceaf59a89d32c27ab4db08c4b4b",
+      "date": "2025-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251020 如果你感到不堪重负，这段话就是为你准备的.md",
+      "url": "https://www.youtube.com/watch?v=8ZaRhjqCFQo",
+      "sha256": "d2731af59768c4890bc0f4ec8e48f3c80ec94d51800e0cd0bb1606aa913815b7",
+      "date": "2025-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251113 如果你觉得一切都不顺，今天最该听的一句话.md",
+      "url": "https://www.youtube.com/watch?v=1iSw8rrTdyk",
+      "sha256": "496278e0ca2e5283374320294f85cee88667ce4b4d9830f37812c3c5f8819da2",
+      "date": "2025-11-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251117 如何与难相处的人打交道而不感到压力.md",
+      "url": "https://www.youtube.com/watch?v=GtVPoYq7Rso",
+      "sha256": "17ce8dd54ec2926334a361759798eae3508a948863220a13196287ae07130ec3",
+      "date": "2025-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251124 世界顶级治疗师：为何你感到人生停滞，以及如何走出困境.md",
+      "url": "https://www.youtube.com/watch?v=JpgabAQo85I",
+      "sha256": "fc80ea606a696594e02f154d3fcace28c47ba1fbda5af82877d9bc2c9a34d492",
+      "date": "2025-11-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251218 你的悲伤和心碎，看完这个就会好起来.md",
+      "url": "https://www.youtube.com/watch?v=uSZy6Ww3e6A",
+      "sha256": "924d3e01eb081d7dbd3cb0f2ce4019e362fba963d16a3e46c9a58befe01e8ef6",
+      "date": "2025-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/251222 这期节目后，你对家人的看法会彻底改变.md",
+      "url": "https://www.youtube.com/watch?v=YxbJ-vVGncg",
+      "sha256": "f3f93c181d1c13679c6928b4eaac4fe2626c3d5d376c421aca52f3ef1b8f6731",
+      "date": "2025-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260212 来自顶级性学教授的恋爱、性与爱指南.md",
+      "url": "https://www.youtube.com/watch?v=qi45Jl46Py8",
+      "sha256": "9a8b9d9e8979e64eb20d7fc308bdba83cf63f0df0bfe547d2d99a82f5c2a963e",
+      "date": "2026-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260216 约会专家：为什么今天找对象几乎不可能，以及如何找到真爱.md",
+      "url": "https://www.youtube.com/watch?v=q7SNC9fIF8c",
+      "sha256": "1280c32626dfcc545d7a05e7f1f26a18236e0361cda501afd4b9d1c41689bbba",
+      "date": "2026-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260226 #1 皮肤科医生：终极护肤流程，打造完美肌肤.md",
+      "url": "https://www.youtube.com/watch?v=qVIdfSLFfSM",
+      "sha256": "ee8e6b3d041c99fd9885a3fd98121c9644391457cac32a268951e8e1972014c3",
+      "date": "2026-02-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260319 人生到底什么最重要？一位癌症外科医生在接诊15000名患者后的忠告.md",
+      "url": "https://www.youtube.com/watch?v=B4CewOV9u7Q",
+      "sha256": "a03e40f04517bbba9e77c5841ae37ab7a6c2f3dd5fdb9625b026a526b63f4d8b",
+      "date": "2026-03-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260416 麦克医生：让你生病的健康谎言（以及该怎么做）.md",
+      "url": "https://www.youtube.com/watch?v=hNWa7zJIsko",
+      "sha256": "edff7e0f44a734bc669324b30ee9b1e388687f8c5ddc21a1699738a4dd336c00",
+      "date": "2026-04-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260427 神经系统重置：每天这样做，让大脑摆脱压力与焦虑.md",
+      "url": "https://www.youtube.com/watch?v=2aI8q3gE2-c",
+      "sha256": "4525fead4e2fedcdd08db69c259434d7184599af81231ef4552800fc17da15fc",
+      "date": "2026-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260507 成年人友谊的真相：为什么你感到孤独，以及如何交到真朋友.md",
+      "url": "https://www.youtube.com/watch?v=CZYOy58RTl8",
+      "sha256": "bd33d6628f4b17a2413931aced2a8c60d3711614ba3d2ec1e786239572e9b792",
+      "date": "2026-05-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260521 你不是坏掉了：为什么你总讨好别人、感到焦虑、永远觉得自己不够好——以及如何疗愈.md",
+      "url": "https://www.youtube.com/watch?v=Li5PCbqEaEw",
+      "sha256": "6d871a7cf0d782d816412b2b8b69b0f5e61b1dd88de7fb0b5c1e072070d76827",
+      "date": "2026-05-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260525 什么让人生更美好？一项对26000个遗憾的研究，足以指引你余生.md",
+      "url": "https://www.youtube.com/watch?v=hnUVdqyaoc4",
+      "sha256": "e90b766d0a6948c562a94b464a34af518832e6b7baa6bec305705c3200e08ca4",
+      "date": "2026-05-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260528 如果你正感到迷茫和焦虑，请听听这个 - #1 压力医生.md",
+      "url": "https://www.youtube.com/watch?v=ddCt_T7MNOA",
+      "sha256": "5410d0f27e6178c21492f428f8841757af227863d80a13f4b82514f530109f3a",
+      "date": "2026-05-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260611 当下最好的职业建议：工作、自信与成功的新规则.md",
+      "url": "https://www.youtube.com/watch?v=NQtBfbQt_bM",
+      "sha256": "46003dd41f8561242912f97683d97bc6460eebf742cafc3c60ed5516a60876ab",
+      "date": "2026-06-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260618 全球顶尖关系研究专家：一场对话浓缩50年婚姻与爱情智慧.md",
+      "url": "https://www.youtube.com/watch?v=sNzswsEIJ-E",
+      "sha256": "c2e08465aa51ce8ec0e847adb65a4a8fcd5408ba24c8ec26808e804a31e840ea",
+      "date": "2026-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260629 #1 神经科学家：你为什么做梦，以及梦境想告诉你什么.md",
+      "url": "https://www.youtube.com/watch?v=GIGmGupeD_I",
+      "sha256": "f8f64bcb7816413031434f658bbfde27fd1f8b2aae6213c753a520f3cd196ac7",
+      "date": "2026-06-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260709 8个你现在需要听到的简单提醒.md",
+      "url": "https://www.youtube.com/watch?v=NlZCeOmKPP0",
+      "sha256": "95d38532faf2f487cfef357650161ba6915ae0df70c005d59a834c09d3e77e38",
+      "date": "2026-07-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260713 如果你感到迷茫、停滞或落后，听听这个 - #1 人生目标与幸福专家.md",
+      "url": "https://www.youtube.com/watch?v=-Lg2T5F-1nc",
+      "sha256": "5ae9a4a89c6058bbeb673c7c531d9ca435f5014b1355a9519bbba8736b2196e5",
+      "date": "2026-07-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260716 如何提升情商，从此不为任何人动怒或烦心.md",
+      "url": "https://www.youtube.com/watch?v=SWvHZkkrAjc",
+      "sha256": "13f96e391c1cd28f7562b19a8575683867833d7e52ca375e880b223fe22d4731",
+      "date": "2026-07-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260808 快速调整情绪：5个立竿见影的方法.md",
+      "url": "https://www.youtube.com/watch?v=knxzN5Y-_p4",
+      "sha256": "1af0a23ed315b1352b94a8c3fc89ff0ad25699d7d97be418c353cdbbad6cd274",
+      "date": "2026-08-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260813 如果你感到不堪重负、压力大或困在原地，听听这个.md",
+      "url": "https://www.youtube.com/watch?v=h9a553vDvU8",
+      "sha256": "387ef075db08a3ae1bef34cf071e5ada0360d70ea0a3efffb1f877801503e5b8",
+      "date": "2026-08-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260820 ADHD医生教你如何专注、停止拖延、管理情绪，并掌控生活.md",
+      "url": "",
+      "sha256": "23d5a5eba9094254b7e5ae7894555d58192c1bd5efa30782181ca30857de1072",
+      "date": "2026-08-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260820 The ADHD Doctor- How to Focus, Stop Procrastinating, Manage Your Emotions, & Feel in Control.md",
+      "url": "https://www.youtube.com/watch?v=nUPQImuDUng",
+      "sha256": "fc0037e291ddcd4b2165ffa59635afa803d3db7bd734e1811474b421dc8e2b8b",
+      "date": "2026-08-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 情绪与心理疗愈/260910 斯坦福心理学家：7件你现在就能做的小事，让你更享受人生.md",
+      "url": "https://www.youtube.com/watch?v=UL6h-OqJQh8",
+      "sha256": "bef529ce77c433781d517db9d3d6aa44b9916c17e88846714cb4cbc573f8e289",
+      "date": "2026-09-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/170209 停止恐惧和焦虑的秘诀（真的有效）｜梅尔·罗宾斯.md",
+      "url": "https://www.youtube.com/watch?v=6n8i7ua0mSw",
+      "sha256": "c86607987b60b40a40493eb3c531c2374d4f0421fd132d4f8163205ef33c1a43",
+      "date": "2017-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/220209 9个迹象表明你的伴侣不尊重你 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=2bA-1czx0oA",
+      "sha256": "ee113d0ec8be4d03ff76ecf0e59c061222cc7ffac494b4c53c9d6cfca3ffdfa3",
+      "date": "2022-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221006 改变人生的3个简单步骤｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=1JbfAr-BQjA",
+      "sha256": "e328d8532018bd34919d25c86b5b82ec45c4ca1fd8ed87f4ed17f8ce5e156aea",
+      "date": "2022-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221020 你在和自恋者打交道吗？教你一眼识破 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=1gS7uV6Bj0s",
+      "sha256": "b7b9d4a92a4ed4c6665e316139071dea6ea3146248a88b163e0a536f1aca1ee1",
+      "date": "2022-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221027 3步理解童年触发点并修复它们 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=qZ5BoJoUPGg",
+      "sha256": "ad7e12bd96f24197ee6feb97bd6956159a00da23f1db98802b95c7ee86cbee8f",
+      "date": "2022-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221031 成年人友谊的谎言与真相 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=kxw8vzgswGA",
+      "sha256": "d332e76e8c9330c63f923371c941ec6cdda3387fa0c56ad96b3dc2610329e408",
+      "date": "2022-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221103 隐秘迹象：有人正陷于自恋型关系 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=NRGxKdNlSDs",
+      "sha256": "acfb618fa7971a9e471ac69baa48f0c995fcb4b08f78d4f6e7f8f0e488970849",
+      "date": "2022-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221117 4种依恋类型，帮你建立健康关系 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=WNmYDYdgYQo",
+      "sha256": "dd4e6ddb65574c9b4ea2da907486ba8cb2228a410cc61b9d3ef5f1369ad866ea",
+      "date": "2022-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221123 为什么「玩得开心」是健康生活的秘诀 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=KuR0gcRGOuE",
+      "sha256": "4f53388d092f2d997d97a4f3d903f31c6ce6c625034d96cfa00ce5afb40f63d1",
+      "date": "2022-11-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221128 如何真正学会爱自己？- Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Wb9oN1720ws",
+      "sha256": "53b8d0616678d8764df4e5c0a140ee3163465be013451099857de915fff0de8c",
+      "date": "2022-11-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/221215 我没料到会录这期：想和你聊聊 tWitch 的离世 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=RW9ngwtwci0",
+      "sha256": "9f82f2cddcf0fba1f964115c1c32869d0af9707ba5951993fb3ed841ffddf837",
+      "date": "2022-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230112 创建新习惯的终极工具箱：科学变简单 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=DPMvfxjbvw4",
+      "sha256": "269a5963f0a4c31b09984a3e4bca971973615714a4192e6621650762b0631192",
+      "date": "2023-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230126 与Dr. Nicole LePera对话：你没有童年记忆的3个惊人原因 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=E8MxNR9bmHM",
+      "sha256": "c15c7ac3094eca73be577bd639411429d52d9eed0c09391df7baca66604bedfc",
+      "date": "2023-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230130 如何判断感情是否走到尽头 & 6个让关系继续的建议 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=X9OIlAHm-3Q",
+      "sha256": "d6845ef3e57084ab14ab5eb1d056a6805bba8ca35101c4c0e7f53a5e7bf90bdc",
+      "date": "2023-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230202 爱的真相：如何找到、维系与放手——Jay Shetty对话Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=qN06K97RR9o",
+      "sha256": "090db92dfccc6b6f8b056baabc08dced978adb2b08ada68f0e21846909fd918d",
+      "date": "2023-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230204 理解焦虑、如何停止焦虑、以及让身体平静的呼吸技巧 - Mel Robbins.md",
+      "url": "https://www.youtube.com/watch?v=P0aV8WZr-uE",
+      "sha256": "997f9fb4529f2d52b2fd6c0d94e6ee5a9920b92cd117144821cb041625c4a772",
+      "date": "2023-02-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230209 如何找到人生目标并实现梦想｜杰米·克恩·利马对话梅尔·罗宾斯.md",
+      "url": "https://www.youtube.com/watch?v=L4egtvSr_SI",
+      "sha256": "3461f485e9ecb6e48f44af6ed846f4b735820bcb0d811e1c0405c586d9d6a367",
+      "date": "2023-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230323 重置你的健康：告别疲惫不堪｜马克·海曼博士 × 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=BA1evuRjdHo",
+      "sha256": "3a6f74bbffcb5d596527874dd2271290fb733567241543933b83397c8462f004",
+      "date": "2023-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230330 过一个有意义的人生，只需这一招 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=z3GXIfIEJok",
+      "sha256": "8d85798a6337071ec3a9d5e988c680abeb5d6b2e9e07f65dbb983cd50928603c",
+      "date": "2023-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230403 保护能量、创造积极生活所需的步骤 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Bdcjq9OoPts",
+      "sha256": "11252cda461b4dc13110421ec28b0f83b73e95bad399311159fde4cd93a25887",
+      "date": "2023-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230410 焦虑工具箱：了解它如何影响你的身心 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=G0P2L1BbkP0",
+      "sha256": "ecac044394e7bbfaa1315a05ceb0149374cdb22394d1f30f2a70979d09221b97",
+      "date": "2023-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230424 如何变得自信、战胜不安与恐惧 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=512w8shwJTE",
+      "sha256": "255b60cc06c915950464fd90cc29932239c3c64368ea647ce5841fb4ae0eb616",
+      "date": "2023-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230427 金钱的真相：为什么我们都想错了｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=yHuXPsw6h7Y",
+      "sha256": "6ccfdfb1d5b001e7d945ee4a983b8bc9dd51bbb2b4d7dedd812fa196ad60d3a4",
+      "date": "2023-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230508 你应该相信直觉吗？｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=zTt-IGK-dm8",
+      "sha256": "680340a1fc5b2ec84bea2979586229979fb2b3ff67b7fb8b0b34525f0d0e471c",
+      "date": "2023-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230511 读懂肢体语言，轻松达成所愿｜Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=06qk0mxg3GA",
+      "sha256": "b231ff98481b78dc29876ee8c6272340d1d4ddaefc906cb973eb3c9156ae0a60",
+      "date": "2023-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230601 如何从现状到理想：打造理想人生的框架｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=LKNBwfxZfyM",
+      "sha256": "1657f1bbf3fa05802948245bd87acd214e1b92bb1bf2185bdf41aea429ed8f63",
+      "date": "2023-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230622 哈佛医生揭秘：为什么你总想吃东西，以及如何戒掉 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=rPextTZy5C4",
+      "sha256": "dc08dfb5823c36dc01dd714e4dc90e783ae6c82c3d3343f67d44c277d9b02f79",
+      "date": "2023-06-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230703 用这个简单的晨间习惯，开始爱自己吧——梅尔·罗宾斯播客【重播】.md",
+      "url": "",
+      "sha256": "22809df621d57d8bce0674d317b949875cd2cc35d546a4ccd6d51678caaca44c",
+      "date": "2023-07-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230706 2个强大工具，帮你建立健康关系 - Mel Robbins播客 [重播].md",
+      "url": "https://www.youtube.com/watch?v=2rJ9n6Wix3Q",
+      "sha256": "e4691024d0be3f5cff747bb39eddef8a67169b2dbb1a26bfd5d8706f522b7349",
+      "date": "2023-07-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230706 打造健康关系的2个强大工具 - Mel Robbins播客【重播】.md",
+      "url": "",
+      "sha256": "448e69bfbe33180fc7fd6f0cc4ba95aa7e366a78a3a7b0543f3d9f64111507b4",
+      "date": "2023-07-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230710 我的朋友都去哪了？简单三步找到你的同类 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=drgexn10QPE",
+      "sha256": "37fd468414b4e86f620051ce280ca70c6398a47806e6b829da7f2cb8b9752dba",
+      "date": "2023-07-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230713 修复破裂的关系：现在还不晚 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=HQ_f99U6O9w",
+      "sha256": "35f7dcee24b6f75b12206c5bea88d52511f1e04eb8578dd39bd1726d70257604",
+      "date": "2023-07-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230717 心态转变：正视你与酒精的关系 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=rmBj6ngdlLw",
+      "sha256": "3854c4a20a6bd3482e907db45262e01fef5d7954204607852845a6307abae1c8",
+      "date": "2023-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230727 如何利用科学调节荷尔蒙，改善睡眠与减重 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=_jt-924PLJI",
+      "sha256": "561a422d74cd498bf5116c128a9789bf9236bfd12354d9f5b5d4092936834753",
+      "date": "2023-07-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230803 5个简单方法，减少与爱人的冲突 - Mel Robbins 播客 [重播].md",
+      "url": "https://www.youtube.com/watch?v=vYosLcfByvg",
+      "sha256": "ea1f9b777f241417fbde40ae1c3f6f5ffd53a7277911302b9a649d0f2b67f864",
+      "date": "2023-08-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230803 5个简单方法，减少与爱人的冲突 - Mel Robbins播客 [重播].md",
+      "url": "",
+      "sha256": "cc391995e6399e68ceabefa3ef107f655afd0c83828788fc78e3495dd66936be",
+      "date": "2023-08-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230807 更好的大脑：提升效率、记忆与长寿的3个习惯 - Mel Robbins播客【精选重播】.md",
+      "url": "https://www.youtube.com/watch?v=MClMLEfq5Og",
+      "sha256": "77b43d35eae66a5f4d1c473fa368813a2a1ec6061e70292fd4775d67a9685489",
+      "date": "2023-08-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230810 自信起来：用肢体语言提升影响力与收入 - Mel Robbins 播客 [精选回放].md",
+      "url": "https://www.youtube.com/watch?v=Vl8vAJ42R80",
+      "sha256": "2a704655aead10bac32153c9353c127c074738f1f480ea917f9c0d0f61de9cc7",
+      "date": "2023-08-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230821 大学退学：6步轻松应对人生重大转变｜Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=junoxkPFNnk",
+      "sha256": "78e7e7b862b5b424bd5db4d98f0aa53ddf6b351f1b1f8a90198ea40db7013163",
+      "date": "2023-08-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230824 向世界顶级呼吸专家学习改善呼吸，提升健康水平 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=Vcj61HKHKuc",
+      "sha256": "53432721be247a0ea5bbc0f0f5e12599eb2b8b80cc4146ada98bf8bcde2ac3e2",
+      "date": "2023-08-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230828 从85岁婆婆那里学到的7个长寿秘诀 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=UXazmvQl-58",
+      "sha256": "95866414ddfb5fb66ab16856bb4df42d1e786217fa4dc3bd435f8d3814c48a92",
+      "date": "2023-08-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230914 与18岁儿子谈友谊、自尊与焦虑 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=7dKEAoHQ9K4",
+      "sha256": "a2dc636fdc25baf9fb8442feaf8a04d6fec47a72469ea28108f63ad329c7b3c1",
+      "date": "2023-09-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230918 如何通过间歇性断食减肥、提升精力、延长寿命 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=dRlywtji5ZU",
+      "sha256": "60011df197195a889a63a9e0b1a09c3cfdda6aa4485e1f0fc89cb7c32833ca49",
+      "date": "2023-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/230921 这就是间歇性禁食对你没用的真正原因 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=bt1vPBptL94",
+      "sha256": "6e83b2deb0a707fb5b121f8f091162dd1cd21b17fc472d12df8f57dde259cd38",
+      "date": "2023-09-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231005 世界知名灵媒教你如何活出有意义的人生 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=zOGJ85J7gsA",
+      "sha256": "60beedc6d04345a7cefecfaceed0cf0e98b81b89141d1c97750cd601741a65b1",
+      "date": "2023-10-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231030 减肥与变好的简单步骤：举铁的科学 - Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=F4jxN4v50iI",
+      "sha256": "2704adf1193e8ca736e47c0c3085774dfbf7ec1d0e1b765802f52944fbff7911",
+      "date": "2023-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231102 吉娜·波博士：如何改善睡眠，提升学习力、记忆力和精力 - 梅尔·罗宾斯播客.md",
+      "url": "https://www.youtube.com/watch?v=_0FHxJLe9Ns",
+      "sha256": "6d3f5f93f2c48101e64238441d87784225d14841e2d4e24d96593aca22f3c8e1",
+      "date": "2023-11-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231120 智斗自恋者：夺回主动权的4步实用方案 - Mel Robbins播客.md",
+      "url": "https://www.youtube.com/watch?v=Wz_1hI7SOT4",
+      "sha256": "5225fa560a2a1e0f0dbd50cf178a42b0f4906a73b1134b67ecf4eb26fa129044",
+      "date": "2023-11-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231123 成功关系的4个惊人秘密（从和女儿吵架中学到的）.md",
+      "url": "https://www.youtube.com/watch?v=l_jqrs9p5lI",
+      "sha256": "6ee3b5d7a16f684c97eb35d9265946e6952ea026a4e06af825cedd36b4269af7",
+      "date": "2023-11-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231127 肠道科学：3个简单步骤，今天就能减少腹胀、改善消化、感觉更好.md",
+      "url": "https://www.youtube.com/watch?v=w7xUT5ln7Qk",
+      "sha256": "7728d3f8826943a8bf4f49b5ca578a1a64ee9ae4d7cbd5bcd0e8f855406e3833",
+      "date": "2023-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/231130 5天重启肠道：医生亲授健康改造方案.md",
+      "url": "https://www.youtube.com/watch?v=2qHhU7Qpmbo",
+      "sha256": "44816221ed4b61c80a844586a4513d7856965927b0f343f01248421407ded51e",
+      "date": "2023-11-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240115 成功与幸福的秘诀，没人愿意说.md",
+      "url": "https://www.youtube.com/watch?v=RYcQIUw5f2E",
+      "sha256": "c43338478d75d63a0e4f302ca59a81f9c30a34713cd1a1a3f6da918327fde633",
+      "date": "2024-01-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240212 3个简单方法，获得你想要的爱情.md",
+      "url": "https://www.youtube.com/watch?v=IE2w7DegTSg",
+      "sha256": "efc1dee315a947f7c752a3c53dcf97166827695d5fc6b12cd343116e409c59aa",
+      "date": "2024-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240215 你正在跟自恋者打交道吗？（世界顶级专家拉玛尼博士最新研究）.md",
+      "url": "https://www.youtube.com/watch?v=-4ff9NOPocA",
+      "sha256": "8ba5162e43e4ce1779d4b5b25ef203ebbea87585dda76a02de667e378ce686e0",
+      "date": "2024-02-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240307 你为什么总没钱：5条规则让你真正掌控财务.md",
+      "url": "https://www.youtube.com/watch?v=x6S63406raY",
+      "sha256": "0aa0cc02f700d90f68d78c3a1cb70f6a5c10a481393363bf6a227d43798be25c",
+      "date": "2024-03-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240314 酒精对身体的影响：哈佛医生莎拉·韦克曼告诉你必须知道的医学真相.md",
+      "url": "https://www.youtube.com/watch?v=6tXoJN8-H6k",
+      "sha256": "273e1625d47a84de38bbbb5d1205ccd491e4543f43d61f65fc65e2ac95a2ddf5",
+      "date": "2024-03-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240321 头号更年期医生：如何减掉腹部脂肪、改善睡眠、立即摆脱痛苦.md",
+      "url": "https://www.youtube.com/watch?v=ReFZ__ZeSEQ",
+      "sha256": "1ca5c07fcf22cd1311785ff50c3f1326db4b4350b2607e854349edac3fa75208",
+      "date": "2024-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240509 如何平衡荷尔蒙：医生没告诉你的更年期真相.md",
+      "url": "https://www.youtube.com/watch?v=6_B0sZINhU4",
+      "sha256": "f20d854d91d46dbb26d6b6d2c5df29bf573b62f45693281402bdbfc49e8825b5",
+      "date": "2024-05-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240520 活得更健康、更快乐、更长寿：永葆青春的秘诀.md",
+      "url": "https://www.youtube.com/watch?v=6T13rQENVeQ",
+      "sha256": "8608d224fe58f74d95622942b2d047c6c9671c1611d33ea13537229e13be9b96",
+      "date": "2024-05-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240606 消化问题与肠道健康修复大师课（知名胃肠医生主讲）.md",
+      "url": "https://www.youtube.com/watch?v=GEYcfcJ0p1o",
+      "sha256": "7e7f16b9d1ea5f9c9ad9d1373ee773b3e0ea805ca6d2b051350eda9b54743498",
+      "date": "2024-06-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240613 没人告诉过你的最重要性爱建议：10分钟重塑性生活.md",
+      "url": "https://www.youtube.com/watch?v=RUPkME8y7zc",
+      "sha256": "126bc82c3613ae1451c0257ba863482298d641fe5e727e0e07722fef48aa3e12",
+      "date": "2024-06-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240624 如何建立更深的友谊，摆脱孤独感.md",
+      "url": "https://www.youtube.com/watch?v=jTg4fv8JoVg",
+      "sha256": "e0356adb98479060da10262e1583eefdf8878e047cebc9d4d71a78d628f51fa5",
+      "date": "2024-06-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240711 如何摆脱困境：做这件事，创造你想要的未来.md",
+      "url": "https://www.youtube.com/watch?v=4ss_15MixTc",
+      "sha256": "bf0cedbf9de5f8a4e83f8437b5f60ef8935b2ce2472dc5ab4e1d52c54b379535",
+      "date": "2024-07-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240808 “幸福关系的秘诀……”我收到过最好的建议.md",
+      "url": "https://www.youtube.com/watch?v=WLKZz6vA0QQ",
+      "sha256": "48f5377fbb30819d4d3acf87b0761e38e8bfcb7ae3fe1da18c83eaec2eef7b8d",
+      "date": "2024-08-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240810 漏尿、盆底肌、尿路感染与便秘：Rena Malik 医生教你如何掌控.md",
+      "url": "https://www.youtube.com/watch?v=akvlUuXKmjY",
+      "sha256": "9546f399746df8a2157ea2095178c5d509f281e852e838050db9e4ea65a58f7c",
+      "date": "2024-08-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240817 8个简单又有效的健康习惯，效果惊人.md",
+      "url": "https://www.youtube.com/watch?v=-Kd7I6GrdGM",
+      "sha256": "8231bb7a0e1bdaace1468e4a8bef69f3e05649409357aa053f84c22bb858b685",
+      "date": "2024-08-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240822 女性健康科学：妇产科医生揭秘10个必知真相.md",
+      "url": "https://www.youtube.com/watch?v=7KX2x0d42EE",
+      "sha256": "c936c67a2db709cfe644ca35ec21119f2e03bc8287b9836aff2cad05dc6c7049",
+      "date": "2024-08-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240902 如何让自己动起来（哪怕完全没动力）— Dr. K & HealthyGamerGG.md",
+      "url": "https://www.youtube.com/watch?v=H_WJ5hgWLFo",
+      "sha256": "d514e6327a7160a7b58f682ec3496ee4a4e7496221150ff2baca92c4db0aaf1d",
+      "date": "2024-09-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240919 如何成为更好的人：一个10岁孩子教我的善良、爱与幸福.md",
+      "url": "https://www.youtube.com/watch?v=dL79htOIvZU",
+      "sha256": "e03ca5c4f50bf68e8c137192fc53bd9ef3bbe3506519781461dcef447ec99d8c",
+      "date": "2024-09-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/240926 自信沟通：掌握每一次对话的秘诀.md",
+      "url": "https://www.youtube.com/watch?v=ZUCB3M_1Qp4",
+      "sha256": "843727486171687cb574813d27c1706df1ec51b543f8d7fcebb1aaa174a51c13",
+      "date": "2024-09-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/241114 理解金钱心理学：最该遵守的理财法则.md",
+      "url": "https://www.youtube.com/watch?v=eMuS6u7k3Lk",
+      "sha256": "1bddf05a11f60cf93f7af9dee6c0dcf5c87a526d4cc84df3f283f3ca6a6f1efa",
+      "date": "2024-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/241128 解锁大脑隐藏力量：提升专注力、自信与创造力的6个工具.md",
+      "url": "https://www.youtube.com/watch?v=jH1L2pXtPaw",
+      "sha256": "fb67a30ebbecd4572373d10429fa82521881c84b8ccda8bf8ef34c6d9804d8d5",
+      "date": "2024-11-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250102 吃这个就能减脂、防病、立刻变好——威廉·李博士教你.md",
+      "url": "https://www.youtube.com/watch?v=WSBVq3Wj7Lg",
+      "sha256": "9e9979c0c3b9d12aaa0d862fcfeef689cc26cfcdd06f20abd116199ad84d4bf8",
+      "date": "2025-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250327 身体重置：女性如何通过饮食与运动提升健康、减脂与精力｜史黛西·西姆斯博士.md",
+      "url": "https://www.youtube.com/watch?v=cEVAjm_ETtY",
+      "sha256": "c5d0b6ebf6ea427d1b491f27ac77de709231fec70ca7621b87d8ed71203561e3",
+      "date": "2025-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250417 #1 减肥医生：肥胖、Ozempic、节食的真相，以及如何立刻感觉更好.md",
+      "url": "https://www.youtube.com/watch?v=57OyIDnHZAk",
+      "sha256": "9b386d7404d8b1da37fc4a77056407cde543b60bb766e7f865ac1292725c9d8f",
+      "date": "2025-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250421 寻找人生目标的流程：这样做，就能过上你想要的生活 - Jay Shetty.md",
+      "url": "https://www.youtube.com/watch?v=MOVQponoBmI",
+      "sha256": "c5b1aff81fc9df7a67a5e83a1ca1d39d274f23799fb196fb257b729848743bde",
+      "date": "2025-04-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250515 4个迹象判断父母是否情感不成熟，以及如何疗愈.md",
+      "url": "https://www.youtube.com/watch?v=wLsp_67xi4U",
+      "sha256": "c85d678cbf159483c4ff891e567378e02d730a82d3534c4d7f22de4cde4e7325",
+      "date": "2025-05-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250526 停止焦虑和恐惧的秘密（真的有效）- Mel Robbins 播客.md",
+      "url": "https://www.youtube.com/watch?v=FJ5tXuBi4EM",
+      "sha256": "5521fb7aa0ffe3c1245961f91e319fc0e7e2a9f3496ac2de2c18eda58477fd1e",
+      "date": "2025-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250703 如何与难相处的人沟通：停止争吵、重获连接的实用方法.md",
+      "url": "https://www.youtube.com/watch?v=b1AEf83W2W8",
+      "sha256": "dd23a4d91ef194a63616eea910c3f74dd188d7d9ab303ab5c0fcf93c40a1b57c",
+      "date": "2025-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250721 试试一周：3个小习惯改变身体、精力和人生.md",
+      "url": "https://www.youtube.com/watch?v=zXZo0u_6ies",
+      "sha256": "56285c870b05212ff3f51b60933e7e21f75178958e5e7ab46d8498bd22645844",
+      "date": "2025-07-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250728 你太晚才明白：理解这一点会彻底改变你对人际关系的看法.md",
+      "url": "https://www.youtube.com/watch?v=M4KtRNFlQuw",
+      "sha256": "e6a1c8154f0337da7d7feec450233bfedf3bd947d277d83a5b4fb6d5d5f9e79a",
+      "date": "2025-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250821 按这个方法提升代谢、减脂、立刻变好——William Li 医生分享.md",
+      "url": "https://www.youtube.com/watch?v=AjwaE0WozfE",
+      "sha256": "e8175bf4a224b163fa436f7df56ee3868e2671ddd541cce01b95b69cc748e2ee",
+      "date": "2025-08-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/250915 #1 长寿医生：7种正在毁掉你健康的有毒产品.md",
+      "url": "https://www.youtube.com/watch?v=YaaUpw6JZmI",
+      "sha256": "818e3ba3c03319395697ffbaf28e6f5a1598eea75dad6fd3335b65f5fbe0a807",
+      "date": "2025-09-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/251009 永远不晚：如何在任何时刻改变人生.md",
+      "url": "https://www.youtube.com/watch?v=E9UU5N0k0XY",
+      "sha256": "4a9f49c966768c92a9559999004c433397c276fa329c8091728359eb5ab5a334",
+      "date": "2025-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/251016 立刻感觉更好：神经外科医生揭示疗愈身体、终结疼痛的新科学.md",
+      "url": "https://www.youtube.com/watch?v=HcGGsCWNWM0",
+      "sha256": "aabb00c470226a82529775edead8928668b2a744625b74c8d5d3783e0af97ef5",
+      "date": "2025-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/251023 梅奥诊所癌症医生：5种食物，滋养身体、饿死癌细胞、预防疾病.md",
+      "url": "https://www.youtube.com/watch?v=WlxbVMfvir8",
+      "sha256": "457d15ecbd3494ce2dc22aa5211c055d2abef4011cd5b6ed774fac14260d3b4d",
+      "date": "2025-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/251030 如何自信从容地沟通（哈佛商学院排名第一教授的秘诀）.md",
+      "url": "https://www.youtube.com/watch?v=5yCqhY1D-VE",
+      "sha256": "4fff68c43bb015be470cb2d2f66bd9e061d08dd2989dccdb75ed9717a2070122",
+      "date": "2025-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/251106 如何用AI赚钱、省时、提高效率.md",
+      "url": "https://www.youtube.com/watch?v=64qXq8AG_9M",
+      "sha256": "9f2815d5ed44e7433a99fbac066d8b0925f1fb9519248c325ea7cb15875d2672",
+      "date": "2025-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260101 身体重启：科学方案让你更强、减脂、掌控健康.md",
+      "url": "https://www.youtube.com/watch?v=JnFWrAA2oxM",
+      "sha256": "5b5096cbfb2ea709801ee7faf6d2383feed8e6f9465e04b9fff25d74d39845bd",
+      "date": "2026-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260112 已婚、恋爱或单身：你听过最好的感情建议.md",
+      "url": "https://www.youtube.com/watch?v=YDIHSLf9qzw",
+      "sha256": "be6850f07ed2b2a959c68181d15e5dd27f45580264782a279013bab2ff97947d",
+      "date": "2026-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260115 更年期终极指南：如何提升代谢、增肌、平衡荷尔蒙.md",
+      "url": "https://www.youtube.com/watch?v=x8TAAzTQHmE",
+      "sha256": "5e2efa4e3ee55815ec0a0049447cfcb2693762e415e956874d04276bff45fcf2",
+      "date": "2026-01-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260205 强壮、健康、精力充沛：3天打造最佳身体状态.md",
+      "url": "https://www.youtube.com/watch?v=p2pepdvBPiU",
+      "sha256": "2865ed82d6f2859aae3e9e69d540101db5678733ab1325430c8aba6055bf034d",
+      "date": "2026-02-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260309 NYU心理学家：你为什么停不下嘴（真正有效的方法）.md",
+      "url": "https://www.youtube.com/watch?v=pHxhceutGZg",
+      "sha256": "c15014ae079dbd1d5427622c08d8658acb5ddfbcc65ea2507ea3da9939aee603",
+      "date": "2026-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260323 关于女性健康最重要的一场对话 - Dr. Rachel Rubin.md",
+      "url": "https://www.youtube.com/watch?v=dB-4XuJxOzM",
+      "sha256": "b3f60f8a5885c0ba66d39a0091e6e70d35f8e9f4b69abf08b66b0ae7977cb192",
+      "date": "2026-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260330 重置肠道：哈佛医生的分步方案，重塑你的健康.md",
+      "url": "https://www.youtube.com/watch?v=c2p6vKQWvFs",
+      "sha256": "170b3e01ee23e7b49702d22838939ba7c2937ed413fdec8bc58fa12244823f92",
+      "date": "2026-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260409 #1 神经科医生：改善大脑健康、预防阿尔茨海默的5个习惯.md",
+      "url": "https://www.youtube.com/watch?v=_BdY8JO6ups",
+      "sha256": "c319da1ce086341f812cc4105599c6f7ad5bbe5085d44b2d3d7a2e83ef1d50e4",
+      "date": "2026-04-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260413 你听过最好的理财建议：4条改变人生的金钱法则.md",
+      "url": "https://www.youtube.com/watch?v=pQjlJud3Tlw",
+      "sha256": "7b603937070fe106cfa894861b6e16583c6392eb5d1d6c7936837ea8fc467be3",
+      "date": "2026-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260430 斯坦福营养研究员：吃这个，改善健康、保持年轻、活得更久.md",
+      "url": "https://www.youtube.com/watch?v=nVTEBaEJ46I",
+      "sha256": "df8b3531d5e85d5abe734c9802fe9774a01988e419a05cd8b936f5193ac67248",
+      "date": "2026-04-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260608 你疲惫的隐藏原因 & 如何立刻好转.md",
+      "url": "https://www.youtube.com/watch?v=bwQkIWf7rhE",
+      "sha256": "05b472c6e4672f34565707ffb06af19557a106bfa4e8ad4527c04a4e6e3c33c8",
+      "date": "2026-06-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260618 全球关系研究专家：一场对话，浓缩50年婚姻与爱情智慧.md",
+      "url": "",
+      "sha256": "5e7274c60c27bcb7c8a7f4297779d138a234815c422f48b0599aa2181269e626",
+      "date": "2026-06-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260625 任何年龄都能改变身体：延长寿命的饮食与运动计划.md",
+      "url": "https://www.youtube.com/watch?v=BPZBIzf39M0",
+      "sha256": "7c2914fe30fd42ccf78585bd3085ab8977d4e4ee79c859a24b0b7d40aaf6574c",
+      "date": "2026-06-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260706 如何掌控任何对话、自信沟通、应对难缠的人.md",
+      "url": "https://www.youtube.com/watch?v=dz23H7Cgylw",
+      "sha256": "e229a0d3f9164f2b31ca41854743dd65280f6d5d0bd9e816cafb8f8e5a35a5ca",
+      "date": "2026-07-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260720 操控专家揭秘：4个隐藏迹象，表明你身边有个有毒的人.md",
+      "url": "https://www.youtube.com/watch?v=ybrv66DM9Dw",
+      "sha256": "011b71b58d8bd5e032f76e71b1b127ef95b46cfbe091f297ded414c6b099d05e",
+      "date": "2026-07-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260723 头号激素医生：围绝经期、生育、避孕、多囊卵巢综合征和更年期终极指南.md",
+      "url": "https://www.youtube.com/watch?v=9tKZ3w-Gku8",
+      "sha256": "b71bb48cc45968ca73b7de63511aa0fe3126b4c40f5ac5c447b84f76e3d4f4e3",
+      "date": "2026-07-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260730 麻省理工长寿专家：现在就做这3件事，让你更年轻、更长寿、保持自由.md",
+      "url": "https://www.youtube.com/watch?v=gstI93tsafM",
+      "sha256": "70b46016f1f47d0b27a6ac3ee7708c9b03461d5942c1c59e71778de7c8bb6ebc",
+      "date": "2026-07-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260730 MIT长寿专家：现在做这3件事，保持年轻、活得更久、守住自由.md",
+      "url": "",
+      "sha256": "a814bf5237071e2e1f1486b54b885e8f1560e1d03bdff671029dd312f27de221",
+      "date": "2026-07-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260824 30 Years of Marriage- 3 Things About Relationships I Wish Someone Told Me Sooner.md",
+      "url": "https://www.youtube.com/watch?v=3J5VcQIlAck",
+      "sha256": "1d3f135bdc7dad861de6ec6c87b90446087e822a22841300dbc5ff4361e9fa7e",
+      "date": "2026-08-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260824 30年婚姻教会我的3件事——真希望早点有人告诉我.md",
+      "url": "",
+      "sha256": "05a08cfbfca14037b7cb94319270d0bdb8f9e69914c01a969ac923f1d179f433",
+      "date": "2026-08-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260831 医生推荐的肠道重启法：4步方案，告别腹胀、提升精力，立刻感觉更好.md",
+      "url": "https://www.youtube.com/watch?v=kQXdyL8GEC4",
+      "sha256": "837066150d647c68be5f69d71c46d5038bf3fd308630a5619f3feff9cd02ef3e",
+      "date": "2026-08-31",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260921 让他们去：如何应对难搞的人，夺回你的平静与力量.md",
+      "url": "https://www.youtube.com/watch?v=brVzDv0Ze-o",
+      "sha256": "d7ebe95ced1abb69ab79916290e89fd0bd9b547be3402ae27c43742d1e520dfe",
+      "date": "2026-09-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/260924 离婚律师揭秘：没人告诉你的离婚真相.md",
+      "url": "https://www.youtube.com/watch?v=XBmNRPx7kvQ",
+      "sha256": "2aecabc9a976ab5b70204af2c5af843692b5aebf8fc466dfffc3c258f8e714aa",
+      "date": "2026-09-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261005 那些我希望有人早点告诉我的忠告.md",
+      "url": "https://www.youtube.com/watch?v=362Dmp_HU0Y",
+      "sha256": "2c93e1feeec5d76ecb92401c7a07ca735b2b83e600b4fcbffd8f5fbc09a8fb1e",
+      "date": "2026-10-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261008 男性健康终极指南：睾酮、性欲与衰老.md",
+      "url": "https://www.youtube.com/watch?v=kbx9iMmJWn0",
+      "sha256": "a44c501c2cf94c6cf9ded71f5e05205d6bacc1973c94028307d1ab34be09bc9f",
+      "date": "2026-10-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261015 The Power of Reinvention- Switching Things Up at Any Age.md",
+      "url": "https://www.youtube.com/watch?v=6KjH6Svur0o",
+      "sha256": "42beeb59030c0a9793e61372410cbe673063acf96c55363b521fec3e91fbdc59",
+      "date": "2026-10-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261017 This One Skill Makes Every Relationship Better.md",
+      "url": "https://www.youtube.com/watch?v=MSR5xBplRz8",
+      "sha256": "4528fcbea8cd5d58836e76adfe0a9c491fb7ca0fba6e3ba0067e5cd902ad3c21",
+      "date": "2026-10-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261019 梅奥诊所皮肤科医生：5个正在加速皮肤衰老的日常习惯，以及正确的替代做法.md",
+      "url": "https://www.youtube.com/watch?v=taJpWAe6nAQ",
+      "sha256": "29c3cce37121854c5238c1ba1a401e3d6262fbcc22fb7b21a2a0a761db737338",
+      "date": "2026-10-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 关系健康与生活智慧/261022 这样做，解锁你的全部潜能，创造你想要的人生.md",
+      "url": "https://www.youtube.com/watch?v=-YRkpHOkDJM",
+      "sha256": "046067fd2c7a00777f914a5342cea1897b85e4aed145e928e67434ef1f1b54cc",
+      "date": "2026-10-22",
+      "status": "added",
+      "atoms": 12
+    }
+  ]
+}

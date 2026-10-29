@@ -1,42 +1,16 @@
 ---
 name: opes-download-atoms
-description: 下载、解压并安装 opeskill 全量本地专家原子库。用于安装 SkillHub 轻量包后，从 GitHub Release 自动拉取 `opes-local.zip`，并安装 7 位专家原子库。商业案例库已抽离为共享依赖 `$commercial-case-library`，不要在本 skill 内重复下载。
+description: 下载、解压并安装 opeskill 全量本地专家原子库。用于安装 SkillHub 轻量包后，从 GitHub main 自动拉取 最新仓库数据，并安装 7 位专家原子库。商业案例库已抽离为共享依赖 `$commercial-case-library`，不要在本 skill 内重复下载。
 ---
 
-# opes-download-atoms 全量原子库安装
+# 下载或更新 Skill 与完整原子库
 
-当用户要求下载、补全、更新、修复或安装 opeskill 全量原子库时，运行：
-
-```powershell
-python tools/download_full_atoms.py
-```
-
-这个工具会自动完成：
-
-1. 从 GitHub Release 下载 `opes-local.zip`。
-2. 解压 `知识库/原子库/` 下 7 位专家原子库。
-3. 不下载商业案例库；商业案例库统一使用共享 `$commercial-case-library`，避免多个 skill 重复下载。
-4. 安装到当前 opeskill 目录。
-
-安装完成后，应存在：
+用户要求下载、补全、更新或修复原子库时，运行当前 skill 目录中的脚本：
 
 ```text
-知识库/原子库/ahs/atoms.jsonl
-知识库/原子库/dks/atoms.jsonl
-知识库/原子库/hbs/atoms.jsonl
-知识库/原子库/lhs/atoms.jsonl
-知识库/原子库/mrs/atoms.jsonl
-知识库/原子库/nrs/atoms.jsonl
-知识库/原子库/rts/atoms.jsonl
-商业案例库不在这里安装。需要商业案例、案例拆解、对标案例、变现案例或生财有术案例时，改用：
-
-```text
-$commercial-case-library
+python "{skillDir}/tools/update_skill.py"
 ```
 
-共享安装位置：
+加 `--check` 仅检查。它检查 GitHub main 当前提交，并同步本仓库整套 skill 及专家原子库；覆盖前备份，写入失败回滚。普通业务问题不自动更新。以实际执行结果报告更新状态，更新后重新读取相关 SKILL.md。旧 `tools/download_full_atoms.py` 入口兼容同一流程。
 
-```text
-~/.agents/shared/commercial-case-library/知识库/商业案例库/
-```
-```
+商业案例仍使用共享 `$commercial-case-library`，不重复安装到专家工具箱内。

@@ -1,0 +1,3360 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 31716,
+  "after": 32121,
+  "added": 405,
+  "local_source_groups": 454,
+  "added_source_groups": 35,
+  "no_qualifying_units": 1,
+  "latest_atom_date": "2026-10-22",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": null,
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 37964116,
+      "sha256": "6a0f4d649310f91a46e7639a69de9987cae59e5f5edd92f38780033b91603f0f"
+    },
+    {
+      "file": "atoms_2020Q4.jsonl",
+      "bytes": 5890,
+      "sha256": "b744ea74159b18c1a8f37881710c2ee54a125f0d535de7f0e3751f4df5607150"
+    },
+    {
+      "file": "atoms_2021Q1.jsonl",
+      "bytes": 1623728,
+      "sha256": "4dba8ef298ebfdb23c1a5823c354b5cb3178b79ee59e0e6c8dd69f40e2fefa4c"
+    },
+    {
+      "file": "atoms_2021Q2.jsonl",
+      "bytes": 1663848,
+      "sha256": "c0170b9b0c4a01dd38dcf2d4ba7e3be3497a73779ab7a515a5cd2b77f2fecc53"
+    },
+    {
+      "file": "atoms_2021Q3.jsonl",
+      "bytes": 1683749,
+      "sha256": "a5fcedfa875919f82fde63a3bdbb4512716b90754d228bc795ba7d2dd8f552e7"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 1568056,
+      "sha256": "d176457ad77b935caa6f72929ac3e7dc84d60294aa978c162cfa54c699fd61b7"
+    },
+    {
+      "file": "atoms_2022Q1.jsonl",
+      "bytes": 1685670,
+      "sha256": "10fa2647df8334acd0edf3a44cadb94284399f0ce0d2fcacc84750632420a22f"
+    },
+    {
+      "file": "atoms_2022Q2.jsonl",
+      "bytes": 1702819,
+      "sha256": "28ffcbb19975f28c0fb41a324c9628502e286e00f96194e82421150905295d1f"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 1808808,
+      "sha256": "3c015d5382acdf73daf856eb5fc10d1e37b4b2237db71e57ff1ffe15a315b7d1"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 2143553,
+      "sha256": "1a6fc2c2e698d33660532736f168383efebbf8edb8c5811f84a61f33862b98d1"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 2214961,
+      "sha256": "8c753a4588db386a357bba114c752d3935e2258713c2b93f5910c9fa06fd9747"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 1246052,
+      "sha256": "98bc6196ce9ed6377d835260b4372a942d4ffc5cfdfb5ae3d512f6b486e35f84"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 1751641,
+      "sha256": "305bd1c4b39fc357d26fc9b090ea3853c011902dabf2b017092dc95e6c9f33c0"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 1226273,
+      "sha256": "6eb255d09fff5d45e4c91a01efe0a2ddf1e131a82e5034989c97ee9c47d0919d"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 1285949,
+      "sha256": "3c204328d8e1420e8222860992b3ecf9c31a6a5faeaf02161ecb60a1f2ebaaac"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 1340985,
+      "sha256": "766896f3dd376180d0e89cbc60c47e3532ae1d3347ca102d2a08a617bb915583"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 1091792,
+      "sha256": "6374d768dd7eb1fd5ac8fef4aaeacf211e0fade4b6a1d9bf5e9bce9f4faabf5d"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 1289052,
+      "sha256": "df6dfbdead3c3a84fd0bca40336e0ac7bfefa8d9bbba4ae27364795a695ce798"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 1612073,
+      "sha256": "975030ead4decaa543f77b7d96ee31aa7aafe45eb05828fc9d6eb6870448f79e"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 2151564,
+      "sha256": "1de585c13ea6ab9746b7cab5fe5dd84e5ed14dfbc60b209dafdc6171af601ad9"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 2113269,
+      "sha256": "46d3648f7d308849f4f321887d48b0ecc25b56eac413bc6f98df7fe756cada36"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 1988003,
+      "sha256": "0551c6cce49a7e8611343bd91257fbd116cf3acc75ce6541804d27aa7721e28b"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 2160038,
+      "sha256": "81f94af4d3f546764385b77132e85f73001110037e7c155750f7c9e9aae948a4"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 2012982,
+      "sha256": "82f94a32ced69d0f4b6c2bc5332605a15d79268897cf9d12461190c2ea8dcfe5"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 478374,
+      "sha256": "a6b609ade637dd8dd9455f5c6cdfca23afa7a9967f4999b27561abaa37667b14"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 114987,
+      "sha256": "dd3f3f6243f0b534a40d3fd203fe042a4d243dc2be3f6ae76564c9af6060ffd5"
+    }
+  ],
+  "sources": [
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210111 掌控睡眠，醒来更清醒.md",
+      "url": "https://www.youtube.com/watch?v=nm1TxQj9IsQ",
+      "sha256": "121d4289b3e32817ad8621debb728a29821ed18bb134708cf54d279b54980cb7",
+      "date": "2021-01-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210118 用科学优化睡眠、学习与新陈代谢.md",
+      "url": "https://www.youtube.com/watch?v=nwSkFq4tyC0",
+      "sha256": "9a71a2c10d543db758d0e1191b4cd01faa19dfb707ab5b6f9b25f158b03964f6",
+      "date": "2021-01-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210125 如何战胜时差、轮班与失眠.md",
+      "url": "https://www.youtube.com/watch?v=NAATB55oxeQ",
+      "sha256": "724e3dc2feae653f4779081c89b4070fd789d069cdbfaced16971c9832239374",
+      "date": "2021-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210201 理解并利用梦境来学习和遗忘.md",
+      "url": "https://www.youtube.com/watch?v=FFwA0QFmpQ4",
+      "sha256": "30322a07e18ada39bf681406f8af857b62f32579e455f7a633fda0743679abde",
+      "date": "2021-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210201 理解并利用梦境来学习与遗忘.md",
+      "url": "",
+      "sha256": "e513df0d1133579966b0e40e57d61939c36e27e5cd3440a75be456e789561945",
+      "date": "2021-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210510 用降温提升运动表现与恢复.md",
+      "url": "https://www.youtube.com/watch?v=xaE9XyMMAHY",
+      "sha256": "5e9c70fecc5bc13cc73b8f12bc6da073215313d48f551c3be6b4132583a718fc",
+      "date": "2021-05-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/210802 完美睡眠的科学与实践 - 马特·沃克博士.md",
+      "url": "https://www.youtube.com/watch?v=gbQFSMayJxk",
+      "sha256": "29977ad26b3e4bbaab29315035abee3a0c2f9453927a5d309e5b5971b1760224",
+      "date": "2021-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/211004 用温度提升表现、大脑与身体健康 - 克雷格·海勒博士.md",
+      "url": "https://www.youtube.com/watch?v=77CdVSpnUX4",
+      "sha256": "7468cee950cdcf7a2b5c3aed537ed50bc58be7959e442406ef8b914cb92b1bd8",
+      "date": "2021-10-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/211025 调整光照、饮食与运动时间，改善睡眠、精力与情绪 - Dr. Samer Hattar.md",
+      "url": "https://www.youtube.com/watch?v=oUu3f0ETMJQ",
+      "sha256": "5d96dec20f053bd76250334fc18ba8c96a7c99b5ac62166c8e0c98db03fe4339",
+      "date": "2021-10-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/220404 用刻意冷暴露提升健康与表现｜Huberman Lab.md",
+      "url": "https://www.youtube.com/watch?v=pq6WHJzOkno",
+      "sha256": "b08f61129733773e19bf55a410c2178ab76f2e453c12c8ad80dea1beaf21e25f",
+      "date": "2022-04-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/220418 利用光线（阳光、蓝光与红光）优化健康.md",
+      "url": "https://www.youtube.com/watch?v=UF0nqolsNZc",
+      "sha256": "a2d711fc9444d161c6d1d7b3702a57be95a336015d7f1e7e2bf3fe21668c2bf1",
+      "date": "2022-04-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/220425 刻意热暴露的科学与健康益处.md",
+      "url": "https://www.youtube.com/watch?v=EQ3GjpGq5Y8",
+      "sha256": "54db1b93e127a23e8d01d666733d1bdff075f41b3b07dc36a79e866bd0e4cea0",
+      "date": "2022-04-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/220808 睡眠工具箱：优化睡眠与作息节律的实用方法.md",
+      "url": "https://www.youtube.com/watch?v=h2aWYjSA1Jc",
+      "sha256": "85a8ed6a22daef46394254c2887a4bdf889c6b750ef95658f59a96546e72fdcc",
+      "date": "2022-08-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/221102 AMA #1：利用超日节律、如何保护大脑、种子油深度解析等.md",
+      "url": "https://www.youtube.com/watch?v=lsODSDmY4CY",
+      "sha256": "dd1748feb0dd81b5fabbcdeac220c43dbe1e89ac055e366091dfdd0a99775609",
+      "date": "2022-11-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/221205 用咖啡因优化身心表现.md",
+      "url": "https://www.youtube.com/watch?v=iw97uvIge7c",
+      "sha256": "b6c017212cd393b0a24acc6f66ab38f5f7fa59e63f107278ae874f1bb8c913e3",
+      "date": "2022-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/221208 AMA #2：改善睡眠、减少糖瘾、最佳蛋白质摄入、拉伸频率等.md",
+      "url": "https://www.youtube.com/watch?v=vZ4kOr38JhY",
+      "sha256": "cd0c6afe60f6bf8e15ca42f13aa5fe56ffe247924e752b4958bfcb8469c5b3b0",
+      "date": "2022-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230213 利用睡眠提升学习、记忆与情绪状态 - 吉娜·波博士.md",
+      "url": "https://www.youtube.com/watch?v=BMTt8gSl13s",
+      "sha256": "c2b2dc3411e5b67f36b80b375b66e1a9e8ecf01590fdec0688a5818017048e18",
+      "date": "2023-02-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230224 AMA #4：保持动力、改善REM睡眠、设定目标、管理焦虑等.md",
+      "url": "https://www.youtube.com/watch?v=S8nPJU9xkNw",
+      "sha256": "2e091e793cf500f53e98d396eb6274b5a5e6d5826f0c432ae424cc9a5dab4d70",
+      "date": "2023-02-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230324 AMA #5：侵入性思维、动态血糖仪、行为改变、小睡与NSDR.md",
+      "url": "https://www.youtube.com/watch?v=cp9GXl9Qk_s",
+      "sha256": "80d865a95077976687402d65a9431ca6ec1794cd1ee5fcaf8e6718c797cfa173",
+      "date": "2023-03-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230515 如何用冷热暴露改善健康｜Susanna Søberg 博士.md",
+      "url": "https://www.youtube.com/watch?v=x3MgDtZovks",
+      "sha256": "c0be0123d4b8dd74f1487211637ff250740e533300702cace6461b9a0ae78c42",
+      "date": "2023-05-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230531 AMA #7：冷暴露、最大化快速眼动睡眠与我的下一项科学研究.md",
+      "url": "https://www.youtube.com/watch?v=dicP_kA-RA0",
+      "sha256": "e85f90f84b642fe8a71ebb051e3f9a1e1c6630a6fb8183b61027063ef882691d",
+      "date": "2023-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230623 AMA #8：如何平衡咖啡因、决策疲劳与社交孤立.md",
+      "url": "https://www.youtube.com/watch?v=FE0lTEUa7EY",
+      "sha256": "6606d60ca058b62cd3c245f0a9abc4c2c52dbbb2734691d3f7ce1bad36071068",
+      "date": "2023-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/230728 AMA #9：卡痛的风险、红外桑拿是否有效、写日记的好处.md",
+      "url": "https://www.youtube.com/watch?v=HoH93judXmE",
+      "sha256": "94ec9c3eb291002479feb97da4780cc94dc63f7c508b4fbe6bcbe50190ce774b",
+      "date": "2023-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/231231 AMA #14：2023 慈善、晚间习惯、光照疗法、健康指标等.md",
+      "url": "https://www.youtube.com/watch?v=zbpb1wd-wvs",
+      "sha256": "07acf94986f888c7d3909952a5e5e8298a97d983630e234bc8cd2e19542815dd",
+      "date": "2023-12-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240122 与Peter Attia博士的期刊俱乐部：光线与黑暗对心理健康的影响及癌症治疗方法.md",
+      "url": "https://www.youtube.com/watch?v=TG8VM5-CTfw",
+      "sha256": "c77d916d10be898cc03bab19c43a129abd72029a001a9e41d69467af86cc053f",
+      "date": "2024-01-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240229 AMA #16：睡眠、眩晕、脑外伤、强迫症、旅行小贴士、肠脑轴等.md",
+      "url": "https://www.youtube.com/watch?v=gE0_8AjTFaM",
+      "sha256": "06477fb4fe8570740feae9ad503e75ba437cf19faf4e4fd1daf452265adc9ad6",
+      "date": "2024-02-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/260531 马特·沃克博士：睡眠的生物学原理与你的独特睡眠需求｜Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=-OBCwiPPfEU",
+      "sha256": "f4155ca2c42d8d49c21094161c18aec2d4a459d06c5cbda9a975f9df38ca5254",
+      "date": "2026-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240403 马特·沃克博士：睡眠的生物学机制与你的独特睡眠需求｜Huberman Lab 嘉宾系列.md",
+      "url": "",
+      "sha256": "00fa8d1cf5e480e8407dec4eb85665b4a17d52b6e618e0e254b90038028deb18",
+      "date": "2024-04-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240410 马特·沃克博士：改善睡眠的科学方案 - Huberman Lab 特邀系列.md",
+      "url": "https://www.youtube.com/watch?v=hvPGfcAgk9Y",
+      "sha256": "9cc1aca45e44485e281ffc65cd62e9af5b7ac8916a6ab0b5ed1502ea740eb9a4",
+      "date": "2024-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240417 马特·沃克博士：如何安排睡眠、利用午睡与咖啡因时机 - 胡伯曼实验室嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=4F_RBc1akC8",
+      "sha256": "a4cac67a939628668cea18e1c4a58096758c066f4b66f869a9e99a638d276746",
+      "date": "2024-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240424 马特·沃克博士：利用睡眠提升学习、创造力与记忆力｜Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=F9KrZd_-ge0",
+      "sha256": "23867fed9fb3f5f7b43a463459787649dd888f241a809f35cd7905879e3e6ddf",
+      "date": "2024-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240430 AMA #17：如何挤出时间健身、最佳睡眠工具与高效学习策略.md",
+      "url": "https://www.youtube.com/watch?v=jGZ1mR9uLU0",
+      "sha256": "7d8b8e3da388c9f848a266fff38d4e36a210755b7fa003cc93df7d9c5b80bf5a",
+      "date": "2024-04-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240501 马特·沃克博士：改善睡眠以提升情绪与情绪调节能力 - 胡伯曼实验室嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=S_SrHS8FvMM",
+      "sha256": "73b638ce82f27e3faa4ca8b109929f1f8e6084049e8d382b609117f7b4accbe8",
+      "date": "2024-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240508 马特·沃克博士：梦境、噩梦与清醒梦的科学｜Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=Jy4rJcYmtUM",
+      "sha256": "8a11613315ffdf631bd4b1067dec42927b7ae6f3696506f8b0a17afa47543d34",
+      "date": "2024-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/240802 AMA #18：冷疗建议、护肤技巧、动力提升、学习方法等.md",
+      "url": "https://www.youtube.com/watch?v=Gf-kC30SLtc",
+      "sha256": "b89a6a9b00596e096a0b378ae3de500af202566a42ed49bb463dc1a5f24d576a",
+      "date": "2024-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/241121 掌控睡眠，醒来更清醒｜Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=lIo9FcrljDk",
+      "sha256": "0abe163e9c281655a76ce86ef8ce570aeafacb937c9158a8faa18f401564f456",
+      "date": "2024-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/241128 用科学优化睡眠、学习与新陈代谢｜Huberman Lab 核心精选.md",
+      "url": "https://www.youtube.com/watch?v=q-H_A_dQUxQ",
+      "sha256": "d2b6defb1fbdc866a3e0deea8b4aed39bfbb05c5a286449c8e0508d545e79acd",
+      "date": "2024-11-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/241205 如何克服时差、轮班与失眠｜Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=In9Bq4EJMZw",
+      "sha256": "e6a96578deaca4b0b7e805fbb28f1a8ac0a63ef34e4f315ad3492e200c7bdd10",
+      "date": "2024-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/241212 理解并利用梦境来学习与遗忘 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=hF32FvBH4gI",
+      "sha256": "a0f1ff084a17ab8eeed8847b74da5fcaa099b42cccea500a53667d1a772a709d",
+      "date": "2024-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/250320 用降温提升运动表现与恢复 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=5--yogtN6oM",
+      "sha256": "ecdb00f37f1d985006a797c9ef408ecc8873c8bdc5a96b30a9d1891fdfa86dfc",
+      "date": "2025-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/250612 完美睡眠的科学与实践 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=JaRGJVrJBQ8",
+      "sha256": "59cea4ace1ee58f9b4fc749c922fd45f0fc3f852d18921aad85cf1f64f1942d9",
+      "date": "2025-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/250807 核心要点：降温方案如何提升力量与耐力 - 克雷格·海勒博士.md",
+      "url": "https://www.youtube.com/watch?v=aZklQpFa2kE",
+      "sha256": "46247fd9937bc7c5ce6a2e37800437df289c54f5498c4113addd3f45688f14fc",
+      "date": "2025-08-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/250821 核心要点：用光线调节睡眠、精力与情绪 - Dr. Samer Hattar.md",
+      "url": "https://www.youtube.com/watch?v=2XMb3MD6g6Q",
+      "sha256": "e5d478284af694434e44bea6cb16ecf3e57dbd414f70be223b6917922eae8406",
+      "date": "2025-08-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/251201 格伦·杰弗里博士：用红光改善健康与LED灯的危害.md",
+      "url": "https://www.youtube.com/watch?v=iT8W6kaD-RA",
+      "sha256": "177a2f7b505c2707b29efc7f7992f52614989caad10dfab5176b146daf0911bf",
+      "date": "2025-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/260226 利用光线（阳光、蓝光与红光）优化健康 - Huberman 实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=7UeojKTzeHE",
+      "sha256": "772e00f6ea958bcba90789625ea1987fb6c7b9587af61419f89d200d1b36699f",
+      "date": "2026-02-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/260312 桑拿与主动热暴露的好处 - Huberman 实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=iuPQmw4Ax00",
+      "sha256": "290b05c8c130c385116f79b533778d9e7ee6ceb210c75171656fd19f38175697",
+      "date": "2026-03-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/260611 必备：优化睡眠与作息时间的睡眠工具包.md",
+      "url": "https://www.youtube.com/watch?v=RTgJSQtvo88",
+      "sha256": "84f97d2d679b188c2b047bc999f08b27b45e78a4fb3e27c1886973f7e8852f43",
+      "date": "2026-06-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/260903 精华：利用睡眠提升学习、记忆与情绪状态 - 吉娜·波伊博士.md",
+      "url": "https://www.youtube.com/watch?v=f1NNmiz547U",
+      "sha256": "4a2f23294d52a0f8dd67bbbae34528ba8f1aeee8b6e65cc2fd31259e71d3b572",
+      "date": "2026-09-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261012 饮食选择如何塑造记忆、认知与食欲渴望 - 斯科特·卡诺斯基博士.md",
+      "url": "https://www.youtube.com/watch?v=PXHRYbr3mp4",
+      "sha256": "d524ecae2acdae20088fcd7a401ad30fbe06dfc871834e147bae6008865faa81",
+      "date": "2026-10-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录01 睡眠节律与日常能量/261022 必读：建立健康与体能表现的营养补充理性方法.md",
+      "url": "https://www.youtube.com/watch?v=eYSOabR3YP0",
+      "sha256": "e6b814f13f496b3cd0215940bf9c60758405b9e3d0ffb357021e5043fd652bf9",
+      "date": "2026-10-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210104 你的大脑如何运作与改变.md",
+      "url": "https://www.youtube.com/watch?v=H-XfCl-HpRM",
+      "sha256": "ceef215bb2a40d2c545fd497248c6d731d35ae6cae50de3c9b1bf6dca7ecd01e",
+      "date": "2021-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210208 如何专注重塑大脑.md",
+      "url": "https://www.youtube.com/watch?v=LG53Vxum0as",
+      "sha256": "331cad186c11c07f0e994947a30d7725af65d171ba55e1bf5307b89df6e15967",
+      "date": "2021-02-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210222 用科学工具优化学习与创造力.md",
+      "url": "https://www.youtube.com/watch?v=uuP-1ioh4LY",
+      "sha256": "93b802083c03530f8762b951f983d5c4eecc288ed2fde26a798b038e7c06aca4",
+      "date": "2021-02-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210322 如何提升动力与驱动力.md",
+      "url": "https://www.youtube.com/watch?v=vA50EK70whE",
+      "sha256": "c9c6e07ea5dd8dd303c534656acf07ae1b469fe1e89bf8b0472b0884e902dbb8",
+      "date": "2021-03-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210517 如何更快地学会技能.md",
+      "url": "https://www.youtube.com/watch?v=xJ0IBzCjEPk",
+      "sha256": "5a65d9ab382b85d166a0aa582158fe90b3142117ca7f824367ecd67cac0a1c1e",
+      "date": "2021-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210614 视力科学、眼睛健康与看得更清楚.md",
+      "url": "https://www.youtube.com/watch?v=ObtW353d5i0",
+      "sha256": "5a2590aa843d21d601e88c7ffda39bb3307fa33f473a11f3f3898fccb3fadd36",
+      "date": "2021-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210705 听觉、平衡与加速学习的科学.md",
+      "url": "https://www.youtube.com/watch?v=JVRyzYB9JSY",
+      "sha256": "3fc7e0907fa9a848c18eebb7b001e13dbe8a9df39cb5a74be1459138bb661036",
+      "date": "2021-07-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210726 如何优化你的大脑与身体功能及健康.md",
+      "url": "https://www.youtube.com/watch?v=rW9QKc-iFoY",
+      "sha256": "64fba8c98f3738af1239467dbbd98702233ef41ff68120b1a6d79e7935b34575",
+      "date": "2021-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210913 ADHD与如何提升专注力.md",
+      "url": "https://www.youtube.com/watch?v=hFL6qRIJZ_Y",
+      "sha256": "9dc624cacb503ad6af370423b490065d99ad46b3ee8d2bea5f906e7a060462cf",
+      "date": "2021-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/210927 控制多巴胺，提升动力、专注与满足感.md",
+      "url": "https://www.youtube.com/watch?v=QmOF0crdyRU",
+      "sha256": "68052fb0fcca8b7d6070b4d30eb181e123f905af5734a41b03cd15b2efb269f9",
+      "date": "2021-09-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/211213 你的大脑逻辑与功能 - 大卫·伯森博士.md",
+      "url": "https://www.youtube.com/watch?v=oC3fhUjg30E",
+      "sha256": "09e5cdf7d0405642b43a8b123c45158a50723054f40c722ffaab65b8f027fc66",
+      "date": "2021-12-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220103 养成与戒除习惯的科学.md",
+      "url": "https://www.youtube.com/watch?v=Wcs2PFz5q6g",
+      "sha256": "b287cbac1d1e96a1b2f50125296e581be16ecd407a4cd4eaf41ce195a2fbc492",
+      "date": "2022-01-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220117 设定与实现目标的科学.md",
+      "url": "https://www.youtube.com/watch?v=t1F7EEGPQwo",
+      "sha256": "38aa8d5d6159e7030de0762429b4314b46c4b160b55d3283775b1234cfd79678",
+      "date": "2022-01-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220124 心态科学：如何影响健康与表现 - 艾莉亚·克拉姆博士.md",
+      "url": "https://www.youtube.com/watch?v=dFR_wFN23ZY",
+      "sha256": "c3a3abed9c73724c11647601899091d4f870ff2ad35913ce448bd49ce3736b94",
+      "date": "2022-01-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220131 优化工作空间，提升效率、专注力与创造力.md",
+      "url": "https://www.youtube.com/watch?v=Ze2pc6NwsHQ",
+      "sha256": "cf2b6a0008e5cead5da49e927ebdf39d8b6b1d8eb18af3952055808c6edc05ad",
+      "date": "2022-01-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220207 用玩乐重塑并提升你的大脑.md",
+      "url": "https://www.youtube.com/watch?v=BwyZIWeBpRw",
+      "sha256": "7eaa5670ef67df642cd62a67868a129c8e01e5798534ff14bea15e8a024158b6",
+      "date": "2022-02-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220516 用科学工具理解并提升记忆力.md",
+      "url": "https://www.youtube.com/watch?v=szqPAPKE5tQ",
+      "sha256": "68c9baa48e60036c24d223bceca21230bdd50845a7093e30d8ac71fb85dd3dc9",
+      "date": "2022-05-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220523 用科学方法提升注意力和记忆力｜温迪·铃木博士.md",
+      "url": "https://www.youtube.com/watch?v=099hgtRoUZw",
+      "sha256": "b9e35d17432f6131b7b9e90e82d98ee3c469f5be8832d10adfcf9c456a3046df",
+      "date": "2022-05-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220711 优化并掌控你的大脑化学，提升健康与表现 - Huberman Lab 播客 #80.md",
+      "url": "https://www.youtube.com/watch?v=T65RDBiB5Hs",
+      "sha256": "d401ccb31a79c2f6c1ddf4eaa77c36ecaf8af26848d32835670982494d1ac8df",
+      "date": "2022-07-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220801 设定与达成目标的工具 - 艾米丽·巴尔塞蒂斯博士.md",
+      "url": "https://www.youtube.com/watch?v=7YGZZcXqKxE",
+      "sha256": "7e05f70a434c5c58ddfd9a6e17d701a7bb1407be5e9ad4dfd4758d6e738d4d72",
+      "date": "2022-08-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220829 语言、音乐与大脑的神经科学 - Dr. Erich Jarvis.md",
+      "url": "https://www.youtube.com/watch?v=LVxL_p_kToc",
+      "sha256": "f47bc7ee98fefba301f9ada89751cac533c3cc451547e4d08845bfdae17f18ea",
+      "date": "2022-08-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/220905 专注工具包：提升注意力的实用工具.md",
+      "url": "https://www.youtube.com/watch?v=yb5zpo5WDG4",
+      "sha256": "9d97f0568769fe8171862f462a4e21f13dab7c38d5ad88d816d66d4706093f09",
+      "date": "2022-09-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/221024 学习与说语言背后的科学 - Eddie Chang 博士.md",
+      "url": "https://www.youtube.com/watch?v=Z7MU6zrAXsM",
+      "sha256": "a50f30a58d2cff1ddfb60d60f7651bd86f1956e02bcf9a4e99161a05a99e67f8",
+      "date": "2022-10-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/221031 冥想如何运作 & 科学验证的有效冥想方法.md",
+      "url": "https://www.youtube.com/watch?v=wTBSGgbIvsY",
+      "sha256": "92ecbe8d58948eb74612fa3a11e1f8cfd324d11ae89b23923fcdc18f6bdc40cc",
+      "date": "2022-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/221219 创造力科学：如何提升创新思维.md",
+      "url": "https://www.youtube.com/watch?v=KPlJcD-o-4Q",
+      "sha256": "910856fc6d45729b264e8a9141b46ad949ca789ccc32b6a727c5ba116ea22277",
+      "date": "2022-12-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/221226 如何变得坚韧、塑造自我并领导他人 - Jocko Willink.md",
+      "url": "https://www.youtube.com/watch?v=__RAXBLt1iM",
+      "sha256": "fe7a9befc58573182470d35d17c06512fb5e203f4fc947166f97005266ccb5be",
+      "date": "2022-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260531 用冥想提升专注、审视意识、拓展心智｜萨姆·哈里斯博士.md",
+      "url": "https://www.youtube.com/watch?v=-wIt_WsJGfw",
+      "sha256": "35da923f6efc97212c4afe4e38ab74de5efb9ceea65fd240badba304a374f336",
+      "date": "2026-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230116 如何激发你的创造力 - 里克·鲁宾.md",
+      "url": "https://www.youtube.com/watch?v=ycOBZZeVeAc",
+      "sha256": "f951f1c3b2d2fcc29b3196eb6b015f272e824bbb4d5699da81b6622df2885cb0",
+      "date": "2023-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230220 正确呼吸：优化健康、情绪、学习与表现.md",
+      "url": "https://www.youtube.com/watch?v=x4m_PdFbu-s",
+      "sha256": "7e071342ab01bd1fbef7b1a093dac5b2a5dacbe6886e3ecc97a8ed6ecf42ce92",
+      "date": "2023-02-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230417 Neuralink 与增强人脑的技术 - 马修·麦克杜格尔博士.md",
+      "url": "https://www.youtube.com/watch?v=3ZGItIAUQmI",
+      "sha256": "37706077cf082a9b22c20ec3687e671ee76315e9dbff3d881ebb9276c2407f8b",
+      "date": "2023-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230427 AMA #6：眼睛健康、打哈欠的原因与提升动力.md",
+      "url": "https://www.youtube.com/watch?v=uWV9a3zEaL4",
+      "sha256": "6a17b268260b2ecb96afad496dab70415b89bb190b207bc0b74b1a156bd59c7f",
+      "date": "2023-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230508 裸盖菇素如何重塑大脑：疗效与风险.md",
+      "url": "https://www.youtube.com/watch?v=eIxVfln02Ss",
+      "sha256": "46e08025266acd519176c7332a0759b962237b219a42a6fe6df1af2a3ab917c6",
+      "date": "2023-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230529 阿德拉、兴奋剂与莫达非尼治疗ADHD：短期与长期影响.md",
+      "url": "https://www.youtube.com/watch?v=sxgCC4H1dl8",
+      "sha256": "8b5a85dd35c0d86c053504f1a503b60723b3558eb2a8f1b4ece76eca3c40c57c",
+      "date": "2023-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230619 如何更高效学习，创造最好的未来 - Tim Ferriss.md",
+      "url": "https://www.youtube.com/watch?v=doupx8SAs5Y",
+      "sha256": "44302c0e6e6649e45f9f419e3f219fcb1a9202c89be2377adf1d94548444bfb3",
+      "date": "2023-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230626 如何改善眼部健康、延缓视力衰退 - 杰弗里·戈德堡博士.md",
+      "url": "https://www.youtube.com/watch?v=_ltcLEM-5HU",
+      "sha256": "aa98eeda32edff8d6af07ebd426fc4b5624223ebf8b8f9a8b0d231a16085c963",
+      "date": "2023-06-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230710 大脑的奖赏回路如何影响你的选择 - 罗伯特·马伦卡博士.md",
+      "url": "https://www.youtube.com/watch?v=RI112zW8GDw",
+      "sha256": "92714c85651ffeeb6cfda082d703d41a9856e52b94c2a388023f3cad4fe0a923",
+      "date": "2023-07-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230717 如何用成长型思维提升表现与学习效率.md",
+      "url": "https://www.youtube.com/watch?v=aQDOU3hPci0",
+      "sha256": "cda2a285992508e5fa9849e558baa83782cc7ffefece0663d07f0a45c1c57120",
+      "date": "2023-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230724 如何塑造身份与目标｜玛雅·尚卡尔博士.md",
+      "url": "https://www.youtube.com/watch?v=X8Hw8zeCDTA",
+      "sha256": "92c9202b6d0150dfd65d83b030a0729672e77ee7a205021ca45b2f5ad412d0d0",
+      "date": "2023-07-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230731 用激情、动力与坚持成就终身成功 - 托尼·霍克.md",
+      "url": "https://www.youtube.com/watch?v=VOfwbcveP84",
+      "sha256": "64dacb0095fd9d09cd96b63961e485f5988ad3108c43de7116823571728cf706",
+      "date": "2023-07-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230821 生命、死亡与独特体验的神经科学 - 大卫·林登博士.md",
+      "url": "https://www.youtube.com/watch?v=29n0WG317tM",
+      "sha256": "baa86175dd0444e8cd8e94b324d5d9c78e001f022a465a632706d66b5b5caefa",
+      "date": "2023-08-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230830 AMA #10：亲近自然与“接地气”的好处、听力损失研究及如何避免高原反应.md",
+      "url": "https://www.youtube.com/watch?v=eJU6Df_ffAE",
+      "sha256": "3d2c477895e08cdd2f07e384fbd4d789ac5c4200d02c2e62cda3c9ad81371c75",
+      "date": "2023-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230904 冒险、创新与人工智能如何重塑人类体验 - 马克·安德森.md",
+      "url": "https://www.youtube.com/watch?v=yixIc1Ai6jM",
+      "sha256": "b21e7107036be0c596edfd770a9f582da4219a87051c1fe60c9bde34ad4c0833",
+      "date": "2023-09-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230918 用音乐提升动力、改善情绪与学习效率 - Huberman Lab 播客.md",
+      "url": "https://www.youtube.com/watch?v=gveDhZW-rUk",
+      "sha256": "8cb222c1e92774c8af2b0c38b32e6ac89345e723de6b4e2fe09e78ef2ac32ef9",
+      "date": "2023-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/230929 AMA #11：提升任务切换效率与生产力，减少脑雾.md",
+      "url": "https://www.youtube.com/watch?v=7Ey_vTTgJGc",
+      "sha256": "bbf7fc5e1e13a63031a9dbae1d0225c7fea103b2f224c20099e9768812803052",
+      "date": "2023-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/231127 如何激发潜能、动力与独特天赋｜亚当·格兰特博士.md",
+      "url": "https://www.youtube.com/watch?v=3gtvNYa3Nd8",
+      "sha256": "115154238c81b14cb4941b8d378ae4b71536b365f051405dc39e71ec3f4f1363",
+      "date": "2023-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/231225 接入创意能量与创作流程的方法 - Rick Rubin.md",
+      "url": "https://www.youtube.com/watch?v=GpgqXCkRO-w",
+      "sha256": "5f978cc92d92439cd58e2174a15ef2afaabb0214cc2dd469b0b2dc4f286c3344",
+      "date": "2023-12-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240129 提升工作记忆与注意力的工具.md",
+      "url": "https://www.youtube.com/watch?v=CQlTmOFM4Qs",
+      "sha256": "2ad265b4f229c798237563873245a49f05ab769432b1d29235720818e9d66b13",
+      "date": "2024-01-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240219 如何优化认知功能与大脑健康 - 马克·德埃斯波西托博士.md",
+      "url": "https://www.youtube.com/watch?v=HYVeP4F0GNU",
+      "sha256": "b5834cef4b716fe46b6062da5b98ef2cb8d5eabeaf675d86b5bbcbb85c6b7762",
+      "date": "2024-02-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240311 如何提升专注力与工作效率 - 卡尔·纽波特博士.md",
+      "url": "https://www.youtube.com/watch?v=p4ZfkezDTXQ",
+      "sha256": "b897dd67fe89f107f21e7dbc6bde5e578fd6570c94f19ab3e221130992d9b6d3",
+      "date": "2024-03-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240318 大脑如何运作、治愈失明与职业规划指南 - Dr. E.J. Chichilnisky.md",
+      "url": "https://www.youtube.com/watch?v=oL3SkPV1_Ik",
+      "sha256": "3e0b3b0eeb150abc995260c1b8c921a77f5f16100e1e7938290fc36cddade951",
+      "date": "2024-03-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240325 魔术与读心术揭示的大脑奥秘 - Asi Wind.md",
+      "url": "https://www.youtube.com/watch?v=kpTJqwIfHcM",
+      "sha256": "64e64a52aac59d67444c3d59dc8e23542bc7f282be129ea91b9bcf9004b9ddcc",
+      "date": "2024-03-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240415 如何掌握成长型思维提升表现 - 大卫·耶格尔博士.md",
+      "url": "https://www.youtube.com/watch?v=etEJrznE-c0",
+      "sha256": "81a2a8ab888cafc4728163212fa1802e5071ef16c130cf19ad1e1630c1bf8207",
+      "date": "2024-04-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240520 如何改善大脑健康、延缓神经退化 - 加里·斯坦伯格博士.md",
+      "url": "https://www.youtube.com/watch?v=nqNEtdHVUjM",
+      "sha256": "61749edd4744aae8edebf625058d4d591821508798977f4b059567ef92b445b5",
+      "date": "2024-05-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240805 用身心练习、信念检验和想象力，唤醒最好的自己｜玛莎·贝克博士.md",
+      "url": "https://www.youtube.com/watch?v=nOgypsWKjm4",
+      "sha256": "932b3d7657554688f924642d7a30ca248dc5a176e3da6b5fa96e1bc023208cc9",
+      "date": "2024-08-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240826 最佳学习与备考方案.md",
+      "url": "https://www.youtube.com/watch?v=ddq8JIMhz7c",
+      "sha256": "fb706a56eb5ff45fbd1c6bfbc96f737802c7b16de8bdfda72a8b1bebf6bb64aa",
+      "date": "2024-08-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240902 如何培养积极向上的成长型思维 - 贾米尔·扎基博士.md",
+      "url": "https://www.youtube.com/watch?v=U2BPitASUh0",
+      "sha256": "d69ad2f80744a8cbe374107b0229ce971553ac8e20d3ecc277f73901d64840a9",
+      "date": "2024-09-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/240930 用科学方法提升记忆力和专注力 - 查兰·兰加纳特博士.md",
+      "url": "https://www.youtube.com/watch?v=jC8Pu9HBd48",
+      "sha256": "0d1ff4263a96b0b3cbef473a54a7fa5c957e333155356532e97f9b3758c88bde",
+      "date": "2024-09-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/241114 你的大脑如何运作与改变 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=HiyzzcuaAac",
+      "sha256": "a8af6992413477b3038b08b39b9bf8d2a61c0396a588bad623b6d41f0a9caae1",
+      "date": "2024-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/241118 如何用神经科学与AI提升学习能力 - 特里·谢诺夫斯基博士.md",
+      "url": "https://www.youtube.com/watch?v=etbfLTHD_VU",
+      "sha256": "03ea8b149a6af29d29750f46b11ee24cdec50f6b51a1bacb6273044865895e0a",
+      "date": "2024-11-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/241219 如何专注改变大脑 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=4AwyVTHEU3s",
+      "sha256": "40b62f393a06a92efaedc7176ad47faa6526d47296e882be99554a6be2bfad58",
+      "date": "2024-12-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250102 用科学工具优化学习与创造力 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=D97TQuy946k",
+      "sha256": "b063a8b9e345d47b5d32e5a60e412ad19aa83cb8f79f1b80f4b648096833d163",
+      "date": "2025-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250127 学习与生活的艺术 - Josh Waitzkin.md",
+      "url": "https://www.youtube.com/watch?v=wAnDWfEIwoE",
+      "sha256": "302a55f085fe6a517ac25a326746003bd258548b815252864160b5867e81622e",
+      "date": "2025-01-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250130 如何提升动力与驱动力 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=OLQRAMZi--c",
+      "sha256": "0d4baecce0dde2cc026652698957b3a530be4ff5aef561709d9c4f5eede77012",
+      "date": "2025-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250217 如何做出更好的决策 - 迈克尔·普拉特博士.md",
+      "url": "https://www.youtube.com/watch?v=bAWUYuygS_U",
+      "sha256": "d87be9ea61bfa603d28889ef4d7e60e9675da8d25c11ea35500c6a5b788c8258",
+      "date": "2025-02-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250327 如何更快掌握技能 - Huberman Lab 核心要点.md",
+      "url": "https://www.youtube.com/watch?v=VnEy78RL2YY",
+      "sha256": "bad8182ed64377b54d0114ecf2439d1bf0e94a6622372d0e645e9037d5125d6d",
+      "date": "2025-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250424 改善视力与眼睛健康的方案 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=ssmwxKPFMFU",
+      "sha256": "30cc1fce672307e2c5346ac2abc9ca7d9058f0b3d154659c8a7d383122c33abd",
+      "date": "2025-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250508 听觉与平衡如何提升专注力与学习效率 - 胡伯曼实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=fSBgDq2ttCw",
+      "sha256": "35ff4f5ee6cfb9fb774e77570d460d624597f33c099ea77f76f11b08d2b2c512",
+      "date": "2025-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250519 喜剧与创造力的科学与艺术 - Tom Segura.md",
+      "url": "https://www.youtube.com/watch?v=HTJ8lDtJOg4",
+      "sha256": "76e7c1f09f1df1d97b44321fd015d2d5790151070d64c49a7f9ac823ab1ac063",
+      "date": "2025-05-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250605 改善健康：强化大脑与身体的连接 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=2ZkJtIouKzE",
+      "sha256": "e3527a89fb0d02c7d8ea79f66d4d5c758a9472bb116661f136b721725b07728b",
+      "date": "2025-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250714 自然与物理环境如何影响你的专注力、认知与健康 - 马克·伯曼博士.md",
+      "url": "https://www.youtube.com/watch?v=ewnvjnuFTOY",
+      "sha256": "c3285828bf8cdab47c7c7819a9f2305c0353c1a4e5983a97331ede5ce213520e",
+      "date": "2025-07-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250731 ADHD 与如何提升专注力 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=LAwBdRR4wQk",
+      "sha256": "b2a6bf3204ac8f297aa0266d2febac39a0067aaa433db4027ac882ea08a3cba6",
+      "date": "2025-07-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250811 如何重塑大脑，学得更快 - 迈克尔·基尔加德博士.md",
+      "url": "https://www.youtube.com/watch?v=rcAyjg-oy84",
+      "sha256": "6b90f962c1b754762bcf1a23971d73803faabc077936beb789a2ece800569fa4",
+      "date": "2025-08-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250814 控制多巴胺，提升动力、专注与满足感 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=XeN6eGO6FVQ",
+      "sha256": "a1bbc837a85809877a35257079e551d0ed0c1aed804c0a4d1e3ba53e06f6bef5",
+      "date": "2025-08-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250901 如何设定并实现宏大目标 - Alex Honnold.md",
+      "url": "https://www.youtube.com/watch?v=4TsOnsPDKKY",
+      "sha256": "0094d82daada0c78841cff7fede639784c9229aa9153503851e7c86eeb95ed94",
+      "date": "2025-09-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250904 核心要点：心态科学如何影响健康与表现 - 艾莉亚·克拉姆博士.md",
+      "url": "https://www.youtube.com/watch?v=alVWRl_X_AA",
+      "sha256": "c59383eee10758b07bb0eded6dd1e5e87e48fde5951adabe601a0b2ef58f74a5",
+      "date": "2025-09-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250915 如何扩展你的意识 - 克里斯托夫·科赫博士.md",
+      "url": "https://www.youtube.com/watch?v=2t4vswC-3mY",
+      "sha256": "227a69d89d64e2800c539065d83dedccd0065cd5c54a95ab531bcf62aae9865c",
+      "date": "2025-09-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/250929 用神经科学提升学习效率与健康 - Dr. Poppy Crum.md",
+      "url": "https://www.youtube.com/watch?v=MlmFj1-mOtg",
+      "sha256": "dcc206729223c35ffa21451d082c67f28f89e77621ecb91a79b706065ceccab7",
+      "date": "2025-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/251009 时间感知、记忆与专注 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=vXTK0Ac9i1Q",
+      "sha256": "546459cb9e808d94747bad50e8b0fbb00a9c3f53504d9864ca18b6d15fda244f",
+      "date": "2025-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/251013 保护并改善你的听力和大脑健康 - 康斯坦丁娜·斯坦科维奇博士.md",
+      "url": "https://www.youtube.com/watch?v=xGmGBFpmdhQ",
+      "sha256": "9a2578c2b198fc6694e1b7c236e2a1d8d753cbdea4af370675daf44e7ac8a3c4",
+      "date": "2025-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260531 核心原理：你的大脑如何运作与解读世界 - 大卫·伯森博士.md",
+      "url": "https://www.youtube.com/watch?v=-zI0ZgKM0xA",
+      "sha256": "99f4c608008e44efec5a3fd2880b7976a0f2aa198c89b5dba7ecc41c5711b046",
+      "date": "2026-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/251204 养成与戒除习惯的科学 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=HXuj7wAt7u8",
+      "sha256": "2eb4f5a82458f2a483b6c4373978d3adf39189993f2ad59a3674c4eac49632ce",
+      "date": "2025-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/251208 掌握创作过程 - 特怀拉·萨普.md",
+      "url": "https://www.youtube.com/watch?v=VnPQ4mLRG-c",
+      "sha256": "c77006b4c0b161344056f574100e09d049466f46696265c297f7dc2126474801",
+      "date": "2025-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/251218 如何设定并达成目标 - Huberman Lab 核心内容.md",
+      "url": "https://www.youtube.com/watch?v=zYuw-8pwnp8",
+      "sha256": "993542e19a0390f2cb8be3e555b9cabd48151fced9e85000c58a9a7e5715ed52",
+      "date": "2025-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260105 养成好习惯、戒掉坏习惯的最佳方法 - James Clear.md",
+      "url": "https://www.youtube.com/watch?v=bdsc3Spm6Sw",
+      "sha256": "8b0f24a1c01f3c7fa68c76253dde06807d59f74a63236cc15cd82ce4673a7404",
+      "date": "2026-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260108 优化工作空间，提升效率、专注力与创造力 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=23t_ynq2tmk",
+      "sha256": "ef2a7ac55bd1a1e88aae3e10285309c9737b0a0953ffbeeb90c534e45b1170ce",
+      "date": "2026-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260115 必备工具：提升注意力和记忆力 - 温迪·铃木博士.md",
+      "url": "https://www.youtube.com/watch?v=RmwbNdyrilk",
+      "sha256": "65d17c3c158967c4db7f81ff56b4689aa97fb9d0281b923cac903dc98cf4865f",
+      "date": "2026-01-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260126 学习与记忆的科学与工具 - 大卫·伊格曼博士.md",
+      "url": "https://www.youtube.com/watch?v=lEULFeUVYf0",
+      "sha256": "cb0bde6624306c07ba68ad1d43210e0c90604210551768f12dea2a807fb7d194",
+      "date": "2026-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260129 用玩乐重塑并改善你的大脑｜Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=BRG4_KfTxbs",
+      "sha256": "aa267024d0dab5e72d8233c46f760ea52bbef995b9d9a561e12017aef3ea7489",
+      "date": "2026-01-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260202 多巴胺与血清素如何影响决策、动力与学习 - Dr. Read Montague.md",
+      "url": "https://www.youtube.com/watch?v=VPi_eWiaqdg",
+      "sha256": "627caf5a97930e5137a10b8d2b6168114ab9ce3941c2c69616644d7034ab3f6a",
+      "date": "2026-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260316 基于科学的冥想工具，改善大脑与健康 - 理查德·戴维森博士.md",
+      "url": "https://www.youtube.com/watch?v=hlOA8ObQJXo",
+      "sha256": "b9cb8fe695575dd8c1268f77c4eb8418702d23f7e48c3d32eace258beb7d1980",
+      "date": "2026-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260319 必备工具：如何设定并实现目标 - 艾米丽·巴尔塞蒂斯博士.md",
+      "url": "https://www.youtube.com/watch?v=RECLTp_YxSU",
+      "sha256": "26dd7986256fd6f62157207b88ca0a19e66e7dad49e2830f20c11c2e0f5f75ec",
+      "date": "2026-03-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260416 用科学工具理解并提升记忆力｜Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=U6dnOVth7-I",
+      "sha256": "b8b761416f14bf827a5d8b653e8aaf9723524c0ab24548fd9c8c9ce0df70efad",
+      "date": "2026-04-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260423 核心内容：语言、音乐与大脑神经科学 - Dr. Erich Jarvis.md",
+      "url": "https://www.youtube.com/watch?v=3bnLgOxHMB8",
+      "sha256": "bd0d7b509f123c78050ad4f5400f902507ac8d5609b16826c1073cd0dc66deeb",
+      "date": "2026-04-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260521 核心要点：学习与说语言背后的科学 - 张医生.md",
+      "url": "https://www.youtube.com/watch?v=MOPqSEK6GvA",
+      "sha256": "f08b8d7b1bf233602536c26372708e05f534c1538ac52fed2739c1b112aaf855",
+      "date": "2026-05-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260615 成功的心态框架与每日具体行动 - Andy Stumpf.md",
+      "url": "https://www.youtube.com/watch?v=baecUt1GaPk",
+      "sha256": "f74614fcb159343d66a23a282a4fce42a45036c75e13c67d9d66d9998d7f0c94",
+      "date": "2026-06-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260713 如何提升记忆与认知功能（任何年龄适用）- 艾伦·卡斯特尔博士.md",
+      "url": "https://www.youtube.com/watch?v=EIhilBpn8Ow",
+      "sha256": "f5860075535938b720c554f5c10076a65c310531a80ede9cbb7b171c2dc09f6c",
+      "date": "2026-07-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260720 加速学习，提升认知能力 - 汤米·伍德博士.md",
+      "url": "https://www.youtube.com/watch?v=bPd9NnOzx78",
+      "sha256": "ab3f151b2b8558ac6767d67992cdb585f30b39c86dae4b8e09416f65eec73b37",
+      "date": "2026-07-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260723 必备：用冥想提升专注、审视意识、拓展思维 - 萨姆·哈里斯博士.md",
+      "url": "https://www.youtube.com/watch?v=LQI8tl8S2PE",
+      "sha256": "851937da5e97ee1bf0f4b77cb642c687270ca45c2cc8d6df447bd2694ff03b15",
+      "date": "2026-07-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260806 掌控大脑化学，提升专注力、动力与幸福感 - Huberman Lab 精选.md",
+      "url": "https://www.youtube.com/watch?v=xKvlK7OqZso",
+      "sha256": "0cd15d532c8477d51847b086aa98327739b67193c1aafb8b1dbfce225b80b761",
+      "date": "2026-08-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260810 用AI增强人类智能、造福人类 - 李飞飞博士.md",
+      "url": "https://www.youtube.com/watch?v=N5AQFYtqx8Q",
+      "sha256": "94148443a36635b5f0453e06b517b591273df548fe6cc6810935d12a515510a2",
+      "date": "2026-08-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260820 核心要点：如何激发你的创造力｜里克·鲁宾.md",
+      "url": "https://www.youtube.com/watch?v=QP8Kpf1UQwM",
+      "sha256": "ebe6477ad04c84dcd68a778939582bd998f29ad11f171b1ad209c9e34d9e5fc0",
+      "date": "2026-08-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260824 如何提升动力、战胜拖延症 - 马苏德·侯赛因博士.md",
+      "url": "https://www.youtube.com/watch?v=58-k4F7-AoA",
+      "sha256": "a4c657bcd7db419eb7d9ea517b319ab9c3fb855d59bd5adf752b43c74d7c17d1",
+      "date": "2026-08-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260831 如何加速学习并提升教育效果 - Joe Liemandt.md",
+      "url": "https://www.youtube.com/watch?v=Uzoe1RYVjiA",
+      "sha256": "6e9cda62d74ffa4acaea7fddbb5300a495f76394af1b37cb77cf520c30c6a50b",
+      "date": "2026-08-31",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260910 精华：基因与跨代记忆遗传 - 奥德德·雷哈维博士.md",
+      "url": "https://www.youtube.com/watch?v=1_iNTFSw4Nc",
+      "sha256": "ace61071e6f0cf1a9bdbb20f6b45b55d33393e8589aa4f7a090f27f30ae19b5c",
+      "date": "2026-09-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/260928 人类、动物与植物如何揭示意识的本质 - 迈克尔·波伦.md",
+      "url": "https://www.youtube.com/watch?v=nk15CT41MFc",
+      "sha256": "389a4533bf956dfb395b4a6297e5a747a863bb04b2697245967d9f0ae0108165",
+      "date": "2026-09-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录02 大脑学习与专注表现/261001 提升专注力的工具 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=8e3RC1L5V_Y",
+      "sha256": "0ebbbd47d732b01540abdd84a922fc7f0757cb298f7e074296c65a8ae6aa44a6",
+      "date": "2026-10-01",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210301 用大脑控制疼痛，加速愈合.md",
+      "url": "https://www.youtube.com/watch?v=mcPSRWUYCv0",
+      "sha256": "762d84cfc9159b9f1003bc5e6ce2b31ea0d1fab6063144d26fd9cbe799c8cb56",
+      "date": "2021-03-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210308 管理压力与焦虑的工具.md",
+      "url": "https://www.youtube.com/watch?v=ntfcfJ28eiU",
+      "sha256": "3aee33e89c5c7642d98c505e65c4b66db6beafa1dea4d57cdd6b73cbf5b1ac12",
+      "date": "2021-03-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210324 如何实时控制压力 - Huberman Lab 精选片段.md",
+      "url": "https://www.youtube.com/watch?v=PZ-GvIOhcf8",
+      "sha256": "2d03474a88662102dbb15c37c422ee2dce31ee46496e8064954abb919f2109bc",
+      "date": "2021-03-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210407 用生理叹息缓解焦虑与压力｜Huberman Lab 精选片段.md",
+      "url": "https://www.youtube.com/watch?v=rBdhqBGqiMc",
+      "sha256": "c02673589c3c057ef641b59c2ec263c572154c88cfc2efbc6f83b84f6c53c6f7",
+      "date": "2021-04-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210628 理解与疗愈心灵 - 卡尔·戴瑟罗斯博士.md",
+      "url": "https://www.youtube.com/watch?v=w9MXqXBZy9U",
+      "sha256": "b77d3a66edd665e04ecff1dacf8a667148466447bd9d220427464b65f725af3b",
+      "date": "2021-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210712 用日常工具最大化提升效率与身心健康.md",
+      "url": "https://www.youtube.com/watch?v=aXvDEmo6uS4",
+      "sha256": "1b84828e3d3cfd5735537ee6d19ea4cb751aa274c5a290a0397149526b1e1259",
+      "date": "2021-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210809 如何掌控你的痛感与快感.md",
+      "url": "https://www.youtube.com/watch?v=xmhsWAqP_0Y",
+      "sha256": "5c11aca9e63760ced2fea191a1fc505dfa7f0db635687c5aa1398dbf1e195e9d",
+      "date": "2021-08-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210816 理解与治疗成瘾 - 安娜·伦布克博士.md",
+      "url": "https://www.youtube.com/watch?v=p3JLaF_4Tz8",
+      "sha256": "76d0b5042c2260de338805719f6c02a85443535e5b73c246cff72d41f5360f31",
+      "date": "2021-08-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210823 理解并战胜抑郁.md",
+      "url": "https://www.youtube.com/watch?v=Xu1FMCxoEFc",
+      "sha256": "5e7ac6039abcf7d117003dc06240d98b8511cbcba055874a9a5c9d7c15796689",
+      "date": "2021-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210830 压力、睾酮与自由意志的科学 - 罗伯特·萨波尔斯基博士.md",
+      "url": "https://www.youtube.com/watch?v=DtmwtjOoSYU",
+      "sha256": "2469a9bcb78ce544e2cb9f5ad2879590add6c091f52ac28be6746f1671483b21",
+      "date": "2021-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/210920 迷幻药治疗精神障碍 - 马修·约翰逊博士.md",
+      "url": "https://www.youtube.com/watch?v=GzvzWO0NU50",
+      "sha256": "1b46f534e482aa58131f1813923cac5ab2f3b13de78b3f6cd1a6dc4dd9fda362",
+      "date": "2021-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/211122 感恩的科学 & 如何培养感恩习惯.md",
+      "url": "https://www.youtube.com/watch?v=KVjfFN89qvQ",
+      "sha256": "dae24afc5cea3ed24f4818fafde47ee56fa880d45b73646d67cc4fb481de3e44",
+      "date": "2021-11-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/211206 基于现代神经科学消除恐惧与创伤.md",
+      "url": "https://www.youtube.com/watch?v=31wjVhCcI5Y",
+      "sha256": "ac151018f1e762efed567d312bef7be26ae7043aa7cf97855351afec0f7e639a",
+      "date": "2021-12-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220110 呼吸对身心与表现的影响 - 杰克·费尔德曼博士.md",
+      "url": "https://www.youtube.com/watch?v=GLgKkG44MGo",
+      "sha256": "2e1bc872b8ca5bcf50a83dfe02979554f7a94d6bebded18b9da6b59328614fa8",
+      "date": "2022-01-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220221 用催眠提升健康与表现 - 大卫·斯皮格尔博士.md",
+      "url": "https://www.youtube.com/watch?v=PctD-ki8dCc",
+      "sha256": "29bf7fe9b8b507bf11972eebba28990187634f98c9d37e668d7e471ba7439541",
+      "date": "2022-02-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220314 用盐优化身心表现 - Huberman Lab.md",
+      "url": "https://www.youtube.com/watch?v=azb3Ih68awQ",
+      "sha256": "92f791a0f2d7100a48615c2f29d4900cfee9c54a98a0800eac6bdfd115995fbd",
+      "date": "2022-03-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220509 理解与控制愤怒与攻击性.md",
+      "url": "https://www.youtube.com/watch?v=RBK5KLA5Jjg",
+      "sha256": "7dff602ba2cb00c036ee38812ca7517addce997d4a8bf3307aaaf8d7cb6c6637",
+      "date": "2022-05-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220530 疗愈悲伤的科学与过程.md",
+      "url": "https://www.youtube.com/watch?v=dzOvi0Aa2EA",
+      "sha256": "fcaae5d64f2915fcf5a6167d4b9f2a819dcf6ac92a672ba17522d11b814c3165",
+      "date": "2022-05-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220606 心理治疗、创伤疗愈与人生挑战 - 保罗·康蒂博士.md",
+      "url": "https://www.youtube.com/watch?v=IOl28gj_RXw",
+      "sha256": "dc7d5a82ca2cc6a38e09b7d5e0b76515a8a037ca826efe1da0015383465e7b11",
+      "date": "2022-06-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220627 强迫症的科学原理与治疗方法.md",
+      "url": "https://www.youtube.com/watch?v=OadokY8fcAA",
+      "sha256": "9c8c1ec81536b4bd3ac4d6130fdedf07756463b8410cb14080736bbc76530ccb",
+      "date": "2022-06-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220725 双相情感障碍的科学与治疗.md",
+      "url": "https://www.youtube.com/watch?v=m_OazsImOiI",
+      "sha256": "3b48bcd971eba3d4db71755637f8891a227c80e3875bfd58667e878a6d26b2d7",
+      "date": "2022-07-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220912 攻击、交配与唤醒的生物学机制 - 大卫·安德森博士.md",
+      "url": "https://www.youtube.com/watch?v=uxZFl4BDOGk",
+      "sha256": "8f0df88a49807ce0a3dc65f3b14b3f532806e39fdc63bc3e2663639db1ef52a5",
+      "date": "2022-09-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/220926 暴食与强迫行为的生物学机制与治疗 - 凯西·哈尔彭博士.md",
+      "url": "https://www.youtube.com/watch?v=Nr5xb-QCBGA",
+      "sha256": "aa8fb83aaf873c99ba7c2bf22ddcbdc574fc47d1b95f5f6b5eaee98105f3fbff",
+      "date": "2022-09-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/221010 迷幻药与神经刺激如何重塑大脑 - 诺兰·威廉姆斯博士.md",
+      "url": "https://www.youtube.com/watch?v=X4QE6t-MkYE",
+      "sha256": "1191892615c2b4eb7992153937a1ead3e65490432b355bd809d774e736a7a100",
+      "date": "2022-10-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/221114 基于科学提升幸福感的方法.md",
+      "url": "https://www.youtube.com/watch?v=LTGGyQS1fZE",
+      "sha256": "b55068b9c839e4cb689f3d24d541da67ccd4a3027ea3393965532310ef79906f",
+      "date": "2022-11-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/221121 饮食与营养对心理健康的影响 - 克里斯·帕尔默博士.md",
+      "url": "https://www.youtube.com/watch?v=xjEFo3a1AnI",
+      "sha256": "bb8f956e5bf78128a1aec7cc139468e60936c20709fc76424ed7126606f72434",
+      "date": "2022-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230320 提升活力、情绪与身体健康及寿命 - 彼得·阿提亚博士.md",
+      "url": "https://www.youtube.com/watch?v=ufsIA5NARIo",
+      "sha256": "0a308a442769d3271df28b1e9a53dc3589253faf7a75a34ada357f4cb9a8dc43",
+      "date": "2023-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230327 利用多巴胺克服拖延症，优化精力分配.md",
+      "url": "https://www.youtube.com/watch?v=K-TW2Chpz4k",
+      "sha256": "439394d6015537508feb43af40bf417f52fb099efc7c5efed6bbcdaf867cd99b",
+      "date": "2023-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230403 控制压力，吃出健康代谢与抗衰老｜Elissa Epel博士.md",
+      "url": "https://www.youtube.com/watch?v=ulHrUVV3Kq4",
+      "sha256": "8060f6a6563d49e1214e39641c4d7ac6c4fea7ff06dabda2e51ddc00ed6145c8",
+      "date": "2023-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230424 基于科学的心理训练与可视化方法，提升学习效果.md",
+      "url": "https://www.youtube.com/watch?v=0RYyQRQFgFk",
+      "sha256": "fb44edd60d50f34a8bd98a6a94c9d549fc22844df576be2216c2c0178005f8f8",
+      "date": "2023-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230522 迷幻药治疗心理健康的科学原理 - 罗宾·卡哈特-哈里斯博士.md",
+      "url": "https://www.youtube.com/watch?v=fcxjwA4C4Cw",
+      "sha256": "f3254bd928641c4025aebae3857a490546c1d8a4cbf23b5bc0a7daeadfeeffd9",
+      "date": "2023-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230605 情绪与社交如何影响学习 - 玛丽·海伦·伊莫迪诺-杨博士.md",
+      "url": "https://www.youtube.com/watch?v=S8jWFcDGz4Y",
+      "sha256": "995caa3612000f8dbc82bef77fd74b7692c3d352fa24f80272fb948463000d94",
+      "date": "2023-06-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230612 MDMA的科学原理与治疗用途：益处与风险 - Huberman Lab播客.md",
+      "url": "https://www.youtube.com/watch?v=slUCmZJDXrk",
+      "sha256": "0883a7f49c6a1b2f418013f626561995e23bc3431b24df22b7dacf1b07126eef",
+      "date": "2023-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230807 氯胺酮：抑郁、创伤后应激障碍与神经可塑性的利弊｜Huberman Lab播客.md",
+      "url": "https://www.youtube.com/watch?v=Rxmv7rT9leo",
+      "sha256": "b9aaf219c8e66b51ea1bb6edba4d7b1a6d57c07d1ca2fa449c9c86d0226b1648",
+      "date": "2023-08-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230906 Dr. Paul Conti：如何理解与评估你的心理健康 - Huberman Lab 特邀系列.md",
+      "url": "https://www.youtube.com/watch?v=tLRCS48Ens4",
+      "sha256": "524bbc5790c7aee7d3b3d770b38eed319fa08af1e4a3c221394dfcbb90d7f723",
+      "date": "2023-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230913 保罗·康蒂博士：如何改善心理健康 - 胡伯曼实验室系列.md",
+      "url": "https://www.youtube.com/watch?v=qPKd99Pa2iU",
+      "sha256": "9dfaee60fbb9dfa307728aff0f17b1ebc2aa3222b47a90f4c7fd07b61eb87deb",
+      "date": "2023-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/230927 Dr. Paul Conti：心理健康工具与实用方案 - Huberman Lab 系列访谈.md",
+      "url": "https://www.youtube.com/watch?v=yOJvm_ri_hk",
+      "sha256": "6a6adff1902424167866bcfa0e2b7ecc8b5b15db58c65f9e6852519974d2fbbd",
+      "date": "2023-09-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/231009 如何提升意志力与韧性 - Huberman Lab 播客.md",
+      "url": "https://www.youtube.com/watch?v=cwakOgHIT0E",
+      "sha256": "5e0031c9d5d3c1bf87f2261c9044cf9356a9da90dda19f53e845efb6f68a9b16",
+      "date": "2023-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/231016 如何理解情绪 - 丽莎·费尔德曼·巴雷特博士.md",
+      "url": "https://www.youtube.com/watch?v=FeRgqJVALMQ",
+      "sha256": "4015f2343671e86587fee224bcf71f439d06a8601a2ce869322c3f3537dea30c",
+      "date": "2023-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/231030 心理健康工具箱：提升情绪与心理健康的实用方法.md",
+      "url": "https://www.youtube.com/watch?v=CJIXbibQ0jI",
+      "sha256": "7b5e473fb03657ab6eab89a7cefb0f2df17f0f166f370d6023c294d915258412",
+      "date": "2023-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/231120 科学验证的日记法：改善身心健康.md",
+      "url": "https://www.youtube.com/watch?v=wAZn9dF3XTo",
+      "sha256": "b7ba53c88922a7144eee224ba87c90b40decdaee271eae0d218031d589585033",
+      "date": "2023-11-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/231130 AMA #13：冬季易病、Wim Hof呼吸法与压力源.md",
+      "url": "https://www.youtube.com/watch?v=xTtM2AvCRyA",
+      "sha256": "02c5d9aa77acc1631932bd074ea9226dcf4fbd5d42153af9dfe775a77ae4e879",
+      "date": "2023-11-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240115 减轻与管理疼痛的工具 - 肖恩·麦基博士.md",
+      "url": "https://www.youtube.com/watch?v=K9lORz2_XSU",
+      "sha256": "f0684d71d4097d4616fb23eb866e3148c8484fda4589328e69b6cca304bad5c0",
+      "date": "2024-01-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240205 社交互动与情绪的生物学原理 - Kay Tye 博士.md",
+      "url": "https://www.youtube.com/watch?v=V0Sdgn0_kFM",
+      "sha256": "80014d5a0f5dfbb4eba67a0eaa74d1344a3d872f121ea2ef0ea6ea3dc2a9dbbc",
+      "date": "2024-02-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240401 肽类疗法对身心健康的益处与风险.md",
+      "url": "https://www.youtube.com/watch?v=zU5EYw06wtw",
+      "sha256": "9e79402bfdede9805f08e8714afa445bec8b249196e6d5d2e791e2465a1def78",
+      "date": "2024-04-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240408 克服身体与情感挑战 - 科尔曼·鲁伊斯.md",
+      "url": "https://www.youtube.com/watch?v=acgz0C-z-gc",
+      "sha256": "28249d9fbd8dd4b55ee5f32549ff4dd5de36fa3bd4d9bbc1e52c832e21d23acd",
+      "date": "2024-04-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240429 强化背部、远离疼痛的实用方案.md",
+      "url": "https://www.youtube.com/watch?v=PVmQOLYckKQ",
+      "sha256": "f2e2bc258755ffb459359b06d9938b9bcb1625f2ba0c53018042392ce2efac36",
+      "date": "2024-04-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240610 智能手机与社交媒体如何影响心理健康及现实可行的解决方案 - 乔纳森·海特博士.md",
+      "url": "https://www.youtube.com/watch?v=csubiPlvFWk",
+      "sha256": "86920ea2ddaaa74422cd26984e1be46304a7d162f2e3ab56a4f5f1cbd21d8c37",
+      "date": "2024-06-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240715 打造一个强壮、不怕痛的腰背 - 斯图尔特·麦吉尔博士.md",
+      "url": "https://www.youtube.com/watch?v=mAlt_HKX4as",
+      "sha256": "ce46f6e80bc2124d7b659dc49506ea9eb4604fc3a5894a7641628ac8b78e10fc",
+      "date": "2024-07-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240909 如何提升你的情商 - 马克·布雷克特博士.md",
+      "url": "https://www.youtube.com/watch?v=kG5Qb9sr0YQ",
+      "sha256": "fdd46b4c0833dabdfe3dcb66e8b112841e1122d3f809bbb4de3ada56919ac8a7",
+      "date": "2024-09-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/240923 如何从创伤后应激障碍（PTSD）中康复 - 维克多·卡里翁博士.md",
+      "url": "https://www.youtube.com/watch?v=4RFEkGKKhdE",
+      "sha256": "3600d094524ec0e763ba43d81b523d2b9ce8d0e8d09e2754cceb17554ccf64bf",
+      "date": "2024-09-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/241125 如何掌控内心声音，提升心理韧性｜伊桑·克罗斯博士.md",
+      "url": "https://www.youtube.com/watch?v=Og56hmAspV8",
+      "sha256": "494bfc27ed286d977604fa99ed1ddb657cbee3a26bd23ae835c95d77ee4fa8f6",
+      "date": "2024-11-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/241223 如何用科学方法获得真正的快乐｜劳丽·桑托斯博士.md",
+      "url": "https://www.youtube.com/watch?v=Phm-Alz1Zjo",
+      "sha256": "b88f8015ec6092f6d179741b3945dd4aa9f43fedf1d877a590e4b1ec0f62ac7d",
+      "date": "2024-12-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250109 用大脑控制疼痛、加速愈合 - 胡伯曼实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=SjPJn4QP0dk",
+      "sha256": "da7c997e5adf9e2fde4b622c7f515a61174c9d5b7ecf4e52def7167eaa2273e7",
+      "date": "2025-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250116 管理压力与焦虑的工具 - Huberman Lab 基础指南.md",
+      "url": "https://www.youtube.com/watch?v=qUz93CyNIz0",
+      "sha256": "46a2fe2cb42a8c0a30e5afe9dafd29f4bcd81acd011ebc09de088f7e615b6e80",
+      "date": "2025-01-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250203 用你的意念掌控身体健康与长寿 - 艾伦·兰格博士.md",
+      "url": "https://www.youtube.com/watch?v=QYAgf_lfio4",
+      "sha256": "fa3fef5325abb930f25cf72c4cf06c9ed0ae00425e91a79444338b677ee71175",
+      "date": "2025-02-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250303 如何获得内心平静与疗愈 - 理查德·施瓦茨博士.md",
+      "url": "https://www.youtube.com/watch?v=KuuoLT-fq4s",
+      "sha256": "a3393e1528fe19d38933f0d8a6c0c8e2db483ebe64a1c2c7f70b08db73f7a28a",
+      "date": "2025-03-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250331 用饮食和生活方式改善心理健康｜克里斯·帕尔默博士.md",
+      "url": "https://www.youtube.com/watch?v=hCyvqRq5YmM",
+      "sha256": "27869f7024b57395e576149cc84429b2d3734f171e3a7f2b69a7dd4da4161a62",
+      "date": "2025-03-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250421 克服物质与行为成瘾的工具 - Ryan Soave.md",
+      "url": "https://www.youtube.com/watch?v=J7yn4tJEmJU",
+      "sha256": "6d1b2063301b148e6902a418d7074a214892b2f89e1a996e3c9756d4e446f28b",
+      "date": "2025-04-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250515 核心要点：理解与疗愈心灵 - 卡尔·迪赛罗斯博士.md",
+      "url": "https://www.youtube.com/watch?v=RSnol_TVrzQ",
+      "sha256": "eb52a6d2dec0bb4d4e50aec0f253bfaaf3020964255811be863a8edd74870d8a",
+      "date": "2025-05-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250522 用日常工具最大化效率与身心健康 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=Pmd6knanPKw",
+      "sha256": "46f439070dde80a0980e2c2723eefafd44bb984d2b5f2f941b93b8fbca85e79a",
+      "date": "2025-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250602 从悲伤与失去中疗愈 - 玛丽-弗朗西斯·奥康纳博士.md",
+      "url": "https://www.youtube.com/watch?v=inUkNZe5H3k",
+      "sha256": "4d3332db20b061c24b48adcfdee8b2e91f5ab1fb171fc6a84cb5f4b2d657e53d",
+      "date": "2025-06-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250619 如何掌控你的痛感与快感｜Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=vm1GbSPx48g",
+      "sha256": "73712732da542f1d83c3f1a903840b80ce586ed3e6ce60991db088b183e81434",
+      "date": "2025-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250626 核心要点：理解与治疗成瘾 - 安娜·莱姆克博士.md",
+      "url": "https://www.youtube.com/watch?v=i4gvIeA3RcI",
+      "sha256": "94fe84eb1aacab30647d6a3c0ee8a61664f502b53312385763af969851c2f8ed",
+      "date": "2025-06-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250703 理解与战胜抑郁 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=HWcphoKlbxY",
+      "sha256": "1432ebb2c039b8fd1e67a4a033fe4cd971f7e6ab33499dc508b3cdd4e91b98a5",
+      "date": "2025-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250710 核心内容：压力、睾酮、攻击性与动机的科学 - 罗伯特·萨波尔斯基博士.md",
+      "url": "https://www.youtube.com/watch?v=WxtxzRdJFTI",
+      "sha256": "f584eabb806598a43d1f76a47252a08e07ffbcbf39c6f8a1395ef5a3d89ccd68",
+      "date": "2025-07-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250724 核心要点：迷幻药治疗精神障碍 - 马修·约翰逊博士.md",
+      "url": "https://www.youtube.com/watch?v=OvHbhzArbfE",
+      "sha256": "75daccb885875980e7a69a9d398f1f19bc8a527b8495db1fd159302b6240c923",
+      "date": "2025-07-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/250804 如何控制皮质醇、摆脱倦怠.md",
+      "url": "https://www.youtube.com/watch?v=Ibj1k3IZTNU",
+      "sha256": "356c0ef3f7be4d3f0136339e65547eeb1bbaa3f5622787c4cd2f7e8db8c38232",
+      "date": "2025-08-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/251023 感恩的科学与如何培养感恩习惯 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=9gJLWk3W5GQ",
+      "sha256": "067655e1838dd00b4367c9c3485c9719fdba57259b3d2c9996fbfdc90c381691",
+      "date": "2025-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/251106 用现代神经科学消除恐惧与创伤 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=tpntW9Tte4M",
+      "sha256": "ff6fa84170ceddd9fc5072afd771021492e2c05b408939e87e394b15c3effdc8",
+      "date": "2025-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/251113 核心要点：呼吸如何影响身心健康与表现 - 杰克·费尔德曼博士.md",
+      "url": "https://www.youtube.com/watch?v=Y3NUEPNZDMA",
+      "sha256": "64160ededb4627c56e934c0bbfee0d37bfcfe0dabf08ee7cad5c3232a91261b6",
+      "date": "2025-11-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/251127 核心要点：用催眠提升身心健康与表现 - 大卫·斯皮格尔博士.md",
+      "url": "https://www.youtube.com/watch?v=SOo4yNoaAoc",
+      "sha256": "9750ff71d24808483e3f9cc07101ba41815209ed63049da305533bde90538488",
+      "date": "2025-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/251222 将痛苦与创伤转化为创意表达 - David Choe.md",
+      "url": "https://www.youtube.com/watch?v=zHyvVajsqMw",
+      "sha256": "686f2d744ecf7a36418dc21cc3bc0e953d043e2e5748c2158edd8d578a8e4d51",
+      "date": "2025-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260112 如何戒除物质或行为成瘾 - 基思·汉弗莱斯博士.md",
+      "url": "https://www.youtube.com/watch?v=t6RCTP4fc9Q",
+      "sha256": "12f4933f7362d87468413fb55393508f52b83890d46aa3aec8c7404bece5ef26",
+      "date": "2026-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260122 核心要点：心理治疗、创伤疗愈与人生挑战 - 保罗·康蒂博士.md",
+      "url": "https://www.youtube.com/watch?v=iNL_BFlHYZ8",
+      "sha256": "0b4ea750fbe353a5ecebc0efeddae77ac7bbda3917821c134a9a72e76133c230",
+      "date": "2026-01-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260302 破除负面思维与行为模式 - Dr. Alok Kanojia (Healthy Gamer).md",
+      "url": "https://www.youtube.com/watch?v=9G2MRFs4vac",
+      "sha256": "4a7b89bd475f515652305fa259b77bc95e5359f27d1e9ccd69377a4c71da3364",
+      "date": "2026-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260326 用盐优化身心表现 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=hnzrPKvRBD8",
+      "sha256": "6e9bacbf89d6d7534a5928763e9a3db0e266a72fc3d15c32ca4793cfaa0c0313",
+      "date": "2026-03-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260409 核心内容：攻击、交配与唤醒的生物学机制 - 大卫·安德森博士.md",
+      "url": "https://www.youtube.com/watch?v=xZ4I2aE8zQA",
+      "sha256": "c53321cf097093865647d80596d40ffe8451680335e90c353019acf2e9e8bf3a",
+      "date": "2026-04-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260420 如何更好地调节情绪 - 马克·布雷克特博士.md",
+      "url": "https://www.youtube.com/watch?v=FBgM7jndkLQ",
+      "sha256": "bad50846d8f100cfd9498bb0defe6ffe4847f99bb1e1801cb5f817e307e4fe19",
+      "date": "2026-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260504 提升心理健康与自信的工具 - 保罗·康蒂博士.md",
+      "url": "https://www.youtube.com/watch?v=cWCs7dxrt-A",
+      "sha256": "a7f71fda2a41c4937b4ab4370e17748b63ae591c1124a719bc9c4d1150177d7e",
+      "date": "2026-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260507 必知：强迫行为与脑深部电刺激 - Casey Halpern 医生.md",
+      "url": "https://www.youtube.com/watch?v=aKDzF_fMMrc",
+      "sha256": "39eaab97f87442f8f205a90006cf7643df56b82211fbbdd35279865cdff705c5",
+      "date": "2026-05-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260511 掌握自控力，战胜拖延症 - 藤田健太郎博士.md",
+      "url": "https://www.youtube.com/watch?v=e89rVf4Pf0k",
+      "sha256": "f9b3453b7e5f0ccd19f7a84f063a06a848b709a0152d4462f6a9f182a2fcc414",
+      "date": "2026-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260514 理解与控制攻击性 - Huberman 实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=916vhhUsmgE",
+      "sha256": "728bceff3135afcad5157bed0e5fb19057acdaf504a102d07f8a96fba57ae348",
+      "date": "2026-05-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260518 如何克服社交焦虑 - 尼克·埃普利博士.md",
+      "url": "https://www.youtube.com/watch?v=Q2hOryHdgAk",
+      "sha256": "564a526bce9e4b65d32fd40b649008752cbfc937cc68184a90e1ac755931a19a",
+      "date": "2026-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260525 增肌、改善体态、提升抗伤能力 - Jeff Cavaliere.md",
+      "url": "https://www.youtube.com/watch?v=s95KFJ2efm4",
+      "sha256": "1782b59fb3fccc42fe0d553fc12430e808c62c930478522422bbb3e04dc5df3d",
+      "date": "2026-05-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260528 从悲伤中疗愈的科学与过程｜Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=PlQyGIIAGNo",
+      "sha256": "349d05732e15f1e8cd993dbd60ade85b47db6af21c4bcd3269e527e740b6841a",
+      "date": "2026-05-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260604 核心要点：用迷幻药与神经刺激重塑大脑 - Nolan Williams 博士.md",
+      "url": "https://www.youtube.com/watch?v=GkG1hMhIQ_Q",
+      "sha256": "e846a5e02bfe7c8f6db8d21f18506ee5b4b578713242e7a184e2d2562a7eedd5",
+      "date": "2026-06-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260709 强迫症的科学与治疗 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=AtU3EvMzZDY",
+      "sha256": "037aca1dc8349f3615618ab7534c07032f879dbcca4c12d053b2d299a4c831ef",
+      "date": "2026-07-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260716 双相情感障碍的科学与治疗 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=UTB5gAkjevk",
+      "sha256": "87750a02c54dea4addfef2645482ccccdb840e0d2100faf4c8896734a56135b2",
+      "date": "2026-07-16",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/260817 情绪神经科学：改善情绪调节的实用工具｜拉尔夫·阿道夫斯博士.md",
+      "url": "https://www.youtube.com/watch?v=P-h5WSQG1Sw",
+      "sha256": "fb767e45e1e3fa7e3c6a8826e9c192269b9fe454c507c5f85e27d94f631b7856",
+      "date": "2026-08-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/261015 Essentials- Neuralink & Technologies to Enhance Human Brains - Dr. Matt MacDougall.md",
+      "url": "https://www.youtube.com/watch?v=YdIJW8RTptU",
+      "sha256": "01876585ebf8420c9768d384946121680bd349c8aec81f079525cfc254762a3d",
+      "date": "2026-10-15",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/视频转录03 情绪调节与心理疗愈/261019 《杰出领袖的特质，以及如何过上非凡的人生》｜贾雷德·戴蒙德博士.md",
+      "url": "https://www.youtube.com/watch?v=2oqBvTRYcv0",
+      "sha256": "9914854ff7fc48c61ea74a9b652bbbff56d409ccd954479964a80ff0cf9c9778",
+      "date": "2026-10-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/210215 用失败、动作和平衡来加速学习.md",
+      "url": "https://www.youtube.com/watch?v=hx3U64IXFOY",
+      "sha256": "6014d49bd59126131550413dfb517959b62bbb8a423c330eed017f3e41c91ea5",
+      "date": "2021-02-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/210531 肌肉增长、力量提升与恢复的科学原理.md",
+      "url": "https://www.youtube.com/watch?v=XLr2RKoD-oY",
+      "sha256": "824944fe83d8589245cd41ff4a9cf0a28ad335018dfc1f0b9e59a5cfd276b173",
+      "date": "2021-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/210607 如何锻炼大脑与身体的耐力.md",
+      "url": "https://www.youtube.com/watch?v=VQLU7gpk_X8",
+      "sha256": "83a6a3be0ae5738318c5c5d00e864964517df044086ff9f95e6518b033ab85b0",
+      "date": "2021-06-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/211108 如何通过训练提升力量与优化激素 - 邓肯·弗伦奇博士.md",
+      "url": "https://www.youtube.com/watch?v=iMvtHqLmEkI",
+      "sha256": "9ea58ccd8db6c669b111691602e9cf223f2242c0bda343283d6e849a7f150be8",
+      "date": "2021-11-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/220328 安迪·加尔平博士：如何增强力量、肌肉与耐力.md",
+      "url": "https://www.youtube.com/watch?v=IAnhFUUCq6c",
+      "sha256": "e62254f91961a3ffd15520d4acb95ed0de9b1c88d67389abfedbf0708af13f3b",
+      "date": "2022-03-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/220613 用研究支持的拉伸方案提升柔韧性.md",
+      "url": "https://www.youtube.com/watch?v=tkH2-_jMCSk",
+      "sha256": "c388adfdab757ea083633282cba2e5958e03311c4b6b38906928178652e0dbb1",
+      "date": "2022-06-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/220620 运动科学与实践｜Ido Portal.md",
+      "url": "https://www.youtube.com/watch?v=a9yFKPmPZ90",
+      "sha256": "5e93d40efec443242536b6d6335fe446b7103c33f96b0597c30387cd72da28d4",
+      "date": "2022-06-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/220704 用科学工具优化你的训练计划 - Jeff Cavaliere.md",
+      "url": "https://www.youtube.com/watch?v=UNCwdFxPtE8",
+      "sha256": "26b3ec7bb17c3633e4333c7d6c1a873af4a1ad7fdeab96866d5318ba361195c5",
+      "date": "2022-07-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/220815 运动、营养与荷尔蒙：活力与长寿的关键 - 彼得·阿提亚博士.md",
+      "url": "https://www.youtube.com/watch?v=DTCmprPCDqc",
+      "sha256": "6dad3cf71dbd447c0884163f8b665aaf6d0e1ea37520591727955f5762222db1",
+      "date": "2022-08-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/221017 健身工具箱：优化身体健康的方案与工具.md",
+      "url": "https://www.youtube.com/watch?v=q1Ss8sTbFBY",
+      "sha256": "9ddc3d7ecb7f81582a5b179f51d4764ac83347960dd9b91daacbd37bb087a17b",
+      "date": "2022-10-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/221107 饮食健康、减脂增肌的科学原理 - 莱恩·诺顿博士.md",
+      "url": "https://www.youtube.com/watch?v=K4Ze-Sp6aUE",
+      "sha256": "492640da00a99cebc969caf2ae0af7f2f48424b0f022dfaa98672dd5f154ae33",
+      "date": "2022-11-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230118 Dr. Andy Galpin：如何评估并全面提升你的体能 - Huberman Lab 系列嘉宾.md",
+      "url": "https://www.youtube.com/watch?v=zEYE-vcVKy8",
+      "sha256": "ae624f173bed909032d5f924b4f998d260121ddf9f3fc8463326e1a7aa78f40a",
+      "date": "2023-01-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230125 Dr. Andy Galpin：增肌增力的最佳方案｜Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=CyDLbrZK75U",
+      "sha256": "2c07e9a2f449364fcb6bc6f46344c74f91f58caa772589c4760dfe9358095460",
+      "date": "2023-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230201 Dr. Andy Galpin：如何提升体能耐力与减脂 - Huberman Lab 特邀系列.md",
+      "url": "https://www.youtube.com/watch?v=oNkDA2F7CjM",
+      "sha256": "c07c9451aa189e7810781b0a892128d3c1bb488bdb234667368397edf9d32c2c",
+      "date": "2023-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230208 Dr. Andy Galpin：优化训练计划，兼顾健身与长寿｜Huberman Lab 系列.md",
+      "url": "https://www.youtube.com/watch?v=UIy-WQCZd4M",
+      "sha256": "18e97e8790e2753c1de22d207800079d7711a953305754a1c099d7951fc30803",
+      "date": "2023-02-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230215 安迪·加尔平博士：最大化恢复，达成健身与表现目标 - 胡伯曼实验室.md",
+      "url": "https://www.youtube.com/watch?v=juD99_sPWGU",
+      "sha256": "fd4c0350c4dbb4e96ce0ed6bb74c555bb99392983538195ce45dcafea3694840",
+      "date": "2023-02-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230222 Dr. Andy Galpin：健身的最佳营养与补剂 - Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=q37ARYnRDGc",
+      "sha256": "8e9e7ea76952fb0271e3d9af894b1a595b14d21649393fd4dbaba90775fb2da8",
+      "date": "2023-02-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/230703 加速达成健身目标的科学工具.md",
+      "url": "https://www.youtube.com/watch?v=LYYyQcAJZfk",
+      "sha256": "9571f90b5165181fc1c2ea28e300246b88db97dd6f5f4f959cd91a031b576ec2",
+      "date": "2023-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/240101 如何培养强大的内心力量 - 大卫·戈金斯.md",
+      "url": "https://www.youtube.com/watch?v=nDLb8_wgX50",
+      "sha256": "d598917071fe7db3ed7c0ea9bef06701870cfc9981924ae30fd193a95956118b",
+      "date": "2024-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/240624 如何通过运动和饮食实现最佳健康与长寿 - 加布里埃尔·莱昂博士.md",
+      "url": "https://www.youtube.com/watch?v=WFcYF_pxLgA",
+      "sha256": "6e6910d6f0f46149209192b29a35454bc0b71db2247be9a5180f5829819e716b",
+      "date": "2024-06-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/240722 女性专属运动与营养：健康、表现与长寿之道 - 史黛西·西姆斯博士.md",
+      "url": "https://www.youtube.com/watch?v=pZX8ikmWvEU",
+      "sha256": "39c69c39779857ccab4fe22de3afede026bc48005f9a700d47425d7198d64ce3",
+      "date": "2024-07-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/240812 营养与健身必备工具 - Layne Norton 博士.md",
+      "url": "https://www.youtube.com/watch?v=CD0bRU1e1ZM",
+      "sha256": "e5970b9ef60ebb1fb738464a83ae5e461cc46d8a0c8fa2ed303c84bbf4790733",
+      "date": "2024-08-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/241209 如何改善你的活动能力、体态与柔韧性 - 凯利·斯塔雷特博士.md",
+      "url": "https://www.youtube.com/watch?v=8N7mdkrXgbc",
+      "sha256": "d758464e25f717567a940e25b0185f4a50f5594b8390cb692520057d783a4b48",
+      "date": "2024-12-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/241226 如何利用失败、运动与平衡加速学习 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=jwChiek_aRY",
+      "sha256": "6a8006a960ffc1e544295709df8d23ee82e8d3328217f4e217a49029f3dfd455",
+      "date": "2024-12-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250106 如何通过运动提升大脑健康、寿命与表现.md",
+      "url": "https://www.youtube.com/watch?v=J2oqi41dCNc",
+      "sha256": "a0355e3601eafb40be13e2889e0860c0eae7e405c723100d5f2c6da572ce4dfc",
+      "date": "2025-01-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250210 任何年龄都能练出力量、耐力和柔韧性 - 帕维尔·塔索林.md",
+      "url": "https://www.youtube.com/watch?v=Z3OpxT65fKw",
+      "sha256": "cb1b4720a2825ffe775268249a22e86e1bac74d84cc99966ac6cba436cd9668e",
+      "date": "2025-02-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250317 用增强式训练和冲刺跑提升速度、灵活性与身体寿命 - Stuart McMillan.md",
+      "url": "https://www.youtube.com/watch?v=U3cSnzdyyXU",
+      "sha256": "c1ac202c6738bc161eb09ccf8b6d5c1d0119099dbd2bcd84e059d8fb048bfeb7",
+      "date": "2025-03-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250410 增加肌肉量、提升力量、改善恢复 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=jgaoLdS82vw",
+      "sha256": "3a5c79e0bd5583996b66f364b733aa04e05ab25e3f6ef76b29f896a3ba1dd9fe",
+      "date": "2025-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250417 如何培养耐力 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=7MEhDlw1e9k",
+      "sha256": "831d56dc55af6e71d6334e26d8c4bd71f8b31c46a294d1009c8aeb0a3e636209",
+      "date": "2025-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250707 如何通过饮食减脂增肌 - Alan Aragon.md",
+      "url": "https://www.youtube.com/watch?v=h_1zlead9ZU",
+      "sha256": "6cc21d67b0ec93fe5658a6ff8196b515ce82cc507a66c62bb06a12c29e8afc85",
+      "date": "2025-07-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250918 核心要点：如何通过训练增肌并优化激素水平 - 邓肯·弗伦奇博士.md",
+      "url": "https://www.youtube.com/watch?v=dy_iLCJggO0",
+      "sha256": "456aa1a940cd6d48ddf5eb0ad6ebf80b3fc95240650f758539a47aacb70e5671",
+      "date": "2025-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/250922 打造理想身材 - Bret Contreras 博士.md",
+      "url": "https://www.youtube.com/watch?v=7SIjcX5B1Vs",
+      "sha256": "b6a37774772f5cd79fdf6cd01ae4c3d7017a62dfe641b6c7ef1d1d543450e917",
+      "date": "2025-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260205 核心：动作的科学与实践 - Ido Portal.md",
+      "url": "https://www.youtube.com/watch?v=JsICN9ZiSjA",
+      "sha256": "bdcb2afa03ee78305fe0fb64f407c3016807814e540155ac892803e87cdf5b3a",
+      "date": "2026-02-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260216 最有效的女性力量训练、有氧与营养指南 - Dr. Lauren Colenso-Semple.md",
+      "url": "https://www.youtube.com/watch?v=_Q4XT82yd-Q",
+      "sha256": "3c4fc0d7e49c08ab655a9ac899fb1e154f3e17402941892e194117aba79fddcd",
+      "date": "2026-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260219 科学优化训练计划必备指南 - Jeff Cavaliere.md",
+      "url": "https://www.youtube.com/watch?v=9GzlbLIU5dU",
+      "sha256": "6dc5206eb723b4e0caf5fdec09977109289e1a59f7b0dbf96c59d9e5c685990d",
+      "date": "2026-02-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260402 核心要点：如何同时提升力量、肌肉量与耐力 - 安迪·加尔平博士.md",
+      "url": "https://www.youtube.com/watch?v=0VSOoMuStvg",
+      "sha256": "2bf990331f0a765b869049b28452e0b0171ccc3fc6338369728722d616f2724b",
+      "date": "2026-04-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260618 用科研支持的拉伸方案提升柔韧性｜Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=syJYZm5OZhE",
+      "sha256": "14fb3f2349322fa58a4fc41a26eaffaff0a73ba414910736c6e55ac52d55f635",
+      "date": "2026-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260625 核心要点：吃出健康、减脂与增肌的科学 - 雷恩·诺顿博士.md",
+      "url": "https://www.youtube.com/watch?v=WWe4up63hb4",
+      "sha256": "6261025708a09bfe13625fd0a933e159cceed22b867653fa4dfed0864f1d4d14",
+      "date": "2026-06-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260629 身体动作练习，强化身心连接｜Ido Portal.md",
+      "url": "https://www.youtube.com/watch?v=Zz8chJwh3S4",
+      "sha256": "7cd948c0d52ca7e95370ae1958f08b750569bf771e06a3271994c36553d4271f",
+      "date": "2026-06-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260917 精华：如何评估并全面提升你的健身水平 - 安迪·加尔平博士.md",
+      "url": "https://www.youtube.com/watch?v=VjaPWC4VPPU",
+      "sha256": "cc794ad080981d0a80281b7f197233d060809275c16a2641e888bf412a8a6de8",
+      "date": "2026-09-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录04 运动训练与身体恢复/260924 核心要点：提升力量与增肌的最佳方案 - Andy Galpin 博士.md",
+      "url": "https://www.youtube.com/watch?v=Gu04f6aFuBY",
+      "sha256": "802ff3217170008cc0d1d6ff326d49779648f5810ca3f5f8e8b0313864d94b98",
+      "date": "2026-09-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210315 食物与营养如何掌控我们的情绪.md",
+      "url": "https://www.youtube.com/watch?v=XfURDjegrAw",
+      "sha256": "30561598a6191eba722e933ebda28607646a6d20b7c3e4d805d41c5c03c807d6",
+      "date": "2021-03-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210419 我们的荷尔蒙如何控制饥饿、进食与饱腹感.md",
+      "url": "https://www.youtube.com/watch?v=17O5mgXZ9ZU",
+      "sha256": "d56cc1bdf2e38f69b9622df95c9b6865e3df74bf9963e9c7e822e90ab7071d12",
+      "date": "2021-04-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210426 如何通过甲状腺和生长激素控制新陈代谢.md",
+      "url": "https://www.youtube.com/watch?v=x7qbJeRxWGw",
+      "sha256": "9f8db9b8bffa10ffde5b16734c9bf1312adfe509d0f399284f0ade9d5b828872",
+      "date": "2021-04-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210524 如何用科学方法减脂.md",
+      "url": "https://www.youtube.com/watch?v=GqPGXG5TlZw",
+      "sha256": "23baef803878511953a159ea566c784bd9f0bf6da9ea96a7cc1a3bf3c35ac6bd",
+      "date": "2021-05-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210621 气味、味觉与类信息素化学物质如何操控你.md",
+      "url": "https://www.youtube.com/watch?v=Mwz8JprPeMc",
+      "sha256": "65db03e6c97ad1395764db3e99ffb1f23c8317c88bf2d1065c36594605500516",
+      "date": "2021-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/210906 健康饮食与进食障碍——厌食、暴食与贪食.md",
+      "url": "https://www.youtube.com/watch?v=2XGREPnlI8U",
+      "sha256": "38b7b0a7e987b5b756c9e2c00a775b376e879bed830fa59cb81e84d0783c5235",
+      "date": "2021-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/211011 禁食与限时进食对减脂和健康的影响 - Huberman Lab 播客 #41.md",
+      "url": "https://www.youtube.com/watch?v=9tRohh0gErM",
+      "sha256": "26849ebb4446c3a0abf9cc354232650b8468bb5a7ba845cc25176d126b78ec6c",
+      "date": "2021-10-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/211018 大脑健康与表现所需的营养 - Huberman Lab 播客 #42.md",
+      "url": "https://www.youtube.com/watch?v=E7W4OQfJWdw",
+      "sha256": "a703b3ce301e44a320fe0480d75c158a6daf3920c994500f1a42894d6baafc3c",
+      "date": "2021-10-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220228 如何改善肠道菌群，提升大脑与整体健康.md",
+      "url": "https://www.youtube.com/watch?v=15R2pMqU2ok",
+      "sha256": "264ec7a135fc43a3f17bcefc2cf98000f489b03fd064c9bf0b5358751d18b80a",
+      "date": "2022-02-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220307 如何建立、维护与修复肠道健康 - 贾斯汀·索南伯格博士.md",
+      "url": "https://www.youtube.com/watch?v=ouCWNRvPk20",
+      "sha256": "225727f0d5f2c6c9aa618a00d3f24b7833855a291f7599a599bdcf2dbdccfcb1",
+      "date": "2022-03-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220321 用科学工具控制糖瘾与新陈代谢｜Huberman Lab 播客 #64.md",
+      "url": "https://www.youtube.com/watch?v=VAEzZeaV5zM",
+      "sha256": "4f9855955731671dd5407608cf07282b95a094123d28fcaebceece3315733940",
+      "date": "2022-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220502 微量营养素与健康长寿｜朗达·帕特里克博士.md",
+      "url": "https://www.youtube.com/watch?v=XcvhERcZpWw",
+      "sha256": "926847066f6341b6548af8629a975001922918ada972c76bb67bf34697ef2766",
+      "date": "2022-05-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220718 味觉感知与糖瘾的生物学机制 - 查尔斯·祖克博士.md",
+      "url": "https://www.youtube.com/watch?v=UChhXiFPRgg",
+      "sha256": "9afdd7374da4376675d63a66057494fa48fb8a9dc9887aaafba6a0ee50998745",
+      "date": "2022-07-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220822 酒精对身体、大脑和健康的影响.md",
+      "url": "https://www.youtube.com/watch?v=DkS1pkKpILY",
+      "sha256": "8bd66d92097cbb07082cb0fd8a35764a6ad77fc81f969e94c15cc673a6422ee0",
+      "date": "2022-08-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/220919 尼古丁对大脑和身体的影响，以及如何戒烟或电子烟.md",
+      "url": "https://www.youtube.com/watch?v=uXs-zPc63kM",
+      "sha256": "1a0bee0db300276caa518986fd2555367bcfae8ac75893deda8477c8a13e72f5",
+      "date": "2022-09-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/221003 大麻对大脑与身体的影响.md",
+      "url": "https://www.youtube.com/watch?v=gXvuJu1kt48",
+      "sha256": "adfd722b6277982c1256dd60f2836c50a61e57964df24c08350b91686877e385",
+      "date": "2022-10-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/230109 为健康与表现制定理性的补剂策略 - Huberman Lab 播客.md",
+      "url": "https://www.youtube.com/watch?v=tLS6t3FVOTI",
+      "sha256": "c7af2644031fd06f886ee412389a59e158450aa3c3e8f3d49ead3aac64d88936",
+      "date": "2023-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/230113 AMA #3：适应原、禁食与生育、蓝牙-电磁辐射风险、认知负荷极限等.md",
+      "url": "https://www.youtube.com/watch?v=uak_dXHh6s4",
+      "sha256": "6dca7c8952f90ea962738746261f0b42df620ee5dfa270a929bd8e636658ff18",
+      "date": "2023-01-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/230306 如何优化水质与饮水量以提升健康.md",
+      "url": "https://www.youtube.com/watch?v=at37Y8rKDlA",
+      "sha256": "fa57180074fd43c40823d1f6baae36fb013949ec7f37acf81f68c18c9cf10626",
+      "date": "2023-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/230313 间歇性禁食：改善健康、认知与长寿｜Satchin Panda博士.md",
+      "url": "https://www.youtube.com/watch?v=7R3-3HR6-u4",
+      "sha256": "f36ab64a8f555f611118ff17fbd8bdae818e993869895c6e754c47577d4f2317",
+      "date": "2023-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/230501 气味如何影响我们的荷尔蒙、健康与行为 - 诺姆·索贝尔博士.md",
+      "url": "https://www.youtube.com/watch?v=cS7cNaBrkxo",
+      "sha256": "88d3d9b461e9b849913c4774fd3e4d9ab40ed5925ed7fda160e580f0d31d5650",
+      "date": "2023-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/231031 AMA #12：关于长寿补剂（白藜芦醇、NR、NMN等）的看法，以及如何改善记忆力.md",
+      "url": "https://www.youtube.com/watch?v=qJ3uV7coZbA",
+      "sha256": "b912fe7b7bc8fdaec8b65d248366bf8be1493ca21602cabcbcfd9421b96d7dbd",
+      "date": "2023-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/231218 糖与加工食品如何影响你的健康 - 罗伯特·拉斯蒂格医生.md",
+      "url": "https://www.youtube.com/watch?v=n28W4AmvMDE",
+      "sha256": "6ed656102b5247f58eed33bec6f380c666914e180c91ca2e5e0b754083d8bd3d",
+      "date": "2023-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240212 如何改善口腔健康及其对大脑和身体的关键作用.md",
+      "url": "https://www.youtube.com/watch?v=zVCaYyUWWSw",
+      "sha256": "0aa48b59558a4c399556360981a9e823432ec2e0b831c52e7c0fab78c1c97949",
+      "date": "2024-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240422 电子烟、饮酒及其他青少年危险行为 - 邦妮·哈尔彭-费尔舍博士.md",
+      "url": "https://www.youtube.com/watch?v=zlc4VrDx_qk",
+      "sha256": "5ed5add4d43d1d96414be8a15c2d96deed40dc51f4e71791e2180c7df11d306a",
+      "date": "2024-04-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240506 通过改善代谢、激素与血糖调节来重塑健康｜Dr. Casey Means.md",
+      "url": "https://www.youtube.com/watch?v=8qaBpM73NSk",
+      "sha256": "e8915d0fa9d59e3d5a66575f61040fcf31e8ac2775a56bc9e453951ad8afe02a",
+      "date": "2024-05-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240527 肠道直觉的科学与肠脑轴 - 迭戈·博霍克斯博士.md",
+      "url": "https://www.youtube.com/watch?v=SZSRgyl7pyQ",
+      "sha256": "4414d678fc946b566d936d9265e2b495466c0ffc4d0b1803e43cb21e2f65295f",
+      "date": "2024-05-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240617 饥饿的科学与对抗肥胖的药物 - Dr. Zachary Knight.md",
+      "url": "https://www.youtube.com/watch?v=C5KpIXjpzdY",
+      "sha256": "d7630138bf3ba9b920a30ab4a7a205ef50e1e0d1f5560cd61cbb74b71c136044",
+      "date": "2024-06-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240708 大麻如何影响健康及潜在风险 - 马修·希尔博士.md",
+      "url": "https://www.youtube.com/watch?v=jouFvyRZntk",
+      "sha256": "1cbd3adbc29d6d12203b5855054b04d4ea84f7aaf6b0f63c9cd06bb27dc1a17b",
+      "date": "2024-07-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/240729 长寿补剂及其功效 - 彼得·阿提亚博士.md",
+      "url": "https://www.youtube.com/watch?v=79p1X_7rAMo",
+      "sha256": "59aa77b47c39b1317ddaec4062cbb8c82cd48ccaf2a5094a24ff98f4e6bd5ba5",
+      "date": "2024-07-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250120 绘制宇宙与人类生命的架构 - 布莱恩·基廷博士.md",
+      "url": "https://www.youtube.com/watch?v=3-ukCGQJk2c",
+      "sha256": "36ddddd572040262ed9d1113d9f769aaaaec57ef0f2024116cb9fbb4b08c78f1",
+      "date": "2025-01-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250123 食物与营养素如何掌控我们的情绪｜Huberman实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=Q4qWzbP0q7I",
+      "sha256": "62c2c4b5a72f8a947ab6bfd9170ae541278b7327df7e76b88b6d56725368602d",
+      "date": "2025-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250227 如何控制饥饿、进食与饱腹感 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=c9JmHOUp6VU",
+      "sha256": "e6d985f28bbf27b477e9396fdaaafc9abf51d0d19af6e7b0f4df00766772805c",
+      "date": "2025-02-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250306 如何通过甲状腺与生长激素掌控新陈代谢｜Huberman实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=Nmo4bxfFzM0",
+      "sha256": "5fcb21a9153bd5db7c0d459be3269eb5b3d5b5d83f9568d278f9e1f8aedc5b01",
+      "date": "2025-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250310 用行为工具与药物改善ADHD专注力 - 约翰·克鲁斯博士.md",
+      "url": "https://www.youtube.com/watch?v=NtQ-kdLlQiU",
+      "sha256": "1539689aa18f4c3515672c059c0d28f52fea0af1933b33fec001ecc0a097ebf3",
+      "date": "2025-03-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250324 如何改善牙齿与口腔微生物群，促进大脑和身体健康 - 史黛西·惠特曼博士.md",
+      "url": "https://www.youtube.com/watch?v=_oOEKKiwdDE",
+      "sha256": "3032abd8fb9c2f8fa7f4dace9160d792cfcb8e052be852ff6d36ba7e8fbb6b49",
+      "date": "2025-03-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250403 用科学工具减脂 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=f4cdu-QiKHo",
+      "sha256": "0dfee71e82156b0543ebc83989d853337a4a465bab4d4f2eb5c34c8d6f996a30",
+      "date": "2025-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250425 AMA #19：胶原蛋白 vs 乳清蛋白、肌酸、嗅盐、兴奋剂等.md",
+      "url": "https://www.youtube.com/watch?v=q-wRvsiGYIs",
+      "sha256": "ffb4b6e5c70f3da0593f01a86078cb66cd6d1ee1904e78e4f7f747bd3ffff694",
+      "date": "2025-04-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250501 嗅觉、味觉与信息素如何影响行为 - 胡伯曼实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=_eDg9yOvvrQ",
+      "sha256": "f2090987bf461e24d1eaa168500f33573c83fa384efe53aa5b74ddf375b15188",
+      "date": "2025-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250512 不同饮食如何影响你的健康｜克里斯托弗·加德纳博士.md",
+      "url": "https://www.youtube.com/watch?v=9vQZT2igXN4",
+      "sha256": "d8b2bde464c98d4e9de9e7f29bd2fafeb6cfab09c730bc477a7372b146ddc3b5",
+      "date": "2025-05-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250630 食物与风味的化学 - 哈罗德·麦基博士.md",
+      "url": "https://www.youtube.com/watch?v=zqANjUGarAw",
+      "sha256": "471cb57c2ef1f16a367f261c32227fd59a30798ea522f36d10b693aeed92e16e",
+      "date": "2025-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250717 健康饮食与进食障碍——厌食、暴食、贪食 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=mJv1_esiJ8g",
+      "sha256": "c4ba050bfdbecfd2fd762f5179cc8ed129904a131d6a2fb73ecb432e6b69d350",
+      "date": "2025-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250721 卡痛、阿片类药物与天然药物的健康影响与风险 - 克里斯·麦柯迪博士.md",
+      "url": "https://www.youtube.com/watch?v=gyE6Z4GLEeM",
+      "sha256": "c9c7dd99d4c3f83c073113f4ccd479cd0dbcdb9c5a19ca7c4885d352e2120d72",
+      "date": "2025-07-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250828 禁食与限时进食对减脂与健康的影响 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=D61jJJPIQeo",
+      "sha256": "727ee01b4206076a116e53bde93c567eaacaf86a502a8dac521c54ce630c22c4",
+      "date": "2025-08-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250908 通过了解你的独特生物学，改善代谢健康与长寿｜迈克尔·斯奈德博士.md",
+      "url": "https://www.youtube.com/watch?v=cjAvD-U5so0",
+      "sha256": "3310279fbf93b496d09393de56d2b9901f3b449f286d627ec5111f307eaabc5d",
+      "date": "2025-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/250911 大脑健康与认知表现的食物与补剂 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=cIla9axQRyM",
+      "sha256": "17719cc6e666d90b6f4359c7fb34f6528678f130c5ba9587b6e92f44b4014117",
+      "date": "2025-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/251211 核心要点：打造健康的肠道菌群 - 贾斯汀·索南伯格博士.md",
+      "url": "https://www.youtube.com/watch?v=n_MVhE63ZQQ",
+      "sha256": "080152431350c6fb38ae83addf2a6f1495a01b617253e3f252e28990e599d623",
+      "date": "2025-12-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260101 健康长寿必备：微量营养素 - 朗达·帕特里克博士.md",
+      "url": "https://www.youtube.com/watch?v=fh2dBmLN-ZM",
+      "sha256": "af3504f76f3f2064e674ebb863535805834eb903dd932401157ba376655f0c5b",
+      "date": "2026-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260209 基因如何影响你的冒险精神与道德观 - 凯瑟琳·佩奇·哈登博士.md",
+      "url": "https://www.youtube.com/watch?v=rAbJC-Qaw7Q",
+      "sha256": "f3cf25b16c72ebbc8534f8a05b6874739de868869d8eee37de331d0bceb8e064",
+      "date": "2026-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260305 核心内容：味觉感知与糖瘾的生物学原理 - 查尔斯·祖克博士.md",
+      "url": "https://www.youtube.com/watch?v=cru_4P6qVYQ",
+      "sha256": "a9a15d229327bdaf883f43a42508f18e5386e1ed54f21d5eea80924a6ca8c902",
+      "date": "2026-03-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260309 避免、治疗与治愈癌症 - 亚历克斯·马森博士.md",
+      "url": "https://www.youtube.com/watch?v=u4VTFb4awrQ",
+      "sha256": "f65c0a73d3a63c5a58b7fe4d300d8123e93591027c7531e4775b22545e536f91",
+      "date": "2026-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260430 用科学工具控制糖瘾和新陈代谢｜Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=qUUfucHC7tU",
+      "sha256": "fb5b4d2facda2e80b4ef864c8ba7294faf653751cb4fc134cfbd015abd42384e",
+      "date": "2026-04-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260608 改善睡眠的饮食与提升代谢健康的食物 - 玛丽-皮埃尔·圣翁热博士.md",
+      "url": "https://www.youtube.com/watch?v=jjaFnKtytqI",
+      "sha256": "e1166230d7291659d64da01542906c9ba45b4d1f435fa1022fa9792c13b8e8da",
+      "date": "2026-06-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260827 核心要点：饮食与营养如何影响心理健康 - 克里斯·帕尔默博士.md",
+      "url": "https://www.youtube.com/watch?v=E56LSFCNdkI",
+      "sha256": "8047562437c4098df7f795f2e994a79d989339e5026deafa21f18796143ccc83",
+      "date": "2026-08-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260907 线粒体如何控制你的新陈代谢 - 贾里德·拉特博士.md",
+      "url": "https://www.youtube.com/watch?v=bv56Cuq-fyY",
+      "sha256": "bf42689a8985d1bd61e9849541827940b6c70d0b6c390b5d2c02c67b766c8ee3",
+      "date": "2026-09-07",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录05 营养代谢与补剂健康/260921 改善肠道健康与减脂的最佳工具 - 克里斯·汤普森博士.md",
+      "url": "https://www.youtube.com/watch?v=ecjEM3NJ0lU",
+      "sha256": "5eb075db49eeea5e57a0f4ccf674c6dd5ce7082e69f9fbc74e7c0384d6fb2a10",
+      "date": "2026-09-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/201223 欢迎收听Huberman Lab播客.md",
+      "url": "https://www.youtube.com/watch?v=4b6bwcWK6GE",
+      "sha256": "5ffd5fcfb047d0c98c14c2b5103029ae917a2d6966d7c1c81c855fa81c8e73eb",
+      "date": "2020-12-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/210405 激素如何塑造性发育.md",
+      "url": "https://www.youtube.com/watch?v=J7SrAEacyf8",
+      "sha256": "40e70cbcb6f7047169c25e1de5471219446b1494fa196a478449ceb602749e27",
+      "date": "2021-04-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/210412 优化睾酮与雌激素的科学方法.md",
+      "url": "https://www.youtube.com/watch?v=qJXKhu5UZwk",
+      "sha256": "31f88f989e24382ff5ab4a1dbdba15b81f800a65f67b3d8ef93868981f5482dd",
+      "date": "2021-04-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/210503 利用皮质醇与肾上腺素提升能量和免疫功能.md",
+      "url": "https://www.youtube.com/watch?v=JPX8g8ibKFc",
+      "sha256": "105c71c491257e166646fc0d115d5d82bbeaf203a6499478fc270e418c7a6070",
+      "date": "2021-05-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/211101 用神经系统增强免疫系统.md",
+      "url": "https://www.youtube.com/watch?v=poOf8b2WE2g",
+      "sha256": "af8737ceeb244867207d268f0b500dc60efd5b6fb17ad5e82ffd1c6c11a114d4",
+      "date": "2021-11-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/211115 多巴胺、血清素与激素如何影响时间感知.md",
+      "url": "https://www.youtube.com/watch?v=8IWDAqodDas",
+      "sha256": "9479390446a388811e3423ddc06b77b21602389261c388e283e5bf4ec9ab974a",
+      "date": "2021-11-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/211227 减缓与逆转衰老的生物学原理 - 大卫·辛克莱博士.md",
+      "url": "https://www.youtube.com/watch?v=n9IxomBusuw",
+      "sha256": "32f12fd8d09c0956efdaefb749da4550df500f77df0aa11d7e7f1cfc93004cc9",
+      "date": "2021-12-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/220411 如何优化激素，提升健康与活力｜Dr. Kyle Gillett.md",
+      "url": "https://www.youtube.com/watch?v=ncSoor2Iw8k",
+      "sha256": "93f1bef643daea82126cdbf2fa4a8c47451494695e0186a55fb7680406f257bd",
+      "date": "2022-04-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/220817 现场活动问答：安德鲁·休伯曼博士在西雅图的答疑环节.md",
+      "url": "https://www.youtube.com/watch?v=2Ds1m5gflCI",
+      "sha256": "be28c72f72da617b1608bc9fd71c5a446183b8752382058cc833be2554cf8309",
+      "date": "2022-08-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/220831 波特兰现场问答：Andrew Huberman 博士答疑.md",
+      "url": "https://www.youtube.com/watch?v=3_auLYOilb8",
+      "sha256": "a8d921f29511e979441bb5cdf0ef00c6b5f8f391b3cd615b881c1a07d701dd2c",
+      "date": "2022-08-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/221109 现场活动问答：Andrew Huberman 博士在洛杉矶的答疑.md",
+      "url": "https://www.youtube.com/watch?v=TO0WUTq5zYI",
+      "sha256": "395a5508ea88951008d15133cb045c6f692001edab0a38e42bb55c40bf1225d5",
+      "date": "2022-11-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/221212 男性荷尔蒙优化的工具 - 凯尔·吉列博士.md",
+      "url": "https://www.youtube.com/watch?v=O640yAgq5f8",
+      "sha256": "d7859656ff1fb42ed9fe5781ae28ce084d78571467629253739cf3ee58498683",
+      "date": "2022-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/221214 现场活动问答：Andrew Huberman博士在纽约的答疑环节.md",
+      "url": "https://www.youtube.com/watch?v=uwWOc_RqTBA",
+      "sha256": "adfe26a16b678347e440a8f5a3a53be3f34673f413865df51b52c9666b0a8484",
+      "date": "2022-12-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230123 如何优化男女生育能力.md",
+      "url": "https://www.youtube.com/watch?v=O1YRwWmue4Y",
+      "sha256": "7c03b684c396b9d4c0c4cce78f20ca4ff3e797c3b8a4d156705041b665ef684e",
+      "date": "2023-01-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230130 如何优化女性激素健康，提升活力与长寿｜萨拉·戈特弗里德博士.md",
+      "url": "https://www.youtube.com/watch?v=GVRDGQhoEYQ",
+      "sha256": "69cc646a132d8fd7efacb50b962c323b39de076725feb1a534d313fb2750bea7",
+      "date": "2023-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230206 如何用科学方法摆脱头痛.md",
+      "url": "https://www.youtube.com/watch?v=CGjdgy0cwGk",
+      "sha256": "ae1421be7e5eb00d9b7ad2d233a81f404b3bd90e1fb163a93634284e72031fc3",
+      "date": "2023-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230227 基因与跨代记忆遗传 - Oded Rechavi 博士.md",
+      "url": "https://www.youtube.com/watch?v=CDUetQMKM6g",
+      "sha256": "e39425da3d7f8854f9d01925b3ba27f0ee2cc6dec95eead8e267594b12767126",
+      "date": "2023-02-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230410 健康头发的科学：脱发原因与生发方法.md",
+      "url": "https://www.youtube.com/watch?v=6ZrlsVx85ek",
+      "sha256": "f9b8a8e48f583a813acd6844cea0d22df2b4114e9e77e13fca96185194387a0f",
+      "date": "2023-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230814 改善男女泌尿与性健康 - Rena Malik 医生.md",
+      "url": "https://www.youtube.com/watch?v=F54qXuTpgfM",
+      "sha256": "0c2932371e4041463e094da32f163c465f1fdf6891e46bb6da6e43aaae210a18",
+      "date": "2023-08-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/230911 Dr. Peter Attia 期刊俱乐部：二甲双胍与长寿，信念效应的力量.md",
+      "url": "https://www.youtube.com/watch?v=z8c6EyMNd0A",
+      "sha256": "c055b16a29c2095ccdb861fd9d10d1344ddeac5c952b923d722135faa9bca0af",
+      "date": "2023-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231023 治愈所有人类疾病：健康与科技的未来 - 马克·扎克伯格 × 普莉希拉·陈博士.md",
+      "url": "https://www.youtube.com/watch?v=1Wo6SqLNmLk",
+      "sha256": "0ca3dcee99caceb3541c02596afe3e768902ff7f58dedce1f8c9099c3c9d8cbb",
+      "date": "2023-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231106 改善男性性健康、功能与生育力 - 迈克尔·艾森伯格医生.md",
+      "url": "https://www.youtube.com/watch?v=pkJi9Raxikg",
+      "sha256": "6503e2cfb6a4404f5f6dc7500cc0c9188206939641c88a78bae9d24ad686b41b",
+      "date": "2023-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231113 女性荷尔蒙健康、生育力与活力 - 娜塔莉·克劳福德博士.md",
+      "url": "https://www.youtube.com/watch?v=EhlIkzJwPlk",
+      "sha256": "066c2b11e1deb43c3e936e045c246bb3ad4296fd8b650851c86a349ebc27ba9a",
+      "date": "2023-11-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231115 现场活动问答：安德鲁·休伯曼博士在多伦多答疑.md",
+      "url": "https://www.youtube.com/watch?v=eC9fiJBdMG0",
+      "sha256": "ee2f1724073892e3b92e566474132327faf200c575b0c613dfafdb4583daf328",
+      "date": "2023-11-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231211 自闭症的成因与治疗 - 凯伦·帕克博士.md",
+      "url": "https://www.youtube.com/watch?v=ccrbE0QHy94",
+      "sha256": "c85c532407cd1e31c5d08812cec28cd2f131b1c5d9e8caa189203a4af0a26a48",
+      "date": "2023-12-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/231213 现场活动问答：安德鲁·休伯曼博士在芝加哥的答疑.md",
+      "url": "https://www.youtube.com/watch?v=LRM5LutB538",
+      "sha256": "90d5706c049160cc3ec397f42742cd21bf79a955b6a72d377e7dd1fdee0923a7",
+      "date": "2023-12-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240108 如何预防和应对感冒与流感.md",
+      "url": "https://www.youtube.com/watch?v=AtChcxeaukQ",
+      "sha256": "a0cd68567c2678c2331051a2b41b31f3d8d83db4f59ad78d6f03b322d9ba8e8d",
+      "date": "2024-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240201 AMA #15：氟化物的利弊与迷走神经刺激.md",
+      "url": "https://www.youtube.com/watch?v=j2sMqSDLd4k",
+      "sha256": "a8169c1dddaf72a1079d8c9672363d7a4ce6990eb7b2220de6f7628bbbd30411",
+      "date": "2024-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240304 安慰剂效应如何改变我们的生理与心理.md",
+      "url": "https://www.youtube.com/watch?v=gdUNjPijwA8",
+      "sha256": "6911fd50acda58a1bf86aee51dba2568531540797bbc56b925bba1c92eda829f",
+      "date": "2024-03-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240322 直播活动问答：安德鲁·休伯曼博士在墨尔本的答疑环节.md",
+      "url": "https://www.youtube.com/watch?v=ttNxNbqNQK4",
+      "sha256": "aa27ab9c3923f9cdc0a5a263a99352c9028c93f9ab731d2e35a085c3d6d6f698",
+      "date": "2024-03-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240419 现场问答：安德鲁·休伯曼博士在悉尼歌剧院.md",
+      "url": "https://www.youtube.com/watch?v=GA89kjVY6Ik",
+      "sha256": "aa5daa2cd67b18e0f22ce5cfe771bd5b5ad643f2e7ec87bdd28418aef940e398",
+      "date": "2024-04-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240517 现场问答：Andrew Huberman博士在悉尼ICC剧院.md",
+      "url": "https://www.youtube.com/watch?v=yOoVz9E9kfQ",
+      "sha256": "bb5ea2f3e55ef64c63fb59b23b0f9bfd05f09516ef60639d96fb6907291ef2b1",
+      "date": "2024-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240603 如何应对更年期与围绝经期，活出最佳健康与活力 - 玛丽·克莱尔·哈弗博士.md",
+      "url": "https://www.youtube.com/watch?v=6P8hrzjnetU",
+      "sha256": "80d83f052a83a09aeca6393fedbca3aa1e21323c0e208d63f03225c4366ba67b",
+      "date": "2024-06-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260531 现场活动问答：安德鲁·休伯曼博士在布里斯班会展中心.md",
+      "url": "https://www.youtube.com/watch?v=-e9ErUozQo4",
+      "sha256": "8af7fae1527067e90dfe6bbc66b3b7753a9f2ef75f742657d73d7e8e75b57c22",
+      "date": "2026-05-31",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240701 如何改善皮肤健康与外观.md",
+      "url": "https://www.youtube.com/watch?v=1CxJVdeyltw",
+      "sha256": "7a71dcafcc03355cb10422717c887d639a88c7fd6fd678ebc6a0fe720d6b4653",
+      "date": "2024-07-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/240819 如何改善并保护你的皮肤健康与外观 - Dr. Teo Soleymani.md",
+      "url": "https://www.youtube.com/watch?v=wgUjIRtote8",
+      "sha256": "c5c767f7ba3fa9dd76de3cff7a0efe53cbf91552b87fea4fa17aed0648a69d89",
+      "date": "2024-08-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/241007 肽类与激素疗法：健康、表现与长寿之道 - 克雷格·科尼弗博士.md",
+      "url": "https://www.youtube.com/watch?v=wRsX_ZkzxvQ",
+      "sha256": "692b293c456bd3b70aed8fddee0071ec573785370d4f2518676edd65f32020cd",
+      "date": "2024-10-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/241021 微塑料对健康的影响.md",
+      "url": "https://www.youtube.com/watch?v=vfRtLI6cJrk",
+      "sha256": "61a51f67c406363d30baed2c04cf8df2ba203328249fedf8530bfbb081cc6329",
+      "date": "2024-10-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/241104 如何保护你的激素健康与生育能力｜Shanna Swan 博士.md",
+      "url": "https://www.youtube.com/watch?v=i5611OvTFGM",
+      "sha256": "0f933e468890c99e6c54e3eb7c9420a515b62d870728c4fb9a439d742ec82882",
+      "date": "2024-11-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250213 荷尔蒙如何塑造性发育 - Huberman 实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=FCFQx3cA0Lg",
+      "sha256": "953d2bc7261ce9d9a0182963683d60eabccbcb5d821052a8618c02f397dd78bd",
+      "date": "2025-02-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250220 如何优化睾酮与雌激素 - Huberman 实验室精要.md",
+      "url": "https://www.youtube.com/watch?v=v4HRWgwjP_k",
+      "sha256": "9e8d945169c6ebb0695c84b0980f5b5b6d63abd7f3adaf5b03572006b1a9c22b",
+      "date": "2025-02-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250224 如何增强免疫系统 - 罗杰·塞赫特博士.md",
+      "url": "https://www.youtube.com/watch?v=N5DAW8mkJ6Y",
+      "sha256": "ec42f953076e1ff6ed90acf3f3b4a075339091ba7ac20a7612d771ccb00eec65",
+      "date": "2025-02-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250313 用皮质醇和肾上腺素提升精力与免疫力 - Huberman Lab 精华.md",
+      "url": "https://www.youtube.com/watch?v=wFucddupQlk",
+      "sha256": "1ed084d1f0aed2e7fc4f579646bb3556ed53af24352d8baef609e1cd2b5a8a0c",
+      "date": "2025-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250414 如何提升活力并治愈疾病 - 马克·海曼博士.md",
+      "url": "https://www.youtube.com/watch?v=UyneMnERmnI",
+      "sha256": "06cb7550e12c742f274011e021422b150335ec8b8e59915c81019b1b8c541441",
+      "date": "2025-04-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250428 宠物真正想要和需要的是什么 - Dr. Karolina Westlund.md",
+      "url": "https://www.youtube.com/watch?v=6ck9fa6_C8c",
+      "sha256": "a1b917ebb82a7d3ba2cfbc7e7253eeb71a0fdf180bee0b2e3dba0ef26eb7cd59",
+      "date": "2025-04-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250526 改变基因的行为，提升健康与表现｜Melissa Ilardo 博士.md",
+      "url": "https://www.youtube.com/watch?v=ijdpvG24IkE",
+      "sha256": "99bf0a7e5f63ad5762836a9b6637829bcd9dd788d1fa278e83449b43524176bc",
+      "date": "2025-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250616 如何从做难事中成长｜Michael Easter.md",
+      "url": "https://www.youtube.com/watch?v=SsKkZTjUJEk",
+      "sha256": "640d87193a109eb9a3ec0a07c3701d92357802fa76cc5119fc5a5b3feb8488d8",
+      "date": "2025-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250623 控制迷走神经，改善情绪、警觉性与神经可塑性.md",
+      "url": "https://www.youtube.com/watch?v=CLbVW3Pj46A",
+      "sha256": "24a5f1e78ce22f16aea3f681dcceac4f0c857d9688f51ba09e7b23e7e5400930",
+      "date": "2025-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250728 男性与女性大脑差异及其基因与激素根源 - 尼劳·沙赫博士.md",
+      "url": "https://www.youtube.com/watch?v=k8SBJzsIWAo",
+      "sha256": "821b03d82c4486ab44ab346e41e7e5a9859b8a2f0922b2a67b6fd0d9a21a1196",
+      "date": "2025-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250818 用干细胞治疗自闭症、癫痫和精神分裂症 - Sergiu Pașca 博士.md",
+      "url": "https://www.youtube.com/watch?v=H4mMZ0vliMo",
+      "sha256": "fb1b383bd4e5f4628860490a30ad40d8787b9e871c62707b5d76109f5c715a23",
+      "date": "2025-08-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/250925 利用神经系统增强免疫系统 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=pN1UL1M9sqc",
+      "sha256": "de14c65e4feb77a2aa4abc34f1515c8b1c1a4d9cc18af17e49f0a577b8e9ab33",
+      "date": "2025-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251006 如何让自己坚不可摧 - DJ Shipley.md",
+      "url": "https://www.youtube.com/watch?v=WwRc2SEo-VI",
+      "sha256": "5cb72a7ef199c870e89d285b4082a1475c19e95495fe943da784c074f426c17b",
+      "date": "2025-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251020 如何克服内心阻力｜史蒂芬·普雷斯菲尔德.md",
+      "url": "https://www.youtube.com/watch?v=cpKsogGdem4",
+      "sha256": "118f401da4b38a84e99bbe0107b7e5b25ea218272cf2d1d8fcb575847eacf513",
+      "date": "2025-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251027 改善淋巴系统，提升健康与外貌.md",
+      "url": "https://www.youtube.com/watch?v=KBkl3I645c8",
+      "sha256": "9b4fb4b690c1aa9a3da0a06c431995b816046e4f444100d50f54b89114e48e04",
+      "date": "2025-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251030 核心要点：延缓与逆转衰老的生物学原理 - 大卫·辛克莱博士.md",
+      "url": "https://www.youtube.com/watch?v=Ykvkg2Jz3X8",
+      "sha256": "f1538f1121ff0cf742870b07c1c3905bc6bee32f5215cea37cfa1f6a15b7e41f",
+      "date": "2025-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251103 一位医生如何治愈自己的绝症 - 大卫·法根鲍姆博士.md",
+      "url": "https://www.youtube.com/watch?v=PCbD3hFyfCk",
+      "sha256": "8a99d0e6c59ed7f7cdd1848b8eff382e49d50d3a516851e687002c108a89558c",
+      "date": "2025-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251110 你的思维如何构建，以及如何重塑它 - 詹妮弗·格罗博士.md",
+      "url": "https://www.youtube.com/watch?v=tb6ApBIXr1k",
+      "sha256": "fde4782cce98d35fe09e42911f94cb2236d9f5a0a74c4a7f5152cffb001ec507",
+      "date": "2025-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251117 如何说话清晰自信 - Matt Abrahams.md",
+      "url": "https://www.youtube.com/watch?v=ZtTUfMHuioA",
+      "sha256": "d8c20335d61a6ee5fdbbb5b7da6eda7f2c71fc8102ee5855476dec8aacadbcc9",
+      "date": "2025-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251124 女性荷尔蒙健康、多囊卵巢综合征、子宫内膜异位、生育与乳腺癌 - Dr. Thaïs Aliabadi.md",
+      "url": "https://www.youtube.com/watch?v=hMzfGZnaPN8",
+      "sha256": "f20e034290244eef58aef3af988553935d87c51b4c2e2b46632a3837ad9519ba",
+      "date": "2025-11-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251215 优化线粒体，提升能量与寿命｜马丁·皮卡德博士.md",
+      "url": "https://www.youtube.com/watch?v=nMkQUlBtFlk",
+      "sha256": "fb57703795b46ace103daab6b27b75836f6b72bd395e2e6d6250cb5ede98f307",
+      "date": "2025-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/251225 核心要点：如何优化荷尔蒙，提升健康与活力 - Kyle Gillett 博士.md",
+      "url": "https://www.youtube.com/watch?v=fYhY-vC000A",
+      "sha256": "efd5b2d8d60c5b8827731443ba603e5c433a8b488de7cbf533e7341aed739c7b",
+      "date": "2025-12-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260223 恢复衰老大脑与身体的青春活力 - 托尼·韦斯-科雷博士.md",
+      "url": "https://www.youtube.com/watch?v=Ew0-Lg_Evj0",
+      "sha256": "00c9d161d195a44ac2e3622d13bc933c5e91a9f1265b50ba28561aa8ef12d9bc",
+      "date": "2026-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260323 最佳活力与健康方案｜朗达·帕特里克博士.md",
+      "url": "https://www.youtube.com/watch?v=C0DMdUqF73Q",
+      "sha256": "20aa068aa278892363de81254aef51662fc0008cb3e9476a5576f631edabf286",
+      "date": "2026-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260413 女性如何提升生育力与荷尔蒙健康｜娜塔莉·克劳福德医生.md",
+      "url": "https://www.youtube.com/watch?v=RTPNJgHeZBI",
+      "sha256": "b07d1d045c4f7071812ee624a1fb4d751ed00c59ea08c4fa246cff32bf262c4c",
+      "date": "2026-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260601 肽类：科学原理、用途与安全性 - Dr. Abud Bakri.md",
+      "url": "https://www.youtube.com/watch?v=_DfqnpSbMfE",
+      "sha256": "5c76baf874767502f79e51609a0b10b3707d602accaab68c7d9277739ab81648",
+      "date": "2026-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260702 男性荷尔蒙优化的必备工具 - Kyle Gillett 博士.md",
+      "url": "https://www.youtube.com/watch?v=O-groYMqrQw",
+      "sha256": "196bdc3f36904c6eda544bd4ab50fa46c51b317eec695554904236318fe1b39c",
+      "date": "2026-07-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260727 你的健康疑问，一次说清.md",
+      "url": "https://www.youtube.com/watch?v=ssP31IenzYA",
+      "sha256": "a38b53b4fed606a939f09d2a69c51d5faed86c8e19ca0e206eb0b839044b8089",
+      "date": "2026-07-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260803 免疫系统如何运作，以及如何增强它｜Max Krummel 博士.md",
+      "url": "https://www.youtube.com/watch?v=s_tkMm5U9aY",
+      "sha256": "f0086d026a2060fa4bc642b8b344415bdcd8e1f9ee925ddb397df4e4c5c14599",
+      "date": "2026-08-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录06 身体调控与长期健康/260813 核心要点：如何优化女性激素健康，焕发活力与长寿 - 莎拉·戈特弗里德博士.md",
+      "url": "https://www.youtube.com/watch?v=wbuPQPu-03Y",
+      "sha256": "318bb606a9342bbfe6162a239a04c6af44108ac65f3b834a616377a01b437dc1",
+      "date": "2026-08-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/210329 情感与人际关系的科学.md",
+      "url": "https://www.youtube.com/watch?v=hcuMLQVAgEg",
+      "sha256": "6833537b6cf8fb42fcbcf95c46996a5ca06562aa6a475a078775d06a9a4ec2fb",
+      "date": "2021-03-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/210719 机器、创造力与爱 - 莱克斯·弗里德曼博士.md",
+      "url": "https://www.youtube.com/watch?v=VRvn3Oj5r3E",
+      "sha256": "acd40ee468e8afefcb06bfacc53513dda8cd6b1db85868bff129491637ce14a0",
+      "date": "2021-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/211129 人类如何选择并维系短期与长期伴侣 - 大卫·巴斯博士.md",
+      "url": "https://www.youtube.com/watch?v=HXzTbCEqCJc",
+      "sha256": "341b3ed0ab5c616dffc451ae044b37601343da7a75bacf92ab07284a7901598c",
+      "date": "2021-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/211220 家庭、友谊与爱情中的社会纽带科学.md",
+      "url": "https://www.youtube.com/watch?v=RgAcOqVRfYA",
+      "sha256": "115350673c124b161b54500e6302e1c5c1cfa35720eb319cd2a9f8f2b3aa4f0d",
+      "date": "2021-12-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/220214 爱情、欲望与依恋的科学.md",
+      "url": "https://www.youtube.com/watch?v=gMRph_BvHB4",
+      "sha256": "418e429dc352bbeb67c5717cfa16ccb3c076a02abade737cd69776d642ed3123",
+      "date": "2022-02-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/221128 处理冲突、寻找目标、保持动力 - 莱克斯·弗里德曼博士.md",
+      "url": "https://www.youtube.com/watch?v=6I5I56uVvLw",
+      "sha256": "7e77567b8dca3cb0fa087c29cb9d24ab08448a80941ca10c512acf0e331b3d84",
+      "date": "2022-11-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/230920 保罗·康蒂博士：如何建立并维系健康的人际关系｜Huberman Lab 嘉宾系列.md",
+      "url": "https://www.youtube.com/watch?v=eMqWH3LYiII",
+      "sha256": "df47fe8cf704bb5e009b189d0664e154a88de445ed565a7db0957b297ff8d2f4",
+      "date": "2023-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/230925 推广公共卫生的努力与挑战 - 维韦克·穆尔蒂博士.md",
+      "url": "https://www.youtube.com/watch?v=qNzl12g0Dd8",
+      "sha256": "88ee430281c07685ca13fa7b8376bd5195f8cae51008c9ff4a38920b84d5998a",
+      "date": "2023-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/231002 如何搞定高难度对话 - Chris Voss.md",
+      "url": "https://www.youtube.com/watch?v=q8CHXefn7B4",
+      "sha256": "c3e846ba127b8646bfd0ddd73df9b1c117b1d78bfec9610ed3b7c546bbed61e2",
+      "date": "2023-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/231204 找到并实现你独特目标的流程 - 罗伯特·格林.md",
+      "url": "https://www.youtube.com/watch?v=50BZQRT1dAg",
+      "sha256": "46f09cd324fb35f7e7eefa0d9b37138e86af6b3400513b148b5fb1296966c1c5",
+      "date": "2023-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/240226 优秀育儿与改善所有关系的法则｜贝基·肯尼迪博士.md",
+      "url": "https://www.youtube.com/watch?v=XT_6Lvkhxvo",
+      "sha256": "e614c76e9c31eb3599ae70679d1fe15b022759c31e007c81f37086e89734dfd8",
+      "date": "2024-02-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/240513 如何找到人生真正目标，活出最好的自己｜詹姆斯·霍利斯博士.md",
+      "url": "https://www.youtube.com/watch?v=SyWC8ZFVxGo",
+      "sha256": "d52fd2312d7fdcbc4e711202f9a196c834b2daeddda1e5f5c87d8f6331c517ed",
+      "date": "2024-05-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/240916 如何找到、建立并维系健康的亲密关系｜埃丝特·佩雷尔.md",
+      "url": "https://www.youtube.com/watch?v=ajneRM-ET1Q",
+      "sha256": "7e9ffb547e3a08a9b046984a8690803d113404f169c9d4957a78a90bcc177b91",
+      "date": "2024-09-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241014 用科学方法创造理想未来 - Ari Wallach.md",
+      "url": "https://www.youtube.com/watch?v=kgr22uMsJ5o",
+      "sha256": "01d697d576650380c5896ac2e2ae8ddf4030ad19c55a39b18b691c6d618bd669",
+      "date": "2024-10-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241028 如何应对高冲突型人格 - Bill Eddy.md",
+      "url": "https://www.youtube.com/watch?v=SuR0DaYoe0Y",
+      "sha256": "3dd7df4e92337d07a73a2ec539af8ea6a446ba8ac81d23801324edc1e4c15886",
+      "date": "2024-10-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241111 人际关系如何塑造你的大脑 - 艾伦·肖尔博士.md",
+      "url": "https://www.youtube.com/watch?v=rZkMpVLcVsg",
+      "sha256": "8b37781ba37c2d17fd0c24e3b1181f705176a921313e46e1b3e56a69cd403ad0",
+      "date": "2024-11-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241202 理解并运用金钱心理学，获得更多幸福感 - Morgan Housel.md",
+      "url": "https://www.youtube.com/watch?v=z5W74QC3v2I",
+      "sha256": "7886d82915550be85c975a6875e8bae568a2cfcb458554880692919ae4e3c3c2",
+      "date": "2024-12-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241216 如何用好奇与专注创造快乐有意义的人生｜Bernardo Huberman博士.md",
+      "url": "https://www.youtube.com/watch?v=tR73Ny4Dt9s",
+      "sha256": "f5c57be67abf34b9a208ffd156c6ee6c4df994cb94124ce830d7bb3c6486d18b",
+      "date": "2024-12-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/241230 如何最好地引导你的人生决策与方向 - 乔丹·彼得森博士.md",
+      "url": "https://www.youtube.com/watch?v=K0hkhbGYaGQ",
+      "sha256": "1110534b85beefb64e6bdd8fe6deef285cb39e36fb505dec2fd58b5b97680387",
+      "date": "2024-12-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250113 克服内疚感，培养孩子与成人的韧性 - 贝基·肯尼迪博士.md",
+      "url": "https://www.youtube.com/watch?v=qi4VwpEs3LE",
+      "sha256": "93bd8522763c1a82cc8eeeea8d4899c7caa7c24c344a6ed6f8ab34b2b6e36850",
+      "date": "2025-01-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250206 情绪与关系的科学 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=qdk7XuBgSjw",
+      "sha256": "202bd8af8aaec2d61712b5d6b8f50bf43f61788d67441521c67ab44ee7b37f2c",
+      "date": "2025-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250407 如何找到并成为优秀的伴侣 - Lori Gottlieb.md",
+      "url": "https://www.youtube.com/watch?v=lYK4UFf8mlc",
+      "sha256": "8df4011367459628815caca4c830dd4b697ff7e65b8959bbf33f2a6e9be42a8c",
+      "date": "2025-04-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250505 爱情与金钱的契约：决定关系成败的关键 - James Sexton.md",
+      "url": "https://www.youtube.com/watch?v=zpkwefXtbfk",
+      "sha256": "473fe567a3b89b813e5c6262567617b2cecb8b19458d1163dad72d2b1af851cd",
+      "date": "2025-05-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250529 核心要素：机器、创造力与爱 - 莱克斯·弗里德曼博士.md",
+      "url": "https://www.youtube.com/watch?v=SCzecagKBjY",
+      "sha256": "1e41803f3078873e635af822b94cac4b64e5e9f06c2dc67ca6efd962cf3b5de4",
+      "date": "2025-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250609 改善科学，重建公卫信任 - 杰伊·巴塔查里亚博士.md",
+      "url": "https://www.youtube.com/watch?v=2Y_PxTxLFVg",
+      "sha256": "aa80ebac6500e179e7980a05ff920a1236609f7d26d3bbe41d03d1ca3365428c",
+      "date": "2025-06-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/250825 信仰上帝与宗教的科学与健康益处 - 大卫·德斯特诺博士.md",
+      "url": "https://www.youtube.com/watch?v=Whe2Jh9q6jI",
+      "sha256": "9c66a77cd83cf26acc361783023efb01ce8b153108a8f62f13ded19addf81a09",
+      "date": "2025-08-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/251002 核心要点：人类如何选择并维系短期与长期伴侣 - 大卫·巴斯博士.md",
+      "url": "https://www.youtube.com/watch?v=VqiPNN4Jblk",
+      "sha256": "3ee09b4250b0b8fdb6dd7252d9297de28c3f7a380e66700096660493f31aaeda",
+      "date": "2025-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/251120 核心：与家人、朋友和伴侣建立深厚关系的科学.md",
+      "url": "https://www.youtube.com/watch?v=25PtptE7mWk",
+      "sha256": "6a32d48c6ccbea177ad8414f252b93d7c043ab2d8b837c1e0d048ecc0788f21e",
+      "date": "2025-11-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/251229 定义健康男性气质及其培养方法 - 特里·里尔.md",
+      "url": "https://www.youtube.com/watch?v=qGb7hYMlA3o",
+      "sha256": "cd5fa71bd6c915f35ffb55fbdf4fea75c4533990f842458ec7a33915c1eebf9f",
+      "date": "2025-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260119 增肌增力，锻造人生之路｜多里安·耶茨.md",
+      "url": "https://www.youtube.com/watch?v=qzXU390N3vs",
+      "sha256": "b2944ee704e8287b96b3d084c2f51c7eab2ee57706f9c468eba80be00e12251b",
+      "date": "2026-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260212 爱、欲望与依恋的科学 - Huberman Lab 精要.md",
+      "url": "https://www.youtube.com/watch?v=NEkUNahduWY",
+      "sha256": "58c760adcd6cb33480b7ccff9920c416ecfb9707bea8a64c5af6717d0b927510",
+      "date": "2026-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260330 荷尔蒙如何影响性取向与行为 - 马克·布里德洛夫博士.md",
+      "url": "https://www.youtube.com/watch?v=6-mEiwe2NhE",
+      "sha256": "1776398a9eff49fc5f3c2fdf451fe4d4d257d8106c5834135337ec9162181e9d",
+      "date": "2026-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260406 在日常生活中培养敬畏感与情感连接｜达彻·凯尔特纳博士.md",
+      "url": "https://www.youtube.com/watch?v=Tmw2dW0a9DY",
+      "sha256": "9d7b059fc6664cb3594d710901a31a907380e1b7aa45c5b51d00b0181881c7d8",
+      "date": "2026-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260427 男性角色、责任与选择：如何构建充实人生 - Scott Galloway.md",
+      "url": "https://www.youtube.com/watch?v=sQcS6f2qYoQ",
+      "sha256": "03d266fc7866d2c6facb50264dc781c603cba0dc79a633b40ca9b7996e7b26a8",
+      "date": "2026-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260622 吸引力、兼容性与浪漫的科学 - 保罗·伊斯特威克博士.md",
+      "url": "https://www.youtube.com/watch?v=CV0GtUlJ6NM",
+      "sha256": "99066aa7b57930a994c80bcf7abac6873821107f6baeb38c179658453c387fb0",
+      "date": "2026-06-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260706 养狗与掌握冷静自信的能量 - 西萨·米兰.md",
+      "url": "https://www.youtube.com/watch?v=n_qKxNcMvtM",
+      "sha256": "c3aeee57eade6f1304171a2733b58bed3025ba1304299c586a3391fc9e8aef5e",
+      "date": "2026-07-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260730 核心要点：如何变得坚韧、塑造自我身份并领导他人——Jocko Willink.md",
+      "url": "https://www.youtube.com/watch?v=lxDf8uEypJU",
+      "sha256": "4f37bebd74fc58ea75399d02faa09bfd39f770800e970dae323584e9abc03eda",
+      "date": "2026-07-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/260914 真正幸福的艺术 - 亚瑟·布鲁克斯博士.md",
+      "url": "https://www.youtube.com/watch?v=Gk2ArbsrZwE",
+      "sha256": "0c5d025baa14291b0f5366f77a8f55a2d8ba9ef19bf8057e1a5cc659ef12ab2b",
+      "date": "2026-09-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/261005 让灭绝物种重获新生 - 贝丝·夏皮罗博士.md",
+      "url": "https://www.youtube.com/watch?v=SFX8FIHFLE4",
+      "sha256": "0b9da126b89c57c8e1f2d7a043ea10396f02acf3abad2d0967f6336520897d27",
+      "date": "2026-10-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/视频转录07 关系沟通与人生策略/261008 必修课：管理压力与建立心理韧性 - Elissa Epel 博士.md",
+      "url": "https://www.youtube.com/watch?v=RqMWvhvt0DQ",
+      "sha256": "b251b96537c9c804030108caec248608421357044136f7cc6e05cee17082d5e1",
+      "date": "2026-10-08",
+      "status": "added",
+      "atoms": 12
+    }
+  ]
+}

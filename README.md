@@ -113,3 +113,16 @@ python tools/search_commercial_atoms.py "小红书 高客单 成交" --limit 10
 ## 许可证
 
 本项目知识库仅用于学习、研究和非商业用途。引用或二次发布时请注明来源；商业用途请联系作者授权。
+
+
+## 手动更新整套 Skill 与原子资料
+
+在 Agent 中输入 `$opes 更新 skill 和原子库`，也可在任意子 skill 后输入“检查更新 / 更新 skill”。
+
+直接运行已安装 skill 的 `python "{skillDir}/tools/update_skill.py"`；加 `--check` 仅检查。无需 Git 或 GitHub 登录，更新来自本仓库 main 的固定提交；覆盖前自动备份，失败回滚。已有安装需先重新安装一次以获得此入口：
+
+```text
+npx -y skills add FocusLiz-Lab/opeskill -g --all
+```
+
+原子更新直接读取 main 中最新资料，不依赖旧 Release。备份目录及提交号由脚本返回。自定义安装位置可用 `--skills-dir` 指向各 skill 文件夹的共同父目录。

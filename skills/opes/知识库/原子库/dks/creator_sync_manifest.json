@@ -1,0 +1,2970 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 9514,
+  "after": 11741,
+  "added": 2227,
+  "local_source_groups": 355,
+  "added_source_groups": 264,
+  "no_qualifying_units": 60,
+  "latest_atom_date": "2026-10-21",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": null,
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 10513784,
+      "sha256": "5ef8b844520e068d5e2d006d7677582855a2798610d717c864f4ab7fe9f9d30d"
+    },
+    {
+      "file": "atoms_2005Q1.jsonl",
+      "bytes": 12496,
+      "sha256": "ed3e8975fd92fe30b8baa9c0bdb696d516f73b6996f551a4a5a1f68f2b9f7b46"
+    },
+    {
+      "file": "atoms_2016Q1.jsonl",
+      "bytes": 141347,
+      "sha256": "7ed829fd079fd0a50d834eb845af68fb918f6b959ac8d4639100b550ed41acd2"
+    },
+    {
+      "file": "atoms_2019Q1.jsonl",
+      "bytes": 5202,
+      "sha256": "436d96a3870fb5f02efa9174f39873bda62377448539a6e3d9ad7c5639136134"
+    },
+    {
+      "file": "atoms_2020Q1.jsonl",
+      "bytes": 11641,
+      "sha256": "6aed6561a8615ce9281d2d0f333505e415d07dc3de594428d590e49571e7f04b"
+    },
+    {
+      "file": "atoms_2021Q2.jsonl",
+      "bytes": 23131,
+      "sha256": "ade6110f3f89205a44e6a429e688a12cbf46308ace3010423993a20adc14fd6e"
+    },
+    {
+      "file": "atoms_2021Q3.jsonl",
+      "bytes": 33940,
+      "sha256": "170657485b8997be37eb57c61c427b318e3f4bc98534a11bdae3190e8849fd04"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 29373,
+      "sha256": "4b1d256f446b8b6804f0c3ce2ab363465761fda87cd92312fd7e85f8dd42dcf6"
+    },
+    {
+      "file": "atoms_2022Q1.jsonl",
+      "bytes": 33772,
+      "sha256": "dc01778f775a61e5e3bd28505eee79f5baa5ef595347964048d08b0dca56ea26"
+    },
+    {
+      "file": "atoms_2022Q2.jsonl",
+      "bytes": 58113,
+      "sha256": "c565a8c12422913c0e412756289df54e47263e224995e22c6445e73b696be410"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 96746,
+      "sha256": "4b1c499c346579a6b892d8af7dbe72190967afd2bdb276a3fcd98cf457022f99"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 126128,
+      "sha256": "8820151bd1ae82151108c47c33db93b43f3d181e38e4856ddd69cc818ed59255"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 183212,
+      "sha256": "44cdaf3861ea757d5959f5f328956b77dce1cf2baa7306c4ed91c05302bb891f"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 141655,
+      "sha256": "301d16eab1b6f3b6b0ec7b77479cada920f278272032fe4b3c6df75ab1fdbaf3"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 184913,
+      "sha256": "dc84c9bc8e483407666ce0b64de071e722b25ba03dc28a424a4526c744ec563a"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 138991,
+      "sha256": "d564a141ed867575b51d0e2186dea8e43f297ab0e0b2609b202f5dde1e34ca10"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 176703,
+      "sha256": "a042a56f15d0aab50619c5b7780d9aa6dc19a8a3c9205331508a6b0640fabd80"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 73394,
+      "sha256": "8c79be4f9cfa72b4b2a3cfcf941bff8d11bd749c429d360d3c63fd707f6fd0a2"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 68519,
+      "sha256": "c1cf10f8679ebfb77b96c1280733472247a3b910c8419a4a89031634ae33d64f"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 83664,
+      "sha256": "4d15d82ad6747e3181a6a9060321968f1a89e4a0be16f66509e5c0ac499708de"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 279402,
+      "sha256": "923492039f2681543fec6853c1766e60aea823facea34aab2311b4dab748090b"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 687097,
+      "sha256": "c160734ced31cc7f8da95c6db98bb48a317093f4bd3d1794cede359e4b63a399"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 715803,
+      "sha256": "2341618ea3c5b827415df34fa969bdbc1b97da83ceaf10af38fa5ccc5466f31d"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 370735,
+      "sha256": "57964edcabd2aae4081496ad0e0b9c3fd7b110487a6bb0f8e38d7f5c43ac80a7"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 816573,
+      "sha256": "3ae815aee3d033b9585ed8eb0141454a6661788a1acf58f8049acc966567f1cd"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 114723,
+      "sha256": "4e7f63d7ba177264250691fe3e3faddc940e4432afe0aa1009b3e7157e58328a"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 203025,
+      "sha256": "653e76c2902f3bb837ced908dac9b4958ae637b103c951c79c30b96b952c4f97"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 35717,
+      "sha256": "ede78089c2403f90d4723e4995d8ba926d8dbddc81bb41a1adc9eaafa0123312"
+    },
+    {
+      "file": "atoms_undated.jsonl",
+      "bytes": 5667769,
+      "sha256": "c8fcfff85f5c1381c485b88a18f3cf807a0fa491de3958c4417e019305ca974c"
+    }
+  ],
+  "sources": [
+    {
+      "source_path": "articles/.work/root-article-migration-backup/20260906/260828 我们正处于数字文艺复兴之中，请抓住这个机会.md",
+      "url": "https://eden.so/bootcamp)​",
+      "sha256": "163891cb785997ec36984b1096fd946b1fdf1eacc9ec9321e95d42afa86a4659",
+      "date": "2026-08-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260820 Give me 20 minutes and i’ll make you impossible to manipulate.md",
+      "url": "https://linktw.in/QyLxuv",
+      "sha256": "4813fc5acd12dac4d00dae1c04169d19027d3e2d546df2da54d1d069f8fc38db",
+      "date": "2026-08-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260820 给我20分钟，我让你变得无法被操控.md",
+      "url": "https://linktw.in/QyLxuv)刚刚发布——先收藏到稍后观看，回来再读。",
+      "sha256": "b4d2cd470144512c12535f79e6515ec88985634ab1915aaf6834f335af3f3b4a",
+      "date": "2026-08-20",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260828 我们正处数字文艺复兴之中，请抓住机遇。.md",
+      "url": "https://eden.so/bootcamp",
+      "sha256": "2687caf5c72d59d270e22d116383dfd5a833c44272bbdfcf8d80c2b36205733c",
+      "date": "2026-08-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260913 You need to be delusional if you want to succeed.md",
+      "url": "https://eden.so/bootcamp).",
+      "sha256": "143ee3f6b50d9fff5155793f82a8aa3b12e5e878bd2d00d2ba94761bcd8762c7",
+      "date": "2026-09-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260913 想要成功，你必须有点“妄想症”.md",
+      "url": "https://eden.so/bootcamp)。一般报名通道已关闭，但该课程包含在购买",
+      "sha256": "e3a73e0899f609715375b7065c9308d9bba78fa7f09f230445b7c1620c18dbe7",
+      "date": "2026-09-13",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260920 How to launch into a completely new life.md",
+      "url": "https://eden.so",
+      "sha256": "3e4ac3af836073880bdc2680c3c6e9d633d7b7426197c49913281d6fe5ad67f0",
+      "date": "2026-09-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/260920 如何开启全新的人生.md",
+      "url": "https://eden.so)添加为手机快捷方式。保持你的[写作/排期应用](https://eden.so)处于打开状态，让文章、帖子和通讯自动撰写。在早晨集中处理最高优先级、杠杆效应最大且最困难的任务。",
+      "sha256": "380b3bb8562c79b8e4a8df3dc45109bd7c7492c109a83a42c381ac20cd103193",
+      "date": "2026-09-20",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/261006 完整课程：如何把你的兴趣变成一门赚钱的生活方式生意.md",
+      "url": "https://eden.so/features/store",
+      "sha256": "63ce229ec190cfb49cde930832d1fa743d5fd6464fcf3f4ca3b79104343d7035",
+      "date": "2026-10-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/261021 Prompt- Validated Product Finder.md",
+      "url": "https://eden.so),",
+      "sha256": "343fad6e09af3e86425d34decce4d611981a381ebeca9b8aa484e83a28ff6ac2",
+      "date": "2026-10-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "articles/❷ DK博客通讯文章02 免费文【持续更新】/261021 网红已死，体验时代已来.md",
+      "url": "https://substack.com/@2hourcreatorstack)**",
+      "sha256": "8ce1f06fa8289b44e0f7b5c1a817876b18d6edd9e196e249cf1039953a80613b",
+      "date": "2026-10-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/211220 Justin Welsh：如何从零开始做大「一个人的生意」.md",
+      "url": "https://www.youtube.com/watch?v=7laZlckl2i4",
+      "sha256": "8f2f94292a64ae0099b1b9246b58a90dc385536f12db1a9c804aa37b30ece3ee",
+      "date": "2021-12-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220423 7 Books That Will Change Your Life In 2022.md",
+      "url": "https://www.youtube.com/watch?v=609vZAF0JVI",
+      "sha256": "45376b77985cb41ae2c15da1e01069efd553ef7f72289aa31b07244efa7d0fa4",
+      "date": "2022-04-23",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220423 7本改变你人生的书（2022）.md",
+      "url": "",
+      "sha256": "5783e728b0be8c96ac2f24c03f61d8189002fed2d285c048d27fc2cc302f00de",
+      "date": "2022-04-23",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220521 If You Want To Secure Your Future�� Follow This New Career Path.md",
+      "url": "https://www.youtube.com/watch?v=oNV08CLn6zI",
+      "sha256": "679e80e27daf2a70c7e69f3dcabe118134606c521882985e0956e3e2092f1f3f",
+      "date": "2022-05-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220521 如果你想保障你的未来......遵循这条新的职业道路.md",
+      "url": "",
+      "sha256": "7d631b565fe3955475408a68e14a095c50ffa8101a55de6cc8832323378d0786",
+      "date": "2022-05-21",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220618 7 Lessons From 7 Failed Online Businesses (And Making 7 Figures).md",
+      "url": "",
+      "sha256": "a0cf36a8e564237cd299853cfed7268387725919be7d0dd317cc313ab8e3c20a",
+      "date": "2022-06-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220618 7 个失败的在线业务案例带来的 7 个启示（并实现了 700 万美元的收入）.md",
+      "url": "",
+      "sha256": "cdb4ca3de2f5514b032f5cfa46c0320997635e9d98398a03c37066c73eba1539",
+      "date": "2022-06-18",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220625 How To Make Money As A Creative On The Internet.md",
+      "url": "",
+      "sha256": "3248910f2a19865d5904aa22771c9cb816c78aedc3b27e5b67072133083e75f1",
+      "date": "2022-06-25",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/220625 如何在互联网上作为创意人员赚钱.md",
+      "url": "",
+      "sha256": "9245ae2b56e8d23fb52ec6700ae6337bb672194fddfa29eddf4be9367c3b23a7",
+      "date": "2022-06-25",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221002 If You Are High Value, Start A One-Person Business.md",
+      "url": "https://www.youtube.com/watch?v=sgXAQDTa3dA",
+      "sha256": "32dd2e11b6546f2b301ccc166140e57e316cc5202a38e268219bb6f129b59bbe",
+      "date": "2022-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221002 如果你是高价值的，就开始一个人的生意.md",
+      "url": "",
+      "sha256": "658a7492672fbf2abf9b1429cd2f536de090cebc85c50ea21f31f6f297f1c13f",
+      "date": "2022-10-02",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221023 The One-Person Business Model (How To Productize Yourself).md",
+      "url": "https://www.youtube.com/watch?v=BZ2nSULolKI",
+      "sha256": "13b8886da880c02a15f64863bb7c4308254f2570b759209d3cd1c5ba2f949a39",
+      "date": "2022-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221023 一个人的商业模式（如何将自己产品化）.md",
+      "url": "",
+      "sha256": "2dce9206b23441509adf1537f9826f5511ec05c3eab3aa4b90382b6a2fb92ccb",
+      "date": "2022-10-23",
+      "status": "added",
+      "atoms": 6
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221031 The Rise Of The Value Creator (A Career Path For Polymaths & Self-Improvers).md",
+      "url": "https://www.youtube.com/watch?v=RuFjY1MV4LM",
+      "sha256": "ac1bd5c3bbd325f33a92bba5238f26dc90199f18c53c9bed36b006ef42c2004d",
+      "date": "2022-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221031 价值创造者的崛起（博学者和自我完善者的职业道路）.md",
+      "url": "",
+      "sha256": "8d62a67125178b598d30c03209cc0fd5df25d5ba0b8b53e7dd5fe122e62a78f5",
+      "date": "2022-10-31",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221106 11 Lessons From Growing A 7-Figure One Person Business.md",
+      "url": "https://www.youtube.com/watch?v=JgTG1aoaB5s",
+      "sha256": "c377a219762b719557622a0633cb5d6df28acb4cc9a3f1f411115895028fa007",
+      "date": "2022-11-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221106 发展 11 位数单人企业的 7 个教训.md",
+      "url": "",
+      "sha256": "3bcdc99ac64f145ccd32f53d44317ab1eb4514edc60857bdd7145d5c2fdacbf6",
+      "date": "2022-11-06",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221204 You Have A $100,000 Product In Your Head (One Person Business Series).md",
+      "url": "https://www.youtube.com/watch?v=lLl9GkOScFc",
+      "sha256": "c88fdd64f698b21fcc60e33a4789d05211e549b3bcd15242915af8a07ec960f0",
+      "date": "2022-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221204 你脑子里有一个价值 100,000 美元的产品（一个人商业系列）.md",
+      "url": "",
+      "sha256": "3aa10f6d2f0abccbbde5bf2ad0ef84addc7efa51f31af4e415f8bdb72a448639",
+      "date": "2022-12-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221218 The One Person Business Roadmap (99% Make This Mistake).md",
+      "url": "https://www.youtube.com/watch?v=M5IMu7c5f_E",
+      "sha256": "99ecea48d28f228b00cdffabb1f20ebdbe3c662da24e6bf42dc1d870091d86c9",
+      "date": "2022-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/221218 一个人的业务路线图（99% 的人犯了这个错误）.md",
+      "url": "",
+      "sha256": "59e8690a04e4d69941605392d021145c43b138719883af5d37e81ef9c006bfe3",
+      "date": "2022-12-18",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230101 The 4-Hour Workday (Focused Work Changed My Life).md",
+      "url": "https://www.youtube.com/watch?v=aV4jKPFOjvk",
+      "sha256": "245a8f177e2303f0f2e0b5e751f36f624f5eff3059e8bd588d46cf24ed740c37",
+      "date": "2023-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230101 每周工作4 小时（专注工作改变了我的生活）.md",
+      "url": "",
+      "sha256": "accfb46ad6c5b983632d44bc4263d5c43034a9e9a83bafaf5b47025792508d9a",
+      "date": "2023-01-01",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230108 The $1 Million Dollar Skill Stack (Learn In This Order).md",
+      "url": "https://www.youtube.com/watch?v=gpMwHtDwsCk",
+      "sha256": "98021c7edbf37ed5785964312e0f1c407660cd921c200e9d906aeb125a4493b8",
+      "date": "2023-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230108 价值 100 万美元的技能堆栈（按此顺序学习）.md",
+      "url": "",
+      "sha256": "3819aeae23a10a9451050b7dbe3655bd657f47c69988c653f7162a65d4def7ef",
+      "date": "2023-01-08",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230129 The Most Profitable Niche Is You (Create Your Niche Of One).md",
+      "url": "",
+      "sha256": "900367936ec23c7ece3a9bd7c70eaf2defa0c355996d1ad8fc97e8c94641be6d",
+      "date": "2023-01-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230129 最赚钱的利基市场是你（创造你的利基市场）.md",
+      "url": "",
+      "sha256": "0405632f287e20f09423160d05a481922c7bfd0484e13aaf09c8101437207659",
+      "date": "2023-01-29",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230205 How To Write Authentic Content (Social Media Growth 101).md",
+      "url": "https://www.youtube.com/watch?v=wwtt8lkMRDQ",
+      "sha256": "5974330b4b5b044a9bde9c9dd83a928bbaf898fca7aaa54901661d54f83fa68d",
+      "date": "2023-02-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230205 最赚钱的利基市场是你（创造你的利基市场）无需要的网络过程（如何建立高价值的联系）如何编写真实的内容（社交媒体增长 101）.md",
+      "url": "",
+      "sha256": "408fcac5a3342d6bf0c4a1953a5ad509a17731313b32403ee967d00082c3dc97",
+      "date": "2023-02-05",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230212 The Non-Needy Networking Process (How To Make High Value Connections).md",
+      "url": "https://www.youtube.com/watch?v=IInaPtwdNCQ",
+      "sha256": "3bfa629831a23a59b439ea79a9a7b99dbb1facb53acd0b057cf7c57f5a29a60a",
+      "date": "2023-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230212 最赚钱的利基市场是你（创造你的利基市场）无需要的网络过程（如何建立高价值的联系）.md",
+      "url": "",
+      "sha256": "17ca03f2f33be451db8f5284ca760c04d22283aa32760dcd023bb5f5dc5832e5",
+      "date": "2023-02-12",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230219 Become A Digital Renaissance Man (And Join The New Rich).md",
+      "url": "https://www.youtube.com/watch?v=t82NzpIxKkc",
+      "sha256": "46c304c91bf3d7f557f69b96fafe4e0dfd6b9b916882c6aa25245307216d1a1d",
+      "date": "2023-02-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230219 成为数字文艺复兴时期的人（并加入新富豪）.md",
+      "url": "",
+      "sha256": "3ec23a8a244fa062e66067f8b05ca08480390943d1e925ed1688bf17bcfb5d88",
+      "date": "2023-02-19",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230312 The Future Of One-Person Businesses (Take Advantage Now).md",
+      "url": "",
+      "sha256": "e617c2c775e9c701dde602652f58ac76194b758fd9b1c6c5e2e615b1f4f92d38",
+      "date": "2023-03-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230312 一人企业的未来（立即利用）.md",
+      "url": "",
+      "sha256": "b4a8c71798413b956ae921a3cff95df1642e88da823e7c6245bee36e405cf6e9",
+      "date": "2023-03-12",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230316 Dan Koe & Dickie Bush On One-Person Businesses, Creative Workflows, and Lifestyle Design.md",
+      "url": "https://www.youtube.com/watch?v=V4TXnvrhuZw",
+      "sha256": "3d904875e260ea61192f1b2c47e204378cca768592a6e0735f78b652625b192c",
+      "date": "2023-03-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230319 3-5 年内赚取 100 万美元的最佳在线业务-8139b697.md",
+      "url": "",
+      "sha256": "5cc7c57eac3771e243754d6c1b9f189c4d7625249959b97e267c1a81e369db8a",
+      "date": "2023-03-19",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230319 3-5 年内赚取 100 万美元的最佳在线业务.md",
+      "url": "",
+      "sha256": "5fc7d9bb1a40a95460b822b198f7fc64ce659e8f523b4fb8dbad738dad385b2f",
+      "date": "2023-03-19",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230319 The Best Online Business To Make $1 Million In 3-5 Years-d0686aea.md",
+      "url": "https://www.youtube.com/watch?v=ueeIJcjWZh8",
+      "sha256": "cbf664122d954654a6295b0694dbb5aeff3086fc2217d3e387aa5d68f9251ecf",
+      "date": "2023-03-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230319 The Best Online Business To Make $1 Million In 3-5 Years.md",
+      "url": "",
+      "sha256": "8a7f3dbf872fcceaf73ca2cfd756bca9665991df2884e1dce579358563ff4226",
+      "date": "2023-03-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230409 Value Creation- The Single Skill That Built My $1M Solo Business-48f24829.md",
+      "url": "https://www.youtube.com/watch?v=iAYVVLHm5Oc",
+      "sha256": "34d634dda6fce93ca8f8d7160c13f7e92540d84604888d5ee9864acb52f7de72",
+      "date": "2023-04-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230409 价值创造：建立我 $1M 个人业务的单一技能.md",
+      "url": "",
+      "sha256": "7d857c2e1a10b64c39b84dec649fae3a44e3828528d766c835f340c8afcb6b38",
+      "date": "2023-04-09",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230409 价值创造：成就我百万身家个人事业的关键技能.md",
+      "url": "",
+      "sha256": "3d2804eb07790bd6c6aa0d9dadfb38c9abefb33f072a2cf8722ba39e7b12122e",
+      "date": "2023-04-09",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230416 Self Improvers Are Creating Their Own Careers (The New Economy).md",
+      "url": "",
+      "sha256": "a32790e4c69782d3f2bae0a0adbf5297b02d313a90d15741da73799e409d603e",
+      "date": "2023-04-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230416 自我提升者正在创造自己的事业（新经济）.md",
+      "url": "",
+      "sha256": "04d12d6aeb18686882214b18dfff7d44209f553b943f59d8c9d99fbab8459963",
+      "date": "2023-04-16",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230423 The Micro Education Business Model (How To Monetize Your Knowledge).md",
+      "url": "https://www.youtube.com/watch?v=XgAMayF-JZY",
+      "sha256": "8806731028fa05014972ed20d11c98e10236b3c603eae76fc108691ef86c0d39",
+      "date": "2023-04-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230423 微教育商业模式（如何将你的知识货币化）.md",
+      "url": "",
+      "sha256": "5dc9986c7655da4c73dafbd11e571717485e002a2d1daf20e9267d5da52e3de9",
+      "date": "2023-04-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230430 Solve Your Own Problems And Sell The Solution (Your Niche Is You).md",
+      "url": "https://www.youtube.com/watch?v=GmHQGVD7KRQ",
+      "sha256": "34605e968cdca091393b2f6703911bf1cee2f0c67ef75dd18010ea825f13bd95",
+      "date": "2023-04-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230430 解决你自己的问题并推销解决方案（你的利基市场就是你）.md",
+      "url": "",
+      "sha256": "d7e51667bd5c7df69dd0043e11b8d9dc85b1dba80f952af59e53231155dc98d7",
+      "date": "2023-04-30",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230505 I Made $800,000 In One Year Writing 2 Hours A Day.md",
+      "url": "https://www.youtube.com/watch?v=-oy55UWlbdw",
+      "sha256": "922addabc3f62d3bbe13b96b45fc3ac660d75e86e3684262253f99ca50ab05b2",
+      "date": "2023-05-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230618 The 4 Hour Workday (How Creatives Work Less & Earn More).md",
+      "url": "https://www.youtube.com/watch?v=YW7yTzqedu8",
+      "sha256": "ce3f8eff1ccac035ee582f8ad372e09c2c071dcd97ca29812a13f19bcc701d80",
+      "date": "2023-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230618 每周工作4 小时（创意人员如何减少工作并赚取更多收入）.md",
+      "url": "",
+      "sha256": "a1993b5ca33674922bdf9bf479ecd91ce9f09ccf91969e9f65d70eda5b5d5f61",
+      "date": "2023-06-18",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230625 The One Person Business Model 2.0 (Turn Yourself Into A Business)-59aadd53.md",
+      "url": "https://www.youtube.com/watch?v=QoBCtcWO02g",
+      "sha256": "0899231614b5b2897145d91b4cab7ac82b8ad4fb7a68b496d185f93cfeefb60b",
+      "date": "2023-06-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230625 一个人的商业模式 2.0（将自己变成一家企业）-e4740067.md",
+      "url": "",
+      "sha256": "3d96218bbb7d36cd89bb99ac130073cb5a0b59001444ba6dcaef7c3bf28759c2",
+      "date": "2023-06-25",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230625 一个人的商业模式 2.0（将自己变成一家企业）.md",
+      "url": "",
+      "sha256": "30c86d971a0053782c644593e9a66ae4488d0b09beeec37d459c947a38797416",
+      "date": "2023-06-25",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230704 --Niche Down-- Is Terrible Advice (For Smart People).md",
+      "url": "https://www.youtube.com/watch?v=a6GdcCYxZUE",
+      "sha256": "f2c883510cf1a7f631e757bf702d870044d0106d541b2f633d65f69a54df30b9",
+      "date": "2023-07-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230704 -Niche Down- Is Terrible Advice (For Smart People).md",
+      "url": "",
+      "sha256": "8f7d357fcb9d482eb90db72a1fa389b74de0de909d13ffe0433e3ef9ba213b25",
+      "date": "2023-07-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230704 “选择利基边缘”是对聪明人的糟糕建议（对于聪明人而言）.md",
+      "url": "",
+      "sha256": "73eccd88f7b2cc3312eccb9385dc9e7a6fc4a1b211647f20b6e3e0c6a3f984f5",
+      "date": "2023-07-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230719 The Value Creator (A New Internet Career Path For Intelligent People).md",
+      "url": "https://www.youtube.com/watch?v=PhbJLu0RFHQ",
+      "sha256": "be1428f4387621bc6af872ec6c7f1d25e5ccb1b047cba087ffe36dc537093b3d",
+      "date": "2023-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230719 价值创造者（智能人的互联网新职业道路）.md",
+      "url": "",
+      "sha256": "b1daf0eccd64a679852713cded37b6c03574f9417d0bbddedcad972a8af79673",
+      "date": "2023-07-19",
+      "status": "added",
+      "atoms": 9
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230816 I Had To Learn These High-Income Skills (If I Wanted To Make Money).md",
+      "url": "",
+      "sha256": "d81f024bdc94e4b6d6bec34ecaa757b0744de8dc1acf44526df3aa456e569fbd",
+      "date": "2023-08-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230816 我必须学习这些高收入技能（如果我想赚钱）.md",
+      "url": "",
+      "sha256": "435f1ec66b831eeeb685bdc2d548b085f3fa68d71ccd5b5c4efc2a4c3708dd08",
+      "date": "2023-08-16",
+      "status": "added",
+      "atoms": 6
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230917 Micro Education Businesses Are The Future & How To Start With Zero Dollars.md",
+      "url": "",
+      "sha256": "3b2e2a4de9c652de3185a01ba0b1d41cb0cefbcb5399cb6fcc60bec211710289",
+      "date": "2023-09-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/230917 微教育企业是未来以及如何从零美元开始.md",
+      "url": "",
+      "sha256": "ead6f400d0159b07cd120bc6238a309865318cf288c0545e230225f1acc993a3",
+      "date": "2023-09-17",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231008 How To Make $1 Million A Year As A Digital Writer.md",
+      "url": "",
+      "sha256": "6bb9eeb44cb28d7a51dda68728a7c0b1c9df99099965b0517cfdff78005c3f0d",
+      "date": "2023-10-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231008 如何作为数字作家每年赚 100 万美元.md",
+      "url": "",
+      "sha256": "54d513030ad26772ed31054e95d0baf4fa36de6d6cbca07014ab79e183027490",
+      "date": "2023-10-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231015 How To Build An Audience With Zero Followers (What They Don��t Tell You).md",
+      "url": "https://www.youtube.com/watch?v=iD1jJMz9zOs",
+      "sha256": "6d4a2cc5fa8329a925bf30d8c179b84b7b3186e99e081aff0b4d0f2db22c2479",
+      "date": "2023-10-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231015 如何建立零粉丝的受众（他们没有告诉你什么）.md",
+      "url": "",
+      "sha256": "c56494477d3a1471e2ac27651dec72b367fea7649d9fb9aaaf02462e1685b716",
+      "date": "2023-10-15",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231105 The Most Important High-Income Skill To Learn (In The Next 10 Years).md",
+      "url": "",
+      "sha256": "92cc7e4fe223db53a4dd1b7165ae540dbddd4631f1e93b3319fcc5f5a595fdbf",
+      "date": "2023-11-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231105 最重要的高收入技能（未来 10 年）.md",
+      "url": "",
+      "sha256": "c61bb80e968109a1f45e3fffe4ebfd9f16efb0496569de53cf7cb242c9dc1e9f",
+      "date": "2023-11-05",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231112 People Dumber Than You Are Making Millions.md",
+      "url": "https://www.youtube.com/watch?v=kVj7Py4Yor4",
+      "sha256": "dab1a70101040b274e6bf74c593479ebf719e41c00faa52c97a50d6522b7922d",
+      "date": "2023-11-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231112 为什么比你更笨的人都赚了几百万美元.md",
+      "url": "",
+      "sha256": "b86afb0696bee911f6a16e8e32014002de82204fb5f27940397bfb5a52dbe3a7",
+      "date": "2023-11-12",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231126 Turn Your Knowledge Into A Business (How To Productize Your Mind).md",
+      "url": "https://www.youtube.com/watch?v=2DTZ6Kcdtmk",
+      "sha256": "b3052833683699d3b4aabcc876ee12f447100931639e57b791a76aa5959951c2",
+      "date": "2023-11-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231126 将你的知识转化为业务（如何你的思想产品化）.md",
+      "url": "",
+      "sha256": "e1a4008a22729dff624343f4edd4a8d6da0fe1dc13576ed00a1843379e7939fd",
+      "date": "2023-11-26",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231203 How Intelligent Creators Will Make Money In 2024 (The Build Teach Earn Method).md",
+      "url": "",
+      "sha256": "f4baa9fe84cc849c97a1220269563e9c031a8088dac836c38f4552bcb0d04c1a",
+      "date": "2023-12-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/231203 聪明的创作者将如何赚钱（构建教学赚钱方法）.md",
+      "url": "",
+      "sha256": "9691f4eadc5643e312d01c2944fc8b29bed931c7842ed666043d609c83173ed6",
+      "date": "2023-12-03",
+      "status": "added",
+      "atoms": 6
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240118 The Art Of Focus – Official Book Summary By The Author Dan Koe.md",
+      "url": "https://www.youtube.com/watch?v=iX5CgAwxAtc",
+      "sha256": "31d8ad718d86725dcbb0869168095006ea96322986b97c0efec6e8d031573de7",
+      "date": "2024-01-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240121 The 7 Best Internet Business Models (From Zero Experience To Advanced).md",
+      "url": "https://www.youtube.com/watch?v=7wMY5MsKEkM",
+      "sha256": "b37eab6e22cf8d879f49781f5fbd60c65030f2b87fd3ea25a1f16ed47989219f",
+      "date": "2024-01-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240121 分享7种最佳互联网商业模式（从零经验到高级）.md",
+      "url": "",
+      "sha256": "462a45ddf3ad7d12b117eff16c5e2fb35b69688d537bb5043198da1f2285d480",
+      "date": "2024-01-21",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240206 The One-Person Business Model (How To Productize Yourself Full Guide).md",
+      "url": "",
+      "sha256": "1cbd62aa706e7d76a37b9d010ca5b13dce20effb00da37b64bb233debbbb3be4",
+      "date": "2024-02-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240206 一个人的商业模式（如何将自己产品化完整指南）.md",
+      "url": "",
+      "sha256": "f37badca0e820fa525cb12a3f1aeef056f271bebde5a65ef8e5d4eb28e3632fc",
+      "date": "2024-02-06",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240218 Disappear For 2-4 Hours A Day (The Millionaire Productivity Routine).md",
+      "url": "https://www.youtube.com/watch?v=5_PchY1xXlo",
+      "sha256": "3750d30e0b71a47e0cf737323c1453438447925c474ae9d9bade8f4f4f16be57",
+      "date": "2024-02-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240225 Zero To $1 Million As A One-Person Business (Working 2-4 Hours A Day).md",
+      "url": "https://www.youtube.com/watch?v=l9-4lWrYAVw",
+      "sha256": "59fe3042fa92bdbc787579097c9225bc59dd314e75825dd44d3f72cc0364d4ea",
+      "date": "2024-02-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240225 从零起步，一年赚 100 万美元（单人经营，每天工作 2 至 4 小时）.md",
+      "url": "",
+      "sha256": "c9f264d548469b971fca5c0a56aa2c172fc01efe699a044b98da7483940d1fd5",
+      "date": "2024-02-25",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240310 If Your Life Is Spiraling Out Of Control, Here's The Solution To Feeling Lost.md",
+      "url": "https://www.youtube.com/watch?v=QTpx8BcCnTg",
+      "sha256": "55b19b5c7b459e284dc91b9be90731a0d57ab990e523b3a2d4d6dec3500daa63",
+      "date": "2024-03-10",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240317 The Value Equation- How To Become A High-Status Individual.md",
+      "url": "https://www.youtube.com/watch?v=JI3ajrxdLEk",
+      "sha256": "73b1bda689d38a21e5272059d976177f050335f1f60fa8c55051117d80d38248",
+      "date": "2024-03-17",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240321 Get Ahead Of 99% Of People With Deep Work & Monk Mode.md",
+      "url": "https://www.youtube.com/watch?v=jCIoQF6PjzM",
+      "sha256": "be0092ee7cec7c58fba0abd91c11756a99584180ce4f3077c71fddf8d6bf0c46",
+      "date": "2024-03-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240324 The Future-Proof Skill Stack (How Average People Become Millionaires).md",
+      "url": "https://www.youtube.com/watch?v=DPcw7ZA4LJA",
+      "sha256": "ce031e7d396597acdb7c8e704af288d86b7fb60e1e8e0fd18aa20fce5569be7e",
+      "date": "2024-03-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240331 Working Hard Won't Make You Rich (Do This Instead).md",
+      "url": "https://www.youtube.com/watch?v=h7pJO8e52IM",
+      "sha256": "d0661cc6f250e697637e672b3db1901371259bf3ab5f13ca8ce0934882867b1b",
+      "date": "2024-03-31",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240402 A Day In The Life Of Dan Koe (My Routine As A Writer & Founder).md",
+      "url": "https://www.youtube.com/watch?v=9Gwp-bqzxwQ",
+      "sha256": "50390449349c3d80e2771ab9b927baf56d36f2e1d0153f3288df99203a6e8dcf",
+      "date": "2024-04-02",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240414 Disappear And Come Back Unrecognizable (12 Rules To Change Your Life).md",
+      "url": "https://www.youtube.com/watch?v=reLmDf_PIvI",
+      "sha256": "022d4e276466cb9e982e8746afd90ea7f3ff680adfb4bbc9950c465633a0d1fb",
+      "date": "2024-04-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240519 The Age Of The Generalist (How To Earn A Living Doing What You Enjoy).md",
+      "url": "https://www.youtube.com/watch?v=KTgakWW0Rzw",
+      "sha256": "56ac7e0f59520938772bf5b7f8b3a04188669ff18d1c13650bb4f9968fe2c36a",
+      "date": "2024-05-19",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240526 How Smart Creatives Work Less & Earn More- LEVERAGE.md",
+      "url": "https://www.youtube.com/watch?v=hSi6tr0ZUSQ",
+      "sha256": "9c123fe376a27fe0a4ffdef9e69f6588d9b2b4a9d2e6a2ff2eaa2901a1f4d398",
+      "date": "2024-05-26",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240530 My Honest Advice For Those Who Feel Lost & Confused.md",
+      "url": "https://www.youtube.com/watch?v=IgWeGmmiw7Q",
+      "sha256": "abf7b2cacb574e82f1c29b0693bc89cee402c9b36d4207059e6a76a41a95841e",
+      "date": "2024-05-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240602 Change Your Life In 365 Hours (The New Rich Focus On These Tasks Daily).md",
+      "url": "https://www.youtube.com/watch?v=rSe3QZ151nY",
+      "sha256": "d44260b8506f72d885a70cb7b047c3dfc59dd04f4e15c116e5e1b1fad6c4e670",
+      "date": "2024-06-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240609 Ideas Are The New Oil (How More People Get Rich In The Digital Age).md",
+      "url": "https://www.youtube.com/watch?v=fJKeB3fz4_Q",
+      "sha256": "2fa913a9daf73ef063f6b663bd1cf1015d3071db343246140424414dc352e163",
+      "date": "2024-06-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240616 The Power Of Walking – How One Habit Can Change Your Brain, Health, & Life.md",
+      "url": "https://www.youtube.com/watch?v=lU1wgq-2Isg",
+      "sha256": "038613f03f2e4633ba193d13c2b0f63490ec6c54fe0496ae35f9663978a73cd9",
+      "date": "2024-06-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240728 The Future Of Work (Avoid Learning These Skills).md",
+      "url": "https://www.youtube.com/watch?v=RS9qrdJLdmU",
+      "sha256": "f8d92fd52a88acda309d04da8eade67e728f57660c9a1b6c8ac9e46514d075de",
+      "date": "2024-07-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240804 This Simple Reading Habit Will Change Your Life (I Promise).md",
+      "url": "https://www.youtube.com/watch?v=jNUFWPqz3Wk",
+      "sha256": "cefee62dcfb79d50bb8356e5b005bf95dbb653364ce2bfe3a5f640cf04215d10",
+      "date": "2024-08-04",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240811 Minimalist Productivity- Work Less, Do More.md",
+      "url": "https://www.youtube.com/watch?v=QOgR70Y3nBw",
+      "sha256": "f8723eee61349454dc0442d4c7b1bc9ba555c73709a7a61b8a4bbb16f80c0964",
+      "date": "2024-08-11",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240825 Don't Find A Niche. Become The Niche..md",
+      "url": "https://www.youtube.com/watch?v=_VhxCfUb2Ys",
+      "sha256": "5869b59c71b84cec891b76747472a048873279ebf91f097972d5a60d63077a5b",
+      "date": "2024-08-25",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240908 4 Frameworks To Write Follow-Worthy Content (+ Kortex Template).md",
+      "url": "https://www.youtube.com/watch?v=2kOGHcN8Avs",
+      "sha256": "ba499d2a09c7d24f974cb4a516991ad00ea99ee2fb022a859478ea3a2970d878",
+      "date": "2024-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240908 编写值得关注的内容的 4 个框架（+ Kortex 模板）.md",
+      "url": "",
+      "sha256": "640a06c9e1f88566670bc8e469ce3577d51e8e382ed9da030ef07e14d06bde7f",
+      "date": "2024-09-08",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240915 The Fastest Way To Build A One-Person Business (Beginner Guide).md",
+      "url": "https://www.youtube.com/watch?v=yddBiuvcaFs正文",
+      "sha256": "838496f7fd65c0355c3ec2e35a94c3243006b49988127273d749eb5c06e72d37",
+      "date": "2024-09-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240915 建立一人企业的最快方法（初学者指南）.md",
+      "url": "",
+      "sha256": "02cf349972e4d9039954f6ccb33e8316a9aa63370a76ff4c7826f95170459b62",
+      "date": "2024-09-15",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/240929 You Won't Look At Money The Same Again (How To Build Meaningful Wealth).md",
+      "url": "https://www.youtube.com/watch?v=j4ltbwDegHg",
+      "sha256": "75b153d5417d6889855c683c11d81dfd0daf54cadd4cb97495cbfc60e30b8a00",
+      "date": "2024-09-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241006 The Death Of The Personal Brand (& The Future Of Creative Work).md",
+      "url": "https://www.youtube.com/watch?v=RPVxwzJtp4o",
+      "sha256": "55507bdb08cfdc6e57aa518986025d3e49e0dc6c6bad73c8db899b03304f410d",
+      "date": "2024-10-06",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241010 The Fastest Way To Change Your Life (Starting Right Now).md",
+      "url": "https://www.youtube.com/watch?v=CzSmZvTYvME",
+      "sha256": "e9077af8b8af1b40247c231d5de129789d28a574bb5ecdcc8f26de91ca4730e7",
+      "date": "2024-10-10",
+      "status": "added",
+      "atoms": 11
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241013 It's actually pretty easy to focus 12 hours a day (if you do this).md",
+      "url": "https://www.youtube.com/watch?v=gRIK2BYMrrc",
+      "sha256": "77b9c1d4cb9fe3545f3728f0b889f7d0c18dbe7335f172ed44d47ae37be76929",
+      "date": "2024-10-13",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241020 How Smart Creators Will Grow An Audience From Zero In 2025.md",
+      "url": "",
+      "sha256": "cbde0667faaed9482cb30d4c705d52dbe8767f357987bbd08ce9bd52dd4ce36e",
+      "date": "2024-10-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241020 聪明的创作者将如何在 2025 年从零增长受众.md",
+      "url": "",
+      "sha256": "c37f0e4064887fa9052eba04cc28bf233ae2cc50451df6442f9105187d4c77e5",
+      "date": "2024-10-20",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241031 If You Have Multiple Interests, Start This One-Person Business.md",
+      "url": "https://www.youtube.com/watch?v=cNGpxfcDKms",
+      "sha256": "8280891f47e8b8c83808398bab87ca9364e996ef470150df3a5622bf0c02bb13",
+      "date": "2024-10-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241031 如果你有多种兴趣，请开始这项单人业务.md",
+      "url": "",
+      "sha256": "819883b4acbf1877f6fcb64e2e58172008deae86d4f21973f09ed9ca0ee99292",
+      "date": "2024-10-31",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241124 The Cheap Dopamine Epidemic- Stop Ruining Your Life.md",
+      "url": "https://www.youtube.com/watch?v=Bq9de46Uh4I",
+      "sha256": "0c3cbb8b3768d80a1e301d856907868b18871981053734fdfcc00940fb3cb067",
+      "date": "2024-11-24",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241201 Build A One-Person Business As A Normal Person (From $0 To $10K)-884e3ea9.md",
+      "url": "https://www.youtube.com/watch?v=hRgG8omhOJ0",
+      "sha256": "058eacc94b963bd7d356a8211724ff471ec5c652baaf1f8b5009c89c538da6aa",
+      "date": "2024-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241201 Build A One-Person Business As A Normal Person (From $0 To $10K).md",
+      "url": "",
+      "sha256": "1daf9197682cb5a4c55885592d9a45a4c7f8d87b34cf286335c03b01be3e7964",
+      "date": "2024-12-01",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241201 以普通人的身份打造一家一人经营的企业（从零开始到盈利 1 万美元）.md",
+      "url": "",
+      "sha256": "9c8ba0e187764be4ed1463a537248dfd1b4e0e4d1aed54f15550d6fcd068cc61",
+      "date": "2024-12-01",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241201 像普通人一样建立一个人的企业（从 $0 到 $10K）.md",
+      "url": "",
+      "sha256": "73d5307155a281535ba999515011320496da4672e7a12176da13bc52e3f9fade",
+      "date": "2024-12-01",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/241215 How To Make The Greatest Comeback Of Your Life.md",
+      "url": "https://www.youtube.com/watch?v=cG-brqeMrBw",
+      "sha256": "2b28f5d44dbb994ec4d5f890efba7743944e5258bf1c3241a21ffa822e62e90d",
+      "date": "2024-12-15",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250112 The Fastest Way To Ruin Your Life (Avoid This While You're Young).md",
+      "url": "https://www.youtube.com/watch?v=Lt79hNo6SWE",
+      "sha256": "3a5fdb9e9f5ea690e70f8824663531107ed2c07b93d204c5ad6a159a52a24703",
+      "date": "2025-01-12",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250128 How To Grow An Audience With Zero Followers & Build A Profitable Startup.md",
+      "url": "",
+      "sha256": "60f8d8cfd135db00ab8eac8c8307c1c70872e062bca0a6e4b8ad62fac8c38034",
+      "date": "2025-01-28",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250128 如何在零粉丝的情况下吸引大量关注者，并打造一家盈利的初创企业.md",
+      "url": "",
+      "sha256": "da20d2e3fb9d3eadde98e04b7b6aea709ad007cb31689a504668b156aaf5f43e",
+      "date": "2025-01-28",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250130 The Time Billionaire (A Concept That Will Change Your Life) With Sahil Bloom.md",
+      "url": "https://www.youtube.com/watch?v=vG4dnVJTA9w",
+      "sha256": "80f7fb29d19218e30066ea88e62372295a7c29041c7ac09547bdbd65cb6795fc",
+      "date": "2025-01-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250202 Don��t Quit - How To Get Ahead Of 99% Of Personal Brands.md",
+      "url": "https://www.youtube.com/watch?v=REwaFvbelEk",
+      "sha256": "1bd7d260853b298f56b55db96c61a6a3390f254e299c60527dfe72c79c37af2a",
+      "date": "2025-02-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250202 不要放弃 - 如何领先于 99% 的个人品牌.md",
+      "url": "",
+      "sha256": "e13324126d3e13ccbfaab159afbfdf8146f7b0c66be0bd525006d190b0c056e6",
+      "date": "2025-02-02",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250210 A Full Guide To Making Your First Profitable Product (Beginners, Take Notes).md",
+      "url": "",
+      "sha256": "40cd72503bdefc5264280a1c58eee64d7aec3cb9b651627dfe233dc3fc37d129",
+      "date": "2025-02-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250210 制作第一个盈利产品的完整指南（初学者，做笔记）.md",
+      "url": "",
+      "sha256": "80b3ca71d3353c379cc5ca0e28d68b00950ff619d4deb99e60da1b878aad0f6e",
+      "date": "2025-02-10",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250216 The creator economy is dying thanks to AI.md",
+      "url": "https://www.youtube.com/watch?v=Li-6QMs9_G4",
+      "sha256": "59ab3cbe0b6d1f14d822cd644b840d9a4631b5f7e0b27619de44f8d01c1ea923",
+      "date": "2025-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250216 由于人工智能的出现，创作者经济正在走向衰落.md",
+      "url": "",
+      "sha256": "10e975453ba33da922f2a676402a61661ceac33114e4a97ceb71f752e954950c",
+      "date": "2025-02-16",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250223 How To Thrive With Multiple Interests.md",
+      "url": "https://www.youtube.com/watch?v=WZeLFMQOtZ4",
+      "sha256": "ec4d35a15bcc15802b53b0bec205309ee6822735a721d0ef9f7ceaaca1836dbf",
+      "date": "2025-02-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250608 How To Build A Better Personal Brand Than 99% Of People.md",
+      "url": "",
+      "sha256": "9dbb78d38a2edaed2cf397345c379968f62b11e276ff9860a980f3b1aa103cd5",
+      "date": "2025-06-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250608 如何建立比 99% 的人更好的个人品牌.md",
+      "url": "",
+      "sha256": "e3e5f85dfd7646f6caff441b1a253ba8de084f457345a233ac30bf4c5c32702f",
+      "date": "2025-06-08",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/250824 How To Become So Self-Disciplined It Feels Illegal.md",
+      "url": "https://www.youtube.com/watch?v=SutAIv68yNk",
+      "sha256": "e2edf566fec1cd44397bfe78b21a715d6ab1888747c991d0bb8a0a24425f58e8",
+      "date": "2025-08-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/251127 How To Use AI Better Than 99% Of People (This Changed My Life).md",
+      "url": "https://www.youtube.com/watch?v=xgpLjLHB5sA",
+      "sha256": "7d8279cc77b7ac7a7e06357d0cfb81b1300027aa4824a8f536ec6823300f8a10",
+      "date": "2025-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/251127 如何比99%的人更好地使用人工智能（这改变了我的人生）.md",
+      "url": "",
+      "sha256": "af52c79ea88a4861d57c002351e6b0778a258e6f31fb7d731a70dd7ab92a1444",
+      "date": "2025-11-27",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/251207 How To Articulate Your Thoughts Intelligently (Talk Like This).md",
+      "url": "https://www.youtube.com/watch?v=DKT6m_8vCkA",
+      "sha256": "4063d424b82205ee19dc18d14acc5d0ebe38c6fdfe23f5adec1a469e4752704a",
+      "date": "2025-12-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/251207 顶尖1%如何表达他们的想法（3个心理模型）.md",
+      "url": "",
+      "sha256": "014de90e2d8c9544cacaca8f17e04f40b8aa578f406b1838cfe1b96b2a10eb28",
+      "date": "2025-12-07",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260101 You have about 24 months to learn these skills.md",
+      "url": "https://www.youtube.com/watch?v=vkSqeH5bsTM",
+      "sha256": "0091d7d0597d219f4db46c118ba8181798f16d999815207d5314ad3937996c00",
+      "date": "2026-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260101 你大约有24个月时间来学习这些技能.md",
+      "url": "",
+      "sha256": "54c1180bbbf3d4372e8041246fec5c26972872f7399a712d6bb0912bf7598815",
+      "date": "2026-01-01",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260103 How I'd build a one-person business (if I started over in 2026).md",
+      "url": "https://www.youtube.com/watch?v=VyR8nqD3sQ8",
+      "sha256": "591faac0112170250853a9c607c725ecbadd846740f4aa7487d5d6cfa1459f0d",
+      "date": "2026-01-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260103 如果我在2026年重新开始，我会如何建立一个人的企业？.md",
+      "url": "",
+      "sha256": "644241105b604680b67add2e20c1a4e0df168748a389e041949289ec024215b3",
+      "date": "2026-01-03",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260108 How To Grow An Audience If You Have 0 Followers.md",
+      "url": "https://www.youtube.com/watch?v=KjLT0DhE2fs",
+      "sha256": "fe052b8bb33243dcc2180968fcc7d9a715d43ebb3e24fafe197b3decb7712dc0",
+      "date": "2026-01-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260108 如果你没有粉丝，如何扩大受众？.md",
+      "url": "",
+      "sha256": "cb20615486ee4a3a4d00aed3ceea536f0fa98a8c063d068bfb815f1147a2d9c9",
+      "date": "2026-01-08",
+      "status": "added",
+      "atoms": 11
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260114 如何从0开始涨粉.md",
+      "url": "",
+      "sha256": "94dec7cef1c5e6ca9709e7d4f772076cae1f5f18f65fab9a4e9b0de24a727d44",
+      "date": "2026-01-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260120 If you have multiple interests, do not waste the next 2-3 years.md",
+      "url": "https://www.youtube.com/watch?v=ExNWGF-q64M正文",
+      "sha256": "cd6549e076e62fcd0c4b4526487d5f79c5b343e37b54f9acad84ba21b7677a28",
+      "date": "2026-01-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260120 如果你有多重兴趣，千万别浪费接下来的2-3年.md",
+      "url": "",
+      "sha256": "048543fa2e4e967ccdbcd16e4e58c90b055df1cb722441f90fd55c1a33d2f715",
+      "date": "2026-01-20",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260212 The Future Of Work (& The New High-Income Skill Stack).md",
+      "url": "https://www.youtube.com/watch?v=vCoGfisdS8Y正文",
+      "sha256": "2cf83d282ce95d6fd51ce646ccf826ca90533183f11e009c9f582ca4438e2f41",
+      "date": "2026-02-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260212 工作之未来（以及新的高收入技能组合）.md",
+      "url": "",
+      "sha256": "cc8ceb19cb024af217ff090d661a830e90d8688b25fcf7bb4fc82a68b35158e8",
+      "date": "2026-02-12",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260315 How To Build A $1M One-Person Business Faster With AI.md",
+      "url": "https://www.youtube.com/watch?v=VXgusdDbsQE正文",
+      "sha256": "cfb53e1e03e10764cb1fd31f8034251f29b2f49ea582d79fae8133b8135f2a0e",
+      "date": "2026-03-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260315 如何借助人工智能更快打造年收入百万美元的一人创业公司.md",
+      "url": "",
+      "sha256": "be8efc2b4c1643dccab0418ed842881d75b1fbe3da47a06b52007b9ebf82cf2c",
+      "date": "2026-03-15",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260405 I'm begging you to start writing essays (even if you hate writing).md",
+      "url": "https://www.youtube.com/watch?v=3rNqNvwNcrM",
+      "sha256": "a51754efdd3120cb6f4c09e301ee0cc66e6c4b931f50f09647877f8c078a2907",
+      "date": "2026-04-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260502 How To Completely Reinvent Yourself In 6-12 Months.md",
+      "url": "https://www.youtube.com/watch?v=YM0_8mOaKic",
+      "sha256": "e3729093febed5ecef38967a1a74d8b6356f93819a2d93b74f81205c539402cf",
+      "date": "2026-05-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260514 0粉丝如何起步积累受众（只需两个习惯）.md",
+      "url": "https://www.youtube.com/watch?v=7HM-rptYdTs",
+      "sha256": "534c9ec7925377615061ae1064a4baaecba5daac73d18808a29bbbd5d2f0a6fb",
+      "date": "2026-05-14",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260514 How To Grow An Audience If You Have 0 Followers (It's Only 2 Habits).md",
+      "url": "https://www.youtube.com/watch?v=7HM-rptYdTs正文",
+      "sha256": "74bc5b3fe00ab2001c92756406e8024435e00ca68d2cd8dca6b38e2020dfb091",
+      "date": "2026-05-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260522 After 100M+ views, this is the system I wish I had when I started.md",
+      "url": "https://www.youtube.com/watch?v=CshMqdaUGcQ正文",
+      "sha256": "5d720c097cd342fcf2190f650b63ab56af74a3a9e9479e02c22fb91b7fd6a8dc",
+      "date": "2026-05-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260522 在获得超过1亿次观看后，这是我当初最希望拥有的内容系统.md",
+      "url": "https://www.youtube.com/watch?v=CshMqdaUGcQ",
+      "sha256": "d01feb7bbadd11cf25ad12c25d2be36df0d4e036fc90c1bcf3c73abc2f1a542a",
+      "date": "2026-05-22",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260613 If You Have Multiple Interests, Start A One-Person Business.md",
+      "url": "https://www.youtube.com/watch?v=FBHhmqBs894正文",
+      "sha256": "c21024b3e230e0f83b36f042eea2bc30472095c706ccab8b95fe72c0f8160f2f",
+      "date": "2026-06-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260613 如果你兴趣广泛，就开始一人公司.md",
+      "url": "https://www.youtube.com/watch?v=FBHhmqBs894我是一个很容易沉迷的人",
+      "sha256": "0c307b8c91694380d6c0e99fcf2d90b5ec5c768d61af792c01e22f2591957422",
+      "date": "2026-06-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260628 How To Become So Valuable AI Can Never Replace You.md",
+      "url": "https://www.youtube.com/watch?v=K2QvCV1PB1w",
+      "sha256": "f3a061488a45ddebbc4b372a565974f42fcb64de79376f6be74f0a3df91e1c55",
+      "date": "2026-06-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260705 Learn This Skill If You Want To Win In The Next 2-3 Years.md",
+      "url": "https://www.youtube.com/watch?v=bWR_3Sg-H-8",
+      "sha256": "ee2a7b8d606573d8cef82cc776b9f316f8bbfd63e89b103c5f59237ad89f1809",
+      "date": "2026-07-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260727 拯救我大脑的写作系统（学得更快、想得更清楚）.md",
+      "url": "https://www.youtube.com/watch?v=KCjwU4XYBL8正文",
+      "sha256": "797fffd5b57b2df7d770c090054382d244b0b15be0398d557d3e1545785f48ca",
+      "date": "2026-07-27",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260809 如何记住读过的所有内容（别硬记）.md",
+      "url": "https://www.youtube.com/watch?v=dbDpegaaxvo",
+      "sha256": "ff66a47f53229ca396c96837afbd59b158f68085a4fa47535da9d659e3cef798",
+      "date": "2026-08-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录01 自媒体赚钱 一人商业模式主题内容【持续更新】/260911 如果你有多个兴趣，请开始一人公司.md",
+      "url": "https://www.youtube.com/watch?v=XqS7kIWMIDE",
+      "sha256": "36d140a4fa76c2c9aa65b937ecbcf07a08ed48c5c218ba5538a9da61a9e96c40",
+      "date": "2026-09-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220528 Stop Trying To Be Unique... Do This Instead.md",
+      "url": "https://www.youtube.com/watch?v=ShdG7cgGA2M",
+      "sha256": "2c99f4b1e59d5f65dc2c3351a9e40d321713a1e127a785744bf041cdaf3b95fd",
+      "date": "2022-05-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220528 不要再试图变得独一无二了......请改为这样做.md",
+      "url": "",
+      "sha256": "6bfc184d7b310c0d72f7c262c0ff50f7c2ce930d4adb9f6689e8c9c521ab5ca9",
+      "date": "2022-05-28",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220612 How To Create A Better Life For Yourself.md",
+      "url": "",
+      "sha256": "20e262ea6e57fe5c9eca9233603a123e60b44f50b41cb36a57458ca565b50d20",
+      "date": "2022-06-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220612 如何为自己创造更美好的生活？.md",
+      "url": "",
+      "sha256": "7604b35a127d3245ce4cb8d6ea9ca89632de039345636d66ee6634605f79aaf1",
+      "date": "2022-06-12",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220702 Why You Can��t Change (How To Reinvent Yourself).md",
+      "url": "https://www.youtube.com/watch?v=QBESNoCeZWY",
+      "sha256": "6717d7e09ef496e9b9c571f09c978c02c262bc26cff4c2b7bc2b399b239ff650",
+      "date": "2022-07-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220702 为什么你不能改变（如何重塑自己）.md",
+      "url": "",
+      "sha256": "17bdce5ec6cdbf3d4769e3c24e995a36228dcfb5ac85bd70f1e3d78b600b6310",
+      "date": "2022-07-02",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220716 Why Your Life Isn't Enjoyable.md",
+      "url": "https://www.youtube.com/watch?v=S5hQptfxnGE",
+      "sha256": "6cd174efed96dc71c9952ba73ac22fde981361e68023ee1901f4eac2f9d7da86",
+      "date": "2022-07-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220716 为什么你的生活不愉快.md",
+      "url": "",
+      "sha256": "0640cb7d91f851add50c01f13eb498b9bbe7f8f7827eb35da2905a428b152b2e",
+      "date": "2022-07-16",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220811 How To Find Your Purpose (By Solving Your Own Problems).md",
+      "url": "https://www.youtube.com/watch?v=iHGvsDGj1SI",
+      "sha256": "affc9d5c011d0f441194c21fd4637d1467d9ddcf00ccdf8118f4106464d1de32",
+      "date": "2022-08-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220811 如何找到你的目标（通过解决你自己的问题）.md",
+      "url": "",
+      "sha256": "7e9745cae7adac8d0f4aeacd743de118f4c49aefc6a08bc49527e8111283532a",
+      "date": "2022-08-11",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220820 The 3-Part Daily Routine For Maximum Productivity.md",
+      "url": "https://www.youtube.com/watch?v=qdXFeyzq7HE",
+      "sha256": "6e5640d0f43d654073bc950d93a2077432ae1751f74c53cf9678aa9c46545f55",
+      "date": "2022-08-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220820 实现高效工作的三步每日工作流程.md",
+      "url": "",
+      "sha256": "08567c63a317413731d844d9af65e0db0d201ff3a96e8904f79a28a42d6313ae",
+      "date": "2022-08-20",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220828 Learn This Skill If You Want To Thrive In The Next 10 Years.md",
+      "url": "https://www.youtube.com/watch?v=N8U5bzSD65Q",
+      "sha256": "341f17ff55f882482c64847fa2b5e728715f6f8ac173cec7f063a3a3d786350d",
+      "date": "2022-08-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220828 如果你想在未来 10 年内茁壮成长，就学习这项技能.md",
+      "url": "",
+      "sha256": "6054685cf547ff9a0a8ae477a44d4084ae01ee52adec53a2ced7048ddf667108",
+      "date": "2022-08-28",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220904 The Key To Stop Feeling Anxious & Overwhelmed.md",
+      "url": "https://www.youtube.com/watch?v=yK4frWWTyqs",
+      "sha256": "62a2b7beafe3a92bdabeaa5ff50097d0d1e05ef4a0c3eec60719cf872a785a4a",
+      "date": "2022-09-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220904 停止感到焦虑和不知所措的关键.md",
+      "url": "",
+      "sha256": "3536d0c155ed41685351bd12fb7e643eed23b04a2770f64b6a63e8f8328268c6",
+      "date": "2022-09-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220911 You Don't Have To Hate Your Life & Career.md",
+      "url": "https://www.youtube.com/watch?v=gCYfNTagJf8",
+      "sha256": "99c2ff1e565d200fa91b3017874e3f3626efda5aa450c6d7dbcccfcdb166aa71",
+      "date": "2022-09-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220911 你不必讨厌你的生活和事业.md",
+      "url": "",
+      "sha256": "6e956b68b572e66a1ea9392e8a73ca8707aa73e754b9681485c46985b3bff052",
+      "date": "2022-09-11",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220917 Why Money Limits Your Potential (By Controlling Your Emotions).md",
+      "url": "https://www.youtube.com/watch?v=ijU4OTfzu8Y",
+      "sha256": "f7b068439317565df4893286c3e64119fea296df07303d7fc7d325b5d1841b19",
+      "date": "2022-09-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/220917 为什么金钱限制了你的潜力（通过控制你的情绪）.md",
+      "url": "",
+      "sha256": "dd23ff1e5b3c83d7f739642dde8a190f7f223bd3db94cc99465f41bcd301696c",
+      "date": "2022-09-17",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221009 Why Cheap Dopamine Prevents You From Becoming High Value.md",
+      "url": "https://www.youtube.com/watch?v=tbHAG-K2M04",
+      "sha256": "53e73fae8c951084a421d0109118341e67bf39afc231d9a87c45aaa17962b884",
+      "date": "2022-10-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221009 为什么廉价的多巴胺会阻止你变得高价值.md",
+      "url": "",
+      "sha256": "f9409f8ab18bd34c7e4da6b181029b33f389a5ff24b990edd75dd93b54fb169a",
+      "date": "2022-10-09",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221016 How To Stop Feeling Lost, Anxious, Or Uncertain About The Future.md",
+      "url": "https://www.youtube.com/watch?v=7lFBZQzu8nk",
+      "sha256": "46fa3706f43b8554d92f6274d9e7d497d5171fd968478bfe2d7583a4820824c5",
+      "date": "2022-10-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221016 如何停止对未来感到失落、焦虑或不确定.md",
+      "url": "",
+      "sha256": "80caabae8d0a000eefc5105b1bfc86ac6cadfbd003cf1ca4f58cb1e484423ae4",
+      "date": "2022-10-16",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221113 Why You Can't -Be Yourself- (The Power Of Being Alone).md",
+      "url": "https://www.youtube.com/watch?v=VKxv79VSJa8",
+      "sha256": "257e1babfd1a7e2c633a928d47f361e70bf9eb3595b5c96d3cdba2d2a66daabc",
+      "date": "2022-11-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221113 为什么你不能“做你自己”（孤独的力量）.md",
+      "url": "",
+      "sha256": "f3b0b9675d4d892846c6e54e922fa662d482dee89c6942049edffbd7586d792f",
+      "date": "2022-11-13",
+      "status": "added",
+      "atoms": 6
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221120 The Matrix Is Real (How To Break Free With Your Mind).md",
+      "url": "https://www.youtube.com/watch?v=S9BOuSHzQ6o",
+      "sha256": "2135c7a681f24e22a024cf17229b19283e54ac088ffef7cbb24e9b0599d82f9e",
+      "date": "2022-11-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221120 《现实即矩阵（如何用你的思维挣脱束缚）》.md",
+      "url": "",
+      "sha256": "fa28886ac80b5c3dd0940e63a2429133c00f3b0fc1d52e7c54d887b3e1ee4328",
+      "date": "2022-11-20",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221127 Learn New Skills FAST (How I Remember Everything I Learn).md",
+      "url": "https://www.youtube.com/watch?v=2L0TjTIHEFo",
+      "sha256": "eee6c9a1d0887680a10a5b897a8d360fd28d9ff3128ca81c4415712e1517a424",
+      "date": "2022-11-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221127 快速学习新技能（我如何记住我学到的一切）.md",
+      "url": "",
+      "sha256": "15611959a242e484a885b58e30a98d663dcef36a0964e2961327f20b5e5aefc1",
+      "date": "2022-11-27",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221211 How I Turned My Life Into A Video Game.md",
+      "url": "https://www.youtube.com/watch?v=_VGmzvG7oq4",
+      "sha256": "90bb25fff3040d8c5efb9c57b2d7abce1efdae8be7e8b5b6917c63ace4ce16c9",
+      "date": "2022-12-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221211 如何领先 99% 的人（在 6-12 个月内）我如何把我的生活变成电子游戏.md",
+      "url": "",
+      "sha256": "0ac7f3ff2925f5fbefb2c19964222bb3c3ffe9c6777244427f912a3263191b75",
+      "date": "2022-12-11",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221225 How To Get Ahead Of 99% Of People (In 6-12 Months).md",
+      "url": "https://www.youtube.com/watch?v=d5RKW3WSEb0",
+      "sha256": "d4c103bbc45095c179dfff7ce033fd9b66346518df208e974fc4ba80a573c59b",
+      "date": "2022-12-25",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/221225 如何领先 99% 的人（在 6-12 个月内）.md",
+      "url": "",
+      "sha256": "e541edc86e4e4b2898da72ca1e9b1acbdca5d7fa260e456a4063bf6b4075dd96",
+      "date": "2022-12-25",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230105 How To Hard Reset Your Life (In 30 Minutes).md",
+      "url": "https://www.youtube.com/watch?v=R5wx9gw-9lE",
+      "sha256": "9f746de07704792c4784e142e8e45da1c0e71571db38eb74eb8d34d98f1b467a",
+      "date": "2023-01-05",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230105 如何硬重置你的生活（30 分钟内）.md",
+      "url": "",
+      "sha256": "9918410e85b24c7c89bd98211f632b8a654f68c8aeec1636f6fdba39d8a9b749",
+      "date": "2023-01-05",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230112 How To Do Whatever The F-ck You Want.md",
+      "url": "https://www.youtube.com/watch?v=5qVOgUlbDM0",
+      "sha256": "62b54d50a56e3d549c3c61f305f5ebb1eed7181d7cff51ed895410ecae2bc363",
+      "date": "2023-01-12",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230112 如何做任何你想做的事.md",
+      "url": "",
+      "sha256": "3ae861ff0f763844cde5d31ed1c9e0f08669de90de28fce5e09e90809d611146",
+      "date": "2023-01-12",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230115 Society Is A Pyramid Scheme (Take Back Control Of Your Life).md",
+      "url": "https://www.youtube.com/watch?v=xPpAYcPnegc",
+      "sha256": "f5063854734780d44414fae5cf46e3917f429a0fc8ad556a9e91468b8cd5e7d5",
+      "date": "2023-01-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230115 社会乃金字塔式骗局（重新掌控你的生活）.md",
+      "url": "",
+      "sha256": "1180890dc2971afd2fff76156beeb0775a78a0a9824daabb26b86d8531c31dab",
+      "date": "2023-01-15",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230122 Distraction Is The Greatest Trap Of The 21st Century (How To Avoid).md",
+      "url": "https://www.youtube.com/watch?v=f29w0p8enbw",
+      "sha256": "43cd14a4ba82ad33cade858ecb30bed94c32b1d7af6db7c138e25fb15b7bdcb4",
+      "date": "2023-01-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230122 分心是 21 世纪最大的陷阱（如何避免）.md",
+      "url": "",
+      "sha256": "a4eaec5c507398030a4ae7552460a93a8cc0a61bf417fdfce343cd4549c367f6",
+      "date": "2023-01-22",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230226 Happiness Is A Skill (How To Get Out Of A Rut).md",
+      "url": "https://www.youtube.com/watch?v=mNlNTmFAb70",
+      "sha256": "795aa86efe8c7f20a2a5c3c090916baed587f0658bccc56fc08caca65f2ad353",
+      "date": "2023-02-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第1季（成长内容）/230226 幸福是一种技能（如何摆脱困境）.md",
+      "url": "",
+      "sha256": "1708553d71dedeb895e20dc0a8ca50481328881e84d0b18e61c54d6519a82da8",
+      "date": "2023-02-26",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230305 Life Is Supposed To Be Difficult (The Way To Mental Mastery).md",
+      "url": "https://www.youtube.com/watch?v=aMZv0uoHMPI",
+      "sha256": "baf28f94e15183f5f8d1cb953829b2354d5a9dac0b8f335983394c6b26fe671f",
+      "date": "2023-03-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230326 Change Your Life In 6 Months (My Deep Work Routine).md",
+      "url": "https://www.youtube.com/watch?v=ZdO00Y-u1y0",
+      "sha256": "1da608f66d7bfc4066487a3356d8f4a61addd81111f01b4e2a78c4d0aee76611",
+      "date": "2023-03-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230326 在 6 个月内改变你的生活（我的深度工作例程）.md",
+      "url": "",
+      "sha256": "d917e9562fcea328a08e1a1b8a745659d624301d75432a198eaad5770aa016a2",
+      "date": "2023-03-26",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230330 Your Future Will Be Determined By 3 Things.md",
+      "url": "https://www.youtube.com/watch?v=fcE9-dQyclc",
+      "sha256": "c367f62b28067e7dc9adbacbe940cf21d4cb14a9ead15b03983140be246cbcdd",
+      "date": "2023-03-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230330 你的未来将由三件事决定.md",
+      "url": "",
+      "sha256": "29409b6a9eccfcffacd9db6021e44d1d43b6aae4459b5a3a334141c03ceb6765",
+      "date": "2023-03-30",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230402 How I Read Books In 5 Minutes For Genius Level Ideas.md",
+      "url": "https://www.youtube.com/watch?v=YU0OKEvlH-8",
+      "sha256": "76d845430bb6d10d511d01b5826bf700233365f23918d8f124abc06261f6745a",
+      "date": "2023-04-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230402 如何在五分钟内阅读书籍并获取高深的见解（适用于天才人士）.md",
+      "url": "",
+      "sha256": "6f62ab5a157d9aa2d5d3bcf5c2f734758b2dac1826321e2c19dbebe7c9506c4f",
+      "date": "2023-04-02",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230406 7 Bad Habits Preventing You From The Life You Want.md",
+      "url": "https://www.youtube.com/watch?v=L865ID84ZzY",
+      "sha256": "10c737370aa58a6659a45ba3cc0a1e26d20e6773ca8c1e81c0fcd650a0fe8eba",
+      "date": "2023-04-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230406 7个坏习惯阻碍你过上你想要的生活.md",
+      "url": "",
+      "sha256": "9b52200ce5d0088712914dc80d495547a4d1d06d3974c9839dd0e652798455bd",
+      "date": "2023-04-06",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230413 How To Avoid Ending Up Like 99% Of People.md",
+      "url": "https://www.youtube.com/watch?v=YBCtS0mPts4",
+      "sha256": "ea26de6375d19c3c0808f4a3d6c26c5e19f94544143073f94bfc80d40b36d4fc",
+      "date": "2023-04-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230413 如何避免像绝大多数人那样结局悲惨.md",
+      "url": "",
+      "sha256": "d9779e526a4a75eda4f7c8615996bf6314d3d2feaaa2cf8cb61dd50ab5a587a3",
+      "date": "2023-04-13",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230420 Your 20s Are Meant To Build (How To Not Waste Them).md",
+      "url": "https://www.youtube.com/watch?v=2Q0RGjYCkq4",
+      "sha256": "05618e159da0cd82a66fa51da3badd10d1e0f3b2a117ebfecef4ab06fb4dbe97",
+      "date": "2023-04-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230420 你的二十多岁应当用来积累（如何不虚度这段时光）.md",
+      "url": "",
+      "sha256": "7e0461d8120392515aa3a11e888aca7bf9947b2a1145dfb49b7c3bfa8a97c171",
+      "date": "2023-04-20",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230508 Most People Are NPCs (Don't Waste Your Life On Autopilot).md",
+      "url": "https://www.youtube.com/watch?v=r1LI1-K08II",
+      "sha256": "3ef9e637346f3b5c2517fcfa381fd0f983d31b825603f5418aad66491243bd56",
+      "date": "2023-05-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230508 大多数人都是 NPC（不要在自动驾驶仪上浪费生命）.md",
+      "url": "",
+      "sha256": "158142c89a040ce4f42a75454d089d85c94f0b3da260e9fb16177d4d99c4de9c",
+      "date": "2023-05-08",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230519 Most People Won��t Change (How To Recreate Yourself).md",
+      "url": "https://www.youtube.com/watch?v=ZdtU6TKD1qo",
+      "sha256": "4656659f946bd16e06153656beb8c4fed8ed77a23de69227ed0edfb2d4d97d36",
+      "date": "2023-05-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230519 大多数人不会改变（如何重新创造自己）.md",
+      "url": "",
+      "sha256": "c441518201725d2b858e554a646a9b95178e414f8075acf9200297af49fca76a",
+      "date": "2023-05-19",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230604 If You��re Lost - Here��s How You Find Clarity For The Future.md",
+      "url": "https://www.youtube.com/watch?v=D1PaYO1sC5k",
+      "sha256": "48a02c414353a4f4aae6b01458c31d5db28cdb175ab7a16131d40ffcdc277b01",
+      "date": "2023-06-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230604 如果你迷失了方向——那么如何才能找到未来的清晰方向？.md",
+      "url": "",
+      "sha256": "6ea3d68c89769af9df55b17d9e76855b22a8b61cf1d6b3d05a890a467f5a6f75",
+      "date": "2023-06-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230611 Get Mad At Where You Are In Life (A Deep Explanation).md",
+      "url": "https://www.youtube.com/watch?v=RV9rlD6rHRo",
+      "sha256": "934ac92c3945e3aec09c4b94dab15d3af95d9aff386afb35cc82ca7b2bf73aeb",
+      "date": "2023-06-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230611 对自己所处的人生境遇感到愤怒（深入解析）.md",
+      "url": "",
+      "sha256": "0871bc936dcf4258359bbda41cc4db3463fa90b3899bd1bfd72757d5bd844ea3",
+      "date": "2023-06-11",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230711 Focus Is A Superpower (Take Back Control Of Your Life).md",
+      "url": "",
+      "sha256": "e4286e2e3e63fb3e627e3efaa124f66ecd9f62db455c99e58cf1c672f6806ef4",
+      "date": "2023-07-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230711 专注是一种超能力（夺回对你生活的控制权）.md",
+      "url": "",
+      "sha256": "e0982463445bae5569f0b267b5f0068c2032c7ae167cde0e4e8296a3fb850d69",
+      "date": "2023-07-11",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230725 A Full Guide To Reinvent Your Life (In 6-12 Months).md",
+      "url": "https://www.youtube.com/watch?v=EdrNo3w_EWc",
+      "sha256": "0e2ca286b3d2eaebf5516697de44cf89fecd4886a981ecd4dbec06e8c77991f3",
+      "date": "2023-07-25",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230725 重塑生活的完整指南（6-12 个月内）.md",
+      "url": "",
+      "sha256": "7ef0d7cdf74cd4b3186f78d84429e75434df3b69ad66c64f3c7e214826f82829",
+      "date": "2023-07-25",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230801 How To Escape Wage Slavery (Entrepreneurship Is Modern Survival).md",
+      "url": "https://www.youtube.com/watch?v=qHNzBdTr_54",
+      "sha256": "83cec23bfc7b6969021c374da69fccca349ec49fee80ce246b3721135ccc0df7",
+      "date": "2023-08-01",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230801 如何摆脱工资奴隶制（创业是现代生存）.md",
+      "url": "",
+      "sha256": "b1e6a33d3fcaa417d2d5adba84358d8e3bbbc50beedf49aee836f9c9f2323581",
+      "date": "2023-08-01",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230808 You Aren't Successful Because You Care Too Much (How To Stop).md",
+      "url": "",
+      "sha256": "8cded46284c4ced06c0466214a7756654c2264b9a98d6dfe88668f75e1776fb4",
+      "date": "2023-08-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230808 你不成功是因为你太在乎了（如何停止）.md",
+      "url": "",
+      "sha256": "8c7dd9c38e25c1e8298e98fdfd0017b345c3788335b60e4b09d11dc419a80517",
+      "date": "2023-08-08",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230816 I Had To Learn These High-Income Skills (If I Wanted To Make Money).md",
+      "url": "",
+      "sha256": "81a5d532efa2b20cf2cfaa94b576bd3baa568a0127e597c48b421f81062850d1",
+      "date": "2023-08-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230816 我必须学习这些高收入技能（如果我想赚钱）.md",
+      "url": "",
+      "sha256": "4874f6d2439e35117e6b7a86fd7664bc6ba0ced03b21492429331bd7cb9531f3",
+      "date": "2023-08-16",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230823 Asking For Advice Is Keeping You Unsuccessful (Here's Why).md",
+      "url": "https://www.youtube.com/watch?v=pK02W9y8PYo",
+      "sha256": "045d3b94cbe79728b91458add14d570dc64fb2962b7451a7f99ad87dd2be1d19",
+      "date": "2023-08-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230823 寻求建议会让你不成功（原因如下）.md",
+      "url": "",
+      "sha256": "6f6d6449ca27f7d674f1084b13bee7d089ec4b8eef4ac764ff4b47c49e1d62ea",
+      "date": "2023-08-23",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230830 The Cure To A Mediocre Life (Become Multidimensionally Jacked).md",
+      "url": "",
+      "sha256": "5709618ad9f1eeb26696a116b7b6eff500e8642f8683114acd6bbb619b804e6d",
+      "date": "2023-08-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230830 通往卓越人生的秘籍（成为全方位强大的杰克）.md",
+      "url": "",
+      "sha256": "85719cec1bbec4ea12e959ac1492a5e7ea39fac208b82b229261fd5431e77b96",
+      "date": "2023-08-30",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230905 Life Is A Video Game (You Can't Escape The Matrix).md",
+      "url": "https://www.youtube.com/watch?v=ZcegvPYE2MI",
+      "sha256": "5f228b0deadf49b3b24850d282bf54ef27748f85c3463af73554adce7a1b6424",
+      "date": "2023-09-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230905 生活是一场电子游戏（你无法逃脱黑客帝国）.md",
+      "url": "",
+      "sha256": "f3c481c0b9ef85a6ab9d291da696b06be373f2b71762d3457cdec43627def5ac",
+      "date": "2023-09-05",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/230924 How To Reprogram Your Mind & Build Your Intelligence.md",
+      "url": "https://www.youtube.com/watch?v=BoxC63ZvCnU",
+      "sha256": "5e8f438d4d26c50d070d54b8d934a8b4c888881e9526fa8b654a9efd40ee321e",
+      "date": "2023-09-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231002 A Dangerous (But Effective) Strategy To Get Out Of A Rut.md",
+      "url": "https://www.youtube.com/watch?v=XV5-PHwzubY",
+      "sha256": "34121a5810dec7993173386afa669ad95b113fde31d2ea3c1c80d19a06a692ff",
+      "date": "2023-10-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231002 摆脱困境的危险（但有效）策略.md",
+      "url": "",
+      "sha256": "99ce1842aef83c857f39449c8340013b5ef555b3d21f26a2b7097a27a81023db",
+      "date": "2023-10-02",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231022 If Your Life Sucks, Here's How To Reprogram Your Mind.md",
+      "url": "https://www.youtube.com/watch?v=SKI8FcKXQkg",
+      "sha256": "44b911b09563a9edbd16b6c510308cd0981738160388551f9d95440b74516f7b",
+      "date": "2023-10-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231022 如果你的生活很糟糕，这里有如何重新编程你的思维.md",
+      "url": "",
+      "sha256": "ddaf8f38b6dbc4563853ecb1258fc7d8736f17c6c3e8bd0a7e29fe2d58719102",
+      "date": "2023-10-22",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231119 The Daily Routine That Changed My Life (4 Habits Most People Ignore).md",
+      "url": "https://www.youtube.com/watch?v=M6dhlz8hhe0",
+      "sha256": "eafdb6790ece49ad511e33e1bc3e373d2bdeb8f391abfc089bd276257a9eee58",
+      "date": "2023-11-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231119 改变我生活的日常生活（大多数人忽略的 4 个习惯）.md",
+      "url": "",
+      "sha256": "ab226bd125a3ddf461c9e82032733c60a7c4dffb2e6c5814b53b18371e4818c3",
+      "date": "2023-11-19",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231217 6 个月后你不会是同一个人（掌握任何东西，快）.md",
+      "url": "",
+      "sha256": "36e068650250e78af562309824810cca5f904fb2f3f64abb0c99ddebc442231a",
+      "date": "2023-12-17",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231217 You Won��t Be The Same Person In 6 Months (Master Anything, Fast).md",
+      "url": "https://www.youtube.com/watch?v=h_r6Mo8EDic",
+      "sha256": "9a88a293990f60434efbb67adde2a95c74f846f4f4d3c90a37f891c2e41a55b5",
+      "date": "2023-12-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231231 The Future Of Work Is Play (How To Create A Digital Career).md",
+      "url": "https://www.youtube.com/watch?v=fXhmecN-AFw",
+      "sha256": "1e8769e3d0b6032a5e08f41e02b5469b4496bf15e5f10cb0c818b7952ac3e40b",
+      "date": "2023-12-31",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/231231 工作的未来是游戏（如何创建数字职业）.md",
+      "url": "",
+      "sha256": "d3dff44ea08490fb01a6b95a6f2f178f78b211cf89e152fb3f8a5cb573913610",
+      "date": "2023-12-31",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240107 How To Reset Your Life In 7 Days.md",
+      "url": "https://www.youtube.com/watch?v=wXcEtxlrPMA正文",
+      "sha256": "a570351dd414eb80b34813548269c64980880ae6c31dd726aa74baa267db355e",
+      "date": "2024-01-07",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240107 如何在 7 天内重置你的生活.md",
+      "url": "",
+      "sha256": "28534526ccb0f1ca07d5c0fde620700f870243bc69fd0600bcd95d5633b8cd3e",
+      "date": "2024-01-07",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240128 This High-Income Skill Will Make You Irreplaceable (Full Guide).md",
+      "url": "https://www.youtube.com/watch?v=_VLZ4b9LHLs",
+      "sha256": "05baba416c62839e41f6bdd0c5c47f4a6f7d0a89625883abbb6352c1f7d85701",
+      "date": "2024-01-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240128 这项高收入技能将使您成为不可替代的（完整指南）.md",
+      "url": "",
+      "sha256": "a3a038f1858dd1c1b5e6118903036b808d05aa8027342af38dd2e4f3b4d4eb44",
+      "date": "2024-01-28",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240211 The Fastest Way To Acquire High-Value Skills (And Finally Change Your Life).md",
+      "url": "https://www.youtube.com/watch?v=KrCzMfvSDv0",
+      "sha256": "449ac102d1750d82ea1e2f9c00214293888d456a6502982b4a6ab689e9e00e20",
+      "date": "2024-02-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第2季（成长内容）/240211 获得高价值技能（并最终改变您的生活）的最快方式.md",
+      "url": "",
+      "sha256": "eda822aaa371c68fed6f7b27ad63ad7309f0548635cf76eac15a26743392ca23",
+      "date": "2024-02-11",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/240512 It’s actually pretty easy to be self-disciplined (if you stop getting distracted).md",
+      "url": "https://www.youtube.com/watch?v=ReyMCKC-FwU",
+      "sha256": "e251304425608b30ad6e7f49ab6741aabaf96e12fa446134617656743008003d",
+      "date": "2024-05-12",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/240713 Learn This Skill If You Want To Be Relevant In 10 Years.md",
+      "url": "https://www.youtube.com/watch?v=tkrlxYTRU_M",
+      "sha256": "421e9c9eaabeef3e96111cf16727328a26054d8dc0f7a18ac2e6e62c57b80943",
+      "date": "2024-07-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/240721 Life Is A Video Game (Here's How You Win).md",
+      "url": "https://www.youtube.com/watch?v=hN-ITerTpLg",
+      "sha256": "1d38ee0c972f91b65d63a0c2eee2907ce1604b4383bcba628054078e434f82b1",
+      "date": "2024-07-21",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/241103 How To Become More Intelligent Than 99% Of People.md",
+      "url": "https://www.youtube.com/watch?v=j1Xu3qLI3r0",
+      "sha256": "526e2152fc7871e8aa325c1f03317a0bbdea9a7122c812645cedbad80af0d030",
+      "date": "2024-11-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/241103 如何比99%的人更聪明.md",
+      "url": "",
+      "sha256": "12e588d4d61e24ea34e7ef2aa82c95ab1b8592c2f3ded953b9bc6ddba49fe39b",
+      "date": "2024-11-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/241208 The Most Important Skill To Learn In The Next 10 Years With Devon Eriksen.md",
+      "url": "https://www.youtube.com/watch?v=18ahFtnuBwI",
+      "sha256": "23b77ecbfd9fdf5b50fd53cd65d5b6fb6b1c834605d5776b272273baa0fd715c",
+      "date": "2024-12-08",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/241229 A Daily Routine To Work Less, Earn More & Enjoy Life.md",
+      "url": "https://www.youtube.com/watch?v=B18O2QtkyCE",
+      "sha256": "83b863be43e549a72601e15e2588eb11820596b56ddc0c1d3860fd8d664587f0",
+      "date": "2024-12-29",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250119 You're Not Boring- How To Become An Original Thinker (Fast).md",
+      "url": "https://www.youtube.com/watch?v=jhoG3WcECnw",
+      "sha256": "c3fccbb94bd657c4d83222bd19b6b137465fbb67cb0ef3dc0f6fd4270708633c",
+      "date": "2025-01-19",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250302 How To Change Your Life So Fast It Feels Illegal.md",
+      "url": "https://www.youtube.com/watch?v=n0AB6pZpotg",
+      "sha256": "f62aef1e383ff61f29f181bf66e0d488798c68209b0c76340329207164cb80e1",
+      "date": "2025-03-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250309 How To Learn Anything 10x Faster Than Anyone With AI.md",
+      "url": "https://www.youtube.com/watch?v=FzaHX5rxU34",
+      "sha256": "fee51667bc4f93e2475980ae57fe84c99b07b3a6e7116096273ea7dbbc993d16",
+      "date": "2025-03-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250309 如何比任何使用 AI 的人学习任何东西快 10 倍.md",
+      "url": "",
+      "sha256": "c3b6dd80543c91d2c04ed7fceadb2cd23c735ed15ce3d9ab54d2498a29cacf85",
+      "date": "2025-03-09",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250316 How To Take Back Control Of Your Life With Strategic Thinking.md",
+      "url": "https://www.youtube.com/watch?v=0cSwXV2FAJ8",
+      "sha256": "6578c0e5621d2f9e682dac10cfa60951bb96e24343ae659d8b8274111dd0f714",
+      "date": "2025-03-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250316 如何用战略思维重新掌控你的生活.md",
+      "url": "",
+      "sha256": "8a848acb31c25a22f6b88a88a487984c8042b055192dc810e69f2b91c56a648b",
+      "date": "2025-03-16",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250420 How To Read Books Fast With AI (And Remember What You Read).md",
+      "url": "https://www.youtube.com/watch?v=0OEtXlPtyYk",
+      "sha256": "eed17a964672c056f05d108fac181029b83a79d3bcae68316b831f4b3c377a31",
+      "date": "2025-04-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250420 如何使用人工智能快速阅读书籍（并记住你读过的内容）.md",
+      "url": "",
+      "sha256": "9556f3b1f420ff146c6d1af6b6fa1101f113d99ca7cc0e1d9ea597ebbe109f29",
+      "date": "2025-04-20",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250504 Harsh Truth- You Don't Need To Grind 24-7 To Be Successful.md",
+      "url": "",
+      "sha256": "1d7e35bde8e733c89ce2b0340913790c25af2e5701eccf3d08b79a9e8c3b0574",
+      "date": "2025-05-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250504 残酷的事实：你无需全天候拼命努力就能取得成功.md",
+      "url": "",
+      "sha256": "2a802a9d82d67067dc1586f8abef33ad64523df3c700d626adb64809243e0f72",
+      "date": "2025-05-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250508 How To Gamify Your Life (And Reinvent Yourself... Fast).md",
+      "url": "https://www.youtube.com/watch?v=VztPAofKWvg",
+      "sha256": "c027f8a435e0382e4fa295d863208881bb2a1d78058cd8744f9c68d84fbf78f3",
+      "date": "2025-05-08",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250508 如何将你的生活游戏化（并重塑自己......快速）.md",
+      "url": "",
+      "sha256": "0730631a3aa4001fcbc225105fd3b53b53f5fbfce3d6fd365e899e858639f7c6",
+      "date": "2025-05-08",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250518 The Deep Work Routine That Changed My Life.md",
+      "url": "https://www.youtube.com/watch?v=kLd5AvsLWAc",
+      "sha256": "5f811b5fa4533122944287007bf4ee2c2be4056c478dc5b126eec145c2798da6",
+      "date": "2025-05-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250518 改变我生活的深度工作例行公事.md",
+      "url": "",
+      "sha256": "70cae0a9947632af97c80d860eeec0b8e8f119b6efd1eb0a5c7ce4c090c129f3",
+      "date": "2025-05-18",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250525 The Future Of Work (How To Become AI-First).md",
+      "url": "https://www.youtube.com/watch?v=vFgjDSySYo8",
+      "sha256": "c30c9e0f090c6dd9f61ef7e31c28cd3c341d9d6b92fd79712ec557ccf85d3c33",
+      "date": "2025-05-25",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第3季（成长内容）/250525 工作的新未来（如何成为以人工智能为导向）.md",
+      "url": "",
+      "sha256": "1020f1c843d79aa8ef617c9a6c48622b076d68b34f981d4b1ce4a9c3a5e17848",
+      "date": "2025-05-25",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250629 You Need To Be Extreme If You Want Your Life To Change.md",
+      "url": "https://www.youtube.com/watch?v=UixhcccGcdY",
+      "sha256": "13e0faef87493248041b83b7beb559188bf02b229a84d5cce83bf5e3cc2d1720",
+      "date": "2025-06-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250629 如果你想让生活发生改变，你就得变得与众不同.md",
+      "url": "",
+      "sha256": "2edaa6dd30e968b10c4422be80b527d3a489d1e1dbb7a755cdd0f18c322acd6c",
+      "date": "2025-06-29",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250706 Avoiding Conflict Is Ruining Your Life (How To Stop Being A People Pleaser).md",
+      "url": "https://www.youtube.com/watch?v=72ydoK8Y9DE",
+      "sha256": "07eced83c981e1243a4706fcc81a2fcd55ce19f396ab90c6b7414a9240871dba",
+      "date": "2025-07-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250706 避免冲突会毁掉你的生活（如何停止成为讨好者）.md",
+      "url": "",
+      "sha256": "d057c957548a7054a401cc3f81bcd26969f648de92737529a4d5c2482af086cf",
+      "date": "2025-07-06",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250713 This Single Decision Will Determine The Outcome Of Your Life.md",
+      "url": "https://www.youtube.com/watch?v=uIkCyG3jQ9k",
+      "sha256": "f0584364c09d20ef561a24adcd461d773240d6cde9b3d5aea8fa4f3bf4cff4c6",
+      "date": "2025-07-13",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250713 这个决定将决定你人生的结局.md",
+      "url": "",
+      "sha256": "6eb004ccf62795507b76a58a38ade7ac95c76e47af7f76d8a60da9c89edfb312",
+      "date": "2025-07-13",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250720 This mental model will make you think like a strategic genius.md",
+      "url": "https://www.youtube.com/watch?v=YTWm6sG0n6s",
+      "sha256": "42538c2386c7943d9f6f2e03865c6410a3b2f8dec1a1d00df39dfe3bd2712d74",
+      "date": "2025-07-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250720 这个心智模型会让你像一个战略天才一样思考.md",
+      "url": "",
+      "sha256": "533881676adfbaf3137d2349d75379cfcf21dce2b5bb4292aa4dbb7bff3ee6a6",
+      "date": "2025-07-20",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250727 I'm 28. Here's How To Get Ahead Of Most 20 Year Olds.md",
+      "url": "https://www.youtube.com/watch?v=wdA5y0k7CRA",
+      "sha256": "d57d1c34d74738f5decf617497f2ad54a91834bb5e8894a07a38cd09ad00df18",
+      "date": "2025-07-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250727 我今年 28 岁。以下是帮助大多数 20 岁年轻人取得成功的秘诀。.md",
+      "url": "",
+      "sha256": "7390c527942176406e703b2801a66b7d5eaa440c40252dae9bcc67f2a323cd5e",
+      "date": "2025-07-27",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250803 20多岁致富需要什么.md",
+      "url": "",
+      "sha256": "1d18610f0dec6de2ba043d21a7e04ee2ef70e6df076ee3d5d0a6533e2126584a",
+      "date": "2025-08-03",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250803 What It Takes To Get Rich In Your 20s.md",
+      "url": "",
+      "sha256": "556c65f82e1ce0e910f413e21f7d0b8c0f65a29b6494bf6a028e1d9ce4c79704",
+      "date": "2025-08-03",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250810 How To Master Any Skill Fast (Give Yourself 2 Weeks).md",
+      "url": "https://www.youtube.com/watch?v=oGSHKXEKT2Q正文",
+      "sha256": "7fa7a6b27bf53e5aa9355dc19e74601b1886cfee240a4837d5beb5197a08d825",
+      "date": "2025-08-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250810 如何快速掌握任何技能（给自己 2 周的时间）.md",
+      "url": "",
+      "sha256": "29be923642cbc6dfac3ee88b155c20cbda1ea93dd770e643f35bc5ee7d76b57d",
+      "date": "2025-08-10",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250817 You Have About 36 Months To Make It.md",
+      "url": "https://www.youtube.com/watch?v=ve1L21l1GW4",
+      "sha256": "c5c265efb1035d62dcc2936c54192a21c4639afe6b7adecfe6b533f0ebe47ebb",
+      "date": "2025-08-17",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250817 你有大约 36 个月的时间来完成它.md",
+      "url": "",
+      "sha256": "113b1e8c7d2259b94cf3415736dfd57cd05b20da211394ddeb007443cc584272",
+      "date": "2025-08-17",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250907 The Death Of Social Media (& The Future Of Content Creation).md",
+      "url": "https://www.youtube.com/watch?v=ni04Zp7mUMM",
+      "sha256": "a5068e6088961aff851b3e01a1e9d695f45e22fb6a32c8b482e936d0291b30c7",
+      "date": "2025-09-07",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250907 社交媒体的消亡（以及内容创作的未来）.md",
+      "url": "",
+      "sha256": "b9bf6c2d3aa986b8088f8e0f66e0dc9800f41cbd0d2bf2a81885773e798d7ce3",
+      "date": "2025-09-07",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250914 12 Rules To Change Your Life In 12 Months.md",
+      "url": "https://www.youtube.com/watch?v=IajTL2RCJ_k",
+      "sha256": "e5edd722de016eb8b58a7d4a6fc2c84acc33ba1238b0c9e5827fe975878283b8",
+      "date": "2025-09-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/250914 12 个月内改变你生活的 12 条规则.md",
+      "url": "",
+      "sha256": "55517a47a7cc6f8b6a2bf6a926c3644dda0849aadb775c6682b6da390e3a84c4",
+      "date": "2025-09-14",
+      "status": "added",
+      "atoms": 3
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251005 You're Stuck In The Matrix, Here's How You Escape.md",
+      "url": "https://www.youtube.com/watch?v=JeaBetH8UUc",
+      "sha256": "baee9a40d6cc802a6ff573b8cbffc580015515b0a1f3f3cf8078c8daa9f2631d",
+      "date": "2025-10-05",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251005 你被困在黑客帝国中，这就是你逃脱的方法.md",
+      "url": "",
+      "sha256": "60e7a871d4456c563493d882dbd2b6a68d527d0eb89328c3b5f5b1461355b7b2",
+      "date": "2025-10-05",
+      "status": "added",
+      "atoms": 2
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251019 A Full Guide To Reinvent Your Entire Life (In 6-12 Months).md",
+      "url": "https://www.youtube.com/watch?v=SL5lwg1wYaE",
+      "sha256": "8d1766dd7a0a3465b3931092b171bfa75238f26f2a6570650d4c3d8d162e13dc",
+      "date": "2025-10-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251019 如何在人生中以 10 倍的速度取得进步（完整指南）.md",
+      "url": "",
+      "sha256": "80afa20d06a16af0398cd1a58fb089e27341736e5e4ecf50df46358a49063f1e",
+      "date": "2025-10-19",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251026 A Full Dopamine Detox Protocol To Reset Your Life In 30 Days.md",
+      "url": "https://www.youtube.com/watch?v=U5kQTKWTUX0",
+      "sha256": "a107df7a79a6976941a881d5d8e57ce4adcfbd9398f98a44999f2356efa491ea",
+      "date": "2025-10-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251221 The Most Important Skill To Learn Right Now.md",
+      "url": "https://www.youtube.com/watch?v=0XI_Xt0ci2Y",
+      "sha256": "3c4fb749bb4cc8cca5c9677e8bfbbcb1bfb2ae0b796d4507c51c15521b1309fe",
+      "date": "2025-12-21",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251221 未来十年内最重要的技能.md",
+      "url": "",
+      "sha256": "260e41903507bf74c95bcded5c7e08bbad575c6bce61f6d3cd392261f79c6a21",
+      "date": "2025-12-21",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/251228 How to fix your entire life in 1 day.md",
+      "url": "https://www.youtube.com/watch?v=K8K09g9XR4s",
+      "sha256": "d65ec4ddb65a2992fe395a2b809acd0d5422dbad336fea3952f56afdb63f5b10",
+      "date": "2025-12-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260109 每日 “消失” 2-4 小时：百万富翁的高效能作息法则.md",
+      "url": "",
+      "sha256": "4f11d82c30631617aac5379c8ab9d0af5b36d7af579cfe9d1385dbc1da7125b7",
+      "date": "2026-01-09",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260222 How To Think Like A Strategic Genius (5-Dimensional Thinking).md",
+      "url": "https://www.youtube.com/watch?v=TY8IVSQnwlk正文",
+      "sha256": "28ef258dd7f914b1b5631ca8001f89674ce73c5ef70d79919f592e5588b5309e",
+      "date": "2026-02-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260222 如何像战略天才一样思考（五维思维.md",
+      "url": "",
+      "sha256": "cc43c21ed57a61fb3ad2055a16a158872a30245366ef59051c940be5d8969020",
+      "date": "2026-02-22",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260328 If you've lost your creative genius, watch this.md",
+      "url": "https://www.youtube.com/watch?v=vRsO_SmCYbQ",
+      "sha256": "f5cf1e0288fe97d34b9049bbb527d5475b177567ea02e801e170a22eaf77ed83",
+      "date": "2026-03-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260503 How To Completely Reinve.md",
+      "url": "",
+      "sha256": "3bda5d4df7fce572fe814470cf886c794bf873b16ecdac74eb5d1b869c29ede2",
+      "date": "2026-05-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260503 如何在6到12个月内彻底重塑自我？.md",
+      "url": "",
+      "sha256": "24e512755bd9b2eed5d15e39c124a8c7f7eddde58c80c6adcb49f9ad32d3de2c",
+      "date": "2026-05-03",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260515 How To Grow An Audience.md",
+      "url": "",
+      "sha256": "797dcb0c95dd4aeaacc01564a6d0e52a04ba4eeea6d4190deb3e3f3c80f5261d",
+      "date": "2026-05-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/260515 如果你没有粉丝（只有两个习惯），如何扩大观.md",
+      "url": "",
+      "sha256": "b35e081512d0ea9610186a31c8c1f15bd4d8cc765a00239f36c7f1a741fe9037",
+      "date": "2026-05-15",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录02 成长内容集合/DK视频转录 第4季（成长内容）持续更新中/访谈：你将在6个月内脱胎换骨/260106 访谈：你将在6个月内脱胎换骨.md",
+      "url": "",
+      "sha256": "69891fb3f593bcf3b982afa100ff0f22e57c82c245f12de2b2e7e31f81ca60d8",
+      "date": "2026-01-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210614 From $250-month In A Third World Country To $15k-month Online.md",
+      "url": "https://www.youtube.com/watch?v=soTByryDa3c",
+      "sha256": "d08bd6f7b9904f89f6289e7249330b831f47b1ba92992d50b565bd3bf998b059",
+      "date": "2021-06-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210614 从第三世界国家的 250 美元-月到在线的 15 美元-月.md",
+      "url": "",
+      "sha256": "c44c4467cd02b93da5454c2f476309d0197eb82cef180bfbf40b9bfba8247839",
+      "date": "2021-06-14",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210628 16 岁的 Niti Sarran 如何在 Instagram 上销售价值 43,000 美元的数字产品.md",
+      "url": "",
+      "sha256": "af6549dff5e5bd0fb3b0b8f016a6be733fde1655dc858aa266b766940b2e2a7d",
+      "date": "2021-06-28",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210628 How 16 Year Old Niti Sarran Sold $43,000 Of Digital Products on Instagram.md",
+      "url": "https://www.youtube.com/watch?v=zc2o049arQM",
+      "sha256": "34043c95fb30845d039a10bd4c9a1dbe6c10e9dd990d7fe8f1e4b380beeb595b",
+      "date": "2021-06-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210823 How Rob Lipsett Balances Degeneracy, Fitness, And Entrepreneurship.md",
+      "url": "https://www.youtube.com/watch?v=lAJ4TUZwSt8",
+      "sha256": "306fd6c6f3f9898f7204f602a79e7372f60cbd7f6fb961661b8ed8d58390cb35",
+      "date": "2021-08-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210823 Rob Lipsett 如何平衡堕落、健身和创业精神.md",
+      "url": "",
+      "sha256": "2afc92437deeec6ba8062d37f9cf792b2b60b2589758d27391dadf0e531d0055",
+      "date": "2021-08-23",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210830 Dan Go On Finding Purpose By Trusting Your Intuition (And Some Psychedelics).md",
+      "url": "https://www.youtube.com/watch?v=EsuW9B0vOmg",
+      "sha256": "bd331d99446bb7e8745a312d9df6cb5911e49488e0949f66e219b0f4f2dcd6bc",
+      "date": "2021-08-30",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210830 丹继续通过相信你的直觉来寻找目标.md",
+      "url": "",
+      "sha256": "f2beda344c2ee8bf77b31bb0f052c2e64fd3c9c7b258506ef87d3527fd3e64b8",
+      "date": "2021-08-30",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210906 Life Is A Video Game, Heres How You Play It With David Mendes.md",
+      "url": "https://www.youtube.com/watch?v=Q4F0eCuO6sg",
+      "sha256": "0fd0b56ad8a4b00b111d7e9d7c063e3015989a016bbfc39f8280c6634b23ebd7",
+      "date": "2021-09-06",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/210906 生活是一场电子游戏，以下是你如何与大卫·门德斯一起玩.md",
+      "url": "",
+      "sha256": "e973499989dd87f980f6d15ff72ff19a8599f7a2770f8bd08dad90d8a36420cf",
+      "date": "2021-09-06",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/211018 Save Your Sons On The Need For High Value Men.md",
+      "url": "https://www.youtube.com/watch?v=22ta04S9a0g",
+      "sha256": "cb9df8995e0288f81b490b5326ceb5d2ca61ef1f69aaba77c6a8f54823c6889a",
+      "date": "2021-10-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/211018 拯救你的儿子对高价值男人的需求.md",
+      "url": "",
+      "sha256": "f092af2cc64f9143ade17ed6312e9e4e95b3f5f9976d22bd850fc9494dbe2a3f",
+      "date": "2021-10-18",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/230827 How Dan Koe Makes $4.2M and 98% Profit with No Employees.md",
+      "url": "https://www.youtube.com/watch?v=D3SMpmJmLEY",
+      "sha256": "78cd9fb6040d13f22c2107176412707a5d97d0479b82c29e5b46d59035491a0c",
+      "date": "2023-08-27",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/241214 Dan Koe 如何通过这个漏斗赚了 $4.2M（这太天才了！）.md",
+      "url": "",
+      "sha256": "3de62894c2a32b0833d0b5648bbfe6623d19b85159dca6553e5c27c922d9bf3e",
+      "date": "2024-12-14",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/241214 How Dan Koe Made $4.2M With THIS Funnel (It's Genius!).md",
+      "url": "https://www.youtube.com/watch?v=EWn3nMn3OOo",
+      "sha256": "78ac004896f3faff8d854ea905306048ec8f02fe745a91baae17384be639d9da",
+      "date": "2024-12-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/250918 How To Make The Greatest Comeback Of Your Life (THIS WINTER).md",
+      "url": "https://www.youtube.com/watch?v=hEvWuNEH_vk",
+      "sha256": "f6261d6b356b8df52eff1f88818739330096a937b551cf3b45bdc363ba5e37ad",
+      "date": "2025-09-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/251124 Kortex——300万美元的错误决策.md",
+      "url": "https://www.youtube.com/watch?v=vbrTv-4PsdA",
+      "sha256": "6ac5490b0b299a5eb762a839e2c11d894711d2fdb8e0dc82d3e231a8d6fb6960",
+      "date": "2025-11-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录03 访谈篇/251124 科特克斯：三百万美元的错误.md",
+      "url": "",
+      "sha256": "8e067a5060aa46ec8765011bfcf7f6a75b9d3505a8de2fa6010fb584ee0ebc6c",
+      "date": "2025-11-24",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录04 思考篇/260819 The Art of Strategic Thinking (How to Become Wildly Successful at Anything You Do).md",
+      "url": "https://www.youtube.com/watch?v=Qk8rSlDR8z4",
+      "sha256": "22509fc3083d35ec23efa6da247364c1c551470269e27b9318336bac7e5cd897",
+      "date": "2026-08-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录04 思考篇/260819 战略思维的艺术（如何在你做的任何事情上取得巨大成功）.md",
+      "url": "",
+      "sha256": "727a74489db8fd8e0d7ae8a93db17e3b76013391068b358af7669da8b8d75adf",
+      "date": "2026-08-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录05 未归档/260903 如果你兴趣广泛，请好好利用接下来的十年.md",
+      "url": "https://www.youtube.com/watch?v=pmQhqVLVApw",
+      "sha256": "f63ec135be26e692b758be81025e0f30410b0284bc473fbb0d5c6db6bbc3cab8",
+      "date": "2026-09-03",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录05 未归档/260920 想成功，你得有点“妄想症”。.md",
+      "url": "https://www.youtube.com/watch?v=rAjMOfKSAks",
+      "sha256": "3f3dc699a625b3c96c65e98fe4e6c2d0a7e10ee42ad4e20c98eeb67168323b08",
+      "date": "2026-09-20",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/❹ DK视频转录05 未归档/260927 如何变得极度自律.md",
+      "url": "https://www.youtube.com/watch?v=oMtAfbNHfnw",
+      "sha256": "425cdce3681311cf6a596bdca7aa88c9c42455738bd3597c5814429f57d88838",
+      "date": "2026-09-27",
+      "status": "added",
+      "atoms": 11
+    }
+  ]
+}

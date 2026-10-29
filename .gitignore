@@ -1,1 +1,3 @@
 *.pyc`n__pycache__/`n.build-local/`ndist-local/`ndist-lite/`n*.zip
+__pycache__/
+*.pyc
