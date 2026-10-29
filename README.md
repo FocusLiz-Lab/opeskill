@@ -126,3 +126,17 @@ npx -y skills add FocusLiz-Lab/opeskill -g --all
 ```
 
 原子更新直接读取 main 中最新资料，不依赖旧 Release。备份目录及提交号由脚本返回。自定义安装位置可用 `--skills-dir` 指向各 skill 文件夹的共同父目录。
+
+## 独立更新命令
+
+安装最新整套 skills 后，在 Agent 中直接输入：
+
+```text
+$opes-update
+```
+
+自动检查并更新本工具箱的整套 skill 和原子资料。仅检查时输入 `$opes-update 检查更新`。旧安装可先使用已有更新路由，或执行以下命令获取新入口，再刷新宿主技能列表：
+
+```text
+npx -y skills add FocusLiz-Lab/opeskill -g --all
+```

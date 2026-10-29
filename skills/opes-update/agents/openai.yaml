@@ -1,0 +1,4 @@
+interface:
+  display_name: "超级个体 更新"
+  short_description: "Update suite skills and atom libraries safely"
+  default_prompt: "Use $opes-update to update the suite and its atom libraries from GitHub."
