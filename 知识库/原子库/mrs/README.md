@@ -1,22 +1,5 @@
 # mrs 原子库
 
-- atoms: 16861
-- generated: 2026-07-01 14:49:35
+2026-10-29 同步：共 17449 条，本次新增 588 条。
 
-## type counts
-
-- anti-pattern: 1074
-- case: 8185
-- checklist: 757
-- insight: 991
-- method: 1821
-- principle: 4033
-
-## top topics
-
-- action: 6988
-- general: 5543
-- emotion: 2282
-- fear: 1814
-- habits: 1568
-- confidence: 868
+保留历史原子；新增记录是规则筛选的来源片段，type=source、confidence=medium，未经人工提炼。来源覆盖和缺口见 creator_sync_manifest.json。

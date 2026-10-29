@@ -6,10 +6,12 @@ import hashlib
 import io
 import json
 import os
+import re
 from pathlib import Path, PurePosixPath
 import shutil
 import tempfile
 import urllib.request
+import urllib.error
 import uuid
 import zipfile
 
@@ -34,6 +36,7 @@ def safe_relative(name):
 def build_plan(archive, config, skills_dir):
     """Read all payloads before touching installation; reject traversal and symlinks."""
     plan = {}
+    priorities = {}
     for member in archive.infolist():
         if member.is_dir():
             continue
@@ -48,19 +51,24 @@ def build_plan(archive, config, skills_dir):
             continue
         if parts[0] == "skills" and len(parts) >= 3:
             target = skills_dir / Path(*parts[1:])
+            priority = 1
         elif parts[0] == "知识库" and len(parts) >= 3:
             # Legacy repository-root data belongs to the installed main router.
             if parts[1] == "商业案例库":
                 continue  # separate shared dependency, never duplicate into creator suites
             target = skills_dir / config["main_skill"] / relative
+            priority = 0
         else:
             continue
         if any(p in {".git", "__pycache__"} for p in parts):
             continue
         data = archive.read(member)
-        if target in plan and plan[target] != data:
+        if target in plan and priority < priorities[target]:
+            continue
+        if target in plan and priority == priorities[target] and plan[target] != data:
             raise ValueError(f"Conflicting duplicate payload: {relative}")
         plan[target] = data
+        priorities[target] = priority
     main = skills_dir / config["main_skill"]
     if main / "SKILL.md" not in plan:
         raise ValueError("Archive does not contain the main skill")
@@ -110,12 +118,25 @@ def apply_plan(plan, backup_dir):
     return len(changed)
 
 
+def latest_commit(repo):
+    try:
+        return json.loads(fetch(f"https://api.github.com/repos/{repo}/commits/main"))["sha"]
+    except urllib.error.HTTPError as exc:
+        if exc.code not in {403, 429}:
+            raise
+        # Git's public ref advertisement has no anonymous REST API quota and needs no Git executable.
+        data = fetch(f"https://github.com/{repo}.git/info/refs?service=git-upload-pack")
+        match = re.search(rb"([0-9a-f]{40}) refs/heads/main(?:\x00|\n)", data)
+        if not match:
+            raise ValueError("GitHub did not advertise refs/heads/main") from exc
+        return match.group(1).decode("ascii")
+
+
 def run(config, skills_dir, check_only=False):
     repo = config["repository"]
     if not repo.startswith("FocusLiz-Lab/") or repo.count("/") != 1:
         raise ValueError("Unexpected update repository")
-    info = json.loads(fetch(f"https://api.github.com/repos/{repo}/commits/main"))
-    sha = info["sha"]
+    sha = latest_commit(repo)
     if len(sha) != 40 or any(c not in "0123456789abcdef" for c in sha):
         raise ValueError("Invalid GitHub commit")
     state_path = skills_dir / config["main_skill"] / ".skill-update-state.json"

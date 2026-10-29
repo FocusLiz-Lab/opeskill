@@ -1,23 +1,5 @@
 # hbs 原子库
 
-- atoms: 31716
-- generated: 2026-07-01 14:49:11
+2026-10-29 同步：共 32121 条，本次新增 405 条。
 
-## type counts
-
-- anti-pattern: 2056
-- case: 10056
-- checklist: 1190
-- insight: 3574
-- method: 4296
-- principle: 10544
-
-## top topics
-
-- general: 9035
-- sleep: 6795
-- exercise: 6673
-- focus: 5764
-- stress: 4659
-- learning: 3288
-- nutrition: 2579
+保留历史原子；新增记录是规则筛选的来源片段，type=source、confidence=medium，未经人工提炼。来源覆盖和缺口见 creator_sync_manifest.json。

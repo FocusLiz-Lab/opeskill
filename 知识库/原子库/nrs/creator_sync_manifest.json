@@ -1,0 +1,95 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 992,
+  "after": 992,
+  "added": 0,
+  "local_source_groups": 0,
+  "added_source_groups": 0,
+  "no_qualifying_units": 0,
+  "latest_atom_date": "2026-02-20",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": "No local Naval source folder found; existing library retained",
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 995354,
+      "sha256": "577085853e2f7148e88cb7921decad4dabc75fec43a2e44ec8a3d9b5a02f69ca"
+    },
+    {
+      "file": "atoms_2016Q1.jsonl",
+      "bytes": 7995,
+      "sha256": "82ada330eb32cb6bae7a7ea53e5e11354b6c6f42b1a951dde2e51004a3438565"
+    },
+    {
+      "file": "atoms_2018Q1.jsonl",
+      "bytes": 23402,
+      "sha256": "b9a96fa709349ae0b5e6ab64c2c5f781e64e5ba6f4fca9569e0291d8dc4ac7f2"
+    },
+    {
+      "file": "atoms_2019Q4.jsonl",
+      "bytes": 39721,
+      "sha256": "6be99580e65aeae2ca732e4acacf89ff2f95721f2b6c80afde69ac22bb42c044"
+    },
+    {
+      "file": "atoms_2020Q1.jsonl",
+      "bytes": 41416,
+      "sha256": "4f9918b0f5f3cdbbff1de7d32313bf8ebb3d049fae8a9b55c2fe99aeb58f8022"
+    },
+    {
+      "file": "atoms_2020Q3.jsonl",
+      "bytes": 9731,
+      "sha256": "1851286c871bf3eed55ece86c1e684cf8d2209875239851d95736d66eda2e46c"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 1975,
+      "sha256": "c9c3d0667c5fc215a535320e290e3316a8dd3aa30faab087b9cfad0ccaa3bb90"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 19117,
+      "sha256": "589ea6f65e3f6b81173c7f2062729f5c60b320323c9e64504935c86fe371e225"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 45291,
+      "sha256": "c855ca042b3aef5c9d0ff20fa52a916d372eb86c0744cf90f3e825749be6174b"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 27177,
+      "sha256": "f30abd0cc7a52ee78d8c76b1aa4f0476b113f022e16649e54602eeb706d23a63"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 10173,
+      "sha256": "72683c9038e6e78fd4a1e879db380b52625d80e482d2065cfb286dd7319342ab"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 356944,
+      "sha256": "f90713a8fe6197cf2ff18571d7bf3369fa0b484621ec70c8c27d67775c82ead9"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 78333,
+      "sha256": "f8f1c2b18313b898d494aeaf81a5b86eb5782fad20b43ab33fbc6c6f91c74f81"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 54272,
+      "sha256": "84d520ff19bc40522773f97110f07557524f96e44473cb80a97b5468b4ebf4e1"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 117880,
+      "sha256": "77e8a585013f4494803f1bf99a84f7ddd272a1bbc797c557e55faea3d841e1b5"
+    },
+    {
+      "file": "atoms_undated.jsonl",
+      "bytes": 161927,
+      "sha256": "a19d6d5175ed7a1b275f3b572438ebaa9d0aab74ae87f3f0f888c5ee8f1ef431"
+    }
+  ],
+  "sources": []
+}

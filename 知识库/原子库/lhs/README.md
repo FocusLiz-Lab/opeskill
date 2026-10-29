@@ -1,22 +1,5 @@
 # lhs 原子库
 
-- atoms: 4764
-- generated: 2026-07-01 14:49:16
+2026-10-29 同步：共 4940 条，本次新增 176 条。
 
-## type counts
-
-- anti-pattern: 227
-- case: 2748
-- checklist: 260
-- insight: 92
-- method: 462
-- principle: 975
-
-## top topics
-
-- general: 2586
-- leadership: 1006
-- operations: 590
-- management: 494
-- hiring: 489
-- accountability: 191
+保留历史原子；新增记录是规则筛选的来源片段，type=source、confidence=medium，未经人工提炼。来源覆盖和缺口见 creator_sync_manifest.json。

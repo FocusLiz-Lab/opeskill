@@ -1,0 +1,3973 @@
+{
+  "updated_on": "2026-10-29",
+  "before": 15000,
+  "after": 15408,
+  "added": 408,
+  "local_source_groups": 539,
+  "added_source_groups": 45,
+  "no_qualifying_units": 4,
+  "latest_atom_date": "2026-10-23",
+  "source_scope": "youtube_transcript and articles; existing historical atoms preserved; X not refreshed",
+  "source_gap": null,
+  "files": [
+    {
+      "file": "atoms.jsonl",
+      "bytes": 18260829,
+      "sha256": "d57349b3e4e5f3b70718f4ac61d9f347347df1d902db7bb9d6d44d5b99d66a2e"
+    },
+    {
+      "file": "atoms_2018Q3.jsonl",
+      "bytes": 1709,
+      "sha256": "e65c809d59855909d054754850ad3655edea98e11e70edd18102ece8aab44f76"
+    },
+    {
+      "file": "atoms_2020Q4.jsonl",
+      "bytes": 655912,
+      "sha256": "343c91e05a632042723bb5e2153c069b65fc0922b723fe5ba43f89fc91784a6f"
+    },
+    {
+      "file": "atoms_2021Q1.jsonl",
+      "bytes": 435100,
+      "sha256": "dd59a0e6bbf7e3687e2255c5b01cec549584866c84883689af08af1a98ee99e9"
+    },
+    {
+      "file": "atoms_2021Q2.jsonl",
+      "bytes": 582461,
+      "sha256": "01384b5c5d27bbf34d33dad54827efedd07b09e096210d489da799c1ecdaae15"
+    },
+    {
+      "file": "atoms_2021Q3.jsonl",
+      "bytes": 570677,
+      "sha256": "a6c668b9250cdf86ab7791230e4d57ad62af48685a2cac8124444b36bdbce3c0"
+    },
+    {
+      "file": "atoms_2021Q4.jsonl",
+      "bytes": 885789,
+      "sha256": "c9b4750f2bceeaaa2498028445517f5bfd0209bc2fb90261ff8ba20031a94e4e"
+    },
+    {
+      "file": "atoms_2022Q1.jsonl",
+      "bytes": 677364,
+      "sha256": "02ac2970bd8f2e2efcd2f5de76ebc45851990cc7c8916d172562cd1e1bd4a416"
+    },
+    {
+      "file": "atoms_2022Q2.jsonl",
+      "bytes": 802959,
+      "sha256": "9e5b3d6ce7db101d0a2fcf360ce83baa7fa1e8e8f2219d5ef182747336aae540"
+    },
+    {
+      "file": "atoms_2022Q3.jsonl",
+      "bytes": 272094,
+      "sha256": "51c7ee8a29a06298f0115c0c3f181454eceae26cc0872ba668d0548e66634444"
+    },
+    {
+      "file": "atoms_2022Q4.jsonl",
+      "bytes": 256173,
+      "sha256": "432b50bdbb7ca42769d0470e41cc859dade393bfbe03f4a62c68cb9a7b4bc26f"
+    },
+    {
+      "file": "atoms_2023Q1.jsonl",
+      "bytes": 295869,
+      "sha256": "f61b0ec06a0b2302a1015f32f71c7156a7b9cb6cdc499626e52c23bf1e860145"
+    },
+    {
+      "file": "atoms_2023Q2.jsonl",
+      "bytes": 265687,
+      "sha256": "bf49cbf1f2c929bdf34a31e52ab37f8c66f5096367c0f1c037c9571cc6dd11cd"
+    },
+    {
+      "file": "atoms_2023Q3.jsonl",
+      "bytes": 571187,
+      "sha256": "bc972c49a72caed4f139bad0c79cdaf48b866a2f1f1326efb4ee4122c5377188"
+    },
+    {
+      "file": "atoms_2023Q4.jsonl",
+      "bytes": 599202,
+      "sha256": "06a0f752128f3e056f0d1d40826979f34e1401aadf06dedb7bdadb473a69e922"
+    },
+    {
+      "file": "atoms_2024Q1.jsonl",
+      "bytes": 524071,
+      "sha256": "2299a48e2891908d0a530286f3ec2e891e0de09723a3089fc440c9aba57a742a"
+    },
+    {
+      "file": "atoms_2024Q2.jsonl",
+      "bytes": 1652475,
+      "sha256": "da45508da9d917fcbbef1b396a6b09390be6ba36dbbd74ef63f830c9b05a4750"
+    },
+    {
+      "file": "atoms_2024Q3.jsonl",
+      "bytes": 1281566,
+      "sha256": "037a68668e759a1311bf4a9b49f66fdfdd48dbe303828c87ad9ba64c93ede255"
+    },
+    {
+      "file": "atoms_2024Q4.jsonl",
+      "bytes": 1254026,
+      "sha256": "c1010673f3ca751b6d1a205a80c76f57f60da5ec95c48f4334b4359abd6d12b8"
+    },
+    {
+      "file": "atoms_2025Q1.jsonl",
+      "bytes": 969936,
+      "sha256": "c1f067e690aa1ad2f3b4ec8b44bca7a8cf3efde37525ee481e340415f26b972d"
+    },
+    {
+      "file": "atoms_2025Q2.jsonl",
+      "bytes": 2110322,
+      "sha256": "8654073d0e04066f77efea0b735478717692ae13946998c9a57fac13f93325e0"
+    },
+    {
+      "file": "atoms_2025Q3.jsonl",
+      "bytes": 355171,
+      "sha256": "22fcc97a9902b2590693824493307cae6eb670307fe2825b3e988df79e38bef1"
+    },
+    {
+      "file": "atoms_2025Q4.jsonl",
+      "bytes": 978487,
+      "sha256": "d1bf6a6315b71b8f8dd6cfb4378255cd195eb6470b88eb8d27759a660060f8e9"
+    },
+    {
+      "file": "atoms_2026Q1.jsonl",
+      "bytes": 1190626,
+      "sha256": "c362fc0a4bcc3ac6fb83e417530509b224bba27159b9779f113ef533dfadab1b"
+    },
+    {
+      "file": "atoms_2026Q2.jsonl",
+      "bytes": 751406,
+      "sha256": "1e78337d88a5e2d2e5afc01376265416391cff2099566d173997cd520e31ed6a"
+    },
+    {
+      "file": "atoms_2026Q3.jsonl",
+      "bytes": 261243,
+      "sha256": "28f45176aec5888725af805fa73c88e83462e2cb8f29cd7db569ed1e4c933d01"
+    },
+    {
+      "file": "atoms_2026Q4.jsonl",
+      "bytes": 59317,
+      "sha256": "e1f8b3f9904465962517e71b8d78be598f54c68b2811deb15c8d70b505358c51"
+    }
+  ],
+  "sources": [
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201001 当前健身房最常见的#1错误 [ALEX HORMOZI].md",
+      "url": "https://www.youtube.com/watch?v=4PX-hE6LTSU",
+      "sha256": "30a63b97075faf01f392e1f91ba5ac4b86b0798a329de1ea0d23e623c10a0fd4",
+      "date": "2020-10-01",
+      "status": "added",
+      "atoms": 5
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201001 致健身行业：疫情初期的公开信.md",
+      "url": "https://www.youtube.com/watch?v=_tF3ODk56hg",
+      "sha256": "68396ce1918622dde42b9ffb15e600dd4cb1a4eb421552a810b299939a6e6221",
+      "date": "2020-10-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201020 升级之路：为什么我们会卡住（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=YQZK6JVkl4c",
+      "sha256": "4cefce6e0c360446cdf7b5db34b138e0c1589195230e70346bb57f0bc5903e7b",
+      "date": "2020-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201029 正确重启（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=mOKl6dodMTg",
+      "sha256": "0bf7e5e8f82784a61d484b5d91caaa6bf0f5ca378ebe8d0621184cc5fca0367c",
+      "date": "2020-10-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201110 为什么教练总招人恨 (ALEX HORMOZI).md",
+      "url": "https://www.youtube.com/watch?v=7wN8n3qrqnQ",
+      "sha256": "7c283f4adf176ff4740a45061fe142bdd39d6cb9fe541d2a7eb216783de5bde7",
+      "date": "2020-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201116 甜蜜点（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=3oD41B66NsM",
+      "sha256": "c2d7cd74c74649f8afb49c2ba9b7759a3cdb06ac0bed99b3256f0b7e188d23c2",
+      "date": "2020-11-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201119 最大化每位客户收入的4个步骤.md",
+      "url": "https://www.youtube.com/watch?v=-UvmyixFszw",
+      "sha256": "d6e0f1474d289d2dec12ffed749c85e286cbd46d9b0b2f225c365c18919c0772",
+      "date": "2020-11-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201126 那个“糟糕”时刻（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=JSsuK_0kdzA",
+      "sha256": "d4091936414178af76a6e2570b43c4a976c8b01cee404fb1f5975d0f1f357516",
+      "date": "2020-11-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201222 机会不会永远存在（而这正是好事……）.md",
+      "url": "https://www.youtube.com/watch?v=3iHzbqKw7GA",
+      "sha256": "a355c79f8dcc9b647f8bbf5b6928f58f84e316344845d22262d16958dc3ae799",
+      "date": "2020-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201224 如何在生意中升级——理解取舍.md",
+      "url": "https://www.youtube.com/watch?v=ZLGqnXkjfsQ",
+      "sha256": "30888679e612ae3df01569a9d9392cf9ce4b1457c7f7ca66db9567db3b88e492",
+      "date": "2020-12-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/201228 当竞争对手更便宜时，这样说.md",
+      "url": "https://www.youtube.com/watch?v=9lLLBlo0YXA",
+      "sha256": "9b7752496a6fa5c4d905bdda21b01c1039e733d172f695b6f60d17597273ab16",
+      "date": "2020-12-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210105 假定成交法-：如何无阻力成交.md",
+      "url": "https://www.youtube.com/watch?v=xy1h4qqF778",
+      "sha256": "a7d7502d4eaf4a2936eed99dab87bb392c5bf88cc3e0a12f4ddb9d464897527a",
+      "date": "2021-01-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210112 负面情绪驱动.md",
+      "url": "https://www.youtube.com/watch?v=imd_QRQbVeY",
+      "sha256": "9ba4711d5c4f57a73690046319819e6622cd2b23d7634ff9028754d3828d98e4",
+      "date": "2021-01-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210119 重塑我商业思维的那个顿悟.md",
+      "url": "https://www.youtube.com/watch?v=6KRpQvWNpm4",
+      "sha256": "b2bafdd448a6e7be9b6391dad2f44f65b2fd406adcb9e5cac715dbbcf54d9e05",
+      "date": "2021-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210204 先别急着创业，看完这个再说.md",
+      "url": "https://www.youtube.com/watch?v=bSYfZdAE8Ks",
+      "sha256": "5008af483ca8f66524ceda3fd5b722d7b262eb68de61649a57d0193910bda159",
+      "date": "2021-02-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210216 如何创造运气.md",
+      "url": "https://www.youtube.com/watch?v=w9Zvk70uj5Q",
+      "sha256": "023ea5228f43c90401aff31a9ae4e9b90909e60df4ff8e143b56607eb1370522",
+      "date": "2021-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210304 2021年该做什么生意？【完美商业模式】.md",
+      "url": "https://www.youtube.com/watch?v=VaE4pcf9PI8",
+      "sha256": "8a5ee0f41f6c09895a3692db31fe77a16c408d96e0cb2240b313f2d8d520d111",
+      "date": "2021-03-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210311 3步启动（或修复）任何业务.md",
+      "url": "https://www.youtube.com/watch?v=RZbpSe9pdFs",
+      "sha256": "b60649cf3082f7380ab74bb47f0b5297b00d939414b6811d6f84515142da31dc",
+      "date": "2021-03-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210318 你有错误合伙人的几个明显迹象.md",
+      "url": "https://www.youtube.com/watch?v=yJfn_pWzFqg",
+      "sha256": "02383617f0b183753d137a8b62ca09ccdb7a437a9d5a8773b8726b09cc1e158b",
+      "date": "2021-03-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210325 我建了个1亿美元的公司，但方法全错了…….md",
+      "url": "https://www.youtube.com/watch?v=sKCrYIWPHLc",
+      "sha256": "6b8161aab9d0467876af8909739687cfcc8601474b39423288db7e28c0ba86e4",
+      "date": "2021-03-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210401 最简单的方法找到前5个客户（零预算版）.md",
+      "url": "https://www.youtube.com/watch?v=UR9dO1jZemE",
+      "sha256": "183c67873f5aae325db8216b5b778ea0ddd299b44da5a8fec8ef2cd019bf37f1",
+      "date": "2021-04-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210413 创业的四个阶段.md",
+      "url": "https://www.youtube.com/watch?v=R7Fin9HFhoM",
+      "sha256": "67b1f846693dd8b4d6e12af88163287ae647677893a67729200eed2df3627d17",
+      "date": "2021-04-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210427 1个技能很难学，但能让你受益一辈子.md",
+      "url": "https://www.youtube.com/watch?v=Tw6kJkVcTL0",
+      "sha256": "b50ae05d3c8f35fd19e49fa66cf2d45afdc6e85ac680f4eae6ea252dceebd44c",
+      "date": "2021-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210429 所有创业者其实只有一个问题…….md",
+      "url": "https://www.youtube.com/watch?v=-is6Z2T2h8o",
+      "sha256": "1fcb89f2ca101178a0e2f5f5d086cec9ce99d8a16cc789c93a41f17ab69f7da7",
+      "date": "2021-04-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210507 创业者如何买回自己的时间.md",
+      "url": "https://www.youtube.com/watch?v=awOQDy_o9ww",
+      "sha256": "77e08a8b0966ac3025ae4973f6113e659a8543740a96802de5fe12dda3cc95ee",
+      "date": "2021-05-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210519 我如何在一次日内交易中亏掉21.7万美元，以及我现在怎么交易.md",
+      "url": "https://www.youtube.com/watch?v=c5Lw12PXkgU",
+      "sha256": "a73b449ad05016214bf1cd0d541c05d4ee6a2c4725b4e69aa9407d1e9ed0fad7",
+      "date": "2021-05-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210521 这就是我穷的原因.md",
+      "url": "https://www.youtube.com/watch?v=R7JOslrt51o",
+      "sha256": "a2a5046850ac9573e8eca9c84e0894c1b5662580a9cc4954b39fe9e0c43209a2",
+      "date": "2021-05-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210524 差点毁掉我生意的“三大恶E”.md",
+      "url": "https://www.youtube.com/watch?v=noO8ERpgMr4",
+      "sha256": "e8441a7b515d01d0807607d03a2eb122a33d58532454d1e1e8f5e47195cc5d98",
+      "date": "2021-05-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210528 让我持续前进的4个视角转变.md",
+      "url": "https://www.youtube.com/watch?v=7C-P-ctmhuU",
+      "sha256": "2759f6e302d710877205dcca1d97f4f422e976b4d785c5e1876bca9eb24a33af",
+      "date": "2021-05-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210614 我的四步投资模型（附真实案例）.md",
+      "url": "https://www.youtube.com/watch?v=BnvkMpUu-7c",
+      "sha256": "451bf25a4eb5c7cbdb8026ea923f3a6bb79dd33f3b7b8400368ec1c93d51fc15",
+      "date": "2021-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210628 在创业之前，先听听这个（三件可能改变你想法的事）.md",
+      "url": "https://www.youtube.com/watch?v=oLsWhSRypzM",
+      "sha256": "fa44f37db1b9c23914f4868ec511ec03c3a1cbd65d4e74efb97e68a3e5ef748c",
+      "date": "2021-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210709 我拥有6家价值数百万美元的公司...这是我的做法.md",
+      "url": "https://www.youtube.com/watch?v=V7oUcAfof34",
+      "sha256": "b2ad4969325046ae1ff3c033cfd5bb57e742fda1bfe2d9d7943583d4211345fe",
+      "date": "2021-07-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210714 这就是为什么我总把一部分业务免费送人.md",
+      "url": "https://www.youtube.com/watch?v=PxpPynt1mis",
+      "sha256": "2e08fb95e0cb004d8370535aacc2254d8ebd03373a62c06157d2aa2b8da0f75b",
+      "date": "2021-07-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210726 我们开除了所有迟到的人……原因如下.md",
+      "url": "https://www.youtube.com/watch?v=rX5zKeQu7ow",
+      "sha256": "14e3330097d1d58229c86d716579e76879ef4c65971b2d044146c910258cc907",
+      "date": "2021-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210730 创业者陷入困境的3个原因.md",
+      "url": "https://www.youtube.com/watch?v=K3cSPJDlcVc",
+      "sha256": "9dfbbad488977c89fc50007641b7796e1483b6e934128aaf5b163eb653a2b3fb",
+      "date": "2021-07-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210802 我如何每周只工作2-3天，打造十亿美元帝国.md",
+      "url": "https://www.youtube.com/watch?v=ug5N9qmFVKQ",
+      "sha256": "6f4489ee6896b24ecf146075836b153cc07a76f1a406edb49b84ddcb4e15bea3",
+      "date": "2021-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210809 我花了10万美元买课，帮你省了这笔钱.md",
+      "url": "https://www.youtube.com/watch?v=kULFeI3LRYk",
+      "sha256": "f4d7510492e86652d0cd4b4f472c6d1765d14ac583cbe27306102e08ad3341a6",
+      "date": "2021-08-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210811 我用的一个简单声音调整，让收入暴涨.md",
+      "url": "https://www.youtube.com/watch?v=OmDv6-651SM",
+      "sha256": "61b3a718b4e8e81ab3faed88f39b66b4dc85336413cf13748b849e8c22c5c87d",
+      "date": "2021-08-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210816 大家最容易犯的一个大错.md",
+      "url": "https://www.youtube.com/watch?v=MLkFOaxIdxM",
+      "sha256": "ebe331833d49562ababd17ee942022a776d32e55411a6021c6b468f88ca26be4",
+      "date": "2021-08-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210823 我是如何让700人每人付我4万美元的——不吹不黑.md",
+      "url": "https://www.youtube.com/watch?v=_qspvJAq34M",
+      "sha256": "d16ca9c3385f60cd3bcebf07b6a44e3945e362406ff3b6843af5759e40e8d842",
+      "date": "2021-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210903 创业者们，别再开新公司了。先把手上的做好。.md",
+      "url": "https://www.youtube.com/watch?v=s59jbVBprn0",
+      "sha256": "1a154c9a99637fcb8ecf7ceefb1f605d84a926a246677293f4325881c9875c5f",
+      "date": "2021-09-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210915 我32岁前创办并卖掉了6家公司……我的无聊公式.md",
+      "url": "https://www.youtube.com/watch?v=sEQNnsaeiAs",
+      "sha256": "04667491feac4c5a2a3af1322bdf840a447157f69b9af4aec32c0bb5c76c6648",
+      "date": "2021-09-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/210917 我花7年赚到第一个100万.md",
+      "url": "https://www.youtube.com/watch?v=Xb9ZOA6zypU",
+      "sha256": "357ad534406a30537c5e6c9e8fb5590705172877a23f1ce25ac409ed689ed0bf",
+      "date": "2021-09-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211011 30天内获得无限资金，打造你的线上业务.md",
+      "url": "https://www.youtube.com/watch?v=DpbXWP8fLbc",
+      "sha256": "7c19a44077ee9c4cdd4f2ebe0cfeeb622cf1102b7555197d8c7d347f54db98d1",
+      "date": "2021-10-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211020 摧毁十亿美元企业的简单公式.md",
+      "url": "https://www.youtube.com/watch?v=MA-5y9s80Qs",
+      "sha256": "0add58db1d011017f8ee01a19055bb04fbfb0a3dc1a2dd26b052024baa65ac2f",
+      "date": "2021-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211029 我是如何碾压抄袭者、小偷和竞争对手的.md",
+      "url": "https://www.youtube.com/watch?v=cGup9yYrOoc",
+      "sha256": "bfe3c5b19e130a06143b7fa0c91556ef0f5a57bcad4f4e82e4cb87dacc8e5e43",
+      "date": "2021-10-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211110 我在20多岁如何在一个“饱和”行业里做到第一....md",
+      "url": "https://www.youtube.com/watch?v=y3T4GqoH0Us",
+      "sha256": "8a91de3730fd8d5a967ed789eb539ae97212b810ca314a553be620ca797d8062",
+      "date": "2021-11-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211119 重要提示：如何获得更多性爱并增加收入……（这个方法有效）.md",
+      "url": "https://www.youtube.com/watch?v=PArqypiHcyQ",
+      "sha256": "2d1683ec9f78954c996c394c673550d76e33134d3b838f6902bf88d5563baa45",
+      "date": "2021-11-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/211129 我是如何发现百万美元机会的.md",
+      "url": "https://www.youtube.com/watch?v=GDqmlwY_uj4",
+      "sha256": "0add7dad77932f7709bca9ad184e84e6ddeeef754c25a16bb5d32427fa8da01a",
+      "date": "2021-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220204 你不成功的真正原因.md",
+      "url": "https://www.youtube.com/watch?v=2tHlHWgDRdQ",
+      "sha256": "8b8ee32101c696c5776be43dbb050930ede06e865f293bd9d3ef712557331e2a",
+      "date": "2022-02-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220309 二十多岁最大的错误，会让你三十多岁变穷.md",
+      "url": "https://www.youtube.com/watch?v=sij16VKQL2M",
+      "sha256": "c315611c5cde73cd75e198f75a563713faf555cb08bc66a8ee7cacabc2f6047c",
+      "date": "2022-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220311 如何得到你想要的....md",
+      "url": "https://www.youtube.com/watch?v=YaNX49ygr0I",
+      "sha256": "5cc21e9f2cbdd058a1df10e39465114624c9d413f7a4cfcc86344edc13748d00",
+      "date": "2022-03-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220314 学会这个后，我再也不会失眠了.md",
+      "url": "https://www.youtube.com/watch?v=55H71isO_Bo",
+      "sha256": "bff81a77e4f2c3f6a8cdd7a2da182f6d549bda8603ee653a47116926fba7d99c",
+      "date": "2022-03-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220321 我卖掉了所有东西.md",
+      "url": "https://www.youtube.com/watch?v=RBR4BwOVNvs",
+      "sha256": "1eb9d57dfa0d02a5ca4843c690d259dced23f0c4c77cb74dfffa607da902593d",
+      "date": "2022-03-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220323 小企业战胜大公司的6个方法.md",
+      "url": "https://www.youtube.com/watch?v=MwhsM7qijy8",
+      "sha256": "fbc0fb374ac7bbc33ef62cde6b0403bbeaf8792398a18d13e7dafba699c5281a",
+      "date": "2022-03-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220330 改变我命运的那一天....md",
+      "url": "https://www.youtube.com/watch?v=_33XVdvO4Gc",
+      "sha256": "c4ac8b1c9fc71f3ad671219c2486f6716f9cc0982d13e1cadaa5d658cf89c6ee",
+      "date": "2022-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220404 开软件公司是个烂到爆的主意……【慎入】.md",
+      "url": "https://www.youtube.com/watch?v=pw1PcHfYP2w",
+      "sha256": "a981968766409ae2b804ca0ba373138cad3221a3a037642032df2fc8651dcb07",
+      "date": "2022-04-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220408 为什么自我关怀会让你又穷又脆弱【慎入】.md",
+      "url": "https://www.youtube.com/watch?v=bP_rsdO3hWM",
+      "sha256": "55e37f8020cf4c98feaf29f775a6e695ad317246827b01b620dc6fbd0578a72a",
+      "date": "2022-04-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220420 顶尖创业者如何重新定义现实.md",
+      "url": "https://www.youtube.com/watch?v=kzKxrifSMNg",
+      "sha256": "6e28d2173a9c23390e73fb623ff87f0adbd419bdfaaef07b6222cd18baac8965",
+      "date": "2022-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220425 他们骗了你：为什么惩罚根本没用.md",
+      "url": "https://www.youtube.com/watch?v=WRW7eY6K4Jo",
+      "sha256": "bd9456e9ff879c771d30dd0248f210b204e9ed4a21194ecdbcee02ab9af29712",
+      "date": "2022-04-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220511 我32岁前卖了8家公司 [方法在此].md",
+      "url": "https://www.youtube.com/watch?v=pWbSl7d0tEc",
+      "sha256": "637817e7031ee8109ac3c344523de4bda41e4e8adee49a8db6d47283a8055046",
+      "date": "2022-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220513 失去朋友其实很正常…….md",
+      "url": "https://www.youtube.com/watch?v=rl_IkHyKHJI",
+      "sha256": "e047f18eb8d9e7f3412804966aff3a51284696579d121c8bce4671dcf9e8783f",
+      "date": "2022-05-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220517 主题演讲：从小到大的四大获客模式.md",
+      "url": "https://www.youtube.com/watch?v=XwZH-lOKG9c",
+      "sha256": "85590e923618cbf47b6e03430e1bc493363227e73db456018dec8496180f853d",
+      "date": "2022-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220621 为什么我不跟着感觉走.md",
+      "url": "https://www.youtube.com/watch?v=6nkoXslz_pI",
+      "sha256": "cfcbeea009e7f0bb57e8ed9548cc2410e578c90a7baaec07b867d1748e05d16f",
+      "date": "2022-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220628 2种商业风险，我每次都选这一种.md",
+      "url": "https://www.youtube.com/watch?v=A9qHKjFPJ-E",
+      "sha256": "cc2481b940e55a00bab5beef8c0706293a2b8fb986c0c30b08a126b9a578c01f",
+      "date": "2022-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220630 让我无法突破3000万美元的最大错误.md",
+      "url": "https://www.youtube.com/watch?v=EUW3rMp-Uvg",
+      "sha256": "1c8ca52c43bdb2aa084aa481664bd4f0f827ee2e485799a7d0a4128f21e1bc88",
+      "date": "2022-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220712 10个让合伙生意注定失败的致命错误.md",
+      "url": "https://www.youtube.com/watch?v=JShQ8BX08rs",
+      "sha256": "be0b6adfbf5121e3a35333a0adff94fffecf9e350c1d7343b1458f6eba923fe4",
+      "date": "2022-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220806 我是如何“黑进”大脑，让自己时刻保持感恩的.md",
+      "url": "https://www.youtube.com/watch?v=hrp3ehx_lJM",
+      "sha256": "24c89033aecfb24033c2d0e3a0fc19c1d442631d4890cdfc72df578fd3c89602",
+      "date": "2022-08-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220823 从人生谷底到破局重生（如果你正感到低落，看看这个）.md",
+      "url": "https://www.youtube.com/watch?v=Q2JCTCQzgKM",
+      "sha256": "0799f78927f517b74228b588e15e414125fcc3381b6027dc7eb84e3004ac46f1",
+      "date": "2022-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220827 为什么你应该退学.md",
+      "url": "https://www.youtube.com/watch?v=5RiR6cBLkFg",
+      "sha256": "543abe16cb79f740d76c7aeef34d5665a3f70f02b6e6c88bc7d72d5c4eb6d44f",
+      "date": "2022-08-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220906 一个神奇的业务精灵给你三个愿望…….md",
+      "url": "https://www.youtube.com/watch?v=_ArQlwPvGUA",
+      "sha256": "259acde18158f9225ce0fedef58624cb64102c585a170901f5d7cef78829600a",
+      "date": "2022-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220913 如何彻底告别压力.md",
+      "url": "https://www.youtube.com/watch?v=7DKXLasU4Kg",
+      "sha256": "61ee6fcd762fe3f0106d2939aa139542c0cb067c91e138ecaa0c372b106ecc7b",
+      "date": "2022-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220920 这一件事能让你成为更好的创业者.md",
+      "url": "https://www.youtube.com/watch?v=JsXZzgD_k9k",
+      "sha256": "cc506558fdd20034dbffb3e224ce99166ab8370a1fb38aea4bd1abb543702eb7",
+      "date": "2022-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/220925 我如何零成本、无出版社写出畅销书第一名.md",
+      "url": "https://www.youtube.com/watch?v=-TOYJHax5x8",
+      "sha256": "e254c9870d57af4babe3ee4509093920aa47b6b82674b1e6365ea2c92305d80a",
+      "date": "2022-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/221016 为什么老朋友会让你变穷…….md",
+      "url": "https://www.youtube.com/watch?v=vVssypj7nYw",
+      "sha256": "981a8f646a82795c69f267e0a6b626090f36a766d3b976124ac9269fa277444d",
+      "date": "2022-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/221102 他们如何让你永远穷下去.md",
+      "url": "https://www.youtube.com/watch?v=yflKMUffctE",
+      "sha256": "394c51bba6a48f6d95aa4e5b7363137602769d723b6269be5702b5f40806a18a",
+      "date": "2022-11-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/221130 一位YouTuber问我“怎么做生意”，这是我的回答.md",
+      "url": "https://www.youtube.com/watch?v=4pZwlE86A5Y",
+      "sha256": "569c3f73ab56f530d7c6056b6bbcdcea278716260edaa8d8dc08400bbbccb5bc",
+      "date": "2022-11-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/221207 为什么看起来穷反而是聪明的做法.md",
+      "url": "https://www.youtube.com/watch?v=Day0yToqeco",
+      "sha256": "27bd40769f10561b7a6cebabef5ce61952ac739c4aae83f729794d0f84defe62",
+      "date": "2022-12-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/221214 2026年最佳学生副业.md",
+      "url": "https://www.youtube.com/watch?v=CGSd00h-6zI",
+      "sha256": "4f373845f0d27b02f679340052f79c080692d2acc928ad9b57a740ca64345ea4",
+      "date": "2022-12-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230104 如果你感到精疲力尽，看看这个.md",
+      "url": "https://www.youtube.com/watch?v=vthPawWn6ws",
+      "sha256": "0361cb725e3f13b1a651e5ad54596186d2909a1db22d25e28dc39f4cd122448c",
+      "date": "2023-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230111 11分钟搭建一家冻酸奶店.md",
+      "url": "https://www.youtube.com/watch?v=xZ8d9g6BcKM",
+      "sha256": "27d5e56f67f71298b2fd819c5f3956b30a6426937ce0a81d01d56a3e969c3bab",
+      "date": "2023-01-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230118 Chick-fil-A 500亿帝国背后的7个秘密.md",
+      "url": "https://www.youtube.com/watch?v=TIH1w-KuATk",
+      "sha256": "0f9db82ac950d55fc8f403bfb1c98a3d5b6cfa51b0cb82e3270c3591fed42448",
+      "date": "2023-01-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230222 我连续做了4个生意，证明这不是运气.md",
+      "url": "https://www.youtube.com/watch?v=0mqqbuM9sAk",
+      "sha256": "a06d1a7b287d40e031cf12c372ff7d54d8294961e0ecc4cb25e1a721dc9d417b",
+      "date": "2023-02-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230301 年轻人贫穷的头号原因.md",
+      "url": "https://www.youtube.com/watch?v=-wnnwCqGeNc",
+      "sha256": "e5196d928865f806bb17bf11b107b4fc589b7f1ceab97720e60973ad111e5ddc",
+      "date": "2023-03-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230322 为什么你不该照搬我的做法.md",
+      "url": "https://www.youtube.com/watch?v=zNJ5JzEJgyo",
+      "sha256": "b3721ec810746deaf6d50aaa343c844bc93f04e1900e378b5850519e63030345",
+      "date": "2023-03-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230329 如何得到你想要的（6个有效方法）.md",
+      "url": "https://www.youtube.com/watch?v=_PCCqqv2pig",
+      "sha256": "029037dfc8fca60a38862e612469ab31f143d8b0b9d588f89f1e527d42d15c1e",
+      "date": "2023-03-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230510 如何全力投入你的副业.md",
+      "url": "https://www.youtube.com/watch?v=SYkwtqFoRcM",
+      "sha256": "d4c844b1a28070520027eaed52c3ef0e4e1552591b03cb5ae5d03d11cc87f70b",
+      "date": "2023-05-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230514 Alex Hormozi 的饮食秘诀（大公开）.md",
+      "url": "https://www.youtube.com/watch?v=fxyhIXZ6Yog",
+      "sha256": "6cad42e6e8bd796bc6725c620725e9f88a98f620792c1b7d14d4fa8e86c69e8a",
+      "date": "2023-05-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230517 如何打造一门真正靠谱的线上课程（2026年依然有效）.md",
+      "url": "https://www.youtube.com/watch?v=oTQPxPFROck",
+      "sha256": "9ac354ef665af0f8744bbd23c6153b3ce6cb0df95e549801fb9a0218c06ab3c2",
+      "date": "2023-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230621 没有新朋友（我对友谊的“极端看法”）.md",
+      "url": "https://www.youtube.com/watch?v=1taVrxMFjaY",
+      "sha256": "953b837a24ce579d8a0c68d13576408ca0b9430e2ecafbac98cb1f4fd0bd5873",
+      "date": "2023-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230628 我12小时的工作日（浓缩成15分钟）[第3集].md",
+      "url": "https://www.youtube.com/watch?v=lJF__n_34ew",
+      "sha256": "5119f1c24843cd945b36b0f72aa61f16449f51e147fd0aeb76a4f3a7891ec85f",
+      "date": "2023-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230706 重大消息.md",
+      "url": "https://www.youtube.com/watch?v=zZyRg4Fzabk",
+      "sha256": "63da311e77281c72cec44fd7cb218798125957bc9207790e02224a2d77092652",
+      "date": "2023-07-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230712 MrBeast为何能值千亿美元.md",
+      "url": "https://www.youtube.com/watch?v=VPre_XMgKjs",
+      "sha256": "ac8e8ab7f327e39acea850aa262864099413d03a7850b28aae1b90b237e205df",
+      "date": "2023-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230802 看这个，拿下你的前5个客户.md",
+      "url": "https://www.youtube.com/watch?v=w7g08dVTwaE",
+      "sha256": "fed1e91938b210a5fcd772d4cc704603ca28a88c55151c67d416cdd3af941999",
+      "date": "2023-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/230906 我逆向拆解了完美生意.md",
+      "url": "https://www.youtube.com/watch?v=HKbFUWJwEG0",
+      "sha256": "a336304807fd7dadf669d4d1099c3a046d70df97223207a1b78caf6e3b5a6981",
+      "date": "2023-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231004 我用60天把一家公司翻倍，证明这不是运气（上）.md",
+      "url": "https://www.youtube.com/watch?v=c_6BrF7jOGk",
+      "sha256": "90ff5255c4b4988166576028375b7e61fbc698de76a71f80f88ebf569a000546",
+      "date": "2023-10-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231011 我试了这个简单的商业策略60天，结果是这样的.md",
+      "url": "https://www.youtube.com/watch?v=yPDQCfrwh8E",
+      "sha256": "a304977feee1098f2df7620a51f33668fe2174b3eab34e607adc9b696c649852",
+      "date": "2023-10-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231115 我和Chris Williamson的全身训练.md",
+      "url": "https://www.youtube.com/watch?v=ABOd589OyTM",
+      "sha256": "0583e57144ad8654eeb5ee99b33ef9a9b52f23f21f32b4c1f0cabf4910c58486",
+      "date": "2023-11-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231129 这个商业模式简单到谁都能试试.md",
+      "url": "https://www.youtube.com/watch?v=CaiLcj6tzBQ",
+      "sha256": "00f6adfb8f4586e3b78895e4b0ae8f1ab9e786a7c0ad4bb6bf5ace41d185dcd9",
+      "date": "2023-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231203 为什么我不回家过节.md",
+      "url": "https://www.youtube.com/watch?v=OvEfWrDOfNk",
+      "sha256": "0a375068b6d1bb1149fdab51391ed0c37ec6f206e6b489899789433499b40355",
+      "date": "2023-12-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231220 百万美元方程式.md",
+      "url": "https://www.youtube.com/watch?v=QGcjweehrvU",
+      "sha256": "a3bf9b8272f8b8d11e952e05bca3f341a34f5970a0d32ebcc1b735b5473eaec9",
+      "date": "2023-12-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/231227 回答关于我们关系的劲爆问题.md",
+      "url": "https://www.youtube.com/watch?v=hCgr7jT7JLA",
+      "sha256": "40c44f8dff25b3535ae009b3f200b1fb777ec292dc91ac9c48292f409b7b164c",
+      "date": "2023-12-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240103 Alex Hormozi 的爆款配方大公开.md",
+      "url": "https://www.youtube.com/watch?v=hGX_z5rXRlU",
+      "sha256": "9f9a6e67e74821c8465f11d1e4ea80435842cf21ab96bef9d531b0ffeabd7072",
+      "date": "2024-01-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240207 2024年想创业，先看这场访谈.md",
+      "url": "https://www.youtube.com/watch?v=YZdE8U5eD_s",
+      "sha256": "0dc5924b134dabf09f44597c07ac176c3a834cd9203240d6c46b7e7e4ab81dee",
+      "date": "2024-02-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240214 如果我现在单身重新开始，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=jiCGLDhUCHY",
+      "sha256": "08cb06582cdaba97a91f32bcd3e9fab41a78db38e4dde266735a0cd348677c81",
+      "date": "2024-02-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240228 说真的，上大学前先看看这个.md",
+      "url": "https://www.youtube.com/watch?v=nxL4ZfVqKLI",
+      "sha256": "10a5f58b3a321148e500bca2cece848dafc809beac3471e91f9980047b150d65",
+      "date": "2024-02-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240313 Alex Hormozi 应对黑粉指南【揭秘】.md",
+      "url": "https://www.youtube.com/watch?v=UxQJ64BNuco",
+      "sha256": "f22dcf5c9b8a6ac55bd1c964b31a85b9f239bd4b0923f638342f34e09aa7e7e2",
+      "date": "2024-03-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240419 尝试这个方法的54.1%的人赚到了第一笔线上收入.md",
+      "url": "https://www.youtube.com/watch?v=IFpHasZ7jN4",
+      "sha256": "48c7658b7abffcb7e34580a9d9946853e9a2f4fb23931c16ecd56774a2c018aa",
+      "date": "2024-04-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240526 你的业务并非你以为的那样.md",
+      "url": "https://www.youtube.com/watch?v=rj7rzOdj84A",
+      "sha256": "03cccc8071af9801d3b510793b274fa303ca8bd24b4d8c645169964648645bdc",
+      "date": "2024-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240603 你把客户惹毛了……然后呢？.md",
+      "url": "https://www.youtube.com/watch?v=p39nLmVtOjc",
+      "sha256": "2da834aa85d7ce7956130f56c4012f539b1bc24a592d6e01389761eb246f5610",
+      "date": "2024-06-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240612 你浪费了80%的时间（这是解决办法）.md",
+      "url": "https://www.youtube.com/watch?v=GIRkQQHzsxI",
+      "sha256": "284f04b4f57b733da18b3ba3383fe62c876615235397ddd850b5ea0b51a50bd5",
+      "date": "2024-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240626 我破产了，该做什么生意？.md",
+      "url": "https://www.youtube.com/watch?v=nIk3DedjxJM",
+      "sha256": "300e67a7243164364040ae5cd702cb71bbc2cae481b100ab0df7b6cd35c6af90",
+      "date": "2024-06-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240703 我发现了2024年最容易起步的百万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=Rm4zRdLAyjw",
+      "sha256": "761d18659e4d5bcc498901336c2770aee421ee288679434efb15a04f95233fd5",
+      "date": "2024-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240712 13种合法干掉竞争对手的方法.md",
+      "url": "https://www.youtube.com/watch?v=Lc8DNduiwKA",
+      "sha256": "0e707b2245f1ede95b969e88e7bcd94b433a07a999a6b6f593843e05b6e1eaf3",
+      "date": "2024-07-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240715 做生意的难点，搞懂这4个概念就通了.md",
+      "url": "https://www.youtube.com/watch?v=F84olnKkseM",
+      "sha256": "092b461f8d0cafbf3d457339641c8492bd8f35aeee7b36a35866de0080062ee1",
+      "date": "2024-07-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240717 天才策略：让每个人都想买你的东西.md",
+      "url": "https://www.youtube.com/watch?v=5MjjpB8SPMo",
+      "sha256": "19109155280070c325d44823047f94dfb6bdc756158bb21370decf461f64a7dc",
+      "date": "2024-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240730 4步拯救你的业务.md",
+      "url": "https://www.youtube.com/watch?v=kloJJeiysxg",
+      "sha256": "ec59dad1826e87a945543b2f01ec11f9d58e5c5a5be3c64f202c693dbc478b46",
+      "date": "2024-07-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240828 看这个，留住更多客户.md",
+      "url": "https://www.youtube.com/watch?v=afbP6sB_Atc",
+      "sha256": "63ba44d06f12a9dc4cd9099d64c3871f312209bab3dc21652b973bb09ef71ef9",
+      "date": "2024-08-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/240911 如何比99%的人更清晰地表达想法.md",
+      "url": "https://www.youtube.com/watch?v=s6tkRztZwYc",
+      "sha256": "2101bd8bf8ad9116327c24d43bff7f58912ae445752a326588fd3b2850c441cf",
+      "date": "2024-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/241030 这家业务卡住了，我是怎么解决的。.md",
+      "url": "https://www.youtube.com/watch?v=4GQLJjH9-oA",
+      "sha256": "a68f9a9649c50461c9f1969eb21760a55df585b074b40f991e211d0f071e223a",
+      "date": "2024-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/241120 2026年最值得开始的生意：Skool社群.md",
+      "url": "https://www.youtube.com/watch?v=rn5-yLUaNw0",
+      "sha256": "ab8da871b6650b1add0c5161eb121daaf289e9827e4ac08bd9cf981d8c1812b6",
+      "date": "2024-11-20",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250410 为什么“追随梦想”会让你越来越穷.md",
+      "url": "https://www.youtube.com/watch?v=6uhd-FiCggg",
+      "sha256": "2416af5c752cb729472a394efede45e4a7100b51019558829ae34a975b076863",
+      "date": "2025-04-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250422 你最可能还在相信的最大误区.md",
+      "url": "https://www.youtube.com/watch?v=kQFSiEDvXws",
+      "sha256": "8048d9bbd0ab2a8e76b6657f6d018d8f9194428e2c40a9d6581c90e101b5b229",
+      "date": "2025-04-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250423 如何每次都能得到你想要的.md",
+      "url": "https://www.youtube.com/watch?v=Jc2UW3nlNBA",
+      "sha256": "990cb730b0f7bd306fbbcff56f4b6b1e243f54ab18e79d27f3e322d40cd93a49",
+      "date": "2025-04-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250502 做生意的难点，直到你做到这一点.md",
+      "url": "https://www.youtube.com/watch?v=CoPs-Bk8M9Y",
+      "sha256": "c0d353a7bb1edaefdd704e38d403151f1f3605babed46a0900552a51c91f472a",
+      "date": "2025-05-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250506 像哈佛一样打造你的业务.md",
+      "url": "https://www.youtube.com/watch?v=FiL0r5_dUvM",
+      "sha256": "9d30a53525410fd406ac1e28fd1517885f02cb0c2d8361627678fb698c107c10",
+      "date": "2025-05-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250520 2026年做生意进入“简单模式”（原因如下）.md",
+      "url": "https://www.youtube.com/watch?v=Ds_Qp2U5I8U",
+      "sha256": "38736ddc286ab5d5878063576d3e5159a794a31b5e020c4bc71be9cf867ca69a",
+      "date": "2025-05-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250522 少即是多：简单生意的魔力.md",
+      "url": "https://www.youtube.com/watch?v=-JLN1d1ZKUU",
+      "sha256": "7ab1c501ac191789f54b618ada57f64a0841df46c0c98e0ab3ebeebae2f4ffe2",
+      "date": "2025-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250529 从零开始创业指南（先谢我）.md",
+      "url": "https://www.youtube.com/watch?v=unshZobTt6Q",
+      "sha256": "653592e0eeef1e608c1b78e2e65744c608e9e75f8810cb53a39849a00b1e918f",
+      "date": "2025-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250618 你需要这个视频的时候，自然会看到它.md",
+      "url": "https://www.youtube.com/watch?v=IFElGv5ZmRM",
+      "sha256": "c8401facf0ad2047a48151cd68063477c77fb40835b83646744c5babd93903b4",
+      "date": "2025-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250620 我用一个秘密业务做爆款，证明这不是靠运气.md",
+      "url": "https://www.youtube.com/watch?v=SmiOK8Yun4s",
+      "sha256": "4a0e6f5b4af00baa50f936312b89f79af27dbfe24959fbbcf98c87ceda4e0f95",
+      "date": "2025-06-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250702 我最重要的一个消息….md",
+      "url": "https://www.youtube.com/watch?v=zgYQT-fdLL4",
+      "sha256": "7fb5d125a630b568defa42d0e427b8ebd6fa6aea17979cb3a4bd917a4de80499",
+      "date": "2025-07-02",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250703 复制这个策略，你的业务会爆.md",
+      "url": "https://www.youtube.com/watch?v=DaRXece2ItE",
+      "sha256": "57c996eee8b1ada15c90d97b8b15f204281b31e337f498079de3e150de4d136e",
+      "date": "2025-07-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250719 我用3个小改变把业务做爆了（直接抄我）.md",
+      "url": "https://www.youtube.com/watch?v=3yAiVjcImQ4",
+      "sha256": "90d68dca9c895790448826c65f5c8e07031df0a1c27adeacc26ca9eaabbef3d4",
+      "date": "2025-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250726 你最大的优势是没人认识你.md",
+      "url": "https://www.youtube.com/watch?v=prj1bnTAM8A",
+      "sha256": "af206de8a7846963f7901339867716b9bb3a02a4bb15f4ae0108eec8aa9a2430",
+      "date": "2025-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250815 我的最后一次更新.md",
+      "url": "https://www.youtube.com/watch?v=tGhe3sBuk34",
+      "sha256": "117f6c1d6cfb902d7512fa3079f2a90c8e015a57634115b91ee58d41a6ff0a8e",
+      "date": "2025-08-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250823 如果你看到这条视频，说明我们成功了。.md",
+      "url": "https://www.youtube.com/watch?v=q_4P7FOFEEI",
+      "sha256": "f246b5c0c5bb731934224335090ed3ce3931024db2ea97884837257845a71cce",
+      "date": "2025-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/251020 你会在这个对的时间看到这支视频。.md",
+      "url": "https://www.youtube.com/watch?v=WOZGZK7K-Jo",
+      "sha256": "f93695c5890fd2e1d3da29df206faadc5f9a3e4f660bf654195452a0f766f70d",
+      "date": "2025-10-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/251104 如果我想创建一个自动运转的业务，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=mr4Pw66_490",
+      "sha256": "8a08d332b4b164b256d9d868a88653a6b281b150ce5ec6a8890d37b738794e98",
+      "date": "2025-11-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/251206 如果我在2026年创业，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=uWdIgftpvBI",
+      "sha256": "bae9f30da77af81054491863761f8bfe6e821825245249cb94b87f1599c0115a",
+      "date": "2025-12-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/260109 商业的数学原理，通俗解读.md",
+      "url": "https://www.youtube.com/watch?v=A_tx40lNpf8",
+      "sha256": "3329948d8a5bb7003290da065d03fd4f6e423408bb07178bcf7e84a59633db58",
+      "date": "2026-01-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/260217 我花了36年才明白的事，26分钟讲给你听.md",
+      "url": "https://www.youtube.com/watch?v=_KlZoPxbStk",
+      "sha256": "2554f4f45496a9a9641d0d128a7f6018f9088391729c850d0a87def29eb82bcb",
+      "date": "2026-02-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/260417 Acquisition.com 的赚钱模式.md",
+      "url": "https://www.youtube.com/watch?v=hHkdbr6_JJs",
+      "sha256": "d7deb20dced8d4ee7efc4869f19746e72b9c764f254af50d844518cebaf84dae",
+      "date": "2026-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/260622 我再也藏不住了。.md",
+      "url": "https://www.youtube.com/watch?v=Z5rKn1ZIp3A",
+      "sha256": "7fa0ea8ef18bd136f35272c7c1079c261858113d923d05873fb4b9c2c48815e5",
+      "date": "2026-06-22",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/180720 在任何地方销售（2018年如何卖给任何客户）.md",
+      "url": "https://www.youtube.com/watch?v=aiS5qH7UMX4",
+      "sha256": "9ba4bf63097f04d083eeee65be39f77d0aa71bd086033df1e9c1ff563893e5ea",
+      "date": "2018-07-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201001 健身房现在最容易犯的1个错误 [ALEX HORMOZI].md",
+      "url": "",
+      "sha256": "0100b1d128697e7652f097520b2c3c5364326b8e1185f563001d6f94f1b4300d",
+      "date": "2020-10-01",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201001 如何写出高点击率的广告标题【ALEX HORMOZI】.md",
+      "url": "",
+      "sha256": "55321aa921b42b54d83aae287a22223b6dd970f2221ba55f90130240c1af9848",
+      "date": "2020-10-01",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201022 如何不靠技巧赢得销售（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=iwskrByMIqo",
+      "sha256": "30b3e334a7b9c388ac71d8c1c92a3feda5e9c7dbbe01acdcf1b7c8b399efa77f",
+      "date": "2020-10-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201027 如何像专家一样应对所有低价推销（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=gza5RtQCVsA",
+      "sha256": "eb6c5ab0f0e89e059c4dc8fd67161d249c64d04cbe9ada6bf3f8fd6bc408224f",
+      "date": "2020-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201103 先说“不”，反而能成交客户 (ALEX HORMOZI).md",
+      "url": "https://www.youtube.com/watch?v=j1tA4l7R2c0",
+      "sha256": "3be0eead1e4b2268e18816d26de9298c59ac79fdc62d12f4b3966c28785387eb",
+      "date": "2020-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201105 产品为王（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=pxVeOkOVr2w",
+      "sha256": "e4acda1dfa2ab35eb7bca711ef95e0795882b3f96b078d7fb915f44f78890d70",
+      "date": "2020-11-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201112 我拒绝了两个给我5万美元的人（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=bpPoIOPgoAw",
+      "sha256": "63561096e11713bea56da840c5def35fc95f9944d64c435d4d6d6cc49a87841d",
+      "date": "2020-11-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201203 我是如何组建起20人销售团队的【全过程】.md",
+      "url": "https://www.youtube.com/watch?v=bgmh7p1s7zs",
+      "sha256": "ca90ee388c1dd3fd258fed4ab1a768f12b078e464c92c1d05c25b3e1547f5037",
+      "date": "2020-12-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/201230 我从最顶尖文案写手那里学到的文案法则.md",
+      "url": "",
+      "sha256": "6c245f000b771c3c267a015ca031847683237db0a59fd37c659ef635fb0af8c1",
+      "date": "2020-12-30",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210105 这个.md",
+      "url": "",
+      "sha256": "dc1683ff05b7bcd9680679ff178f16797b410fea676c30be59472080f8540747",
+      "date": "2021-01-05",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210309 3个简单步骤，搞定任何销售.md",
+      "url": "https://www.youtube.com/watch?v=CojS0DwflXc",
+      "sha256": "ac8189226b1f425cf924d11aee96a3fd7d5e3ab119343df65854b5f686f41331",
+      "date": "2021-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210316 用这个不寻常的方法，把任何东西卖给任何人.md",
+      "url": "https://www.youtube.com/watch?v=JfbtySq6_B4",
+      "sha256": "18a8842359d34dc5fe38b323cc4c40d35a8a2a815a81aed72d3d02ff3446efd6",
+      "date": "2021-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210408 掌握销售与营销的真正秘诀.md",
+      "url": "https://www.youtube.com/watch?v=QbDFCbpmI6w",
+      "sha256": "42dab9b4bd482fea49412ec2c51287739718b0b9077d53a2ec688c40aa3cb833",
+      "date": "2021-04-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210422 通过说“不”来成交高客单价.md",
+      "url": "https://www.youtube.com/watch?v=ETEFhDICm5o",
+      "sha256": "7d05c0cc72ccf118967165d7c9332761e17d70f2b6b8f6ac3c21807ffdcd6924",
+      "date": "2021-04-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210602 我教116位销售员我的成交框架.md",
+      "url": "https://www.youtube.com/watch?v=q32-l3Yoqg4",
+      "sha256": "847c3e1b09f3aa60f4cd3691d9d0fed1b51b547bf2797af7acc2f7c76c70a093",
+      "date": "2021-06-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210623 一个简单的心理技巧，让你的销量暴涨.md",
+      "url": "https://www.youtube.com/watch?v=42SOlVhDwWE",
+      "sha256": "3732be7e0920cbf192cec480d2dcd2e4a5d2fa17aa3cb9e5417763c7f70173e1",
+      "date": "2021-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210630 我是怎么涨价还不掉销量的（用了这个心理技巧）.md",
+      "url": "https://www.youtube.com/watch?v=GO6VCcLlnLs",
+      "sha256": "33023a51f0cd25715103929dd05aa8a516c272062aa5dd20d8c0944cec439996",
+      "date": "2021-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/210920 如何卖产品——最有效的说服技巧.md",
+      "url": "https://www.youtube.com/watch?v=ThSFgC_4NVA",
+      "sha256": "95a3952743235f304208a0f7c6fadd393a2b76bdfff98d72476815a0806e3a8c",
+      "date": "2021-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/211008 我破解了星巴克的复购模式，赚翻了.md",
+      "url": "https://www.youtube.com/watch?v=3P1XjUvo1b4",
+      "sha256": "cd327ba9d4dbb78d0b59ce440f0f69cd6fba1c44aa205d2fcc70e6f192f2ae30",
+      "date": "2021-10-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/211025 解释任何人如何打造百万美元级产品.md",
+      "url": "https://www.youtube.com/watch?v=neTSqOAMgao",
+      "sha256": "f445a3015f6bfafc070c1232da0a7b00a5b7b6af127861d80c7da2b99e7b8a86",
+      "date": "2021-10-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/211112 新业务必须卖的第一个产品…….md",
+      "url": "https://www.youtube.com/watch?v=EZLQzR-_83A",
+      "sha256": "59e6854e8726b37153098b25f1260faf5572f97ba545f5b5775f8eb4c84999ea",
+      "date": "2021-11-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220119 我是如何扩张销售团队的【薪酬、招聘与培训】.md",
+      "url": "https://www.youtube.com/watch?v=okA9Yt2KZuk",
+      "sha256": "3462952f5e81447755294a0ea18f71e6d92d694f22d39e4cd056acbb6a9145db",
+      "date": "2022-01-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220121 30分钟销售训练，让你的业务在2022年爆发.md",
+      "url": "https://www.youtube.com/watch?v=oi7bnS8uyJM",
+      "sha256": "452a560c7e6e41b0a08e0ede89a6d34253044b9443dba2f091287239eabe0339",
+      "date": "2022-01-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220316 千万销售员揭秘第一说服技巧.md",
+      "url": "https://www.youtube.com/watch?v=bHnVItVGJPA",
+      "sha256": "1dcd1a8ed36583837000c425d1b445c22dff05a792c98d3e9769a3b37ed6cf4d",
+      "date": "2022-03-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220503 互联网上最好的销售培训.md",
+      "url": "https://www.youtube.com/watch?v=NcD2t9qt-fM",
+      "sha256": "64428cd790a92009f5a04593ec95af80b67e4e0ca883e4974d514063e1635f76",
+      "date": "2022-05-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220609 客户说“钱包忘带了”，如何当场成交.md",
+      "url": "https://www.youtube.com/watch?v=Ul87yrDKZ78",
+      "sha256": "59a1704d6ceb81cb9b887fed3aef13e766940526c3cde42c5a642640795320a7",
+      "date": "2022-06-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220609 当客户说“我钱包落家里了”，如何拿下这单.md",
+      "url": "https://www.acquisition.com/roadmap-yta212",
+      "sha256": "81c97bde309b0982f0719dc13433be38dc4b19e41daed5a601bb1d1e64977e3a",
+      "date": "2022-06-09",
+      "status": "added",
+      "atoms": 11
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220616 我是怎么学会销售的……【心态训练】.md",
+      "url": "https://www.youtube.com/watch?v=AGCtZmgJ1JA",
+      "sha256": "5c676b1b96c3b17c4b9ef9946a222ccd5ca01f0873230e68240780938efdd6cf",
+      "date": "2022-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220707 把《一亿美元报价》用到电商上：我气炸了.md",
+      "url": "https://www.youtube.com/watch?v=NA61omfYgvI",
+      "sha256": "fb550e65664075863be431e04b53243da4bc32d9d749230d9b1d70e05f63d280",
+      "date": "2022-07-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220918 我最好的销售策略（赚大钱）.md",
+      "url": "https://www.youtube.com/watch?v=bx48qPlaGvE",
+      "sha256": "420f116e45888921fef095ac881afdd4a09c3fc3c8411cccf6f43965bf84f340",
+      "date": "2022-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/220927 如何从零搭建大型销售团队.md",
+      "url": "https://www.youtube.com/watch?v=2lA_A8BGRRs",
+      "sha256": "c1d09016025ac957c839815e3f47a5eab81a2537cb04d0f39d19a91842ac4fe5",
+      "date": "2022-09-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/230426 我破产了，该卖什么？.md",
+      "url": "https://www.youtube.com/watch?v=LVM89ik-7Kw",
+      "sha256": "79e9cbffc17207146e1f89a91733e654056c8791cd137ab511df46ad3ed503fb",
+      "date": "2023-04-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/240424 7个方法让客户反复购买.md",
+      "url": "https://www.youtube.com/watch?v=sPkMHh8zTMI",
+      "sha256": "a0886975395cf0d9a0b2b21017b23b8c9c7ef8351aa1afda3e5c9acf3579ab06",
+      "date": "2024-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/240518 1个新销售流程让收入翻10倍（你可以直接抄）.md",
+      "url": "https://www.youtube.com/watch?v=1UhvBSQFy6A",
+      "sha256": "cf276b0f9c0fe31c5b47d840be016472b9a96afa2a1ed8c4ac1c90688877b9a1",
+      "date": "2024-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/240607 如何打造一家未来能卖个好价的公司.md",
+      "url": "https://www.youtube.com/watch?v=VxKwz6hBVZU",
+      "sha256": "dd93aa3027477241a84bae3ed81e93455df289e57b13ea4cadcaa899b9d18518",
+      "date": "2024-06-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/240621 直到我搞懂这9个概念，销售才变得简单.md",
+      "url": "https://www.youtube.com/watch?v=cy2k1GdA-9o",
+      "sha256": "00c23ef8733cb80eab3fc1a05685626e3b19c81fa713fe090d3dc346c0eada32",
+      "date": "2024-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/240731 如何比99%的人更会销售（4小时终极指南）.md",
+      "url": "https://www.youtube.com/watch?v=JE2_7elAcxM",
+      "sha256": "6989cb4938fff989c80c2a34be07c3122b1b5af0f78e4730f6cf3cbec02a9b7f",
+      "date": "2024-07-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/241009 成交4000+单后，我发现了一个更快成交的新方法.md",
+      "url": "https://www.youtube.com/watch?v=RVbvhPGFi6E",
+      "sha256": "a2b0a6121e71c4754365df0d0643a2e4ce1565085563d00e593fb93133995c60",
+      "date": "2024-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/250104 2026终极销售训练营【完整课程】.md",
+      "url": "https://www.youtube.com/watch?v=StVqS0jD7Ls",
+      "sha256": "2fb39b7a79ea9fdf19bacf48549b30ca5daaf6a46e4295007b725c9c96d205ca",
+      "date": "2025-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/250214 2026年超级碗广告最佳排名 [等级列表].md",
+      "url": "",
+      "sha256": "af8234beb369153b17e954cb2f48170468ad162345ced3bf79cc40f047bc4448",
+      "date": "2025-02-14",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/250331 他靠卖培根年入6亿美元.md",
+      "url": "https://www.youtube.com/watch?v=orMbq2LtzKE",
+      "sha256": "30e52f5130920bd92f3266a2fd8062dd0d34b69679f968a0a63d37adec0f5ddf",
+      "date": "2025-03-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/250509 如何让别人心甘情愿听你的.md",
+      "url": "https://www.youtube.com/watch?v=aUnorufFIq8",
+      "sha256": "f3c9f5acbca8f264e46ea9e06c6f70e3983f6bbda45302e0239bc61db90fcb78",
+      "date": "2025-05-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/251112 如何说话让人愿意为你付费.md",
+      "url": "https://www.youtube.com/watch?v=sGakuNs9mT4",
+      "sha256": "d54b5b4c22f579c13af0a884567be5dfc3a1705e2a06d72222c3153964a6005a",
+      "date": "2025-11-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/260421 2026年如何在你的业务中使用AI.md",
+      "url": "https://www.youtube.com/watch?v=fr78adfAnuA",
+      "sha256": "623e1f4c767e26157d3cc2a0c9d823ab26b27b137f9874e162342419ffa647b9",
+      "date": "2026-04-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/260726 让我止步3000万美元的最大错误.md",
+      "url": "https://www.acquisition.com/roadmap-yta218",
+      "sha256": "37e5afdce386dfb5119e74b4c131deb49a30b6ecafd858a1f3503cd976f9466b",
+      "date": "2026-07-26",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/260828 多莉·帕顿：如何打造让人喜爱又难忘的个人品牌.md",
+      "url": "https://www.youtube.com/watch?v=SCi464zfAUM",
+      "sha256": "df2db5cce991f32e96ac264bd3e313f4149af055caa316260e6931a7f5a20340",
+      "date": "2026-08-28",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/260925 如何通过社交媒体致富（我的完整策略）.md",
+      "url": "https://www.youtube.com/watch?v=21flGkcZO3A",
+      "sha256": "b17b7084ed638db070d195d2c945f8e8bfd809a4e9c63ed3ccf5ea9c9669d42b",
+      "date": "2026-09-25",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/261016 If I could start over in business, I’d do this sooner.md",
+      "url": "https://www.youtube.com/watch?v=H8QfAfCbOXs",
+      "sha256": "0cbf0d2d798a29df871f22bc559075d48f8679cb33dd9b611e9433f903dcf024",
+      "date": "2026-10-16",
+      "status": "added",
+      "atoms": 11
+    },
+    {
+      "source_path": "youtube_transcript/02 销售成交与高客单价/261016 如果商业能重来一次，我会更早做这件事.md",
+      "url": "https://www.acquisition.com/roadmap?el=yt-alex-main-prevideo-20261012-cac83c19-scaling-roadmap-lead&htrafficsource=youtube&utm_source=youtube&utm_medium=alex-main&utm_campaign=alex-main-prevideo-20261012-cac83c19&utm_content=scaling-roadmap-lead",
+      "sha256": "e44b37df3eb97097545a03f25103b3e6997bbddcef37ff16e8540675069cb2f5",
+      "date": "2026-10-16",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/201001 如何写出高点击率的广告标题 [ALEX HORMOZI].md",
+      "url": "https://www.youtube.com/watch?v=kGfzLjPNsBU",
+      "sha256": "0e07aecf1913a2dfd8f520fcf69d96f8412d1283a79bccb516a67c06a4ad14c9",
+      "date": "2020-10-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/201006 如果我重新经营健身房（2020年这样做）.md",
+      "url": "https://www.youtube.com/watch?v=3ktgTBNlg7M",
+      "sha256": "b673b36a6325fefd593a90c2aca0142c5934bc48a6508e7b0bc6eba999fd4fb4",
+      "date": "2020-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/201013 5个方法提升潜在客户质量（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=Kk6Vdfdwmxw",
+      "sha256": "aa7a27a0a02c85b9177676e6134eaa7496cc081dc122cfba87b2744f6bbe2043",
+      "date": "2020-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/201229 营销大师课——如何让理想客户主动找上门.md",
+      "url": "https://www.youtube.com/watch?v=1IhvZC-Wpqs",
+      "sha256": "887a179aa5046df0a87b55cb87e924cd08853427e093a609fa7ab3bd8ed0e514",
+      "date": "2020-12-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/201230 我从最厉害的文案高手那里学到的文案法则.md",
+      "url": "https://www.youtube.com/watch?v=OyGKFhTf0go",
+      "sha256": "dfbc479e0c6126c575fdc0bb6e93a7433be630bdb25276e8f2cb72acd99b125d",
+      "date": "2020-12-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/210223 营销入门 - 商业营销基础.md",
+      "url": "https://www.youtube.com/watch?v=Cr0KdqZ954c",
+      "sha256": "afe4a4ed80aa66d6933e4274c4b4e04d0f5c0b3eeb0dcda0d640eaa163d3584e",
+      "date": "2021-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/210415 我用广告获得了1.06亿次曝光.md",
+      "url": "https://www.youtube.com/watch?v=0BZ7-PZR8jE",
+      "sha256": "67777369ab3093efddaf87c84811fa662f35872e30bb0494c4582a1fadd8c574",
+      "date": "2021-04-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/210510 3个落地页测试，让转化率和订阅量飙升.md",
+      "url": "https://www.youtube.com/watch?v=9Dc2UQbQNTo",
+      "sha256": "e20acfee2517bce75b31034b48b3aafa60d0cd0ad5911c74cca3f8627edebd91",
+      "date": "2021-05-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/210607 当钱不再重要.md",
+      "url": "https://www.youtube.com/watch?v=9xFtox66U28",
+      "sha256": "4c96846ed37453d85aced03b3e475671eb695d45f7884f97d4341ffbde4be5f8",
+      "date": "2021-06-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/211027 15分钟讲清我的非传统饮食法.md",
+      "url": "https://www.youtube.com/watch?v=RpqSy5V1fFQ",
+      "sha256": "ca9abcbeab59db5961dc3a25f0ab6becd1dd21f8a146154951037f7a973706fc",
+      "date": "2021-10-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/211122 我为什么节假日不回家.md",
+      "url": "https://www.youtube.com/watch?v=sGHbp0Vr1dQ",
+      "sha256": "bb397b146c018c3d8195435a34e49dc22c6697588af3fb5491cc67b131a98113",
+      "date": "2021-11-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/211203 为什么创业者又穷又丧 [慎入].md",
+      "url": "https://www.youtube.com/watch?v=gN--zZi3Nfc",
+      "sha256": "d6155859e7f5f8827f6f1f926f9c9cc866954b5c565045090046c9dff8e0de76",
+      "date": "2021-12-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/211220 我如何兼职还能持续产出这么多内容.md",
+      "url": "https://www.youtube.com/watch?v=eVY4Zo-hpqU",
+      "sha256": "c174a7ba642d8d51daac69771783574d7e9cefd5c03742df7fe8891609e9f994",
+      "date": "2021-12-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220307 为什么直复营销者能赚钱，却难致富.md",
+      "url": "https://www.youtube.com/watch?v=Ec41cSp_tWc",
+      "sha256": "89b3e0f57e0ad8293c0dcca373ab4fc6b9a672ca1ae100f5ad79648227c5d14f",
+      "date": "2022-03-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220506 我把自己过去5年的失败经历全写进了邮件……这是学到的教训.md",
+      "url": "https://www.youtube.com/watch?v=QQGHCG8d1So",
+      "sha256": "7583cc7c4097d7cc301fc34ca1931d2405af6e91fd147a0333eb5471bcf030da",
+      "date": "2022-05-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220527 我如何在6个月内积累120万粉丝.md",
+      "url": "https://www.youtube.com/watch?v=WrCt0R3FBFs",
+      "sha256": "5cf93320c7b0118bea8771dbc4988b82d53b6fa9147d63c14a6e0b1e5faaafac",
+      "date": "2022-05-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220614 我靠零收入创业三年，撑过来了.md",
+      "url": "https://www.youtube.com/watch?v=x1CtbsEqxW0",
+      "sha256": "7cab1257255936b6b85c8da9a18ca2ed63b0a089f949e2db7a61881232562730",
+      "date": "2022-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220623 我为什么选择让爸爸失望.md",
+      "url": "https://www.youtube.com/watch?v=To8jcTDwcxc",
+      "sha256": "3f786dbaab88d3fd6f3d7f0a06fcb1f51948a0dc4f6710f89195d3eb3698b214",
+      "date": "2022-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220802 6个月涨粉120万：我的内容营销策略全公开.md",
+      "url": "https://www.youtube.com/watch?v=MD5-HByRxoA",
+      "sha256": "e7eb6f7d2c674561b28170991e3329886cf3b553adb0386bd1b82bc6e1faa562",
+      "date": "2022-08-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220816 正确推出实体产品品牌.md",
+      "url": "https://www.youtube.com/watch?v=LvHDT0ZxSmw",
+      "sha256": "9b0762cbf6da55d22054732657261796b14024aa9d8c1c42b3a167f130ad9df2",
+      "date": "2022-08-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/220830 零粉丝如何起步积累受众.md",
+      "url": "https://www.youtube.com/watch?v=7ITff1fIbSc",
+      "sha256": "9d4d8bf7f424165fc8850ea41e380a7ce0c44a1482bc17c3cfa443ed3238970e",
+      "date": "2022-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/221109 如何让客户永远付费.md",
+      "url": "https://www.youtube.com/watch?v=K8MFC9t7snY",
+      "sha256": "5e21ed6f8a078f995c93c2fd630e7d62d6ff7ef1b7f59e1dff270b6e5513aab6",
+      "date": "2022-11-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230308 17场我后悔没早点进行的对话.md",
+      "url": "https://www.youtube.com/watch?v=ULGT0Qpglek",
+      "sha256": "4d1a4a30d6324c4b61ba9ffbb1a92b201f2b790fc6cf39b0661770c869b5c279",
+      "date": "2023-03-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230705 如何超越99%的人.md",
+      "url": "https://www.youtube.com/watch?v=Nh8Oc7ERdIU",
+      "sha256": "fd3f76cb3b0bcbf0606f49783b5d869b6ffda016744a6142653bef9d6219b295",
+      "date": "2023-07-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230719 免费送东西反而让你更赚钱.md",
+      "url": "https://www.youtube.com/watch?v=7NMH1oAkgLY",
+      "sha256": "0c0f850c34454f68fffd3b823cc96594eae05b446ac491e0f78bb78fdda064b4",
+      "date": "2023-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230729 我的1亿美元联盟营销指南.md",
+      "url": "https://www.youtube.com/watch?v=60_7PU9JDIw",
+      "sha256": "96aba9016e7fb21d7d1c27dfd2070592629004fe0becd5e01eef791fec56ae3b",
+      "date": "2023-07-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230823 《1亿美金销售线索》新书发布幕后花絮【官方预告片】.md",
+      "url": "https://www.youtube.com/watch?v=cHXYi7MqP5c",
+      "sha256": "b2d098d4d68f45ab030d90bd630e9102e289bff185c3dc406df0af3fd50ea44a",
+      "date": "2023-08-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230826 《1亿美金销售线索发布幕后》[第6集].md",
+      "url": "https://www.youtube.com/watch?v=qel9bf653Es",
+      "sha256": "6633324f478fcb3fe4e149964743d0fef0b2b1a05fb820b0f1f658a747def358",
+      "date": "2023-08-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230830 我用这个方法涨粉500万+.md",
+      "url": "https://www.youtube.com/watch?v=fd-hi3NqMYo",
+      "sha256": "d9d48f40f422ed59531a322c9a9b38dd9ea419dc79bcd48f3a173dd0ad29116e",
+      "date": "2023-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/230927 现在怎么办？- [第009集].md",
+      "url": "https://www.youtube.com/watch?v=Ktwv_uEW-uA",
+      "sha256": "03192ee8ba066a31091d3143251dad5b9c9f6289950b0549c3aa51e02735ee5e",
+      "date": "2023-09-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/231101 如何在今年黑五赚大钱.md",
+      "url": "https://www.youtube.com/watch?v=mHrAjWni65E",
+      "sha256": "90f4f9ef24622d1cd7e04a6e327f83a2ce31e72bfd97aed827f6ae6936421a22",
+      "date": "2023-11-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240420 1亿美元CEO教你2024年如何打造个人品牌.md",
+      "url": "https://www.youtube.com/watch?v=VQM3DrnVTcs",
+      "sha256": "f999d178b04f4b21d238365e5b130ade64540a3734058885476a3c0d917d6eb7",
+      "date": "2024-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240427 我如何在40个月内涨粉780万（6个关键经验）.md",
+      "url": "https://www.youtube.com/watch?v=HVOubeXUcx0",
+      "sha256": "4b73721410a275abf786c09f8ae16efffe688a541361fb5428b6fa2159f6cae5",
+      "date": "2024-04-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240501 如何借助网红一夜之间让业务增长10倍.md",
+      "url": "https://www.youtube.com/watch?v=Z2tgZC_XkT4",
+      "sha256": "03b2ee06f9bfd3b57359286ec12998880524987a781700502625c9ae64da2893",
+      "date": "2024-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240504 如果我想在2026年变现一个受众，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=oRqnTOT9ZG8",
+      "sha256": "344bbdab1b7e803b069928e20d0a045993a7f0a2dfab93a5d3511e59d0d33445",
+      "date": "2024-05-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240528 我连续30天只发商业内容【策略揭秘】.md",
+      "url": "https://www.youtube.com/watch?v=JOfsujnXxCg",
+      "sha256": "2c505d7377b7b30c304bc1ea899e308eec7e844f7258d7310179c4d90ddef34d",
+      "date": "2024-05-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240529 她用5800粉丝做到年入百万美金.md",
+      "url": "https://www.youtube.com/watch?v=0S5xsICW8qg",
+      "sha256": "80e505260303d6ab9acc59eb44dbf77b77dca43226ba94554009e9d8238c6496",
+      "date": "2024-05-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240531 13年营销经验浓缩成85分钟.md",
+      "url": "https://www.youtube.com/watch?v=reisEL_D7xc",
+      "sha256": "cb26cc20d6b93ad0d87765be0f6ba1ed4da0cc8b171ec5da868de9db4ab79f4e",
+      "date": "2024-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240618 7种免费获取客户的方法.md",
+      "url": "https://www.youtube.com/watch?v=qpQvdBFW_yI",
+      "sha256": "ddf1a4029669826e29904d1cc404ecd6b5d313578df55e5a9b10b80d7619a7ff",
+      "date": "2024-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240623 致富的关键，是不盯着钱.md",
+      "url": "https://www.youtube.com/watch?v=Uki3IUkUu7Q",
+      "sha256": "02ebd315d0f98f6c676e238552049522b04ece738dc6d22c61676a6c8865ac1b",
+      "date": "2024-06-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240720 30分钟学会付费广告！.md",
+      "url": "https://www.youtube.com/watch?v=fSbqaTlWaYI",
+      "sha256": "691315c8bf94ec098d88a3ebfe0cd984989891ec403d21a611abb3135d923c69",
+      "date": "2024-07-20",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240729 打造个人品牌，但这次是简单模式.md",
+      "url": "https://www.youtube.com/watch?v=UGEc9-7X3OQ",
+      "sha256": "62f8fe319cac260e1981b7d2f4bc3507c882d4fc0e5a759d79e174357e5287f3",
+      "date": "2024-07-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240820 更多粉丝不会让你变富，但这个可以.md",
+      "url": "https://www.youtube.com/watch?v=lEIqyLE4iOY",
+      "sha256": "8d7a1f9febe9227cbe46954dfff0019dfab71c79be96b31f97f2a25a6544eea7",
+      "date": "2024-08-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/241023 如果让我从零开始创业，我会这么做.md",
+      "url": "https://www.youtube.com/watch?v=HsQeQM1jUeg",
+      "sha256": "ff0720bd0d46be58f445b97969519427c1f47f3ecd2bcdd03427e43354d9b733",
+      "date": "2024-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/241106 39分钟学会邮件营销！.md",
+      "url": "https://www.youtube.com/watch?v=pLhQOYMGa88",
+      "sha256": "e1e2341d3dc51307e07f4b83a4dc8bbdaacd2c4997262b8198816508ba2ee738",
+      "date": "2024-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/241113 其实超过99%的人并不难.md",
+      "url": "https://www.youtube.com/watch?v=TFxT3G5jwtU",
+      "sha256": "33b77e5d34863302b3e27c208af3d5f4bf661450ca94a16b94a91735975a04fc",
+      "date": "2024-11-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/241216 如何快速获客，快到感觉像作弊.md",
+      "url": "https://www.youtube.com/watch?v=FMzKk73iUhw",
+      "sha256": "0604fa24644e29930aa6e1f2dacf0553e7c542206a676b9d9f520d03c27579ed",
+      "date": "2024-12-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/241223 想让2026成为你人生最好的一年？请看完这支视频….md",
+      "url": "https://www.youtube.com/watch?v=6KqndZuN_Yk",
+      "sha256": "feb54b3f4abf8a88cf2b6241fc0222ea36bf7b60da894582e9f2f451e273af38",
+      "date": "2024-12-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/250305 偷学瑞安·雷诺兹13亿美元营销策略 [无需名气].md",
+      "url": "https://www.youtube.com/watch?v=HwPXctiw_rY",
+      "sha256": "4988229f99bdc33fe5c592afad627359c157b2e4eae6f7ec5aae4fb157198a7d",
+      "date": "2025-03-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/250417 4个方法，让你领先99%的人.md",
+      "url": "https://www.youtube.com/watch?v=s7QA1TJKlbQ",
+      "sha256": "95ea900b839db91bf124774778419b1643d690ad5e5811af8086b11bedd68aeb",
+      "date": "2025-04-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/250507 14年营销经验，浓缩成35分钟.md",
+      "url": "https://www.youtube.com/watch?v=JDR-R--4HhM",
+      "sha256": "fc10c409bcce562581a64a94cbfa5e10287b75c9402f9ebfba61d296a26eb139",
+      "date": "2025-05-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/250612 如果2026年重新开始，我会这样打造业务.md",
+      "url": "https://www.youtube.com/watch?v=i7bLRKwKSms",
+      "sha256": "8b8a6a108a66b58861b08c768f5ab6261923463ec537fb6a15112def54f77098",
+      "date": "2025-06-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/251018 我2026年的真实社交媒体策略.md",
+      "url": "https://www.youtube.com/watch?v=dMZ-n2KSlxE",
+      "sha256": "1e6ba8fbca4b6223eae9b771d2402bd95b0f4f19c2c79061016b7db247f6ca5a",
+      "date": "2025-10-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/251108 看这个视频，轻松获取上千潜在客户（任何领域通用）.md",
+      "url": "https://www.youtube.com/watch?v=Mst4hreQYl0",
+      "sha256": "3d36f16e6ea990c8b907e9f303a643be1743dafff5eb5265ead1e70007723eeb",
+      "date": "2025-11-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/251130 看这个，2026年领先一步.md",
+      "url": "https://www.youtube.com/watch?v=spXH1kJ6q-Q",
+      "sha256": "8e4e4b0cc61b8a6e61b4c153faa52261ea21e0b0f751de6ba62d1175af98be53",
+      "date": "2025-11-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260314 如果我想在2026年扩大受众，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=Jmkq5RLjm0U",
+      "sha256": "346acc71cdd6c11e8d45a5495ed3136a67d996cfe06dcd349dbf087a93f0d5cd",
+      "date": "2026-03-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260331 2026年如何靠AI取胜.md",
+      "url": "https://www.youtube.com/watch?v=9q5ojtkqsBs",
+      "sha256": "56fdbd7e06c3ab5a3ab145bd93e3c964ab77c16e90ef794b8fa7f7d79f953e8b",
+      "date": "2026-03-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260424 33分钟帮6位老板扩大业务.md",
+      "url": "https://www.youtube.com/watch?v=0EqJD2o-Mnk",
+      "sha256": "9fbc165994fc631fe44c231dfd2b5f0fd82686b9a42c7794b20ddbfd27faf204",
+      "date": "2026-04-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260502 完美生意的五大要素.md",
+      "url": "https://www.youtube.com/watch?v=3fsJFUvA6Ts",
+      "sha256": "2758e2e96801b261580c0d1079086d71b3a8a1153328c672249ca1911b120fc5",
+      "date": "2026-05-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260526 AI时代的内容创作新方式.md",
+      "url": "https://www.youtube.com/watch?v=XsWSvz-aewA",
+      "sha256": "58e61e719fa0980c93bfa893129ca3bd4e0735d3dfa5283e5a9525ce4bee00ef",
+      "date": "2026-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/260815 2027年我的真实社交媒体策略：算法.md",
+      "url": "https://www.youtube.com/watch?v=ZTSI3DDP_4A",
+      "sha256": "cc1fdb1a92f1cc047f8f37bf80525ae5a8e0ee1c8fb00e2d5d9c94e543f90403",
+      "date": "2026-08-15",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/261023 如果重来一次，2027年我会这样打造个人品牌.md",
+      "url": "https://www.youtube.com/watch?v=5rOIS7GHD5Y",
+      "sha256": "4372c2a89024fcdfc69e8a89552464779a079a3375a72e1712bd0605419398ef",
+      "date": "2026-10-23",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/201001 现金流吃紧？看看这个.md",
+      "url": "https://www.youtube.com/watch?v=SvIcS-Q1Hl4",
+      "sha256": "35b253ed13c8109163661b553049e1457a7236e81b5447e122c73284800a319f",
+      "date": "2020-10-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/201008 私募股权大佬的定价课.md",
+      "url": "https://www.youtube.com/watch?v=hnfh2jqNVEQ",
+      "sha256": "21ffc091fd090fceaf7f89335e3a834a95223f637d9041a94170bdbff850d5c2",
+      "date": "2020-10-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/201210 提高利润的第一方法.md",
+      "url": "https://www.youtube.com/watch?v=y4VoOKa1ywQ",
+      "sha256": "3396582c3aa199288776222def21805d0963ff5af40fbbb7132d9500e74713a7",
+      "date": "2020-12-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/201217 没有学位也能掌握高收入技能.md",
+      "url": "https://www.youtube.com/watch?v=yAVI0PS-hzU",
+      "sha256": "d63733d0de543a6d9d81379d26a7e1b66c64dbf0ecfe4c2c229c7eaa14721d51",
+      "date": "2020-12-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/201225 3分钟把任何收入目标变成行动步骤.md",
+      "url": "https://www.youtube.com/watch?v=rNiMm4eVq4M",
+      "sha256": "4fd7cb0c7d8b0bd50767673d7cd7f85dbcc7c9de32e895942093b1137015b438",
+      "date": "2020-12-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210107 现在通过生意增加财富的3种方法.md",
+      "url": "https://www.youtube.com/watch?v=4XWlHPyAico",
+      "sha256": "ee40089d8c316d08584bd2a734973eab39b2b528cb01f6981373c9f6f01e4b90",
+      "date": "2021-01-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210108 最富有的1%靠做这件事致富.md",
+      "url": "https://www.youtube.com/watch?v=Kj3xhPRJtQA",
+      "sha256": "5767ac0b4f44bedeeee0ebf50c32e79810b96a14ce802db4f91fb321dde221e3",
+      "date": "2021-01-08",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210114 为什么赚到第一个100万最难？查理·芒格的秘诀.md",
+      "url": "https://www.youtube.com/watch?v=s9fSDCRPQNA",
+      "sha256": "078cb0f2b3de69cfc66e0a35d767a296bf7c92ead10d52f91b9d4534f3115d85",
+      "date": "2021-01-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210120 找到盈利市场的关键.md",
+      "url": "https://www.youtube.com/watch?v=LqC-oXjatmA",
+      "sha256": "e0cd1a827e7bb0ba0c1b62790ab7760102db74351cc6243bf8ce5c0c240a21ac",
+      "date": "2021-01-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210126 大老板用63分钟分享一年财富心得.md",
+      "url": "https://www.youtube.com/watch?v=Fy8XX8EuEnA",
+      "sha256": "f68c40472519c8a54c4658f96cb4e1ad4675fa918fc1e951f4a9cfac0cd6e2a1",
+      "date": "2021-01-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210218 不懂利润率，就不懂生意.md",
+      "url": "https://www.youtube.com/watch?v=9xAMe0QBFhU",
+      "sha256": "cfc7ed8e9015007c47b8605e04d2f66b6c45028d35f816ac61d4a5b146a99521",
+      "date": "2021-02-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210302 如何提前退休（并跻身顶尖1%）.md",
+      "url": "https://www.youtube.com/watch?v=rnvOwA39dDg",
+      "sha256": "2e39f2f903a2e9208ede3562df99f7bfb69272121fee7fa9a8d1dab566f47eed",
+      "date": "2021-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210330 投资者把商业增长简化为一道数学题.md",
+      "url": "https://www.youtube.com/watch?v=BSwJQsogah0",
+      "sha256": "5b709a08741d94e7b33d026ef114eaf1322a46149b38ea0e9769ad2c80c949d2",
+      "date": "2021-03-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210406 我破产了……该怎么办？.md",
+      "url": "https://www.youtube.com/watch?v=KNl83INePXI",
+      "sha256": "b13c31664137f3aeb09a04d6ed4aa078c37a770f1ee23e4365cd63968af78290",
+      "date": "2021-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210420 6个技巧，不靠新客户也能提升LTV.md",
+      "url": "https://www.youtube.com/watch?v=Q2VUuUGfpNY",
+      "sha256": "d37e66d51838f6f97c691f5b02e2208bf97a9703680b5c9778cbdb18e444b1fc",
+      "date": "2021-04-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210504 财富法则第一条：先拿到钱.md",
+      "url": "https://www.youtube.com/watch?v=ZZZNsDs2G_s",
+      "sha256": "284010b08ae84f0c2f2de02149dbf5c10a4fd84b4f46156ff1e95e4a04e40ced",
+      "date": "2021-05-04",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210517 我把每个高利润服务拆解成6个类别 [交付立方体].md",
+      "url": "https://www.youtube.com/watch?v=t9Vv7rK-4Jc",
+      "sha256": "8b7688c33a528a7df4dfbd34671dffa261254f4d904f01b5892d825164e1d5fc",
+      "date": "2021-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210526 百万富翁坦言：“学校没教的7件事”.md",
+      "url": "https://www.youtube.com/watch?v=t7o8dtUWPQg",
+      "sha256": "5e8339b99ac5184be461f1036d2e5ea2b8937edb24cf3e9090981da81c7dee12",
+      "date": "2021-05-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210604 超级富豪的9种金钱观念.md",
+      "url": "https://www.youtube.com/watch?v=d0dBZbd13jM",
+      "sha256": "35f9246fab51230bc24f73717b860f4a06fb124d01f44fce5f30c6a417264825",
+      "date": "2021-06-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210611 创造财富的四种方式（以及我如何误打误撞实现其中一种）.md",
+      "url": "https://www.youtube.com/watch?v=ZfaZYFx89UU",
+      "sha256": "a2bc6335ee8997d9583c99d3ed0b0ae832bb73b81fa9ccd1e9fff8a5cca598c1",
+      "date": "2021-06-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210616 如何收取高价.md",
+      "url": "https://www.youtube.com/watch?v=iFhiK5zORGk",
+      "sha256": "15126cdae6f5194a2d1c464f0f8ceacd72864461d0919539ca6d422951f9c6e0",
+      "date": "2021-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210618 富人如何避税...我的策略 - 上集.md",
+      "url": "https://www.youtube.com/watch?v=YhxiVIQp_ws",
+      "sha256": "1abf35e4ce878c522d9f2a8d8ac2a0c7224a7eedf04b85548ec24152aefa0e82",
+      "date": "2021-06-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210621 最好的投资方式...没人会告诉你这个。.md",
+      "url": "https://www.youtube.com/watch?v=CRMT2yubBxc",
+      "sha256": "f7276b3f7f330c89564d30f7ffe84de37ff0f3b73a6fc7e3b5acaf48ce7c2a3f",
+      "date": "2021-06-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210625 大师们如何谎报收入...我要揭穿它.md",
+      "url": "https://www.youtube.com/watch?v=al_WXFDbN8I",
+      "sha256": "bd30beb69f47a253cb57333c1d0e56d3a715dd65fc3e9e546b0a3cf3adf265b0",
+      "date": "2021-06-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210707 一位亿万富翁告诉我如何赚十亿美元……这是我的计划…….md",
+      "url": "https://www.youtube.com/watch?v=_x6n-CmZqjo",
+      "sha256": "2829603650898bef625189097b6e59d471817d8edf28e5a39290b7e19949f106",
+      "date": "2021-07-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210719 如何提高定价（附我实际发给客户的邮件）.md",
+      "url": "https://www.youtube.com/watch?v=Gy-RmpRif-I",
+      "sha256": "43183d195bb6750b5677d7aff5ac7d4d4424387b596b98d8248e565848dfc8a9",
+      "date": "2021-07-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210721 富人如何避税——奥古斯塔规则漏洞.md",
+      "url": "https://www.youtube.com/watch?v=AM_-lnyY70M",
+      "sha256": "d4a005c5262a8067a5efe8f8a7aa0dd4b90159eae06e1ae82b99f387c2bd93c2",
+      "date": "2021-07-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210804 一位亿万富翁教我如何投资...这是我的计划.md",
+      "url": "https://www.youtube.com/watch?v=aO56wn5sBSA",
+      "sha256": "859393553b4d7167d3c10eef5088aa1471be0f27a79538c9b75b936b65698961",
+      "date": "2021-08-04",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210806 我辞去CEO...造了一台被动收入机器.md",
+      "url": "https://www.youtube.com/watch?v=s3tH9Sz1fEc",
+      "sha256": "433eb28431a7ca0025b2dabd725a5967cd381399aedaee47dca1ee190236a1f9",
+      "date": "2021-08-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210813 我告诉自己我很有钱，直到它成真了。.md",
+      "url": "https://www.youtube.com/watch?v=4vLgOX1Ykjg",
+      "sha256": "2f318457ba27a87faa6a676c80cf787e30d3ae08ae065cfcec037d89295fe533",
+      "date": "2021-08-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210830 我们在把钱全捐出去.md",
+      "url": "https://www.youtube.com/watch?v=R9gHvJxHRhA",
+      "sha256": "34e112026bfbd290f9a638a9c899a68206132ed71c817db4dcb5fd914765a57e",
+      "date": "2021-08-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210902 这是我成为亿万富翁的计划。.md",
+      "url": "https://www.youtube.com/watch?v=bxs5pN0ZnRw",
+      "sha256": "8e0318022ec078e523ee716cd6254e18eb7ee41f9491e2a1bd2891b003fc0d9f",
+      "date": "2021-09-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210906 一位亿万富翁教会我如何像亿万富翁一样思考.md",
+      "url": "https://www.youtube.com/watch?v=-fV1MZe2vzs",
+      "sha256": "610297dc7f7c38706b808f6bbe29d4f49d013377d4476b7275b9f5ab2a9c7f8e",
+      "date": "2021-09-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210908 百万富翁如何变成亿万富翁....md",
+      "url": "https://www.youtube.com/watch?v=TNQyFxVbkBs",
+      "sha256": "25410111ecf9d4a5f73c26ec7db25a5d75a855ff302074a9660e12777c91bc79",
+      "date": "2021-09-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210922 高息贷款全解析 [我用这招放贷300万美元].md",
+      "url": "https://www.youtube.com/watch?v=gxKxeie5JFo",
+      "sha256": "d2f05d304ef9a2b51b6390fe5d3c9ae0bb251660a56aa155edde69b7bee231c4",
+      "date": "2021-09-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210924 如何在服务型业务中赚得盆满钵满.md",
+      "url": "https://www.youtube.com/watch?v=m-7VjocC76M",
+      "sha256": "ef95c88e5d69d67799cf3e982455b4c24a82cfef9931d17d76196b523d27bdf7",
+      "date": "2021-09-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211004 永远不要降价....md",
+      "url": "https://www.youtube.com/watch?v=BZQtuK-ucDM",
+      "sha256": "1b8e0875e41c5ad1ecf7599b4a62b9e0f1b132a185f6ae22f6ec29f309c2ce46",
+      "date": "2021-10-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211006 5个尚未被充分开发的行业，可能让你成为亿万富翁.md",
+      "url": "https://www.youtube.com/watch?v=JbxxxVXzHEg",
+      "sha256": "3904ef5ad69e4bcf213c4fd52e8827f47452402d64ad12603e4140656ee52e16",
+      "date": "2021-10-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211013 假装有钱会让你变穷.md",
+      "url": "https://www.youtube.com/watch?v=ebrcIErJi10",
+      "sha256": "b80fc75840981c87fe6bb9042c29300f53611044d6e287785bfe1c352c7c31d2",
+      "date": "2021-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211015 亿万富翁在想什么，百万富翁却想不到的5件事.md",
+      "url": "https://www.youtube.com/watch?v=E732S9fteRc",
+      "sha256": "a2646566dbf6f8071fd4d472a0125faf622b4a3454945d455d340b7d856f5751",
+      "date": "2021-10-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211103 被动收入背后的残酷真相.md",
+      "url": "https://www.youtube.com/watch?v=gZvW1Hghv6U",
+      "sha256": "485265167945dc951752a905a848af9eb4c5ff23e6ce91cf4764c7d9d0af152c",
+      "date": "2021-11-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211105 我是如何和亿万富翁交朋友的 [5个步骤].md",
+      "url": "https://www.youtube.com/watch?v=RsXcCjLtnsA",
+      "sha256": "9e59db82f9bcedbba8ac5a04ab419df924aca8f22a0d6c37201894dc79f2c911",
+      "date": "2021-11-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211117 百万富翁解释：为什么时间不是最宝贵的资源…….md",
+      "url": "https://www.youtube.com/watch?v=6ZEZWuVC8-8",
+      "sha256": "ae73b44a60a31154bef2d7b824e6ed5387cdd4954ee7296ca82f3d50442789b9",
+      "date": "2021-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211124 让我赚到最多钱的4个小习惯.md",
+      "url": "https://www.youtube.com/watch?v=cX7cCA3Be8A",
+      "sha256": "1762aa95c5adb674175cdc1294bc802d2ef80cc5f745b3132b31b81aaf6e804f",
+      "date": "2021-11-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211126 富人如何避税……我的新计划.md",
+      "url": "https://www.youtube.com/watch?v=52tcB5FopAg",
+      "sha256": "4eea18d65a0f0b653b4e835b23691cd6ed113a489dd11efb7dbcfb8231e260b1",
+      "date": "2021-11-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211213 地球上最罕见的4种技能，让人成为亿万富翁.md",
+      "url": "https://www.youtube.com/watch?v=SbZFTPJ9KZU",
+      "sha256": "7f0b41cbb3ab35fa32e8d32ffc2166a57f45026ee343aa9c10be7ffb5290c0af",
+      "date": "2021-12-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/211231 如果你想在2022年成为百万富翁，就看这55分钟.md",
+      "url": "https://www.youtube.com/watch?v=qxQIcDrre1E",
+      "sha256": "c9f5b1e408970deaf2ac1254df73563d93399f6efa952a72dc47b2acf6fe2c88",
+      "date": "2021-12-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220127 我56%的收入交了0%的税...方法如下.md",
+      "url": "https://www.youtube.com/watch?v=w5g0JiO7OdE",
+      "sha256": "ab3d5448d8787e4cafcf81138b30372e63b2d936642a266ce04d2b6391105994",
+      "date": "2022-01-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220207 反常规套路……亿万富翁的制胜秘诀.md",
+      "url": "https://www.youtube.com/watch?v=lRyGIzW9d9k",
+      "sha256": "0180e2322d8c7f809df646ed57c18395986756330de9178beeae3835d654d38b",
+      "date": "2022-02-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220221 10分钟百万富翁：给零基础创业者的建议.md",
+      "url": "https://www.youtube.com/watch?v=VgEvIIpDYG8",
+      "sha256": "8b77104820d814ce75cd2fd94f0b22cf3af4d9e6338fa69fe9045c2b2309a098",
+      "date": "2022-02-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220223 每个创业者都应该先招的5个人...否则会破产.md",
+      "url": "https://www.youtube.com/watch?v=7NqsFh5ej0w",
+      "sha256": "da08cd7fe78a3c80de6f93d0a3b305c52ec9d2940aeb3920c775ed9055e3dba1",
+      "date": "2022-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220304 想变有钱？别再让这件事影响你…….md",
+      "url": "https://www.youtube.com/watch?v=j536U19iTwk",
+      "sha256": "f4b17afba106daf1dc8e548be7230e0a49d7041a25ef1afc845dae27b6f11960",
+      "date": "2022-03-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220318 百万富翁知道而你不知道的事.md",
+      "url": "https://www.youtube.com/watch?v=Jv3GmZ9Odko",
+      "sha256": "bc7cc62e691925586be6cb1d2aca01727bc858e96b5283e4d670afdaceec6cec",
+      "date": "2022-03-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220325 我投资公司时看中的是什么【不废话】.md",
+      "url": "https://www.youtube.com/watch?v=aOq1Hdz0w3k",
+      "sha256": "27e7bea62619c4aea59d9fb0271345d69f0e3ffe0059be44836baa523797223c",
+      "date": "2022-03-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220328 我用逆向思维的力量，让财富指数级增长.md",
+      "url": "https://www.youtube.com/watch?v=-Pz0NpcILOY",
+      "sha256": "7b103533296512665233cf0c7afb03a78b05daff40fcf3b749d264f1d26332b8",
+      "date": "2022-03-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220406 拜登的税收计划…….md",
+      "url": "https://www.youtube.com/watch?v=FNJpJG-sSXM",
+      "sha256": "f7ff7e8fd63c3405c944018b9ef7291c68a03acaf7828576abc207f96fcd75b7",
+      "date": "2022-04-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220422 22分钟重塑财富思维.md",
+      "url": "https://www.youtube.com/watch?v=9ySuYdJ0H4s",
+      "sha256": "2363e7f4ee2af305f90f8a756fbf08578e274551aefbc7caedaafb4219a22fe7",
+      "date": "2022-04-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220428 超级富豪如何贷款买酷东西....md",
+      "url": "https://www.youtube.com/watch?v=yr1DrcPCKEg",
+      "sha256": "6696fc37782263da4ded44ebc734e4fab49d3b08dd6385b8fcac205f34af141f",
+      "date": "2022-04-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220530 你终将富有的两个迹象.md",
+      "url": "https://www.youtube.com/watch?v=pmxzhyF0NrE",
+      "sha256": "4b270f9cc828ea823bb43c79c267ace76376c5aa2c9c0d0e540f40fdfd89ca03",
+      "date": "2022-05-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220809 如果我在20岁，我会如何投资1000美元.md",
+      "url": "https://www.youtube.com/watch?v=dZ7xeVCYC5M",
+      "sha256": "0f6b973f1d9f3f8d84c07b1538a17f1ece4f1618f23a2cb27cd26fd7cacceb95",
+      "date": "2022-08-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220820 亿万富翁如何赚到他们的亿万家产.md",
+      "url": "https://www.youtube.com/watch?v=LMlbWtUFa4E",
+      "sha256": "c2d0a867768bf0b92cba252a4e23b63f9d51ee64b7a502dad5df1e7be556e9ca",
+      "date": "2022-08-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220903 投资者3分钟晨间习惯（真的有效）.md",
+      "url": "https://www.youtube.com/watch?v=PFKGHL1MqkU",
+      "sha256": "6f79f311232016d796272feee6c18e4f2c1fcdc663b01163002d68c20cc996dd",
+      "date": "2022-09-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/220911 如何快速赚大钱（只需几分钟）.md",
+      "url": "https://www.youtube.com/watch?v=yEKu6q0W3gs",
+      "sha256": "f128e9ac91985dfbd193c472bd1ff010fa603bf73badd238ec6e8f18458970b2",
+      "date": "2022-09-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221005 努力不会让你变富.md",
+      "url": "https://www.youtube.com/watch?v=PTgGfV8Tf00",
+      "sha256": "cc8ae084cdab28d6cff2dd741939f1f3a51e7aae11d244ded4687b5c2c836022",
+      "date": "2022-10-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221009 在新经济中致富.md",
+      "url": "https://www.youtube.com/watch?v=6DCDGSnRDtM",
+      "sha256": "9b7ddea538ec8202be3ff077b69af0cb3c69d9ff10ebd85ecc53dafa1377fd7a",
+      "date": "2022-10-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221023 10种分解百万收入的不同方法.md",
+      "url": "https://www.youtube.com/watch?v=7sLXhCDRaV8",
+      "sha256": "fc15f9a800790d9b1e21db7fbf3d918306c1a8cbc8426c9b00b2db578cb1599e",
+      "date": "2022-10-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221030 亿万富翁的衰退建议：别再投资这个（2023）.md",
+      "url": "https://www.youtube.com/watch?v=GkL2KDOf2NM",
+      "sha256": "e9c56b71407084e5df68711594d751590ba3cb2b923217a9cb04bbadee485f63",
+      "date": "2022-10-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221106 这个公式能让你变富.md",
+      "url": "https://www.youtube.com/watch?v=5MHQr-Z17Hc",
+      "sha256": "4f1256768b69cf18020eb34f7d5d3c2f8d339bfac216abb2ae2911fa82aa48eb",
+      "date": "2022-11-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221221 20多岁要避开的14个理财错误.md",
+      "url": "https://www.youtube.com/watch?v=q6SdmgIji30",
+      "sha256": "218b5deafbc830156074a44b1b31f07b619c1a0cf90530a7a9b72bed9c355e1a",
+      "date": "2022-12-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/221228 AI革命中致富（2023）.md",
+      "url": "https://www.youtube.com/watch?v=KYqEK_T_5M4",
+      "sha256": "138a0a774a3ddb67bcc6fb6309ebcc45fccb8bcb5b43be8c27700b15ba4055cd",
+      "date": "2022-12-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230125 42个抗衰退省钱妙招.md",
+      "url": "https://www.youtube.com/watch?v=rp1PzCxj3eU",
+      "sha256": "51c80c3f2d0ee06e97e44721bffdedc64b1bdcface3195769a290f68efb71edd",
+      "date": "2023-01-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230201 用这24条投资法则变富.md",
+      "url": "https://www.youtube.com/watch?v=INm4U2S7Vu8",
+      "sha256": "d7a4808aa2bc49d39a2d93fdc419437209d68d8105cf2af6070b6bf63dedfda7",
+      "date": "2023-02-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230201 靠这24条投资铁律实现财富自由.md",
+      "url": "",
+      "sha256": "6114f3e7454e12dcc8027688a93f4dda66e9e48aaa278d67eed4b0eb5fec6598",
+      "date": "2023-02-01",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230215 世界首富是如何赚到钱的.md",
+      "url": "https://www.youtube.com/watch?v=ONV__y1z7MI",
+      "sha256": "db6a7f57dd8ef2176ae1335f5257c4bc3ec1524c115aec205d123304ae422aeb",
+      "date": "2023-02-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230503 我是如何设定真正能赚钱的目标.md",
+      "url": "https://www.youtube.com/watch?v=zBZHWrvjD8Y",
+      "sha256": "8422a1d5c7b20168c96c40fe515deb267310970e2503f7a236ceb48e0f3b7aa7",
+      "date": "2023-05-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230531 3个方法，做你所爱，顺便致富.md",
+      "url": "https://www.youtube.com/watch?v=qLM5G7N3l3I",
+      "sha256": "7f429427626ad54f0ac53036145fee45f6f0da4c1cb08035d8c02cbb8c36dd40",
+      "date": "2023-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230624 如果你厌倦了没钱，就看看这个.md",
+      "url": "https://www.youtube.com/watch?v=YFA8AS5Cu2w",
+      "sha256": "932841699b1e81b758217a351275717db08800b927e4dee0f285fc597aea6d05",
+      "date": "2023-06-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230724 采访一位亿万富翁 + 公开我的健身计划 [第005期].md",
+      "url": "https://www.youtube.com/watch?v=y7O-iTWwTW8",
+      "sha256": "65f2ea7ac243b051e8ba513e8b1817b7ff8d596028b05b8d7e362abc941b9dd5",
+      "date": "2023-07-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230726 网上赚钱（不毁名声版）.md",
+      "url": "https://www.youtube.com/watch?v=5cOwh-8scu8",
+      "sha256": "7bd2ce9ea6b100de476c529308ab39d381d5e41574c17b4949c5427dc81bc8e5",
+      "date": "2023-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230805 如何富到开始质疑赚钱的意义.md",
+      "url": "https://www.youtube.com/watch?v=RdAKXJlMIZM",
+      "sha256": "63b164b3429b4f4aad865e56265a0a2ac61e5f1c6d4bb8a6aa8dec4fe75917ad",
+      "date": "2023-08-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230909 我帮6个老板赚了更多钱.md",
+      "url": "https://www.youtube.com/watch?v=aBPWCdaJJqA",
+      "sha256": "fb7e9f98f8c970a98eb93c3395ddc6d1c0cb2562ce8c48a8e8c113f3762713f3",
+      "date": "2023-09-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/230920 这个视频比互联网上任何东西都更能帮你赚钱.md",
+      "url": "https://www.youtube.com/watch?v=4GjwtnA76ig",
+      "sha256": "0090e453cff9ab3bab9b2e42a345f4084b5b6be3b3f981c2985b85d99fed4a14",
+      "date": "2023-09-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/231025 如何赚到让你恶心的钱.md",
+      "url": "https://www.youtube.com/watch?v=I64gYLBrics",
+      "sha256": "4f5704835b54a7e33efb8a6f24ac2c1709b9426187816d2455f30cf64e914505",
+      "date": "2023-10-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/231108 假如我想在2024年成为百万富翁，我会这样做【完整蓝图】.md",
+      "url": "https://www.youtube.com/watch?v=VBoRLJimVzc",
+      "sha256": "e50c894326cfc0d81fcb550529124f0e046fe26cf19499f1bad9b22b5d77d309",
+      "date": "2023-11-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/231122 81分钟赚钱建议，昨天就该知道.md",
+      "url": "https://www.youtube.com/watch?v=U_s0ekwPK5g",
+      "sha256": "bc6b3d990dc6bdb9e94899bfcf10cc362aaeec7e3766ab54b70bdce958588d85",
+      "date": "2023-11-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240124 致富并不有趣- [第014集].md",
+      "url": "https://www.youtube.com/watch?v=3aAbKVSFP6k",
+      "sha256": "9b0b409148126f58a25d9f6a2a379a373737597d0565c6f5ac08df39aa98a2e5",
+      "date": "2024-01-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240221 如果我想名利双收，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=5JLqmQlGG0U",
+      "sha256": "8c13b95c799f1a2d182b89bdb44a8fd2cf57111f22b2569b3cddce861ed47290",
+      "date": "2024-02-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240306 婚姻教会我的金钱课.md",
+      "url": "https://www.youtube.com/watch?v=oK2_u-uS_Bo",
+      "sha256": "ba78b221d16ed04f8683c93914ad4c48f9547f8d38fbe68da94b5463c2f5a266",
+      "date": "2024-03-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240403 我穷困时最希望有人告诉我的建议.md",
+      "url": "https://www.youtube.com/watch?v=oys_fv25SYM",
+      "sha256": "ea7d0e94b868b2246314638eab2bd884c51748f9991253d8838f001af2e85c22",
+      "date": "2024-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240508 超级富豪的玩法【合法且免税】.md",
+      "url": "https://www.youtube.com/watch?v=6x3re5-Ms1E",
+      "sha256": "1a3e65db2f4da4b5fe0afb7bac194ce5095482e142a7abe2694969f31decff23",
+      "date": "2024-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240601 如果你还没富得离谱，这就是原因.md",
+      "url": "https://www.youtube.com/watch?v=h6y0nYVZgwE",
+      "sha256": "505f03387271e369187c52ce1faa6a39c769ea668ab688c295b4da5838832d9a",
+      "date": "2024-06-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240604 10倍利润，10倍定价，10倍业务——方法在此.md",
+      "url": "https://www.youtube.com/watch?v=9unucIBuNio",
+      "sha256": "829ff654222a89c57af2b3eeb11cd76c5bc075fd2a2843182dbb683d9dd00f5c",
+      "date": "2024-06-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240609 比99%的人赚更多利润.md",
+      "url": "https://www.youtube.com/watch?v=41EvCgwPrDc",
+      "sha256": "4c3839046a7751d86f621510a6ec1b0b7f5a36625f5cc9aa898862041e6d407f",
+      "date": "2024-06-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240610 别再穷了，忙起来。.md",
+      "url": "https://www.youtube.com/watch?v=H_ZLs1-jOKQ",
+      "sha256": "c289c73370c1ff9dfcc08da832822e3eda77ce3c11706a313a544723bd2f0fc5",
+      "date": "2024-06-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240614 7位百万富翁问我如何变得更富有.md",
+      "url": "https://www.youtube.com/watch?v=bgBIO6nZawg",
+      "sha256": "1bbc55bbaf4cd6334f86399a41274abad566d76d4ab83f96f06c336456161ac3",
+      "date": "2024-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240619 你的失败能让你变富（只要写下来）.md",
+      "url": "https://www.youtube.com/watch?v=SasEJE4FI-I",
+      "sha256": "42ce8bd5930accc89dbc67370df8e285e8199b06decca301163a58d43ac7f796",
+      "date": "2024-06-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240723 10位百万富翁问我如何变得更富.md",
+      "url": "https://www.youtube.com/watch?v=6m6DCQMASEM",
+      "sha256": "0056eb6d3a590337338be745648d4335bfe304ac796ef9b71f1601a1d919064c",
+      "date": "2024-07-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240726 如何在20多岁真正实现财富自由.md",
+      "url": "https://www.youtube.com/watch?v=aFoMYz_jWcs",
+      "sha256": "cf06d4348875e6cf55dbff971963e3778a893ae5f822df17fe92c19dd4df9944",
+      "date": "2024-07-26",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240806 顶尖1%的人如何赚钱.md",
+      "url": "https://www.youtube.com/watch?v=fD-sxKiB30M",
+      "sha256": "6a7e60fe50cc717ae037dd9d2ee1415d9b5e16b9f093e14ca218dfee006ff4c2",
+      "date": "2024-08-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240904 10年内致富的实在建议.md",
+      "url": "https://www.youtube.com/watch?v=oZ-H_TjSzok",
+      "sha256": "eb2de9448c02634908e89e057522afa5d7d40ddb348e3f96155450dd7b52a300",
+      "date": "2024-09-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240918 3小时赚钱建议，你昨天就该知道.md",
+      "url": "https://www.youtube.com/watch?v=TooAB8Ow6cQ",
+      "sha256": "c8183834bb007f8be922d074f7756c285e072b7808ab0bd95608b6c33b0f128b",
+      "date": "2024-09-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/240925 你赚不到理想收入的真正原因.md",
+      "url": "https://www.youtube.com/watch?v=zNiXk_3C_Io",
+      "sha256": "3c3d04438d580e4ec1b1ee6bd61e515edacca550896c6faabb915d890751e83b",
+      "date": "2024-09-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241016 如果我想在2026年成为百万富翁，我会这样做【完整蓝图】.md",
+      "url": "https://www.youtube.com/watch?v=AN2KpRBsmRY",
+      "sha256": "75fc069c82bd1f1e0b4bb9c98d3a020c841e950f480bba14f90dba629abb73d1",
+      "date": "2024-10-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241127 致富的实在建议：像1%那样赚钱.md",
+      "url": "https://www.youtube.com/watch?v=oDK4g5na4Jw",
+      "sha256": "f7a8a3dbaebfcf393a81fc695e9a43cb134333763dedde6acfd8b079a840ab4d",
+      "date": "2024-11-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241204 你在浪费赚大钱的机会.md",
+      "url": "https://www.youtube.com/watch?v=QTZsh3BgOwY",
+      "sha256": "e4eae1216c59115cca1bf0921e863a4cceb81a70b643f9924febf863d5fee4fe",
+      "date": "2024-12-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241205 如何快速赚钱快到像违法.md",
+      "url": "https://www.youtube.com/watch?v=k-3PoOT4vOM",
+      "sha256": "b2d38ca8bdc85bcca7b3e19bd4e6cbf539ecdff2c0f974164bcaf76b05ba5e60",
+      "date": "2024-12-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241210 顶尖1%的人到底是怎么赚钱的.md",
+      "url": "https://www.youtube.com/watch?v=wtsX7WHQMFM",
+      "sha256": "09b5277ce0e65d6ef6270d452431a1e0ad326be13f836cdeb36dfdc122387e4d",
+      "date": "2024-12-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241211 如何富到发现金钱毫无意义.md",
+      "url": "https://www.youtube.com/watch?v=4Yz8ggEv0NU",
+      "sha256": "069db084f6933b7ecad9681fbf707fc40965b186be1989df7fdb04de806430e6",
+      "date": "2024-12-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241214 存款不到1万美元？请看完这个视频....md",
+      "url": "https://www.youtube.com/watch?v=ymFWgFiKUvM",
+      "sha256": "b2b3058edee83649e9c6c282bef7dbe5c34295ae1fccd8e21e8220e8269674e1",
+      "date": "2024-12-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/241219 2026年致富的实在生意经.md",
+      "url": "https://www.youtube.com/watch?v=cnbHgYYHzyE",
+      "sha256": "ed5703a17ef88e66a61bff6cc72b706eee287745e68ae1621435d0c35d7e7d43",
+      "date": "2024-12-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250122 如何成为超级富豪（4种方法）.md",
+      "url": "https://www.youtube.com/watch?v=BO_59sGxztY",
+      "sha256": "9946308da3d1c93ab87853d99fd491150e0ad12ebf91784c226dbbbb7c48afa2",
+      "date": "2025-01-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250415 顶尖1%的老板并不比你聪明.md",
+      "url": "https://www.youtube.com/watch?v=q9OmYf_IlQ0",
+      "sha256": "be5fedec890ae91ee19e707cb2f1d03fddf54276005d5a786b52cab3db637ee4",
+      "date": "2025-04-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250429 如何想买就买，又不至于破产.md",
+      "url": "https://www.youtube.com/watch?v=by3ZEoo-Quc",
+      "sha256": "f981cfe2e286f88b3c3b5b3cdbec598e041ea9142e575bf99e44682f689b5ed9",
+      "date": "2025-04-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250610 为什么做得越多反而赚得越少.md",
+      "url": "https://www.youtube.com/watch?v=hfwZwPGsbIo",
+      "sha256": "9aea24c0d33b769ab8e2bca3b240cde7ad5bbba06d2822cac058bbc78c504535",
+      "date": "2025-06-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250624 创造世代财富的危险诚实建议.md",
+      "url": "https://www.youtube.com/watch?v=m-k0_pQJ1fY",
+      "sha256": "16a71ac0aa8b3a4496bc3c8f07b47de974a977575285c95a9da728810d7839d8",
+      "date": "2025-06-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250709 赚钱是个游戏（这是作弊码）.md",
+      "url": "https://www.youtube.com/watch?v=nSQdjim8CsE",
+      "sha256": "9d93efa85a89c0745994f1cacf7cc59bd0d47dc5c3a13f280f812851f0774e28",
+      "date": "2025-07-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250813 1亿美元赚钱模型大揭秘.md",
+      "url": "https://www.youtube.com/watch?v=c6wfunUDDOs",
+      "sha256": "9113fd291e54e5bc30f47cb931fa225085d2024c5df8ec88065bb0da01cca145",
+      "date": "2025-08-13",
+      "status": "no_qualifying_units",
+      "atoms": 0
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/251024 你能赚到的钱，比你想象的要多得多.md",
+      "url": "https://www.youtube.com/watch?v=hnmBXTyMFKI",
+      "sha256": "b1c37968cf9873a1c8c01779525ed7dd050be6de21d45d32cd1f9b81527c3b40",
+      "date": "2025-10-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260102 我们24小时打破吉尼斯世界纪录.md",
+      "url": "https://www.youtube.com/watch?v=u3H7CfpfwHQ",
+      "sha256": "5393c3bf7d986aef6a6eadb221113bf267de7f3634434a368e6759ca1e0aeb31",
+      "date": "2026-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260212 如果你存款不到一万美元，请看看这个….md",
+      "url": "https://www.youtube.com/watch?v=6BQ3whjWG3M",
+      "sha256": "d6ee117f5ad7adbcbf48f2407b3d3f6ebc0cc10cf574840f682290cdb9b73d4a",
+      "date": "2026-02-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260223 我用来真正致富的金钱公式.md",
+      "url": "https://www.youtube.com/watch?v=ZuJryiwxjDw",
+      "sha256": "0d5dca7ef8385cab5c60c9ec2ac7658c89838d6049b260dcf0d0bba43cbcef23",
+      "date": "2026-02-23",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260304 如果我想在2026年赚到第一个10万美元，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=jfW6gL6hKhk",
+      "sha256": "1ba89b961fb0123139a40a0052256df1f7dbb0ba1504b8cd25f051ff01510bfb",
+      "date": "2026-03-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260309 赚钱的六个层次.md",
+      "url": "https://www.youtube.com/watch?v=rMJIOK_FgJk",
+      "sha256": "0825077956d45e237af121a46887654105d1f65ffe828fd1f5fc3858f52edc61",
+      "date": "2026-03-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260604 2026年积累财富的4个可靠方法.md",
+      "url": "https://www.youtube.com/watch?v=sL16tsGafcQ",
+      "sha256": "ae45695b6a4dcf76c3b37b677825b1f38a888392edf365cb304c155208a2b677",
+      "date": "2026-06-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260726 我靠0收入经营了3年，把生意做起来了…….md",
+      "url": "https://www.acquisition.com/roadmap-yta213",
+      "sha256": "a06fc38418ca4512a2f92913bdba24470cb770f339dbfc65d24f3f9aed7a0572",
+      "date": "2026-07-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260726 超富人群如何贷款购买心仪好物....md",
+      "url": "https://www.acquisition.com/roadmap-yta201",
+      "sha256": "f472534e7145dc0478114d41d75e836d66a6eb5a4d6f12cd16d43c0d98b3be79",
+      "date": "2026-07-26",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/260731 给想变富的人，我的真心建议.md",
+      "url": "https://www.youtube.com/watch?v=aRVv5NLVRwE",
+      "sha256": "282f6f67dcca9ef69c5ea5a2aa22350a344dfd5d1891b339c88f417ab6493625",
+      "date": "2026-07-31",
+      "status": "added",
+      "atoms": 4
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/201015 简单运营框架（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=JOY6ZzBMb_4",
+      "sha256": "9e29326515ab8cb1ba5e0202b0722c668f194a334b1ad5b33859cf3edf066812",
+      "date": "2020-10-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/201201 你的流量就是你的瓶颈（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=XC_lklN9KmE",
+      "sha256": "aae498a76ff1a74b757fb3ee5dbba4b37f6b7a78b20bf985cbb19d1960a02cd1",
+      "date": "2020-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/201208 如何快速扩大你的业务规模.md",
+      "url": "https://www.youtube.com/watch?v=XZEjp2mP1U0",
+      "sha256": "5f6e2614a32c9b6fbccd2b1d21292f93efa1a74027825c5d6fc9b0c424e222fc",
+      "date": "2020-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/201215 连续创业CEO靠这个古老商业策略卖掉4家公司.md",
+      "url": "https://www.youtube.com/watch?v=JfcIUxa8Nn0",
+      "sha256": "ca4c0eca0de552f627c3f27fd983b44712e62be24ede390da9c816b30fe125be",
+      "date": "2020-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210128 招聘与用人技巧——如何招到最优秀的员工.md",
+      "url": "https://www.youtube.com/watch?v=cemduJKQl5w",
+      "sha256": "a538da5e39348d639d2ca21a7c7e7a40365c3afebfdfd2681ffdb4ee239ed621",
+      "date": "2021-01-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210211 给年轻创业者的一课：来自1亿美元CEO的忠告 - Alex Hormozi.md",
+      "url": "https://www.youtube.com/watch?v=FTgJ0mQi0uU",
+      "sha256": "be49b474c1bbb50e2578121848f1c6dab74adda3a35c5b9e5266b58a7a6cdfd4",
+      "date": "2021-02-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210505 沃伦·巴菲特给企业家的第一条铁律.md",
+      "url": "https://www.youtube.com/watch?v=EPEjYEihZ1s",
+      "sha256": "b6e94919afca6c50d3d32a9528e0b1c760fc2dd19bccf0bd365d4a3643f91632",
+      "date": "2021-05-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210531 人才网格——我如何识别自己与团队中的技能.md",
+      "url": "https://www.youtube.com/watch?v=gpKz22P84iM",
+      "sha256": "6f1ebcccc34ca56ad07828ea0951ca170f982cd152524dc313301ecf257b26f8",
+      "date": "2021-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210705 如何放大自己：What-Why-How 框架.md",
+      "url": "https://www.youtube.com/watch?v=lIC8fYbrkII",
+      "sha256": "35c9b8af945b27d9dd9ae86d8f9615138f154df982ad6b246f0fd06d28fcf3ad",
+      "date": "2021-07-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210818 我建了一个不用我管的生意.md",
+      "url": "https://www.youtube.com/watch?v=EdUAAVKl_io",
+      "sha256": "5833aeaa0bc78f80d4fe86b954ae5161a75deffb6f021be0a436612e392adb2c",
+      "date": "2021-08-18",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/210910 Netflix 的订阅模式，任何生意都能复制.md",
+      "url": "https://www.youtube.com/watch?v=jOM0m34dxz4",
+      "sha256": "6af5f38e972b952775217b9383e9d78c7bec3eb7d22f2eb954190875c0c7521d",
+      "date": "2021-09-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211001 我的业务增长停滞了，该怎么办？.md",
+      "url": "https://www.youtube.com/watch?v=f_ceDZqhKbw",
+      "sha256": "4fc02760c8d25b5339493f1c494771e1098ff53d4a66af7b4feea808ed572d3e",
+      "date": "2021-10-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211018 服务型业务扩展的4种唯一方式（选一种）.md",
+      "url": "https://www.youtube.com/watch?v=O1As2zxy0es",
+      "sha256": "a8509925a198cb7658c848713b2bed023a8a1d52c4d85d2502056bf1f6581fa9",
+      "date": "2021-10-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211022 每个业务都受限于某个瓶颈。教你如何找到它。.md",
+      "url": "https://www.youtube.com/watch?v=QtE6kk0158o",
+      "sha256": "be808d54aae95bdb14585c945261862e56c8d31ca97eb15869ad1d09757e817f",
+      "date": "2021-10-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211101 第一个员工差点让我破产……但值得.md",
+      "url": "https://www.youtube.com/watch?v=aOUK4DG0-kM",
+      "sha256": "431b5bd9de82873972ed98d5a1a4a8a82e9db4124b8f8e075e2affe9d9296041",
+      "date": "2021-11-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211115 我是如何招到全球顶尖员工的.md",
+      "url": "https://www.youtube.com/watch?v=Lxp-e5NionA",
+      "sha256": "380609d157a9bb8bdad74f6a3ebbcdf73ea345df89f0f8cd181575376621a3cf",
+      "date": "2021-11-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211201 增长杠杆：大企业主揭秘真正有效的实战策略.md",
+      "url": "https://www.youtube.com/watch?v=F3NyhOtRpOE",
+      "sha256": "3ae2c7711c3460ae32848ba7fb331dea0e837e140f2be341315d505004386053",
+      "date": "2021-12-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211208 100M CEO：“为什么心理医生帮不了我……” [语言警告].md",
+      "url": "https://www.youtube.com/watch?v=o7R_K6LwKNk",
+      "sha256": "9d05dc1788702a930e49900e3d1c877b56c6ef2e3ceb4ce4b7a70845a105f56c",
+      "date": "2021-12-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211210 1亿CEO：如何做出改变人生的艰难决定.md",
+      "url": "https://www.youtube.com/watch?v=7YMjZgr7sHM",
+      "sha256": "885f22b96cd39c1fd57472910c954b19d9a45360bae4d0ce426fccf982deff38",
+      "date": "2021-12-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/211215 揭秘真正有效的薪酬方案.md",
+      "url": "https://www.youtube.com/watch?v=AH_R5cZNFFc",
+      "sha256": "d5685e988b9807b5d141efad5900d6ec8c827bc5e0f891da0e777f7b2f01654d",
+      "date": "2021-12-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/220216 1亿美元CEO：我如何判断谁值得信任.md",
+      "url": "https://www.youtube.com/watch?v=kW2vDMAmlPI",
+      "sha256": "9c8859dd57a5e8f9cd07dab7b7eac3498b5eea821fff8b383f2a71dd702c8b68",
+      "date": "2022-02-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/220705 改变我业务的简单管理框架.md",
+      "url": "https://www.youtube.com/watch?v=IMowPVgcWbA",
+      "sha256": "d016b5044f53876410a480bd8dd8d6cf1c79081ae1b61a637dcba6ae4ca50909",
+      "date": "2022-07-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/220730 我的员工不把我的业务当回事……为什么？.md",
+      "url": "https://www.youtube.com/watch?v=JDkiAxSd5Ms",
+      "sha256": "8431efde1df694514432b7b5233f4caa31299fe48e1a94327cf0adf230f41b52",
+      "date": "2022-07-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/230208 我让团队用AI取代自己.md",
+      "url": "https://www.youtube.com/watch?v=z7X95bn2T6A",
+      "sha256": "48c396019de5f4fc2e1b2c96191b7b9a05b1b6e148c4d182ac9afb35efdf8190",
+      "date": "2023-02-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/230405 如何增长任何本地业务（我的框架）.md",
+      "url": "https://www.youtube.com/watch?v=BHMeYaHEMpc",
+      "sha256": "811cab8866be892750951ff1a8d8cb0bfc9980a791e3e6ac9982935a4404b94a",
+      "date": "2023-04-05",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/230524 3个简单调整，让任何业务都能增长.md",
+      "url": "https://www.youtube.com/watch?v=KQuyQpFANpA",
+      "sha256": "72a57577db96fa855e5758623d9c84d339c61993c2478f8270dd9a382e38ce7a",
+      "date": "2023-05-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/230614 你生意做不大的真正原因.md",
+      "url": "https://www.youtube.com/watch?v=9gVdCR7W8o8",
+      "sha256": "4805902a115a60cae40f90339ccef47595d1d16ebe4c583afaf35519572563cc",
+      "date": "2023-06-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240117 我帮企业主克服了对失败的恐惧.md",
+      "url": "https://www.youtube.com/watch?v=0_Gf5v8DEMY",
+      "sha256": "78fb6938545c0e52662ecf9d45f0f1a056c9fcff7d141e7d93aeb20c4a867093",
+      "date": "2024-01-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240520 企业主：你可能还不够好.md",
+      "url": "https://www.youtube.com/watch?v=Luvfw14pVx4",
+      "sha256": "48b8cf04d01e54d32a801d3f85fc363628ec7cc0092a9cffffaf5d0eb9781263",
+      "date": "2024-05-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240522 你没落后：我的“超学”系统.md",
+      "url": "https://www.youtube.com/watch?v=3Ju1I37jWUM",
+      "sha256": "23a9ec11030b08f0ba5e17e3a487fffa4168404a82648d6024d48c8feaffef23",
+      "date": "2024-05-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240524 这个想法能让你的业务势不可挡.md",
+      "url": "https://www.youtube.com/watch?v=m5ordaa7NN4",
+      "sha256": "c2d87e9f654553db22dc720cfb6b50aaa1812effc2941f919a72e2377e9b234c",
+      "date": "2024-05-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240630 企业主：这个数字你必须知道.md",
+      "url": "https://www.youtube.com/watch?v=jzKpAtzKQ54",
+      "sha256": "f492cff72451e521f3f1343b6f8ad3ac46680ebf2a6361220abeec50ecbccbdf",
+      "date": "2024-06-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240702 你不落后：我的高效系统.md",
+      "url": "https://www.youtube.com/watch?v=gD0X-PLax5I",
+      "sha256": "1592f44aa99b5114c6b7dc61eb814956989c6c85a915595f851ada6519bcdf75",
+      "date": "2024-07-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/240709 企业主们，我们有个问题.md",
+      "url": "https://www.youtube.com/watch?v=rhVxX5_8xUw",
+      "sha256": "d8a22d429d90cfe21155fa74542e63770ce20e327a3b6cbce8580015e8b9bc97",
+      "date": "2024-07-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/241203 我已知的三种最快增长业务的方法.md",
+      "url": "https://www.youtube.com/watch?v=ovL6Z5z0jxQ",
+      "sha256": "ec95cf03c70b6dc80989833e4a7e8e3338947f8296b9ace5106089e28b968258",
+      "date": "2024-12-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/241222 这个视频能让你的业务势不可挡.md",
+      "url": "https://www.youtube.com/watch?v=thDTmy7VGIw",
+      "sha256": "d9f58dbf83f5a26c314902f0e1928e716240cf4b641dba5a2d7272504f881f14",
+      "date": "2024-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/250102 2026年让业务飞速增长，快到像开了挂.md",
+      "url": "https://www.youtube.com/watch?v=HxEQCHpZzHk",
+      "sha256": "1d5c9aa9c54119ca03ade22d9084ec9b82a03f372f9cc7923087e26df24083e8",
+      "date": "2025-01-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/250110 给我47分钟，我帮你搞定小生意.md",
+      "url": "https://www.youtube.com/watch?v=sjt5G3YPjmY",
+      "sha256": "07d29ba19b8d2923fb033e994098d85a98ad60378474f9dd523fd3d164367cb0",
+      "date": "2025-01-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/250113 这个视频，企业主必须看.md",
+      "url": "https://www.youtube.com/watch?v=4twK8Yl4iUI",
+      "sha256": "a041c60cf29547701763159b9562e1daac8e2b405f6967bcc3771b15c76f55bb",
+      "date": "2025-01-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/250603 如何让业务增长快到让会计都紧张.md",
+      "url": "https://www.youtube.com/watch?v=sGv2BTUCcCM",
+      "sha256": "c5fe44dfb20491416fcbf1b315dd1616ca0586a11e91ab6f3f8aa34bd4b239a8",
+      "date": "2025-06-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260114 如何让任何业务加速增长（大师课）.md",
+      "url": "https://www.youtube.com/watch?v=qsXxckCbci0",
+      "sha256": "8fbf05884d5861ee4eaefcae27addfdbcce13fd1c220d0865fe1c1fdde5810bd",
+      "date": "2026-01-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260130 如果我想在2026年扩大服务业务规模，我会这样做.md",
+      "url": "https://www.youtube.com/watch?v=N5MExtki_VI",
+      "sha256": "ee093b6e79362a8b35c44a6dc7d373729dc760a3b9d9bffe217606215df7d4e8",
+      "date": "2026-01-30",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260320 如果你做服务型业务，一定要看这个.md",
+      "url": "https://www.youtube.com/watch?v=jqo0lVveh98",
+      "sha256": "2e43d133f88a931bc4076a92cfbad1d172d1b38149685ab3670edd58fcb1d97d",
+      "date": "2026-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260324 如何让客户永远留下来.md",
+      "url": "https://www.youtube.com/watch?v=-j8_YCWZ05Q",
+      "sha256": "06d309ee1792288224a5608dbcff0a0ebb968dea4fb10a52973568703845cc43",
+      "date": "2026-03-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260327 帮助电商老板扩大业务规模.md",
+      "url": "https://www.youtube.com/watch?v=8C_6qojTA78",
+      "sha256": "4ffca89e71cb5af8f886a0af2296050cdddbebcd75b0320987d4b068049bdd5a",
+      "date": "2026-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/05 业务增长与规模化运营/260719 2026年，AI不会让你发财.md",
+      "url": "https://www.youtube.com/watch?v=WttZ6b-KUP4",
+      "sha256": "6b8c8b097437cbe1610a05e5dc5883da9131087e7b69e58514b919377ded4782",
+      "date": "2026-07-19",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/201001 我见过阿诺德四次，这是学到的。.md",
+      "url": "https://www.youtube.com/watch?v=PZjJEQMgyMM",
+      "sha256": "c0d06616db750008dc184d5d00efc1030f757827fde0b1bb5129917e43537b33",
+      "date": "2020-10-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/201124 一个惨痛教训（ALEX HORMOZI）.md",
+      "url": "https://www.youtube.com/watch?v=5Kt-EYieNko",
+      "sha256": "0bcadb64e75d4900bc46eebfb7a10bbbb5a4e4125c8530eb54da0bf30c21dbff",
+      "date": "2020-11-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210101 这个教训花了我500万美元…….md",
+      "url": "https://www.youtube.com/watch?v=ZuFSLAw2pEI",
+      "sha256": "e7a36fcb3ba953cad86a1ffe06e1689c625d64a6ad175d78a7fd6a3e667f51a9",
+      "date": "2021-01-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210104 竞争对手收入翻倍的惊人原因.md",
+      "url": "https://www.youtube.com/watch?v=vHi18F4yyH4",
+      "sha256": "4ff7445f5b211740f40c950fd6a404d4a84041cfdba5bcfd813af51fcfdf16a7",
+      "date": "2021-01-04",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210120 找到盈利市场的秘诀.md",
+      "url": "",
+      "sha256": "7aa86aa527b0346f9b02a9568741d722709e50bbd3adc68c1dcb8450d56776af",
+      "date": "2021-01-20",
+      "status": "added",
+      "atoms": 6
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210209 这就是你不快乐的原因——令人大开眼界.md",
+      "url": "https://www.youtube.com/watch?v=4LeHKDGmEIQ",
+      "sha256": "bb07219772fc1609e419a4f7b10f87a14a69ddc46f67e4362e2319c96beefec9",
+      "date": "2021-02-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210225 选择 - 如何提升决策能力.md",
+      "url": "https://www.youtube.com/watch?v=xQLQoGD6Sjg",
+      "sha256": "38a49060a23e0155348d39179cfa16a8dd4581fd7ea9385dea234236035c4935",
+      "date": "2021-02-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210512 我花了31.29万美元过1%富豪的生活（学到了这些）.md",
+      "url": "https://www.youtube.com/watch?v=vKnAWYqMJ10",
+      "sha256": "98f3966d4004250dc2cbee614483ff95b2601dbe235d62c687bd781d05afeb6b",
+      "date": "2021-05-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210514 我从查理·芒格学到的8条商业法则.md",
+      "url": "https://www.youtube.com/watch?v=C_SgvSvJZdk",
+      "sha256": "8ff2cdf4a0cbf991017ab8d3be4626974b495e2028e91fdad2f174d030c1b585",
+      "date": "2021-05-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210609 无数次失败的合作教会我的事.md",
+      "url": "https://www.youtube.com/watch?v=DAm0EOes5to",
+      "sha256": "995002104147d840c238cbece5ff3a67b24136fb779441b9ebe3e62196a7a676",
+      "date": "2021-06-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210702 那些让我成功的非传统高效习惯.md",
+      "url": "https://www.youtube.com/watch?v=bkPwFqa89gE",
+      "sha256": "47af4eee73e83bee25bacafbcc0c2214cfa12dbb5dcfaa6001e8708018fce82e",
+      "date": "2021-07-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210728 为什么无论多大都不该听父母的话....md",
+      "url": "https://www.youtube.com/watch?v=Ikm8tTuA10Q",
+      "sha256": "6ab13d5f0f45d7a5dbfac3ba1caf70f0120dc8bf9388257dc61aa58f09345750",
+      "date": "2021-07-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210825 我花了200万美元，却并不快乐。.md",
+      "url": "https://www.youtube.com/watch?v=RzswhUHnTHA",
+      "sha256": "e79ba72f8edef63e900c29927605afc571fb44db0f18efc65d88145a4471c5b9",
+      "date": "2021-08-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210827 如何选对导师.md",
+      "url": "https://www.youtube.com/watch?v=zh0bklzwI3g",
+      "sha256": "e64f1a5f11683bd42680182b37a4b857221c0ce6401418029b5e350b211520b6",
+      "date": "2021-08-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210901 我从妻子身上学到的残酷商业课.md",
+      "url": "https://www.youtube.com/watch?v=8GRfCTu9Lsg",
+      "sha256": "6b83c1ccee3d0c5afc00d3e763586ca76cf6b96d1207576f5eda217597408e47",
+      "date": "2021-09-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/210913 创业者，缺乏专注正在毁掉你的生意.md",
+      "url": "https://www.youtube.com/watch?v=uRhArskhqms",
+      "sha256": "597b8d3570afe72e7c5347b0cc2335a3b9a626effc0eed80df2e75540fe94b68",
+      "date": "2021-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/211027 15分钟讲透我的非传统饮食法.md",
+      "url": "https://www.acquisition.com/roadmap-yta146",
+      "sha256": "6ace81f4c658ef769cb608b0f0e8ff4056f99b42f21623513ebe46836177ca72",
+      "date": "2021-10-27",
+      "status": "added",
+      "atoms": 10
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/211108 为什么日常习惯会让你又穷又脆弱【慎入】.md",
+      "url": "https://www.youtube.com/watch?v=ErWpi_91b70",
+      "sha256": "4c03f5268d851ee1f534415ed5e27b30623fed25f7dfae56b4c28be300cfe997",
+      "date": "2021-11-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/211206 31岁退休的真相.md",
+      "url": "https://www.youtube.com/watch?v=ahslH-8qoFY",
+      "sha256": "e7d383e29670e2f456bc12d0cc02c87b1dc2302cd2254aea1749a943f411ae46",
+      "date": "2021-12-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/211217 实干家如何应对拖延.md",
+      "url": "https://www.youtube.com/watch?v=oW6JkqL6sdM",
+      "sha256": "b08f6f478ad4564375d116d6427f8289edacb325651227f8a93573748c0c1350",
+      "date": "2021-12-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/220228 社会如何用“工作生活平衡”来欺骗穷人.md",
+      "url": "https://www.youtube.com/watch?v=-TydwZMX8wM",
+      "sha256": "2b649821222f7b900c882346890a9778c9a9d06d0d0b2ea1f2742e19d2b368a7",
+      "date": "2022-02-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/220302 如果你这样想，就会一直穷下去、不开心…….md",
+      "url": "https://www.youtube.com/watch?v=kX2EJSwOCug",
+      "sha256": "029ac6bc5ff88eda92922818694a4b7385de5e2e1d1819e06c1f0dc0908010f4",
+      "date": "2022-03-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/220511 32岁前卖掉8家公司 [方法分享].md",
+      "url": "",
+      "sha256": "da415021a62b52171552c15b96a799c92018ae2cbcbde3909d0836af80abc69c",
+      "date": "2022-05-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/220602 过去10年学到的10个快速商业课.md",
+      "url": "https://www.youtube.com/watch?v=WsYgWC7NmO8",
+      "sha256": "73659fa5c2cb37829f5778ff38270f996eac2281ebd95a83a3709f64cf8112f2",
+      "date": "2022-06-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/221002 我对导师制一直有误解…….md",
+      "url": "https://www.youtube.com/watch?v=39I8jEqFdYc",
+      "sha256": "914cec9678f49d4595b84b83e7bd09120656256348436282b7e355c7202a8be2",
+      "date": "2022-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/221019 14条我希望早点知道的人生道理.md",
+      "url": "https://www.youtube.com/watch?v=cq8GyLrEuAk",
+      "sha256": "45b33704dd559e686a7fac854574b44e682d7d7045c9ea3ffe66997efaf1e6e1",
+      "date": "2022-10-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/221123 别再追求快乐了.md",
+      "url": "https://www.youtube.com/watch?v=NDDFezF7OTA",
+      "sha256": "763e2aebc1353759632d929d0187e3f3311a4d27a1884cf34cfd07dd67c496a1",
+      "date": "2022-11-23",
+      "status": "added",
+      "atoms": 1
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/230315 我从一个经销商那里学到的硬核商业课.md",
+      "url": "https://www.youtube.com/watch?v=vZfatNSouDQ",
+      "sha256": "cf6f2c7c463a93f8322d95a5dbfdb54716340ad0593ceeabc64170262bfb84a3",
+      "date": "2023-03-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/230412 拒绝的季节（赢需要什么）.md",
+      "url": "https://www.youtube.com/watch?v=ueJg14gQLuc",
+      "sha256": "4d10777a4728e88e8e96c731e24cc5225c063414d74d8cc197afb58b501cd0f8",
+      "date": "2023-04-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/230412 拒绝的季节（如何赢得胜利）.md",
+      "url": "",
+      "sha256": "1c9b416d75f645403c8e18a21b7f640bfd93aae21ffa4094e2bcb1c617375225",
+      "date": "2023-04-12",
+      "status": "added",
+      "atoms": 9
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/230607 Alex Hormozi 的一天 [Ep 002].md",
+      "url": "https://www.youtube.com/watch?v=6ySRKgXBcO0",
+      "sha256": "37fdef87a174a14cc6cd041a8b4bfc6c379d88f070b18306962f1b14adbdaa15",
+      "date": "2023-06-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/230628 我的一天12小时工作日常（15分钟版）【第3集】.md",
+      "url": "",
+      "sha256": "2ee8e3790da6e11fea1fc9f00c28baa0bfa41fe8e546150e33212e575697043a",
+      "date": "2023-06-28",
+      "status": "added",
+      "atoms": 9
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/231018 给年轻穷困的自己：几句扎心实话.md",
+      "url": "https://www.youtube.com/watch?v=ln24y0FPJHo",
+      "sha256": "54de307fae5e9fb8387eccf1db03c32301099530f1d96544944eff0e66c98ccc",
+      "date": "2023-10-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/231206 我正在面对一个十亿美元的抉择 [第012期].md",
+      "url": "https://www.youtube.com/watch?v=Tu6YDG0AZ5k",
+      "sha256": "cfdfebc250e628e7da8cd87e12c9dc622a97a64be80212cedd927711bf87f791",
+      "date": "2023-12-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/231209 如何赢（在任何事上）.md",
+      "url": "https://www.youtube.com/watch?v=MNll1BaskLA",
+      "sha256": "759230a0aa57be9bd3126a9bd4cd3ab8583496df9c732de10aa626e02850d949",
+      "date": "2023-12-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/231213 查理·芒格改变我人生的8堂课.md",
+      "url": "https://www.youtube.com/watch?v=-NLqtk4F4oY",
+      "sha256": "fcfca4381353c4e60d927a0cac827a5f1babab9858febac0674147919754fbfb",
+      "date": "2023-12-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240113 给我穷困的年轻自己：几句扎心实话.md",
+      "url": "https://www.youtube.com/watch?v=DiQ3N8F1Hl8",
+      "sha256": "a11645862b6c7755184d2cf8c185df0790e898f5aa0428223e171e8e9b7856e1",
+      "date": "2024-01-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240131 建立自信的残酷真心话.md",
+      "url": "https://www.youtube.com/watch?v=pt50QF6al8g",
+      "sha256": "c7866fa572ad5a4424e7393395b4b1c92ce4821e21c7902ea9185a4b9aeb757a",
+      "date": "2024-01-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240320 想找到人生目标？先看这个.md",
+      "url": "https://www.youtube.com/watch?v=M4evdxF5G0s",
+      "sha256": "65f8431d7ff6ea6ed9c55cfa693ec7bf0374a98f469b2d4197febeb96f1e2977",
+      "date": "2024-03-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240327 我亏了1亿美元……这是学到的教训.md",
+      "url": "https://www.youtube.com/watch?v=tdLLGKoBojo",
+      "sha256": "c26a59f89909c3900c8981f88b8897d2f753839539f586db42c850b10f2ec6c7",
+      "date": "2024-03-27",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240511 13年残酷商业真话，浓缩90分钟.md",
+      "url": "https://www.youtube.com/watch?v=KhFlD54nQrY",
+      "sha256": "2efa13fe92d19893425bdff07b9784a46404a16a87375b1c70bf7959697b8ceb",
+      "date": "2024-05-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240706 厌倦了“三分钟热度”？看完这个.md",
+      "url": "https://www.youtube.com/watch?v=07jC6ooRIHw",
+      "sha256": "8dc4c4b4b4cdaddae18c8393a3320686c2c5ccd7819f7b185cb56ba332af3108",
+      "date": "2024-07-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240710 58分钟建议，让你的业务爆发式增长.md",
+      "url": "https://www.youtube.com/watch?v=rc7cxL7ql7Y",
+      "sha256": "c8fde5ec9d29254a31c13bda7ed8bdd748f73d7e5303372154c883cfc8184751",
+      "date": "2024-07-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/240809 13年商业真话，79分钟浓缩版.md",
+      "url": "https://www.youtube.com/watch?v=oRMG_HpOAN4",
+      "sha256": "5c664fa3ad2767dcb9cf799c8379abacf9cc743cfe2f7986bd43327252e41963",
+      "date": "2024-08-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250408 让你在人生中占据不公平优势的残酷真相.md",
+      "url": "https://www.youtube.com/watch?v=MzAIP_WJ-jE",
+      "sha256": "692b72458b53427c999f0a21ecd900a6b1761b59bae29ba0d407da0e743b2f33",
+      "date": "2025-04-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250410 为什么.md",
+      "url": "",
+      "sha256": "a7bf0456ae7e9d8714c311cb2e278e7393ff30bf203b3fdbcbd2bcd2ba732dab",
+      "date": "2025-04-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250418 做了14年生意才悟到这一点.md",
+      "url": "https://www.youtube.com/watch?v=uYds0zcAFWM",
+      "sha256": "f1b7119ed7d1759c8dbe08eacf25934c2e9a93c48a78058cb30ac8f4c3cab269",
+      "date": "2025-04-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250503 想在人生中赢？请看完这个.md",
+      "url": "https://www.youtube.com/watch?v=IYuiV4YuGB4",
+      "sha256": "795c8738916137ed5be4ddcbce3441a3393d1477915e22b2091fa76959bc3299",
+      "date": "2025-05-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250515 为什么快就是赢（先别谢我）.md",
+      "url": "https://www.youtube.com/watch?v=fcyIoN8CUOk",
+      "sha256": "8384ad4dedd2bd69f9b4757101af28e032f789a3231553de37ad59a37c3f4086",
+      "date": "2025-05-15",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250516 别太在意别人怎么看你.md",
+      "url": "https://www.youtube.com/watch?v=qqjGxVW-Ae0",
+      "sha256": "79cfee53d2b77134a52aebde6bc0aabc46ab4cac54836882f1cd3b6ccd204a77",
+      "date": "2025-05-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250517 如何比任何人都进步得更快.md",
+      "url": "https://www.youtube.com/watch?v=-UzJOk85OZI",
+      "sha256": "cce126512382511f4c660d0bcb7ae7c9ad99623bc5451ebc2b795d6701d05143",
+      "date": "2025-05-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250606 给我14分钟，教你如何活得无比快乐.md",
+      "url": "https://www.youtube.com/watch?v=UulLbNJMpTg",
+      "sha256": "8f5f30aaffb9a28318ecd342f1f7a9503042f8aadecaf328246508958ab064b5",
+      "date": "2025-06-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250616 我们做了一个重大决定…….md",
+      "url": "https://www.youtube.com/watch?v=OUI12JmD-lM",
+      "sha256": "c2f1589a746bf44e13f602e626774fea8fd7564a7e0fb0ccf60ffd531eca5a77",
+      "date": "2025-06-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250628 如果你有野心，又正好二三十岁，请看看这个。.md",
+      "url": "https://www.youtube.com/watch?v=ub1D6RQocRU",
+      "sha256": "7bdd5ad91829f961a7707a16ba29bd4454664a87cbcff09bbd88583b4f7fdb8f",
+      "date": "2025-06-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250717 你设定目标的方式错了.md",
+      "url": "https://www.youtube.com/watch?v=XwzU4RikbGs",
+      "sha256": "3912f218766a7c91ee4c7e0b1d0aa813d69386f012ce3ddfed8700704e35faaf",
+      "date": "2025-07-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/250919 给我20分钟，还你20年人生.md",
+      "url": "https://www.youtube.com/watch?v=3SVksBB3_YY",
+      "sha256": "d01d8657abc74e675c8edeb916646cdef1175be554a3f0782742b8ea8722b6bd",
+      "date": "2025-09-19",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251003 如果你的人生很艰难，请看这部影片.md",
+      "url": "https://www.youtube.com/watch?v=Avp3xh3Y1Ic",
+      "sha256": "2fd7a0c2a6afd17add11b2ff6409e525c18040bb64eb100b977933d06b7d3b49",
+      "date": "2025-10-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251028 20、30多岁必看：如何赢（在任何事上）.md",
+      "url": "https://www.youtube.com/watch?v=0lMn_-EXyhQ",
+      "sha256": "021a665d68d4d6c4c28cc6c9fec8d286884d04eaa8e59737cc214b553dbb12a8",
+      "date": "2025-10-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251117 36岁才懂的15个残酷真相，真希望20岁时就知道.md",
+      "url": "https://www.youtube.com/watch?v=XGm2ERU9qtA",
+      "sha256": "18c0679bcbf556a14b07f3c6f878752f6f74419602280a15c0303a755c14c02d",
+      "date": "2025-11-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251121 打造一个强到让人害怕的心态.md",
+      "url": "https://www.youtube.com/watch?v=SE9_1PYsaP0",
+      "sha256": "fbed02ed571eb26bac80ac7407f995a6bd5322249f1dbd8f1bfbdb753fd149f6",
+      "date": "2025-11-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251212 如果你有野心但缺乏坚持，请看看这个.md",
+      "url": "https://www.youtube.com/watch?v=UDBkiBnMrHs",
+      "sha256": "33f25f30b8f2f4e912db6968c4559c3248091edfe92eda2ddcb0455025bc28c0",
+      "date": "2025-12-12",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251218 如何在学习上超越所有人.md",
+      "url": "https://www.youtube.com/watch?v=q9qBqnhdWKw",
+      "sha256": "2a23beb41c373890b6f332fb24da3122cd103a1d5bd2847b44cf58d153601118",
+      "date": "2025-12-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251221 2025年学到的26个残酷教训.md",
+      "url": "https://www.youtube.com/watch?v=YONIUpk-kAs",
+      "sha256": "17109267ca683e3937fbf9073323e72de1ae2745e7e684ef332cc7407f08ec3b",
+      "date": "2025-12-21",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/251231 想让2026成为你人生最好的一年，请看完这个视频…….md",
+      "url": "https://www.youtube.com/watch?v=vhOV_Od0A3M",
+      "sha256": "07ae2bb0597d0a49942cf4ab28be646a1a7d054270bdfa27370217f57b6517af",
+      "date": "2025-12-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260120 如何释放你的潜能.md",
+      "url": "https://www.youtube.com/watch?v=xz-ymFOhBAE",
+      "sha256": "1048dcf714bced6cc33a6f4bfc512ad41d511651109e7a93afebc03e734bbc7a",
+      "date": "2026-01-20",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260124 如何改变你的人生.md",
+      "url": "https://www.youtube.com/watch?v=MZPVPCIeUpg",
+      "sha256": "54ec833fad40fc747eefb1460de0a142104ea20b8919a48ffd665d90f280c345",
+      "date": "2026-01-24",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260206 为什么有野心的人依然平庸.md",
+      "url": "https://www.youtube.com/watch?v=A248pGXTSoY",
+      "sha256": "8ea79ab2d3e47912f367efdb53c1f1ed4f6f0479e5043914eceb3c2267fedd11",
+      "date": "2026-02-06",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260407 如何比别人更快取得进步.md",
+      "url": "https://www.youtube.com/watch?v=yb2cLMMuMdQ",
+      "sha256": "2e12ee678cdeb129ce2d458cd8fbc5343529f729f5ac0b20ba6346274879db3f",
+      "date": "2026-04-07",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260409 回看我10年前的第一批视频.md",
+      "url": "https://www.youtube.com/watch?v=Q8xXSMe8E4Q",
+      "sha256": "6b32c479a0e1905f6145f0fca64df9e1b26498514d19d64dfddc8f1b7e905108",
+      "date": "2026-04-09",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260518 如何用逻辑追回人生进度.md",
+      "url": "https://www.youtube.com/watch?v=EonibwnAEME",
+      "sha256": "fd4481608d4a9f9ee8a8aa609db1b0ed930a274f44cdbf06ad29625ff2723494",
+      "date": "2026-05-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260610 顶级1%的人如何看待信任.md",
+      "url": "https://www.youtube.com/watch?v=k5-57282taI",
+      "sha256": "ca00f256673fa16a9d3749845dced2fe9f9f0b8d3869dac3df52660fe9fc539e",
+      "date": "2026-06-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260731 给想致富的人的真心建议.md",
+      "url": "https://www.youtube.com/watch?v=Y1ZR7CI16hY",
+      "sha256": "2216b2c979b24287abdf686e2f519d91d4bbd54ec051458d8a86811e4d8854ef",
+      "date": "2026-07-31",
+      "status": "added",
+      "atoms": 7
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260803 顶级1%的致富思维：问自己这3个问题.md",
+      "url": "https://www.youtube.com/watch?v=fj5uxdv_j5Y",
+      "sha256": "7c09c6e215e024858886cca5a13e7c354f0b31d29d8bd6c1b586c9a3fdad9bd9",
+      "date": "2026-08-03",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260811 你将成为成功创业者的3个征兆.md",
+      "url": "https://www.youtube.com/watch?v=138y93ywE_g",
+      "sha256": "2f06e2890c069dd965c6401c1e259f7bd9203c60bb99640058d698653999fc39",
+      "date": "2026-08-11",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260819 我花了37年才明白的事，18分钟讲给你听。.md",
+      "url": "https://www.youtube.com/watch?v=OHu1FY1R-x0",
+      "sha256": "d3d7b47de3005fdabedab120d41ad4a34c47ed14ae84ada8291d90a85e4970d6",
+      "date": "2026-08-19",
+      "status": "added",
+      "atoms": 9
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260822 服务型业务如何致富（先谢我）.md",
+      "url": "https://www.youtube.com/watch?v=mRlSb0O5QNU",
+      "sha256": "221f8ba09a7361e1594c1a9f5a1485cb30917ac4bf73a91631fd42ebebb12533",
+      "date": "2026-08-22",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260829 如果从头再来，我会如何打造一个1000万美元的服务型业务.md",
+      "url": "https://www.youtube.com/watch?v=o64cI6tebnU",
+      "sha256": "b180ab077d86459bbca83c7e5fd1a3683a60d3e34bb1bac47acce8a47acdff2d",
+      "date": "2026-08-29",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260904 企业主必看视频.md",
+      "url": "https://www.youtube.com/watch?v=uaLNfijnp-8",
+      "sha256": "84485627907eb8b7f6eb7a5ab111d67f581846b4d22bd5ba241ff13949bf5349",
+      "date": "2026-09-04",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260911 我能在90天内拯救这家濒临倒闭的主题公园吗？.md",
+      "url": "https://www.youtube.com/watch?v=xRxVpjeHmeA",
+      "sha256": "ed0ac01272d46b9c343f5f240482cfed7936d8aab208fdbd7c758621199ec46d",
+      "date": "2026-09-11",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/260917 如果你野心勃勃却感到不快乐，一定要看这个....md",
+      "url": "https://www.youtube.com/watch?v=P14HA83uNJE",
+      "sha256": "2bd0e7d2b2a653d6a866f47459cf4824654004ff92560bfd1a004c3169e0ea7b",
+      "date": "2026-09-17",
+      "status": "added",
+      "atoms": 8
+    },
+    {
+      "source_path": "youtube_transcript/06 创业者心态与人生策略/261002 8位创业者争夺10万美元.md",
+      "url": "https://www.youtube.com/watch?v=eq1bnI0JoXU",
+      "sha256": "e55530050c00345565c1acb738116d31cdc682006f3babdb124d9804409b7e85",
+      "date": "2026-10-02",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/210929 泄露：街头百万富翁的员工培训……他真正的致富秘诀.md",
+      "url": "https://www.youtube.com/watch?v=a0hUVFYzv3k",
+      "sha256": "bd0de510f94cb5c35b1a7816d33f8251191c8221ff2437aa9736d3b3b44341b6",
+      "date": "2021-09-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/211222 七位数机密会议泄露——业务增长策略曝光…….md",
+      "url": "https://www.youtube.com/watch?v=_8olk4-VFP8",
+      "sha256": "b46d7ca15379578c6e52c895dc762a3808f1028c434da351be1c9f16ec181de8",
+      "date": "2021-12-22",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/220214 31岁卖掉公司：我的决策详细拆解.md",
+      "url": "https://www.youtube.com/watch?v=_gcqwupsza8",
+      "sha256": "f5e2349328918d1f9e069ca0e0a8b8f500eddfec357cc226b781d96649b9863d",
+      "date": "2022-02-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/230913 如何致富 [Dave Ramsey 完整访谈].md",
+      "url": "https://www.youtube.com/watch?v=jvXOOddDg_s",
+      "sha256": "42a00614893cd55b47a32541817933b54cb6f1aa41565d038d278cddbed67b7f",
+      "date": "2023-09-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/240611 这个邮件营销活动如何带来销售【完整拆解】.md",
+      "url": "https://www.youtube.com/watch?v=OpeN4O5myIg",
+      "sha256": "ab72fbc24cf038c9b8573f78ba26253592521dd3395528fb6cc773a3ab8af5ab",
+      "date": "2024-06-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/241002 我的线上赚钱循证指南【分级排名】.md",
+      "url": "https://www.youtube.com/watch?v=wR8KoE8u1p0",
+      "sha256": "da3607b2a5e897d67b4781e7109291753e97d1711a256ccc718e61cb70429819",
+      "date": "2024-10-02",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/241118 我与六届奥林匹亚冠军克里斯·布姆斯特德的完整训练.md",
+      "url": "https://www.youtube.com/watch?v=7qy-EPc2gYU",
+      "sha256": "c13b034b18bc7421a7fd9b64b198961616e393dedefb0af6805f137b72a37260",
+      "date": "2024-11-18",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/241129 揭秘黑五促销秘诀，助力你的业务增长（特邀Shopify总裁）.md",
+      "url": "https://www.youtube.com/watch?v=YUXLJauT4eY",
+      "sha256": "a64f6dff547679ba9d09d275f21a07c0bef94d14e1e1b062842529726c307ec7",
+      "date": "2024-11-29",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250117 56分钟帮陌生人打造百万生意.md",
+      "url": "https://www.youtube.com/watch?v=nrounb8NlFQ",
+      "sha256": "767823121f9fed8926392100a3b2116d483986671a4f142d72b0abd144cda44e",
+      "date": "2025-01-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250128 拆解蕾哈娜的公司（你也能用的真实策略）.md",
+      "url": "https://www.youtube.com/watch?v=eX3Ch_HuR70",
+      "sha256": "d435812402d1d2ab4418c215d4585e2da31def1723a18f82932b5ec7fc6aaeea",
+      "date": "2025-01-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250211 42分钟帮陌生人打造500万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=sBJppqCeFGI",
+      "sha256": "301c3c12d819771b75552006ec926c25ab9d6624d48476227383ba6634c68620",
+      "date": "2025-02-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250214 我给2026年超级碗最佳广告排了个名【梯队排行】.md",
+      "url": "https://www.youtube.com/watch?v=npi7UeOE_0o",
+      "sha256": "69881735df798be9a36a6dcc5bb0b69b959efcf0baaf33a3b4ce806f3f9be7a7",
+      "date": "2025-02-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250225 花1小时回答你最关心的商业问题.md",
+      "url": "https://www.youtube.com/watch?v=QwEb78e5a8Y",
+      "sha256": "f1faf91db613a2339687baf6261c496c2323f2fbba027d54c11096a36f0939d3",
+      "date": "2025-02-25",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250310 帮陌生人51分钟打造350万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=BMF2fWHyDrg",
+      "sha256": "1d5c838dfb81160e4340e06e4b7d01224ce2ac7f8d9f218c7f4cf1282fbfcc4e",
+      "date": "2025-03-10",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250317 1亿美元投资人：一小时解答最重要的商业问题.md",
+      "url": "https://www.youtube.com/watch?v=--9kOXNCUdE",
+      "sha256": "25cff0b0c5e3d818db3a6d7d4a2aa0a855b5f2e69e5d2296ccc5876560780974",
+      "date": "2025-03-17",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250403 57分钟帮陌生人打造300万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=n6SHLmKcY0E",
+      "sha256": "8725442c888a57df1dd2d473b7991708968da96fdd31744059b23f191160d1e2",
+      "date": "2025-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250411 我当面点破了一个生意失败的陌生人…….md",
+      "url": "https://www.youtube.com/watch?v=6Fg4VXjRphQ",
+      "sha256": "fb536b23d73002807069531074335b406518260d1591732470400e49248d0cc3",
+      "date": "2025-04-11",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250416 想发展2026年的业务？这51分钟必看（Dave Ramsey访谈）.md",
+      "url": "https://www.youtube.com/watch?v=-HJg4TYBgtI",
+      "sha256": "208bc23b11c4585048daee1811e9152f488ba15b5c4714a01f10afa06b93124c",
+      "date": "2025-04-16",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250501 52分钟帮两个陌生人打造350万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=h9UyQiLjSHg",
+      "sha256": "64c799feee3268faec4db34437e811bd0f0c3bdb1d0563ea6f34aea3f356d35b",
+      "date": "2025-05-01",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/250531 57分钟帮陌生人打造年入230万美元的业务.md",
+      "url": "https://www.youtube.com/watch?v=-Koq14DPXC4",
+      "sha256": "982bc49358dcd3d28cb36ef85e232bf4a5bf94c0ec4019b14b185dc415500878",
+      "date": "2025-05-31",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/251013 69分钟帮陌生人打造百万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=Wr6n_zNKvMk",
+      "sha256": "8a12c26a54c163be8728cad12d8d84cdd5aacd027307633a3128cb57481cbdb7",
+      "date": "2025-10-13",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260228 25分钟帮陌生人打造1200万美元生意.md",
+      "url": "https://www.youtube.com/watch?v=MH-IMJxbUY4",
+      "sha256": "80cb4031459c1bc7829f28fcf5e1e2369b18d547221dd8c41f4ab929c4223fe8",
+      "date": "2026-02-28",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260403 帮4位教育创业者25分钟搭建百万业务.md",
+      "url": "https://www.youtube.com/watch?v=BYpTRiRqS1Y",
+      "sha256": "889c6924ab41cdc1dbdc17b34a6c687f7225e4ff124f3e85c44954c505fec8b0",
+      "date": "2026-04-03",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260414 26分钟帮陌生人打造百万生意.md",
+      "url": "https://www.youtube.com/watch?v=HGZOxBfnF-E",
+      "sha256": "4b01ecd949cda84e0027c129a19a6c9dc47755343e058693bb8a21d4a79c43fc",
+      "date": "2026-04-14",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260508 帮陌生人36分钟搭建250万美元的业务.md",
+      "url": "https://www.youtube.com/watch?v=OQf2Ba-Lp_4",
+      "sha256": "76884a34711c8bd75b97625757bcce6da88f3fcd1ab0433ef336317d7e9aa7d1",
+      "date": "2026-05-08",
+      "status": "already_represented"
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260626 8位创业者争夺10万美元 - 第1集.md",
+      "url": "https://www.youtube.com/watch?v=zzleYxkf39k",
+      "sha256": "986359057db09c8c704e1180087e3a065e74132ee031a4c22c0ec2e57b0e259b",
+      "date": "2026-06-26",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260710 31分钟帮陌生人打造300万美元生意 - 第2集.md",
+      "url": "https://www.youtube.com/watch?v=j2TZMFkj71Q",
+      "sha256": "4ee57a1bcef2587a7bbcf166060fc3cc1fbf25850184e6057374d87ff926b8b7",
+      "date": "2026-07-10",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260724 36分钟帮陌生人打造年入600万美元的生意 - 扩张还是失败 第3集.md",
+      "url": "https://www.youtube.com/watch?v=8VqSFBMMS4M",
+      "sha256": "13cf48a384793f05f0c83f11c6d28c2307a5a6db2040d8fc608e0e7ba9e4908d",
+      "date": "2026-07-24",
+      "status": "added",
+      "atoms": 12
+    },
+    {
+      "source_path": "youtube_transcript/07 案例拆解与实战诊断/260807 给我32分钟，我帮你搞定营销 - 增长或失败 第4集.md",
+      "url": "https://www.youtube.com/watch?v=B-ogfFiQpXg",
+      "sha256": "14db1c702695e77e6b8c5edbaa39518ab2d99a44fbbb73bd5b149a79be1da760",
+      "date": "2026-08-07",
+      "status": "added",
+      "atoms": 12
+    }
+  ]
+}
