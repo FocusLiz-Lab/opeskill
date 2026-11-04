@@ -1,0 +1,30 @@
+{
+  "extraction": "ckw-collected-semantic-v1",
+  "sources": {
+    "https://www.youtube.com/watch?v=zgYQT-fdLL4": {
+      "source_path": "youtube_transcript/01 创业起步与商业模式/250702 我最重要的一个消息….md",
+      "sha256": "7fb5d125a630b568defa42d0e427b8ebd6fa6aea17979cb3a4bd917a4de80499",
+      "atoms": 6
+    },
+    "https://www.youtube.com/watch?v=fSbqaTlWaYI": {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/240720 30分钟学会付费广告！.md",
+      "sha256": "691315c8bf94ec098d88a3ebfe0cd984989891ec403d21a611abb3135d923c69",
+      "atoms": 33
+    },
+    "https://www.youtube.com/watch?v=Uzr0gv4N4-s": {
+      "source_path": "youtube_transcript/03 营销获客与品牌增长/261030 说服我，赢走 1 万美元.md",
+      "sha256": "4093e77c2c592c0e88f55595b946224c8310568ed645c4bed7991f0cc18853aa",
+      "atoms": 44
+    },
+    "https://www.youtube.com/watch?v=aO56wn5sBSA": {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/210804 一位亿万富翁教我如何投资...这是我的计划.md",
+      "sha256": "859393553b4d7167d3c10eef5088aa1471be0f27a79538c9b75b936b65698961",
+      "atoms": 4
+    },
+    "https://www.youtube.com/watch?v=c6wfunUDDOs": {
+      "source_path": "youtube_transcript/04 定价利润与财富积累/250813 1亿美元赚钱模型大揭秘.md",
+      "sha256": "9113fd291e54e5bc30f47cb931fa225085d2024c5df8ec88065bb0da01cca145",
+      "atoms": 1
+    }
+  }
+}
