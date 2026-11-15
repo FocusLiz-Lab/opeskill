@@ -1,7 +1,7 @@
 {
   "updated_on": "2026-10-29",
   "before": 15000,
-  "after": 15540,
+  "after": 15565,
   "added": 408,
   "local_source_groups": 539,
   "added_source_groups": 45,
@@ -12,8 +12,8 @@
   "files": [
     {
       "file": "atoms.jsonl",
-      "bytes": 18441578,
-      "sha256": "38388b6d324c8d232b75f9a4ba487ddb46ceda6461c93ce21fa67f6794f732ea"
+      "bytes": 18483150,
+      "sha256": "b0b60cd1b3fe71eaa40a8a1432362083b1159ebbc25fe41277c343e030c3cd83"
     },
     {
       "file": "atoms_2018Q3.jsonl",
@@ -142,8 +142,8 @@
     },
     {
       "file": "atoms_2026Q4.jsonl",
-      "bytes": 175549,
-      "sha256": "ea1d5a4b4422414794aa0ec7db0f480a036faaa8a82305af22dcbad4ae9aae9e"
+      "bytes": 217121,
+      "sha256": "4156380efc650051b064601d01fa7847580bedbadd84c39e998d397f8e99d2d0"
     }
   ],
   "sources": [
