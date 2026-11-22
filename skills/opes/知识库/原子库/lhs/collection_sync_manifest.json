@@ -1,0 +1,25 @@
+{
+  "extraction": "ckw-collected-semantic-v1",
+  "sources": {
+    "https://www.youtube.com/watch?v=Y2JewjIT1Cw": {
+      "source_path": "youtube_transcript/02 招聘团队与人才/261029 这次对话会让你比以往任何时候都更努力工作.md",
+      "sha256": "3eb5b7c348bdf15046a2994ab2070837f67ff85b93635713c8cda0fcfe5e3966",
+      "atoms": 25
+    },
+    "https://www.youtube.com/watch?v=x_ks1HuMrxw": {
+      "source_path": "youtube_transcript/03 商业增长与规模化/230418 生活近况更新…….md",
+      "sha256": "2b1175343e0d8d00730626ac53c277f8df2ab4c4c1a52ec1100e3d4e45221a81",
+      "atoms": 7
+    },
+    "https://www.youtube.com/watch?v=dXQZUTqz99I": {
+      "source_path": "youtube_transcript/05 财富金钱与投资/261105 给我 26 分钟,让你成为一个危险的创业者.md",
+      "sha256": "a2a4a53e01dd8cef83eeecc74ab6d282e960c16c05c39ec9825f465914bdf24f",
+      "atoms": 13
+    },
+    "https://www.youtube.com/watch?v=jH-ZL_xCOJI": {
+      "source_path": "youtube_transcript/08 人物故事访谈与幕后/261112 不搞清楚这一点，你的生意根本不可能增长.md",
+      "sha256": "40ed8011306f439ca91df55bce2b7deed892deb3e0b17bbfc19b8cdf6af59440",
+      "atoms": 16
+    }
+  }
+}
